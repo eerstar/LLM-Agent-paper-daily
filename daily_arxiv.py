@@ -7,16 +7,27 @@ import logging
 import argparse
 import datetime
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 import string
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
 
-base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
+base_url = "https://paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
 hf_url = "https://huggingface.co/api/models"
+
+pwc_session = requests.Session()
+retries = Retry(total=3, backoff_factor=1)
+adapter = HTTPAdapter(max_retries=retries)
+pwc_session.mount("https://", adapter)
+pwc_session.mount("http://", adapter)
+pwc_session.headers.update({
+    "User-Agent": "llm-agent-daily/1.0 (+https://github.com/eerstar/LLM-Agent-paper-daily)"
+})
 
 
 def load_config(config_file: str) -> dict:
@@ -183,7 +194,6 @@ def get_daily_papers(topic, query="slam", max_results=2):
         paper_id = result.get_short_id()
         paper_title = result.title
         paper_url = result.entry_id
-        code_url = base_url + paper_id  #TODO
         paper_abstract = result.summary.replace("\n", " ")
         paper_authors = get_authors(result.authors)
         paper_first_author = get_authors(result.authors, first_author=True)
@@ -203,13 +213,23 @@ def get_daily_papers(topic, query="slam", max_results=2):
         else:
             paper_key = paper_id[0:ver_pos]
         paper_url = arxiv_url + 'abs/' + paper_key
+        code_url = base_url + paper_key
 
         try:
             # source code link
-            r = requests.get(code_url).json()
             repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
+            try:
+                resp = pwc_session.get(code_url, timeout=8)
+                resp.raise_for_status()
+                r = resp.json()
+                if "official" in r and r["official"]:
+                    repo_url = r["official"]["url"]
+            except requests.exceptions.SSLError as e:
+                logging.error(f"Papers with Code SSL error for id {paper_key}: {e}")
+            except requests.exceptions.RequestException as e:
+                logging.error(f"Papers with Code request error for id {paper_key}: {e}")
+            except ValueError as e:
+                logging.error(f"Papers with Code JSON decode error for id {paper_key}: {e}")
             # else:
             #    repo_url = get_code_link(paper_title)
             #    if repo_url is None:
@@ -296,16 +316,26 @@ def update_paper_links(filename):
                     continue
                 try:
                     code_url = base_url + paper_id  #TODO
-                    r = requests.get(code_url).json()
                     repo_url = None
-                    if "official" in r and r["official"]:
-                        repo_url = r["official"]["url"]
-                        if repo_url is not None:
-                            new_cont = contents.replace(
-                                '|null|', f'|**[link]({repo_url})**|')
-                            logging.info(
-                                f'ID = {paper_id}, contents = {new_cont}')
-                            json_data[keywords][paper_id] = str(new_cont)
+                    try:
+                        resp = pwc_session.get(code_url, timeout=8)
+                        resp.raise_for_status()
+                        r = resp.json()
+                        if "official" in r and r["official"]:
+                            repo_url = r["official"]["url"]
+                    except requests.exceptions.SSLError as e:
+                        logging.error(f"Papers with Code SSL error for id {paper_id}: {e}")
+                    except requests.exceptions.RequestException as e:
+                        logging.error(f"Papers with Code request error for id {paper_id}: {e}")
+                    except ValueError as e:
+                        logging.error(f"Papers with Code JSON decode error for id {paper_id}: {e}")
+
+                    if repo_url is not None:
+                        new_cont = contents.replace(
+                            '|null|', f'|**[link]({repo_url})**|')
+                        logging.info(
+                            f'ID = {paper_id}, contents = {new_cont}')
+                        json_data[keywords][paper_id] = str(new_cont)
 
                 except Exception as e:
                     logging.error(f"exception: {e} with id: {paper_id}")
@@ -504,7 +534,7 @@ def demo(**config):
                                                   max_results=max_results)
             except arxiv.HTTPError as e:
                 logging.error(f"arxiv HTTP error when fetching {topic}: {e}")
-                # 本类当天就跳过，不让整个脚本挂掉
+                # skip this topic (e.g. HTTP 429) but continue other topics
                 continue
             data_collector.append(data)
             data_collector_web.append(data_web)
