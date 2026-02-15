@@ -498,9 +498,14 @@ def demo(**config):
         logging.info(f"GET daily papers begin")
         for topic, keyword in keywords.items():
             logging.info(f"Keyword: {topic}")
-            data, data_web = get_daily_papers(topic,
-                                              query=keyword,
-                                              max_results=max_results)
+            try:
+                data, data_web = get_daily_papers(topic,
+                                                  query=keyword,
+                                                  max_results=max_results)
+            except arxiv.HTTPError as e:
+                logging.error(f"arxiv HTTP error when fetching {topic}: {e}")
+                # 本类当天就跳过，不让整个脚本挂掉
+                continue
             data_collector.append(data)
             data_collector_web.append(data_web)
             print("\n")
