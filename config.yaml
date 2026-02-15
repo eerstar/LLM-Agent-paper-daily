@@ -1,6 +1,6 @@
 # 配置文件：控制检索关键词、输出路径与发布行为
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "YOUR_GITHUB_USER_NAME"
+user_name: "eerstar"
 repo_name: "LLM-Agent-paper-daily"
 show_authors: true
 show_links: true
