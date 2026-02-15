@@ -1,0 +1,11 @@
+# Weekly Report 2026-02-15
+
+统计区间：2026-02-09 ~ 2026-02-15
+
+## Agent Top 5
+
+- [2026-02-12] **CM2: Reinforcement Learning with Checklist Rewards for Multi-Turn and Multi-Step Agentic Tool Use** — Zhen Zhang et.al.. [arXiv](http://arxiv.org/abs/2602.12268) · ❌ Code · ❌ Model
+- [2026-02-12] **Think like a Scientist: Physics-guided LLM Agent for Equation Discovery** — Jianke Yang et.al.. [arXiv](http://arxiv.org/abs/2602.12259) · ❌ Code · ❌ Model
+- [2026-02-12] **Federated Gaussian Process Learning via Pseudo-Representations for Large-Scale Multi-Robot Systems** — Sanket A. Salunkhe et.al.. [arXiv](http://arxiv.org/abs/2602.12243) · ❌ Code · ❌ Model
+- [2026-02-12] **VIRENA: Virtual Arena for Research, Education, and Democratic Innovation** — Emma Hoes et.al.. [arXiv](http://arxiv.org/abs/2602.12207) · ❌ Code · ❌ Model
+- [2026-02-12] **MalTool: Malicious Tool Attacks on LLM Agents** — Yuepeng Hu et.al.. [arXiv](http://arxiv.org/abs/2602.12194) · ❌ Code · ❌ Model
