@@ -1,25 +1,25 @@
-# GitHub Action: 定时抓取 arXiv 论文并更新
+# GitHub Action: 每周更新论文代码链接
 
-name: LLM-Agent Arxiv Daily
+name: Weekly Agent Digest
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 9 * * 1"  # 每周一 09:00 触发
 
 env:
   GITHUB_USER_NAME: eerstar
   GITHUB_USER_EMAIL: eerstar@163.com
 
 jobs:
-  build:
-    name: update
+  weekly-digest:
+    name: weekly-digest
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-        
+
       - name: Set up Python Env
         uses: actions/setup-python@v4
         with:
@@ -32,22 +32,18 @@ jobs:
 
       - name: Python syntax check
         run: |
-          python -m py_compile daily_arxiv.py scripts/stats_panel.py scripts/weekly_report.py
-          
-      - name: Run daily arxiv script
-        run: |
-          python daily_arxiv.py
+          python -m py_compile scripts/weekly_report.py
 
-      - name: Run stats panel
+      - name: Run weekly report
         run: |
-          python scripts/stats_panel.py
-          
-      - name: Commit and Push changes
+          python scripts/weekly_report.py --mode weekly
+
+      - name: Commit and Push weekly digest
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action: Auto-update Agent papers"
-          files: README.md docs/index.md docs/wechat.md docs/llm-agent-arxiv-daily.json docs/llm-agent-arxiv-daily-web.json docs/llm-agent-arxiv-daily-wechat.json reports/*.md .cache/stats.json docs/weekly/index.md
+          commit-message: "Github Action: Auto-generate weekly Agent digest"
+          files: reports/weekly-*.md docs/weekly/index.md
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
