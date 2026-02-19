@@ -22,13 +22,135 @@ md_wechat_path: "./docs/wechat.md"
 
 # 检索关键词配置
 keywords:
-  "LLM":
-    filters: ["LLM", "Large Language Models"]
-  "Multimodal":
-    filters: ["Multimodal Models"]
-  "Diffusion Models":
-    filters: ["Diffusion"]
-  "Representation Learning":
-    filters: ["Contrastive Learning", "Representation Learning"]
-  "Agent":
-    filters: ["Agent", "AI Agent", "Autonomous Agents", "LLM Agent", "Multi-Agent", "Language Agents", "Agent Systems"]
+  "LLM (General)":
+    filters:
+      - "LLM"
+      - "LLMs"
+      - "Large Language Model"
+      - "Large Language Models"
+      - "Large-Language Model"
+      - "Large-Language Models"
+      - "Language Model"
+      - "Language Models"
+      - "Foundation Model"
+      - "Foundation Models"
+      - "Instruction Tuning"
+      - "Instruct"
+      - "SFT"
+      - "RLHF"
+      - "DPO"
+      - "Alignment"
+
+  "LLM Reasoning & Planning":
+    filters:
+      - "Reasoning"
+      - "Chain-of-Thought"
+      - "CoT"
+      - "Tree-of-Thought"
+      - "ToT"
+      - "Self-Consistency"
+      - "Planning"
+      - "Task Planning"
+      - "Reflection"
+      - "Verifier"
+      - "Process Reward Model"
+      - "PRM"
+
+  "LLM Agents (Core)":
+    filters:
+      - "LLM Agent"
+      - "LLM-Agent"
+      - "Language Agent"
+      - "Language Agents"
+      - "Agentic"
+      - "Agent"
+      - "Agent Framework"
+      - "Agent System"
+      - "Agent Systems"
+      - "Autonomous Agent"
+      - "Autonomous Agents"
+
+  "Tool Use & Function Calling":
+    filters:
+      - "Tool Use"
+      - "Tool-Use"
+      - "Toolformer"
+      - "Function Calling"
+      - "Function-Calling"
+      - "API Calling"
+      - "API Call"
+      - "Tools"
+      - "External Tools"
+      - "Program of Thoughts"
+      - "PoT"
+      - "ReAct"
+      - "MRKL"
+
+  "RAG / Memory / Long Context for Agents":
+    filters:
+      - "RAG"
+      - "Retrieval-Augmented"
+      - "Retrieval Augmented"
+      - "Retrieval"
+      - "Memory"
+      - "Long Context"
+      - "Context Window"
+      - "Vector Database"
+      - "Knowledge Base"
+      - "Tool Memory"
+
+  "Multi-Agent / Collaboration":
+    filters:
+      - "Multi-Agent"
+      - "Multi Agent"
+      - "Multiagent"
+      - "Agent Collaboration"
+      - "Agent Coordination"
+      - "Swarm"
+      - "Debate"
+      - "Society of Agents"
+
+  "Web / Search / Browsing Agents":
+    filters:
+      - "Web Agent"
+      - "Browsing"
+      - "Search"
+      - "Web Navigation"
+      - "Information Seeking"
+      - "Search-Augmented"
+
+  "GUI / Computer Use Agents":
+    filters:
+      - "GUI Agent"
+      - "Computer Use"
+      - "UI Automation"
+      - "Web UI"
+      - "Mobile UI"
+      - "Visual Grounding"
+      - "Screen"
+
+  "Multimodal Agents (VLM)":
+    filters:
+      - "Multimodal"
+      - "Vision-Language"
+      - "Vision Language"
+      - "VLM"
+      - "LMM"
+      - "Embodied"
+      - "Robotics"
+      - "Robot"
+      - "Navigation"
+      - "Manipulation"
+
+  "Evaluation / Benchmarks (Agents)":
+    filters:
+      - "Benchmark"
+      - "Evaluation"
+      - "Evals"
+      - "Agent Benchmark"
+      - "Tool Benchmark"
+      - "WebArena"
+      - "MiniWoB"
+      - "AgentBench"
+      - "SWE-bench"
+      - "SWE-Bench"
