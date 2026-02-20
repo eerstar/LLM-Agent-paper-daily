@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.19
+## Updated on 2026.02.20
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -629,7 +629,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[2602.16708](http://arxiv.org/abs/2602.16708)|**[link](https://github.com/zszszszsz/.config)**|null|
+|**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[2602.16708](http://arxiv.org/abs/2602.16708)|null|null|
 |**2026-02-18**|**Reinforced Fast Weights with Next-Sequence Prediction**|Hee Seung Hwang et.al.|[2602.16704](http://arxiv.org/abs/2602.16704)|null|null|
 |**2026-02-18**|**Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning**|Mingjia Shi et.al.|[2602.16702](http://arxiv.org/abs/2602.16702)|null|null|
 |**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|null|null|
@@ -740,7 +740,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-02-18**|**TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos**|Namitha Padmanabhan et.al.|[2602.16711](http://arxiv.org/abs/2602.16711)|null|null|
+|**2026-02-18**|**TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos**|Namitha Padmanabhan et.al.|[2602.16711](http://arxiv.org/abs/2602.16711)|**[link](https://github.com/namithap10/TeCoNeRV)**|null|
 |**2026-02-18**|**Reinforced Fast Weights with Next-Sequence Prediction**|Hee Seung Hwang et.al.|[2602.16704](http://arxiv.org/abs/2602.16704)|null|null|
 |**2026-02-18**|**The Role of Common Randomness Replication in Symmetric PIR on Graph-Based Replicated Systems**|Shreya Meel et.al.|[2602.16700](http://arxiv.org/abs/2602.16700)|null|null|
 |**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|null|null|
@@ -777,7 +777,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[2602.16708](http://arxiv.org/abs/2602.16708)|**[link](https://github.com/zszszszsz/.config)**|null|
+|**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[2602.16708](http://arxiv.org/abs/2602.16708)|null|null|
 |**2026-02-18**|**Fairness Dynamics in Digital Economy Platforms with Biased Ratings**|J. Martin Smit et.al.|[2602.16695](http://arxiv.org/abs/2602.16695)|null|null|
 |**2026-02-18**|**Consensus Based Task Allocation for Angles-Only Local Catalog Maintenance of Satellite Systems**|Harrison Perone et.al.|[2602.16678](http://arxiv.org/abs/2602.16678)|null|null|
 |**2026-02-18**|**Evaluating Collective Behaviour of Hundreds of LLM Agents**|Richard Willis et.al.|[2602.16662](http://arxiv.org/abs/2602.16662)|null|null|
@@ -874,11 +874,11 @@ layout: default
 |**2026-02-16**|**BindCLIP: A Unified Contrastive-Generative Representation Learning Framework for Virtual Screening**|Anjie Qiao et.al.|[2602.15236](http://arxiv.org/abs/2602.15236)|null|null|
 |**2026-02-18**|**Weight space Detection of Backdoors in LoRA Adapters**|David Puertolas Merenciano et.al.|[2602.15195](http://arxiv.org/abs/2602.15195)|null|null|
 |**2026-02-17**|**Hunt Globally: Wide Search AI Agents for Drug Asset Scouting in Investing, Business Development, and Competitive Intelligence**|Alisa Vinogradova et.al.|[2602.15019](http://arxiv.org/abs/2602.15019)|null|null|
-|**2026-02-16**|**ThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery**|Ayush Shrivastava et.al.|[2602.14989](http://arxiv.org/abs/2602.14989)|**[link](https://github.com/sustainability-lab/thermeval)**|null|
+|**2026-02-16**|**ThermEval: A Structured Benchmark for Evaluation of Vision-Language Models on Thermal Imagery**|Ayush Shrivastava et.al.|[2602.14989](http://arxiv.org/abs/2602.14989)|null|null|
 |**2026-02-16**|**Auxiliary field quantum Monte Carlo at the basis set limit: application to lattice constants**|Moritz Humer et.al.|[2602.14923](http://arxiv.org/abs/2602.14923)|null|null|
 |**2026-02-16**|**Picking the Right Specialist: Attentive Neural Process-based Selection of Task-Specialized Models as Tools for Agentic Healthcare Systems**|Pramit Saha et.al.|[2602.14901](http://arxiv.org/abs/2602.14901)|null|null|
 |**2026-02-16**|**Low-Temperature Sputtering and Polarity Determination of Vertically Aligned ZnO Nanocolumns**|A. Hamzi et.al.|[2602.14893](http://arxiv.org/abs/2602.14893)|null|null|
-|**2026-02-16**|**Is Information Density Uniform when Utterances are Grounded on Perception and Discourse?**|Matteo Gay et.al.|[2602.14653](http://arxiv.org/abs/2602.14653)|null|null|
+|**2026-02-16**|**Is Information Density Uniform when Utterances are Grounded on Perception and Discourse?**|Matteo Gay et.al.|[2602.14653](http://arxiv.org/abs/2602.14653)|**[link](https://github.com/Imatgay/Grounded-UID)**|null|
 |**2026-02-16**|**Data-Efficient Machine learning for Predicting Dopant Formation Energies in TiO $_2$ Monolayer**|Kati Asikainen et.al.|[2602.14650](http://arxiv.org/abs/2602.14650)|null|null|
 |**2026-02-16**|**Polymer Brushes and Grafted Polymers: AI/ML-Driven Synthesis, Simulation, and Characterization towards autonomous SDL**|Rigoberto C. Advincula et.al.|[2602.14362](http://arxiv.org/abs/2602.14362)|null|null|
 |**2026-02-15**|**AutoWebWorld: Synthesizing Infinite Verifiable Web Environments via Finite State Machines**|Yifan Wu et.al.|[2602.14296](http://arxiv.org/abs/2602.14296)|null|null|
@@ -928,7 +928,7 @@ layout: default
 |**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[2602.16708](http://arxiv.org/abs/2602.16708)|null|null|
 |**2026-02-18**|**Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology**|Shen Zhou Hong et.al.|[2602.16703](http://arxiv.org/abs/2602.16703)|null|null|
 |**2026-02-18**|**Causality is Key for Interpretability Claims to Generalise**|Shruti Joshi et.al.|[2602.16698](http://arxiv.org/abs/2602.16698)|null|null|
-|**2026-02-18**|**Parameter-free representations outperform single-cell foundation models on downstream benchmarks**|Huan Souza et.al.|[2602.16696](http://arxiv.org/abs/2602.16696)|**[link](https://github.com/Emergent-Behaviors-in-Biology/Linear-representations-for-scRNA-seq-data)**|null|
+|**2026-02-18**|**Parameter-free representations outperform single-cell foundation models on downstream benchmarks**|Huan Souza et.al.|[2602.16696](http://arxiv.org/abs/2602.16696)|null|null|
 |**2026-02-18**|**Synthetic-Powered Multiple Testing with FDR Control**|Yonghoon Lee et.al.|[2602.16690](http://arxiv.org/abs/2602.16690)|null|null|
 |**2026-02-18**|**Are Object-Centric Representations Better At Compositional Generalization?**|Ferdinand Kapl et.al.|[2602.16689](http://arxiv.org/abs/2602.16689)|null|null|
 |**2026-02-18**|**Fast-MCS: A Scalable Open-Source Tool to Find Minimal Cut Sets**|Shakthivelu Janardhanan et.al.|[2602.16686](http://arxiv.org/abs/2602.16686)|null|null|
@@ -949,10 +949,10 @@ layout: default
 |**2026-02-18**|**A Systematic Evaluation of Sample-Level Tokenization Strategies for MEG Foundation Models**|SungJun Cho et.al.|[2602.16626](http://arxiv.org/abs/2602.16626)|null|null|
 |**2026-02-18**|**Beyond the Classical Ceiling: Multi-Layer Fully-Connected Variational Quantum Circuits**|Howard Su et.al.|[2602.16623](http://arxiv.org/abs/2602.16623)|null|null|
 |**2026-02-18**|**Bichromatic Quantum Teleportation of Weak Coherent Polarization States on a Metropolitan Fiber**|Zofia A. Borowska et.al.|[2602.16613](http://arxiv.org/abs/2602.16613)|null|null|
-|**2026-02-18**|**Who can we trust? LLM-as-a-jury for Comparative Assessment**|Mengjie Qian et.al.|[2602.16610](http://arxiv.org/abs/2602.16610)|null|null|
+|**2026-02-18**|**Who can we trust? LLM-as-a-jury for Comparative Assessment**|Mengjie Qian et.al.|[2602.16610](http://arxiv.org/abs/2602.16610)|**[link](https://github.com/Ufere/Assingment_1)**|null|
 |**2026-02-18**|**Explainable AI: Context-Aware Layer-Wise Integrated Gradients for Explaining Transformer Models**|Melkamu Abay Mersha et.al.|[2602.16608](http://arxiv.org/abs/2602.16608)|null|null|
 |**2026-02-18**|**CitiLink-Summ: Summarization of Discussion Subjects in European Portuguese Municipal Meeting Minutes**|Miguel Marques et.al.|[2602.16607](http://arxiv.org/abs/2602.16607)|null|null|
-|**2026-02-18**|**FlowPrefill: Decoupling Preemption from Prefill Scheduling Granularity to Mitigate Head-of-Line Blocking in LLM Serving**|Chia-chi Hsieh et.al.|[2602.16603](http://arxiv.org/abs/2602.16603)|null|null|
+|**2026-02-18**|**FlowPrefill: Decoupling Preemption from Prefill Scheduling Granularity to Mitigate Head-of-Line Blocking in LLM Serving**|Chia-chi Hsieh et.al.|[2602.16603](http://arxiv.org/abs/2602.16603)|**[link](https://github.com/HSIEHCHIACHI/FlowPrefill)**|null|
 |**2026-02-18**|**Fast Ewald Summation using Prolate Spheroidal Wave Functions**|Erik Boström et.al.|[2602.16591](http://arxiv.org/abs/2602.16591)|null|null|
 |**2026-02-18**|**AIFL: A Global Daily Streamflow Forecasting Model Using Deterministic LSTM Pre-trained on ERA5-Land and Fine-tuned on IFS**|Maria Luisa Taccari et.al.|[2602.16579](http://arxiv.org/abs/2602.16579)|null|null|
 |**2026-02-18**|**Chiral gravitational waves from multi-phase magnetogenesis**|H. V. Ragavendra et.al.|[2602.16575](http://arxiv.org/abs/2602.16575)|null|null|
