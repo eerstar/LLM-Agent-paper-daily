@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.20
+## Updated on 2026.02.21
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -661,7 +661,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-02-19**|**OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.|[2602.17665](http://arxiv.org/abs/2602.17665)|null|**[link](https://huggingface.co/MBZUAI/OpenEarthAgent)**|
+|**2026-02-19**|**OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.|[2602.17665](http://arxiv.org/abs/2602.17665)|**[link](https://github.com/mbzuai-oryx/OpenEarthAgent)**|**[link](https://huggingface.co/MBZUAI/OpenEarthAgent)**|
 |**2026-02-19**|**CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts**|Juri Opitz et.al.|[2602.17663](http://arxiv.org/abs/2602.17663)|null|null|
 |**2026-02-19**|**Multi-Round Human-AI Collaboration with User-Specified Requirements**|Sima Noorani et.al.|[2602.17646](http://arxiv.org/abs/2602.17646)|null|null|
 |**2026-02-19**|**Cosmic voids evolution in modified gravity via hydrodynamics**|Tommaso Moretti et.al.|[2602.17644](http://arxiv.org/abs/2602.17644)|null|null|
@@ -870,7 +870,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-02-19**|**CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts**|Juri Opitz et.al.|[2602.17663](http://arxiv.org/abs/2602.17663)|null|null|
 |**2026-02-19**|**Mine and Refine: Optimizing Graded Relevance in E-commerce Search Retrieval**|Jiaqi Xi et.al.|[2602.17654](http://arxiv.org/abs/2602.17654)|null|null|
-|**2026-02-19**|**FAMOSE: A ReAct Approach to Automated Feature Discovery**|Keith Burghardt et.al.|[2602.17641](http://arxiv.org/abs/2602.17641)|null|null|
+|**2026-02-19**|**FAMOSE: A ReAct Approach to Automated Feature Discovery**|Keith Burghardt et.al.|[2602.17641](http://arxiv.org/abs/2602.17641)|**[link](https://github.com/Ufere/Assingment_1)**|null|
 |**2026-02-19**|**IntRec: Intent-based Retrieval with Contrastive Refinement**|Pourya Shamsolmoali et.al.|[2602.17639](http://arxiv.org/abs/2602.17639)|null|null|
 |**2026-02-19**|**The Hidden Nature of Non-Markovianity**|Jihong Cai et.al.|[2602.17631](http://arxiv.org/abs/2602.17631)|null|null|
 |**2026-02-19**|**Unmasking the Factual-Conceptual Gap in Persian Language Models**|Alireza Sakhaeirad et.al.|[2602.17623](http://arxiv.org/abs/2602.17623)|null|null|
