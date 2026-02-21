@@ -635,7 +635,7 @@
 |**2026-02-19**|**FAMOSE: A ReAct Approach to Automated Feature Discovery**|Keith Burghardt et.al.|[2602.17641](http://arxiv.org/abs/2602.17641)|null|null|
 |**2026-02-19**|**IntRec: Intent-based Retrieval with Contrastive Refinement**|Pourya Shamsolmoali et.al.|[2602.17639](http://arxiv.org/abs/2602.17639)|null|null|
 |**2026-02-19**|**CORAL: Correspondence Alignment for Improved Virtual Try-On**|Jiyoung Kim et.al.|[2602.17636](http://arxiv.org/abs/2602.17636)|null|null|
-|**2026-02-19**|**Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting**|Xinghong Fu et.al.|[2602.17634](http://arxiv.org/abs/2602.17634)|null|null|
+|**2026-02-19**|**Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting**|Xinghong Fu et.al.|[2602.17634](http://arxiv.org/abs/2602.17634)|null|**[link](https://huggingface.co/shinfxh/reverso)**|
 |**2026-02-19**|**When to Trust the Cheap Check: Weak and Strong Verification for Reasoning**|Shayan Kiyani et.al.|[2602.17633](http://arxiv.org/abs/2602.17633)|null|null|
 |**2026-02-19**|**Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning**|Obaidullah Zaland et.al.|[2602.17625](http://arxiv.org/abs/2602.17625)|null|null|
 |**2026-02-19**|**Unmasking the Factual-Conceptual Gap in Persian Language Models**|Alireza Sakhaeirad et.al.|[2602.17623](http://arxiv.org/abs/2602.17623)|null|null|
@@ -694,7 +694,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
-|**2026-02-19**|**OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.|[2602.17665](http://arxiv.org/abs/2602.17665)|**[link](https://github.com/mbzuai-oryx/OpenEarthAgent)**|**[link](https://huggingface.co/MBZUAI/OpenEarthAgent)**|
+|**2026-02-19**|**OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.|[2602.17665](http://arxiv.org/abs/2602.17665)|null|**[link](https://huggingface.co/MBZUAI/OpenEarthAgent)**|
 |**2026-02-19**|**CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts**|Juri Opitz et.al.|[2602.17663](http://arxiv.org/abs/2602.17663)|null|null|
 |**2026-02-19**|**Multi-Round Human-AI Collaboration with User-Specified Requirements**|Sima Noorani et.al.|[2602.17646](http://arxiv.org/abs/2602.17646)|null|null|
 |**2026-02-19**|**Cosmic voids evolution in modified gravity via hydrodynamics**|Tommaso Moretti et.al.|[2602.17644](http://arxiv.org/abs/2602.17644)|null|null|
@@ -1149,7 +1149,7 @@
 |**2026-02-17**|**Ambipolar doping-induced surface in-gap state on Mott-insulating Ca $_2$RuO$_4$**|M. Horio et.al.|[2602.15610](http://arxiv.org/abs/2602.15610)|null|null|
 |**2026-02-17**|**Clinically Inspired Symptom-Guided Depression Detection from Emotion-Aware Speech Representations**|Chaithra Nerella et.al.|[2602.15578](http://arxiv.org/abs/2602.15578)|null|null|
 |**2026-02-17**|**Revealing and Enhancing Core Visual Regions: Harnessing Internal Attention Dynamics for Hallucination Mitigation in LVLMs**|Guangtao Lyu et.al.|[2602.15556](http://arxiv.org/abs/2602.15556)|null|null|
-|**2026-02-16**|**High-throughput screening and mechanistic insights into solid acid proton conductors**|Jonas Hänseroth et.al.|[2602.15268](http://arxiv.org/abs/2602.15268)|null|null|
+|**2026-02-16**|**High-throughput screening and mechanistic insights into solid acid proton conductors**|Jonas Hänseroth et.al.|[2602.15268](http://arxiv.org/abs/2602.15268)|**[link](https://github.com/Ufere/Assingment_1)**|null|
 |**2026-02-16**|**Efficient Adjoint-based Design Optimization with Optimal Control**|Sicheng He et.al.|[2602.15242](http://arxiv.org/abs/2602.15242)|null|null|
 |**2026-02-16**|**BindCLIP: A Unified Contrastive-Generative Representation Learning Framework for Virtual Screening**|Anjie Qiao et.al.|[2602.15236](http://arxiv.org/abs/2602.15236)|null|null|
 |**2026-02-18**|**Weight space Detection of Backdoors in LoRA Adapters**|David Puertolas Merenciano et.al.|[2602.15195](http://arxiv.org/abs/2602.15195)|null|null|
@@ -1170,11 +1170,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
-|**2026-02-19**|**OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.|[2602.17665](http://arxiv.org/abs/2602.17665)|null|**[link](https://huggingface.co/MBZUAI/OpenEarthAgent)**|
+|**2026-02-19**|**OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.|[2602.17665](http://arxiv.org/abs/2602.17665)|**[link](https://github.com/mbzuai-oryx/OpenEarthAgent)**|**[link](https://huggingface.co/MBZUAI/OpenEarthAgent)**|
 |**2026-02-19**|**When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs**|Yu Fang et.al.|[2602.17659](http://arxiv.org/abs/2602.17659)|null|null|
 |**2026-02-19**|**Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting**|Xiaohan Zhao et.al.|[2602.17645](http://arxiv.org/abs/2602.17645)|null|null|
 |**2026-02-19**|**CORAL: Correspondence Alignment for Improved Virtual Try-On**|Jiyoung Kim et.al.|[2602.17636](http://arxiv.org/abs/2602.17636)|null|null|
-|**2026-02-19**|**Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting**|Xinghong Fu et.al.|[2602.17634](http://arxiv.org/abs/2602.17634)|null|null|
+|**2026-02-19**|**Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting**|Xinghong Fu et.al.|[2602.17634](http://arxiv.org/abs/2602.17634)|null|**[link](https://huggingface.co/shinfxh/reverso)**|
 |**2026-02-19**|**Catastrophic Forgetting Resilient One-Shot Incremental Federated Learning**|Obaidullah Zaland et.al.|[2602.17625](http://arxiv.org/abs/2602.17625)|null|null|
 |**2026-02-19**|**Evidence for Multimodal Superfluidity of Neutrons**|Yuan-Zhuo Ma et.al.|[2602.17611](http://arxiv.org/abs/2602.17611)|null|null|
 |**2026-02-19**|**Graph Neural Model Predictive Control for High-Dimensional Systems**|Patrick Benito Eberhard et.al.|[2602.17601](http://arxiv.org/abs/2602.17601)|null|null|
