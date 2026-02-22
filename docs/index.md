@@ -691,7 +691,7 @@ layout: default
 |**2026-02-19**|**Informative Trains: A Memory-Efficient Journey to a Self-Stabilizing Leader Election Algorithm in Anonymous Graphs**|Lelia Blin et.al.|[2602.17541](http://arxiv.org/abs/2602.17541)|null|null|
 |**2026-02-19**|**Position: Evaluation of ECG Representations Must Be Fixed**|Zachary Berger et.al.|[2602.17531](http://arxiv.org/abs/2602.17531)|null|null|
 |**2026-02-19**|**When Models Ignore Definitions: Measuring Semantic Override Hallucinations in LLM Reasoning**|Yogeswar Reddy Thota et.al.|[2602.17520](http://arxiv.org/abs/2602.17520)|null|null|
-|**2026-02-19**|**A Picture of Agentic Search**|Francesca Pezzuti et.al.|[2602.17518](http://arxiv.org/abs/2602.17518)|null|null|
+|**2026-02-19**|**A Picture of Agentic Search**|Francesca Pezzuti et.al.|[2602.17518](http://arxiv.org/abs/2602.17518)|**[link](https://github.com/zsith/launcher.user.js)**|null|
 |**2026-02-19**|**RA-Nav: A Risk-Aware Navigation System Based on Semantic Segmentation for Aerial Robots in Unpredictable Environments**|Ziyi Zong et.al.|[2602.17515](http://arxiv.org/abs/2602.17515)|null|null|
 |**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[2602.16708](http://arxiv.org/abs/2602.16708)|null|null|
 |**2026-02-18**|**Reinforced Fast Weights with Next-Sequence Prediction**|Hee Seung Hwang et.al.|[2602.16704](http://arxiv.org/abs/2602.16704)|null|null|
@@ -1094,8 +1094,8 @@ layout: default
 |**2026-02-18**|**Why the Casimir Force for Magnetic Metals Computed by the Lifshitz Theory Using the Drude Model Disagrees with the Measurement Data**|G. L. Klimchitskaya et.al.|[2602.16370](http://arxiv.org/abs/2602.16370)|null|null|
 |**2026-02-18**|**Individual Fairness in Community Detection: Quantitative Measure and Comparative Evaluation**|Fabrizio Corriera et.al.|[2602.16326](http://arxiv.org/abs/2602.16326)|null|null|
 |**2026-02-18**|**Wearable AR for Restorative Breaks: How Interactive Narrative Experiences Support Relaxation for Young Adults**|Jindu Wang et.al.|[2602.16323](http://arxiv.org/abs/2602.16323)|null|null|
-|**2026-02-18**|**Breaking the Moss rule**|Søren Raza et.al.|[2602.16247](http://arxiv.org/abs/2602.16247)|null|null|
-|**2026-02-18**|**Graph--Based Event Fingerprints for Classifying Geomagnetic Storm--Driven Forbush Decreases**|Juan D. Perez-Navarro et.al.|[2602.16128](http://arxiv.org/abs/2602.16128)|null|null|
+|**2026-02-18**|**Breaking the Moss rule**|Søren Raza et.al.|[2602.16247](http://arxiv.org/abs/2602.16247)|**[link](https://github.com/rprokap/pset-9)**|null|
+|**2026-02-18**|**Graph--Based Event Fingerprints for Classifying Geomagnetic Storm--Driven Forbush Decreases**|Juan D. Perez-Navarro et.al.|[2602.16128](http://arxiv.org/abs/2602.16128)|**[link](https://github.com/dosquisd/NMDB-FD-PredictorWithGraphs)**|null|
 |**2026-02-18**|**On the Power of Source Screening for Learning Shared Feature Extractors**|Leo et.al.|[2602.16125](http://arxiv.org/abs/2602.16125)|null|null|
 |**2026-02-17**|**Neural Scaling Laws for Boosted Jet Tagging**|Matthias Vigl et.al.|[2602.15781](http://arxiv.org/abs/2602.15781)|null|null|
 |**2026-02-17**|**Three-Dimensional Optical-Electrical Simulation of Cs2AgBiBr6 Double Perovskite Solar Cells**|Md Shanian Moed et.al.|[2602.15759](http://arxiv.org/abs/2602.15759)|null|null|
