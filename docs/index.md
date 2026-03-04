@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.03
+## Updated on 2026.03.04
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -1766,7 +1766,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-03-02**|**Novel technique based on Léja Points Approximation for Log-determinant Estimation of Large matrices**|Verlon Roel Mbingui et.al.|[2603.02207](http://arxiv.org/abs/2603.02207)|null|null|
 |**2026-03-02**|**VoiceAgengRAG: Solving the RAG Latency Bottleneck in Real-Time Voice Agents Using Dual-Agent Architectures**|Jielin Qiu et.al.|[2603.02206](http://arxiv.org/abs/2603.02206)|null|null|
-|**2026-03-02**|**Multi-Head Low-Rank Attention**|Songtao Liu et.al.|[2603.02188](http://arxiv.org/abs/2603.02188)|null|null|
+|**2026-03-02**|**Multi-Head Low-Rank Attention**|Songtao Liu et.al.|[2603.02188](http://arxiv.org/abs/2603.02188)|**[link](https://github.com/JohnGiorgi/compact-multi-head-self-attention-pytorch)**|null|
 |**2026-03-02**|**Organizing, Orchestrating, and Benchmarking Agent Skills at Ecosystem Scale**|Hao Li et.al.|[2603.02176](http://arxiv.org/abs/2603.02176)|null|null|
 |**2026-03-02**|**Catapults to the Rescue: Accelerating Vector Search by Exploiting Query Locality**|Sami Abuzakuk et.al.|[2603.02164](http://arxiv.org/abs/2603.02164)|null|null|
 |**2026-03-02**|**How Small Can 6G Reason? Scaling Tiny Language Models for AI-Native Networks**|Mohamed Amine Ferrag et.al.|[2603.02156](http://arxiv.org/abs/2603.02156)|null|null|
@@ -2083,7 +2083,7 @@ layout: default
 |**2026-03-02**|**CeProAgents: A Hierarchical Agents System for Automated Chemical Process Development**|Yuhang Yang et.al.|[2603.01654](http://arxiv.org/abs/2603.01654)|null|null|
 |**2026-03-02**|**DriveCombo: Benchmarking Compositional Traffic Rule Reasoning in Autonomous Driving**|Enhui Ma et.al.|[2603.01637](http://arxiv.org/abs/2603.01637)|null|null|
 |**2026-03-02**|**ToolRLA: Fine-Grained Reward Decomposition for Tool-Integrated Reinforcement Learning Alignment in Domain-Specific Agents**|Pengbo Liu et.al.|[2603.01620](http://arxiv.org/abs/2603.01620)|null|null|
-|**2026-03-02**|**CARE: Towards Clinical Accountability in Multi-Modal Medical Reasoning with an Evidence-Grounded Agentic Framework**|Yuexi Du et.al.|[2603.01607](http://arxiv.org/abs/2603.01607)|**[link](https://github.com/XYPB/CARE)**|null|
+|**2026-03-02**|**CARE: Towards Clinical Accountability in Multi-Modal Medical Reasoning with an Evidence-Grounded Agentic Framework**|Yuexi Du et.al.|[2603.01607](http://arxiv.org/abs/2603.01607)|null|null|
 |**2026-03-02**|**ICSE 2022 Sustainability Report**|Patricia Lago et.al.|[2603.01541](http://arxiv.org/abs/2603.01541)|null|null|
 |**2026-03-02**|**PhotoBench: Beyond Visual Matching Towards Personalized Intent-Driven Photo Retrieval**|Tianyi Xu et.al.|[2603.01493](http://arxiv.org/abs/2603.01493)|null|null|
 |**2026-03-02**|**Agentic Multi-Source Grounding for Enhanced Query Intent Understanding: A DoorDash Case Study**|Emmanuel Aboah Boateng et.al.|[2603.01486](http://arxiv.org/abs/2603.01486)|null|null|
@@ -3105,8 +3105,8 @@ layout: default
 |**2026-03-02**|**Boltzmann-based Exploration for Robust Decentralized Multi-Agent Planning**|Nhat Nguyen et.al.|[2603.02154](http://arxiv.org/abs/2603.02154)|null|null|
 |**2026-03-02**|**Scaling Retrieval Augmented Generation with RAG Fusion: Lessons from an Industry Deployment**|Luigi Medrano et.al.|[2603.02153](http://arxiv.org/abs/2603.02153)|null|null|
 |**2026-03-02**|**Degree Sequences vs. Forests in Bipartite Graphs**|Darij Grinberg et.al.|[2603.02151](http://arxiv.org/abs/2603.02151)|null|null|
-|**2026-03-02**|**Consistent Low-Rank Approximation**|David P. Woodruff et.al.|[2603.02148](http://arxiv.org/abs/2603.02148)|**[link](https://github.com/whxyggj/NLRTGC)**|null|
-|**2026-03-02**|**LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards**|Guanzheng Chen et.al.|[2603.02146](http://arxiv.org/abs/2603.02146)|**[link](https://github.com/real-absolute-AI/LongRLVR)**|null|
+|**2026-03-02**|**Consistent Low-Rank Approximation**|David P. Woodruff et.al.|[2603.02148](http://arxiv.org/abs/2603.02148)|null|null|
+|**2026-03-02**|**LongRLVR: Long-Context Reinforcement Learning Requires Verifiable Context Rewards**|Guanzheng Chen et.al.|[2603.02146](http://arxiv.org/abs/2603.02146)|null|null|
 |**2026-03-02**|**NextAds: Towards Next-generation Personalized Video Advertising**|Yiyan Xu et.al.|[2603.02137](http://arxiv.org/abs/2603.02137)|null|null|
 |**2026-03-02**|**Stereo-Inertial Poser: Towards Metric-Accurate Shape-Aware Motion Capture Using Sparse IMUs and a Single Stereo Camera**|Tutian Tang et.al.|[2603.02130](http://arxiv.org/abs/2603.02130)|null|null|
 |**2026-03-02**|**LLMs as Strategic Actors: Behavioral Alignment, Risk Calibration, and Argumentation Framing in Geopolitical Simulations**|Veronika Solopova et.al.|[2603.02128](http://arxiv.org/abs/2603.02128)|null|null|
@@ -3116,7 +3116,7 @@ layout: default
 |**2026-03-02**|**Recursive Models for Long-Horizon Reasoning**|Chenxiao Yang et.al.|[2603.02112](http://arxiv.org/abs/2603.02112)|null|null|
 |**2026-03-02**|**Milliscale: Fast Commit on Low-Latency Object Storage**|Jiatang Zhou et.al.|[2603.02108](http://arxiv.org/abs/2603.02108)|null|null|
 |**2026-03-02**|**Resilient Chaotic Cross-Layer Routing for Smart Grid IoT Networks**|Dhrumil Bhatt et.al.|[2603.02105](http://arxiv.org/abs/2603.02105)|null|null|
-|**2026-03-02**|**Recursive Think-Answer Process for LLMs and VLMs**|Byung-Kwan Lee et.al.|[2603.02099](http://arxiv.org/abs/2603.02099)|null|null|
+|**2026-03-02**|**Recursive Think-Answer Process for LLMs and VLMs**|Byung-Kwan Lee et.al.|[2603.02099](http://arxiv.org/abs/2603.02099)|**[link](https://github.com/litcoderr/rtap_page)**|null|
 |**2026-03-02**|**OmniRet: Efficient and High-Fidelity Omni Modality Retrieval**|Chuong Huynh et.al.|[2603.02098](http://arxiv.org/abs/2603.02098)|null|null|
 |**2026-02-27**|**Mode Seeking meets Mean Seeking for Fast Long Video Generation**|Shengqu Cai et.al.|[2602.24289](http://arxiv.org/abs/2602.24289)|null|null|
 |**2026-02-27**|**DARE-bench: Evaluating Modeling and Instruction Fidelity of LLMs in Data Science**|Fan Shu et.al.|[2602.24288](http://arxiv.org/abs/2602.24288)|null|null|
