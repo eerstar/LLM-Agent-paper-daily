@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -1593,7 +1593,7 @@ layout: default
 |**2026-03-03**|**It's Alive! What a Live Object Environment Changes in Software Engineering Practice**|Julián Grigera et.al.|[2603.02987](http://arxiv.org/abs/2603.02987)|null|null|
 |**2026-03-03**|**The Geometry of Learning Under AI Delegation**|Lingxiao Huang et.al.|[2603.02950](http://arxiv.org/abs/2603.02950)|null|null|
 |**2026-03-03**|**SEALing the Gap: A Reference Framework for LLM Inference Carbon Estimation via Multi-Benchmark Driven Embodiment**|Priyavanshi Pathania et.al.|[2603.02949](http://arxiv.org/abs/2603.02949)|null|null|
-|**2026-03-03**|**SAE as a Crystal Ball: Interpretable Features Predict Cross-domain Transferability of LLMs without Training**|Qi Zhang et.al.|[2603.02908](http://arxiv.org/abs/2603.02908)|null|null|
+|**2026-03-03**|**SAE as a Crystal Ball: Interpretable Features Predict Cross-domain Transferability of LLMs without Training**|Qi Zhang et.al.|[2603.02908](http://arxiv.org/abs/2603.02908)|**[link](https://github.com/PKU-ML/STS)**|null|
 |**2026-03-03**|**Speech recognition assisted by large language models to command software orally -- Application to an augmented and virtual reality web app for immersive molecular graphics**|Fabio Cortes Rodriguez et.al.|[2603.02901](http://arxiv.org/abs/2603.02901)|null|null|
 |**2026-03-03**|**SpecLoop: An Agentic RTL-to-Specification Framework with Formal Verification Feedback Loop**|Fu-Chieh Chang et.al.|[2603.02895](http://arxiv.org/abs/2603.02895)|null|null|
 |**2026-03-03**|**LaTeX Compilation: Challenges in the Era of LLMs**|Tianyou Liu et.al.|[2603.02873](http://arxiv.org/abs/2603.02873)|null|null|
@@ -3380,8 +3380,8 @@ layout: default
 |**2026-03-03**|**Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use**|Aradhye Agarwal et.al.|[2603.03205](http://arxiv.org/abs/2603.03205)|null|null|
 |**2026-03-03**|**Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?**|Dadi Guo et.al.|[2603.03202](http://arxiv.org/abs/2603.03202)|null|null|
 |**2026-03-03**|**ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments**|Ziyang Gong et.al.|[2603.03198](http://arxiv.org/abs/2603.03198)|null|null|
-|**2026-03-03**|**Specificity-aware reinforcement learning for fine-grained open-world classification**|Samuele Angheben et.al.|[2603.03197](http://arxiv.org/abs/2603.03197)|**[link](https://github.com/s-angheben/SpeciaRL)**|null|
-|**2026-03-03**|**Chain of World: World Model Thinking in Latent Motion**|Fuxiang Yang et.al.|[2603.03195](http://arxiv.org/abs/2603.03195)|**[link](https://github.com/fx-hit/CoWVLA)**|null|
+|**2026-03-03**|**Specificity-aware reinforcement learning for fine-grained open-world classification**|Samuele Angheben et.al.|[2603.03197](http://arxiv.org/abs/2603.03197)|null|null|
+|**2026-03-03**|**Chain of World: World Model Thinking in Latent Motion**|Fuxiang Yang et.al.|[2603.03195](http://arxiv.org/abs/2603.03195)|null|null|
 |**2026-03-03**|**BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?**|Guoxin Chen et.al.|[2603.03194](http://arxiv.org/abs/2603.03194)|null|null|
 |**2026-03-03**|**MoD-DPO: Towards Mitigating Cross-modal Hallucinations in Omni LLMs using Modality Decoupled Preference Optimization**|Ashutosh Chaubey et.al.|[2603.03192](http://arxiv.org/abs/2603.03192)|null|null|
 |**2026-03-03**|**A Covering Framework for Offline POMDPs Learning using Belief Space Metric**|Youheng Zhu et.al.|[2603.03191](http://arxiv.org/abs/2603.03191)|null|null|
