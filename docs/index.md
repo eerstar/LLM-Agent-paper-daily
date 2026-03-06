@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.05
+## Updated on 2026.03.06
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -1673,7 +1673,7 @@ layout: default
 |**2026-03-04**|**Scrollytelling as an Alternative Format for Privacy Policies**|Gonzalo Gabriel Méndez et.al.|[2603.04367](http://arxiv.org/abs/2603.04367)|null|null|
 |**2026-03-04**|**Comparison theorems for the extreme eigenvalues of a random symmetric matrix**|Joel A. Tropp et.al.|[2603.04365](http://arxiv.org/abs/2603.04365)|null|null|
 |**2026-03-04**|**Robust Unscented Kalman Filtering via Recurrent Meta-Adaptation of Sigma-Point Weights**|Kenan Majewski et.al.|[2603.04360](http://arxiv.org/abs/2603.04360)|null|null|
-|**2026-03-04**|**A Soft Robotic Demonstration in the Stratospher**|Codrin Tugui et.al.|[2603.04352](http://arxiv.org/abs/2603.04352)|null|null|
+|**2026-03-04**|**A Soft Robotic Demonstration in the Stratosphere**|Codrin Tugui et.al.|[2603.04352](http://arxiv.org/abs/2603.04352)|null|null|
 |**2026-03-04**|**Underrepresented in Foundation Model Pretraining Data? A One-Shot Probe**|Chris Vorster et.al.|[2603.04346](http://arxiv.org/abs/2603.04346)|null|null|
 |**2026-03-04**|**SpotIt+: Verification-based Text-to-SQL Evaluation with Database Constraints**|Rocky Klopfenstein et.al.|[2603.04334](http://arxiv.org/abs/2603.04334)|null|null|
 |**2026-03-04**|**A Hydrodynamics Formulation for a Nonlinear Dirac Equation**|Joan Morrill i Gavarró et.al.|[2603.04326](http://arxiv.org/abs/2603.04326)|null|null|
@@ -2022,7 +2022,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-03-04**|**AgentIR: Reasoning-Aware Retrival for Deep Research Agents**|Zijian Chen et.al.|[2603.04384](http://arxiv.org/abs/2603.04384)|null|null|
 |**2026-03-04**|**Turning Trust to Transactions: Tracking Affiliate Marketing and FTC Compliance in YouTube's Influencer Economy**|Chen Sun et.al.|[2603.04383](http://arxiv.org/abs/2603.04383)|null|null|
-|**2026-03-04**|**Helios: Real Real-Time Long Video Generation Model**|Shenghai Yuan et.al.|[2603.04379](http://arxiv.org/abs/2603.04379)|**[link](https://github.com/PKU-YuanGroup/Helios)**|null|
+|**2026-03-04**|**Helios: Real Real-Time Long Video Generation Model**|Shenghai Yuan et.al.|[2603.04379](http://arxiv.org/abs/2603.04379)|null|null|
 |**2026-03-04**|**$τ$ -Knowledge: Evaluating Conversational Agents over Unstructured Knowledge**|Quan Shi et.al.|[2603.04370](http://arxiv.org/abs/2603.04370)|null|null|
 |**2026-03-04**|**LLM-supported 3D Modeling Tool for Radio Radiance Field Reconstruction**|Chengling Xu et.al.|[2603.04368](http://arxiv.org/abs/2603.04368)|null|null|
 |**2026-03-04**|**Robust Unscented Kalman Filtering via Recurrent Meta-Adaptation of Sigma-Point Weights**|Kenan Majewski et.al.|[2603.04360](http://arxiv.org/abs/2603.04360)|null|null|
@@ -3275,7 +3275,7 @@ layout: default
 |**2026-03-04**|**ManipulationNet: An Infrastructure for Benchmarking Real-World Robot Manipulation with Physical Skill Challenges and Embodied Multimodal Reasoning**|Yiting Chen et.al.|[2603.04363](http://arxiv.org/abs/2603.04363)|null|null|
 |**2026-03-04**|**Dissecting Quantization Error: A Concentration-Alignment Perspective**|Marco Federici et.al.|[2603.04359](http://arxiv.org/abs/2603.04359)|null|null|
 |**2026-03-04**|**RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots**|Soroush Nasiriany et.al.|[2603.04356](http://arxiv.org/abs/2603.04356)|null|null|
-|**2026-03-04**|**A Soft Robotic Demonstration in the Stratospher**|Codrin Tugui et.al.|[2603.04352](http://arxiv.org/abs/2603.04352)|null|null|
+|**2026-03-04**|**A Soft Robotic Demonstration in the Stratosphere**|Codrin Tugui et.al.|[2603.04352](http://arxiv.org/abs/2603.04352)|null|null|
 |**2026-03-04**|**Tendon Force Modeling for Sim2Real Transfer of Reinforcement Learning Policies for Tendon-Driven Robots**|Valentin Yuryev et.al.|[2603.04351](http://arxiv.org/abs/2603.04351)|null|null|
 |**2026-03-04**|**FocusGraph: Graph-Structured Frame Selection for Embodied Long Video Question Answering**|Tatiana Zemskova et.al.|[2603.04349](http://arxiv.org/abs/2603.04349)|null|**[link](https://huggingface.co/wingrune/focusgraph)**|
 |**2026-03-04**|**Underrepresented in Foundation Model Pretraining Data? A One-Shot Probe**|Chris Vorster et.al.|[2603.04346](http://arxiv.org/abs/2603.04346)|null|null|
@@ -3633,7 +3633,7 @@ layout: default
 |**2026-03-04**|**$τ$ -Knowledge: Evaluating Conversational Agents over Unstructured Knowledge**|Quan Shi et.al.|[2603.04370](http://arxiv.org/abs/2603.04370)|null|null|
 |**2026-03-04**|**Dual-Modality Multi-Stage Adversarial Safety Training: Robustifying Multimodal Web Agents Against Cross-Modal Attacks**|Haoyu Liu et.al.|[2603.04364](http://arxiv.org/abs/2603.04364)|null|null|
 |**2026-03-04**|**ManipulationNet: An Infrastructure for Benchmarking Real-World Robot Manipulation with Physical Skill Challenges and Embodied Multimodal Reasoning**|Yiting Chen et.al.|[2603.04363](http://arxiv.org/abs/2603.04363)|null|null|
-|**2026-03-04**|**Robust Unscented Kalman Filtering via Recurrent Meta-Adaptation of Sigma-Point Weights**|Kenan Majewski et.al.|[2603.04360](http://arxiv.org/abs/2603.04360)|null|null|
+|**2026-03-04**|**Robust Unscented Kalman Filtering via Recurrent Meta-Adaptation of Sigma-Point Weights**|Kenan Majewski et.al.|[2603.04360](http://arxiv.org/abs/2603.04360)|**[link](https://github.com/kenanmajewski/maukf)**|null|
 |**2026-03-04**|**RoboCasa365: A Large-Scale Simulation Framework for Training and Benchmarking Generalist Robots**|Soroush Nasiriany et.al.|[2603.04356](http://arxiv.org/abs/2603.04356)|null|null|
 |**2026-03-04**|**Out-of-distribution transfer of PDE foundation models to material dynamics under extreme loading**|Mahindra Rautela et.al.|[2603.04354](http://arxiv.org/abs/2603.04354)|null|null|
 |**2026-03-04**|**FocusGraph: Graph-Structured Frame Selection for Embodied Long Video Question Answering**|Tatiana Zemskova et.al.|[2603.04349](http://arxiv.org/abs/2603.04349)|null|**[link](https://huggingface.co/wingrune/focusgraph)**|
