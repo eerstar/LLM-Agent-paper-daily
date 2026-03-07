@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.06
+## Updated on 2026.03.07
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -1780,7 +1780,7 @@ layout: default
 |**2026-03-05**|**Evaluation of Feynman integrals via numerical integration of differential equations**|Pau Petit Rosàs et.al.|[2603.05336](http://arxiv.org/abs/2603.05336)|null|null|
 |**2026-03-05**|**FairFinGAN: Fairness-aware Synthetic Financial Data Generation**|Tai Le Quy et.al.|[2603.05327](http://arxiv.org/abs/2603.05327)|null|null|
 |**2026-03-05**|**The Angular Localization Function (ALF): a practical tool to measure solvent angular order with Molecular Density Functional Theory**|Maïwenn Souetre et.al.|[2603.05319](http://arxiv.org/abs/2603.05319)|null|null|
-|**2026-03-05**|**GALACTIC: Global and Local Agnostic Counterfactuals for Time-series Clustering**|Christos Fragkathoulas et.al.|[2603.05318](http://arxiv.org/abs/2603.05318)|null|null|
+|**2026-03-05**|**GALACTIC: Global and Local Agnostic Counterfactuals for Time-series Clustering**|Christos Fragkathoulas et.al.|[2603.05318](http://arxiv.org/abs/2603.05318)|**[link](https://github.com/Ufere/Assingment_1)**|null|
 |**2026-03-05**|**X-RAY: Mapping LLM Reasoning Capability via Formalized and Calibrated Probes**|Gao Tianxi et.al.|[2603.05290](http://arxiv.org/abs/2603.05290)|null|null|
 |**2026-03-05**|**The Local Tremaine-Weinberg Method for Galactic Pattern Speed: Theory and its Application to IllustrisTNG**|Hangci Du et.al.|[2603.05287](http://arxiv.org/abs/2603.05287)|null|null|
 |**2026-03-05**|**EMU/GAMA: A statistical perspective on active galactic nuclei diagnostics**|J. Prathap et.al.|[2603.05265](http://arxiv.org/abs/2603.05265)|null|null|
@@ -2552,7 +2552,7 @@ layout: default
 |**2026-03-05**|**Bidirectional Curriculum Generation: A Multi-Agent Framework for Data-Efficient Mathematical Reasoning**|Boren Hu et.al.|[2603.05120](http://arxiv.org/abs/2603.05120)|null|null|
 |**2026-03-05**|**Jagarin: A Three-Layer Architecture for Hibernating Personal Duty Agents on Mobile**|Ravi Kiran Kadaboina et.al.|[2603.05069](http://arxiv.org/abs/2603.05069)|null|null|
 |**2026-03-05**|**Reward-Conditioned Reinforcement Learning**|Michal Nauman et.al.|[2603.05066](http://arxiv.org/abs/2603.05066)|null|null|
-|**2026-03-05**|**CoIn3D: Revisiting Configuration-Invariant Multi-Camera 3D Object Detection**|Zhaonian Kuang et.al.|[2603.05042](http://arxiv.org/abs/2603.05042)|null|null|
+|**2026-03-05**|**CoIn3D: Revisiting Configuration-Invariant Multi-Camera 3D Object Detection**|Zhaonian Kuang et.al.|[2603.05042](http://arxiv.org/abs/2603.05042)|**[link](https://github.com/kwong292521/CoIn3D)**|null|
 |**2026-03-05**|**S5-SHB Agent: Society 5.0 enabled Multi-model Agentic Blockchain Framework for Smart Home**|Janani Rangila et.al.|[2603.05027](http://arxiv.org/abs/2603.05027)|null|null|
 |**2026-03-05**|**RepoLaunch: Automating Build&Test Pipeline of Code Repositories on ANY Language and ANY Platform**|Kenan Li et.al.|[2603.05026](http://arxiv.org/abs/2603.05026)|null|null|
 |**2026-03-05**|**BioLLMAgent: A Hybrid Framework with Enhanced Structural Interpretability for Simulating Human Decision-Making in Computational Psychiatry**|Zuo Fei et.al.|[2603.05016](http://arxiv.org/abs/2603.05016)|null|null|
@@ -3297,12 +3297,12 @@ layout: default
 |**2026-03-05**|**WebFactory: Automated Compression of Foundational Language Intelligence into Grounded Web Agents**|Sicheng Fan et.al.|[2603.05044](http://arxiv.org/abs/2603.05044)|null|null|
 |**2026-03-05**|**Exploiting Intermediate Reconstructions in Optical Coherence Tomography for Test-Time Adaption of Medical Image Segmentation**|Thomas Pinetz et.al.|[2603.05041](http://arxiv.org/abs/2603.05041)|null|null|
 |**2026-03-05**|**HiFlow: Hierarchical Feedback-Driven Optimization for Constrained Long-Form Text Generation**|Yifan Zhu et.al.|[2603.04996](http://arxiv.org/abs/2603.04996)|null|null|
-|**2026-03-05**|**3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding**|Xiongkun Linghu et.al.|[2603.04976](http://arxiv.org/abs/2603.04976)|null|null|
+|**2026-03-05**|**3D-RFT: Reinforcement Fine-Tuning for Video-based 3D Scene Understanding**|Xiongkun Linghu et.al.|[2603.04976](http://arxiv.org/abs/2603.04976)|null|**[link](https://huggingface.co/EricLHK/3D-RFT)**|
 |**2026-03-05**|**Deterministic Preprocessing and Interpretable Fuzzy Banding for Cost-per-Student Reporting from Extracted Records**|Shane Lee et.al.|[2603.04905](http://arxiv.org/abs/2603.04905)|null|null|
 |**2026-03-05**|**Scalable Injury-Risk Screening in Baseball Pitching From Broadcast Video**|Jerrin Bright et.al.|[2603.04864](http://arxiv.org/abs/2603.04864)|null|null|
 |**2026-03-04**|**Anomalous Ion Confinement Penalties and Giant Ion-Screening Effects in One-Dimensional Nanopores**|Kevin Leung et.al.|[2603.04651](http://arxiv.org/abs/2603.04651)|null|null|
 |**2026-03-04**|**Rapid modeling of segregation-driven metal-oxide adhesion in high-entropy alloys using macroscopic atom model**|Dennis Boakye et.al.|[2603.04575](http://arxiv.org/abs/2603.04575)|null|null|
-|**2026-03-04**|**Transversal AND in Quantum Codes**|Christine Li et.al.|[2603.04548](http://arxiv.org/abs/2603.04548)|null|null|
+|**2026-03-04**|**Transversal AND in Quantum Codes**|Christine Li et.al.|[2603.04548](http://arxiv.org/abs/2603.04548)|**[link](https://github.com/anhvtran/Uniform-and-boundary-frustratedtransverse-field-Ising-model)**|null|
 |**2026-03-04**|**Real5-OmniDocBench: A Full-Scale Physical Reconstruction Benchmark for Robust Document Parsing in the Wild**|Changda Zhou et.al.|[2603.04205](http://arxiv.org/abs/2603.04205)|null|null|
 |**2026-03-04**|**A Random Rule Model**|Avner Seror et.al.|[2603.04105](http://arxiv.org/abs/2603.04105)|null|null|
 |**2026-03-04**|**The Empty Quadrant: AI Teammates for Embodied Field Learning**|Hyein Kim et.al.|[2603.04034](http://arxiv.org/abs/2603.04034)|null|null|
@@ -3904,7 +3904,7 @@ layout: default
 |**2026-03-05**|**Towards Provably Unbiased LLM Judges via Bias-Bounded Evaluation**|Benjamin Feuer et.al.|[2603.05485](http://arxiv.org/abs/2603.05485)|null|null|
 |**2026-03-05**|**Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline**|Guo Chen et.al.|[2603.05484](http://arxiv.org/abs/2603.05484)|null|null|
 |**2026-03-05**|**SurvHTE-Bench: A Benchmark for Heterogeneous Treatment Effect Estimation in Survival Analysis**|Shahriar Noroozizadeh et.al.|[2603.05483](http://arxiv.org/abs/2603.05483)|null|null|
-|**2026-03-05**|**Quantum Simulation of Coupled Harmonic Oscillators: From Theory to Implementation**|Viraj Dsouza et.al.|[2603.05479](http://arxiv.org/abs/2603.05479)|null|null|
+|**2026-03-05**|**Quantum Simulation of Coupled Harmonic Oscillators: From Theory to Implementation**|Viraj Dsouza et.al.|[2603.05479](http://arxiv.org/abs/2603.05479)|**[link](https://github.com/Quantum-Solutions-Launchpad/QSL-Classiq-P1)**|null|
 |**2026-03-05**|**Spin-resolved microscopy of $^{87}$Sr SU($N$ ) Fermi-Hubbard systems**|Carlos Gas-Ferrer et.al.|[2603.05478](http://arxiv.org/abs/2603.05478)|null|null|
 |**2026-03-05**|**Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction**|John F Kam et.al.|[2603.05474](http://arxiv.org/abs/2603.05474)|null|null|
 |**2026-03-05**|**Leveraging LLM Parametric Knowledge for Fact Checking without Retrieval**|Artem Vazhentsev et.al.|[2603.05471](http://arxiv.org/abs/2603.05471)|null|null|
