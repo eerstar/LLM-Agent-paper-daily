@@ -1780,7 +1780,7 @@ layout: default
 |**2026-03-05**|**Evaluation of Feynman integrals via numerical integration of differential equations**|Pau Petit Rosàs et.al.|[2603.05336](http://arxiv.org/abs/2603.05336)|null|null|
 |**2026-03-05**|**FairFinGAN: Fairness-aware Synthetic Financial Data Generation**|Tai Le Quy et.al.|[2603.05327](http://arxiv.org/abs/2603.05327)|null|null|
 |**2026-03-05**|**The Angular Localization Function (ALF): a practical tool to measure solvent angular order with Molecular Density Functional Theory**|Maïwenn Souetre et.al.|[2603.05319](http://arxiv.org/abs/2603.05319)|null|null|
-|**2026-03-05**|**GALACTIC: Global and Local Agnostic Counterfactuals for Time-series Clustering**|Christos Fragkathoulas et.al.|[2603.05318](http://arxiv.org/abs/2603.05318)|**[link](https://github.com/Ufere/Assingment_1)**|null|
+|**2026-03-05**|**GALACTIC: Global and Local Agnostic Counterfactuals for Time-series Clustering**|Christos Fragkathoulas et.al.|[2603.05318](http://arxiv.org/abs/2603.05318)|null|null|
 |**2026-03-05**|**X-RAY: Mapping LLM Reasoning Capability via Formalized and Calibrated Probes**|Gao Tianxi et.al.|[2603.05290](http://arxiv.org/abs/2603.05290)|null|null|
 |**2026-03-05**|**The Local Tremaine-Weinberg Method for Galactic Pattern Speed: Theory and its Application to IllustrisTNG**|Hangci Du et.al.|[2603.05287](http://arxiv.org/abs/2603.05287)|null|null|
 |**2026-03-05**|**EMU/GAMA: A statistical perspective on active galactic nuclei diagnostics**|J. Prathap et.al.|[2603.05265](http://arxiv.org/abs/2603.05265)|null|null|
@@ -2552,7 +2552,7 @@ layout: default
 |**2026-03-05**|**Bidirectional Curriculum Generation: A Multi-Agent Framework for Data-Efficient Mathematical Reasoning**|Boren Hu et.al.|[2603.05120](http://arxiv.org/abs/2603.05120)|null|null|
 |**2026-03-05**|**Jagarin: A Three-Layer Architecture for Hibernating Personal Duty Agents on Mobile**|Ravi Kiran Kadaboina et.al.|[2603.05069](http://arxiv.org/abs/2603.05069)|null|null|
 |**2026-03-05**|**Reward-Conditioned Reinforcement Learning**|Michal Nauman et.al.|[2603.05066](http://arxiv.org/abs/2603.05066)|null|null|
-|**2026-03-05**|**CoIn3D: Revisiting Configuration-Invariant Multi-Camera 3D Object Detection**|Zhaonian Kuang et.al.|[2603.05042](http://arxiv.org/abs/2603.05042)|**[link](https://github.com/kwong292521/CoIn3D)**|null|
+|**2026-03-05**|**CoIn3D: Revisiting Configuration-Invariant Multi-Camera 3D Object Detection**|Zhaonian Kuang et.al.|[2603.05042](http://arxiv.org/abs/2603.05042)|null|null|
 |**2026-03-05**|**S5-SHB Agent: Society 5.0 enabled Multi-model Agentic Blockchain Framework for Smart Home**|Janani Rangila et.al.|[2603.05027](http://arxiv.org/abs/2603.05027)|null|null|
 |**2026-03-05**|**RepoLaunch: Automating Build&Test Pipeline of Code Repositories on ANY Language and ANY Platform**|Kenan Li et.al.|[2603.05026](http://arxiv.org/abs/2603.05026)|null|null|
 |**2026-03-05**|**BioLLMAgent: A Hybrid Framework with Enhanced Structural Interpretability for Simulating Human Decision-Making in Computational Psychiatry**|Zuo Fei et.al.|[2603.05016](http://arxiv.org/abs/2603.05016)|null|null|
@@ -3304,7 +3304,7 @@ layout: default
 |**2026-03-04**|**Rapid modeling of segregation-driven metal-oxide adhesion in high-entropy alloys using macroscopic atom model**|Dennis Boakye et.al.|[2603.04575](http://arxiv.org/abs/2603.04575)|null|null|
 |**2026-03-04**|**Transversal AND in Quantum Codes**|Christine Li et.al.|[2603.04548](http://arxiv.org/abs/2603.04548)|**[link](https://github.com/anhvtran/Uniform-and-boundary-frustratedtransverse-field-Ising-model)**|null|
 |**2026-03-04**|**Real5-OmniDocBench: A Full-Scale Physical Reconstruction Benchmark for Robust Document Parsing in the Wild**|Changda Zhou et.al.|[2603.04205](http://arxiv.org/abs/2603.04205)|null|null|
-|**2026-03-04**|**A Random Rule Model**|Avner Seror et.al.|[2603.04105](http://arxiv.org/abs/2603.04105)|null|null|
+|**2026-03-04**|**A Random Rule Model**|Avner Seror et.al.|[2603.04105](http://arxiv.org/abs/2603.04105)|**[link](https://github.com/HPSCIL/Patch-generating_Land_Use_Simulation_Model)**|null|
 |**2026-03-04**|**The Empty Quadrant: AI Teammates for Embodied Field Learning**|Hyein Kim et.al.|[2603.04034](http://arxiv.org/abs/2603.04034)|null|null|
 |**2026-03-04**|**Weakly Supervised Patch Annotation for Improved Screening of Diabetic Retinopathy**|Shramana Dey et.al.|[2603.03991](http://arxiv.org/abs/2603.03991)|null|null|
 |**2026-03-04**|**Hydrostatic Pressure Driven Band Gap Tuning and Self-Trapped Exciton Formation in (4FPEA) $_2$SnBr$_{4}$ Halide Perovskite**|Rafał Bartoszewicz et.al.|[2603.03931](http://arxiv.org/abs/2603.03931)|null|null|
@@ -3909,7 +3909,7 @@ layout: default
 |**2026-03-05**|**Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction**|John F Kam et.al.|[2603.05474](http://arxiv.org/abs/2603.05474)|null|null|
 |**2026-03-05**|**Leveraging LLM Parametric Knowledge for Fact Checking without Retrieval**|Artem Vazhentsev et.al.|[2603.05471](http://arxiv.org/abs/2603.05471)|null|null|
 |**2026-03-05**|**Kraus Constrained Sequence Learning For Quantum Trajectories from Continuous Measurement**|Priyanshi Singh et.al.|[2603.05468](http://arxiv.org/abs/2603.05468)|null|null|
-|**2026-03-05**|**EdgeDAM: Real-time Object Tracking for Mobile Devices**|Syed Muhammad Raza et.al.|[2603.05463](http://arxiv.org/abs/2603.05463)|null|null|
+|**2026-03-05**|**EdgeDAM: Real-time Object Tracking for Mobile Devices**|Syed Muhammad Raza et.al.|[2603.05463](http://arxiv.org/abs/2603.05463)|**[link](https://github.com/SMRaza1009/EdgeDAM)**|null|
 |**2026-03-05**|**NCTB-QA: A Large-Scale Bangla Educational Question Answering Dataset and Benchmarking Performance**|Abrar Eyasir et.al.|[2603.05462](http://arxiv.org/abs/2603.05462)|null|null|
 |**2026-03-05**|**Equilibrium for max-plus payoff**|Taras Radul et.al.|[2603.05461](http://arxiv.org/abs/2603.05461)|null|null|
 |**2026-03-05**|**Beyond Scattered Acceptance: Fast and Coherent Inference for DLMs via Longest Stable Prefixes**|Pengxiang Li et.al.|[2603.05454](http://arxiv.org/abs/2603.05454)|null|null|
