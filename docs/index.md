@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.07
+## Updated on 2026.03.08
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -608,7 +608,7 @@ layout: default
 |**2026-03-05**|**Distributed Partial Information Puzzles: Examining Common Ground Construction Under Epistemic Asymmetry**|Yifan Zhu et.al.|[2603.05450](http://arxiv.org/abs/2603.05450)|null|null|
 |**2026-03-05**|**NaiLIA: Multimodal Nail Design Retrieval Based on Dense Intent Descriptions and Palette Queries**|Kanon Amemiya et.al.|[2603.05446](http://arxiv.org/abs/2603.05446)|null|null|
 |**2026-03-05**|**Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model**|Dongwon Kim et.al.|[2603.05438](http://arxiv.org/abs/2603.05438)|null|null|
-|**2026-03-05**|**SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning**|Ye-Chan Kim et.al.|[2603.05437](http://arxiv.org/abs/2603.05437)|null|**[link](https://huggingface.co/sail/Sailor-7B-Chat)**|
+|**2026-03-05**|**SAIL: Similarity-Aware Guidance and Inter-Caption Augmentation-based Learning for Weakly-Supervised Dense Video Captioning**|Ye-Chan Kim et.al.|[2603.05437](http://arxiv.org/abs/2603.05437)|null|**[link](https://huggingface.co/sail/poolformer_m36)**|
 |**2026-03-05**|**On-Policy Self-Distillation for Reasoning Compression**|Hejian Sang et.al.|[2603.05433](http://arxiv.org/abs/2603.05433)|null|null|
 |**2026-03-05**|**Ensembling Language Models with Sequential Monte Carlo**|Robin Shing Moon Chan et.al.|[2603.05432](http://arxiv.org/abs/2603.05432)|null|null|
 |**2026-03-05**|**Technical design report of a complete and compact broadband high-harmonics femtosecond beamline based on a modular hollow waveguide for photons generation centered on the upper region of the extreme ultraviolet spectral range**|Yohann Brelet et.al.|[2603.05431](http://arxiv.org/abs/2603.05431)|null|null|
@@ -3302,13 +3302,13 @@ layout: default
 |**2026-03-05**|**Scalable Injury-Risk Screening in Baseball Pitching From Broadcast Video**|Jerrin Bright et.al.|[2603.04864](http://arxiv.org/abs/2603.04864)|null|null|
 |**2026-03-04**|**Anomalous Ion Confinement Penalties and Giant Ion-Screening Effects in One-Dimensional Nanopores**|Kevin Leung et.al.|[2603.04651](http://arxiv.org/abs/2603.04651)|null|null|
 |**2026-03-04**|**Rapid modeling of segregation-driven metal-oxide adhesion in high-entropy alloys using macroscopic atom model**|Dennis Boakye et.al.|[2603.04575](http://arxiv.org/abs/2603.04575)|null|null|
-|**2026-03-04**|**Transversal AND in Quantum Codes**|Christine Li et.al.|[2603.04548](http://arxiv.org/abs/2603.04548)|**[link](https://github.com/anhvtran/Uniform-and-boundary-frustratedtransverse-field-Ising-model)**|null|
+|**2026-03-04**|**Transversal AND in Quantum Codes**|Christine Li et.al.|[2603.04548](http://arxiv.org/abs/2603.04548)|null|null|
 |**2026-03-04**|**Real5-OmniDocBench: A Full-Scale Physical Reconstruction Benchmark for Robust Document Parsing in the Wild**|Changda Zhou et.al.|[2603.04205](http://arxiv.org/abs/2603.04205)|null|null|
 |**2026-03-04**|**A Random Rule Model**|Avner Seror et.al.|[2603.04105](http://arxiv.org/abs/2603.04105)|**[link](https://github.com/HPSCIL/Patch-generating_Land_Use_Simulation_Model)**|null|
 |**2026-03-04**|**The Empty Quadrant: AI Teammates for Embodied Field Learning**|Hyein Kim et.al.|[2603.04034](http://arxiv.org/abs/2603.04034)|null|null|
 |**2026-03-04**|**Weakly Supervised Patch Annotation for Improved Screening of Diabetic Retinopathy**|Shramana Dey et.al.|[2603.03991](http://arxiv.org/abs/2603.03991)|null|null|
 |**2026-03-04**|**Hydrostatic Pressure Driven Band Gap Tuning and Self-Trapped Exciton Formation in (4FPEA) $_2$SnBr$_{4}$ Halide Perovskite**|Rafał Bartoszewicz et.al.|[2603.03931](http://arxiv.org/abs/2603.03931)|null|null|
-|**2026-03-04**|**DeepScan: A Training-Free Framework for Visually Grounded Reasoning in Large Vision-Language Models**|Yangfu Li et.al.|[2603.03857](http://arxiv.org/abs/2603.03857)|null|**[link](https://huggingface.co/mantavya1/Deepscan)**|
+|**2026-03-04**|**DeepScan: A Training-Free Framework for Visually Grounded Reasoning in Large Vision-Language Models**|Yangfu Li et.al.|[2603.03857](http://arxiv.org/abs/2603.03857)|**[link](https://github.com/YChenL/DeepScan)**|**[link](https://huggingface.co/mantavya1/Deepscan)**|
 |**2026-03-04**|**RAGNav: A Retrieval-Augmented Topological Reasoning Framework for Multi-Goal Visual-Language Navigation**|Ling Luo et.al.|[2603.03745](http://arxiv.org/abs/2603.03745)|null|null|
 |**2026-03-04**|**Insights into hydrogen-induced vacancy stability and creep in chemically complex alloys**|Prashant Singh et.al.|[2603.03707](http://arxiv.org/abs/2603.03707)|null|null|
 |**2026-03-04**|**Plasmonic polaron in self-intercalated 1T-TiS2**|Byoung Ki Choi et.al.|[2603.03663](http://arxiv.org/abs/2603.03663)|null|null|
@@ -3904,7 +3904,7 @@ layout: default
 |**2026-03-05**|**Towards Provably Unbiased LLM Judges via Bias-Bounded Evaluation**|Benjamin Feuer et.al.|[2603.05485](http://arxiv.org/abs/2603.05485)|null|null|
 |**2026-03-05**|**Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline**|Guo Chen et.al.|[2603.05484](http://arxiv.org/abs/2603.05484)|null|null|
 |**2026-03-05**|**SurvHTE-Bench: A Benchmark for Heterogeneous Treatment Effect Estimation in Survival Analysis**|Shahriar Noroozizadeh et.al.|[2603.05483](http://arxiv.org/abs/2603.05483)|null|null|
-|**2026-03-05**|**Quantum Simulation of Coupled Harmonic Oscillators: From Theory to Implementation**|Viraj Dsouza et.al.|[2603.05479](http://arxiv.org/abs/2603.05479)|**[link](https://github.com/Quantum-Solutions-Launchpad/QSL-Classiq-P1)**|null|
+|**2026-03-05**|**Quantum Simulation of Coupled Harmonic Oscillators: From Theory to Implementation**|Viraj Dsouza et.al.|[2603.05479](http://arxiv.org/abs/2603.05479)|null|null|
 |**2026-03-05**|**Spin-resolved microscopy of $^{87}$Sr SU($N$ ) Fermi-Hubbard systems**|Carlos Gas-Ferrer et.al.|[2603.05478](http://arxiv.org/abs/2603.05478)|null|null|
 |**2026-03-05**|**Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction**|John F Kam et.al.|[2603.05474](http://arxiv.org/abs/2603.05474)|null|null|
 |**2026-03-05**|**Leveraging LLM Parametric Knowledge for Fact Checking without Retrieval**|Artem Vazhentsev et.al.|[2603.05471](http://arxiv.org/abs/2603.05471)|null|null|
