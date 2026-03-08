@@ -3304,11 +3304,11 @@ layout: default
 |**2026-03-04**|**Rapid modeling of segregation-driven metal-oxide adhesion in high-entropy alloys using macroscopic atom model**|Dennis Boakye et.al.|[2603.04575](http://arxiv.org/abs/2603.04575)|null|null|
 |**2026-03-04**|**Transversal AND in Quantum Codes**|Christine Li et.al.|[2603.04548](http://arxiv.org/abs/2603.04548)|null|null|
 |**2026-03-04**|**Real5-OmniDocBench: A Full-Scale Physical Reconstruction Benchmark for Robust Document Parsing in the Wild**|Changda Zhou et.al.|[2603.04205](http://arxiv.org/abs/2603.04205)|null|null|
-|**2026-03-04**|**A Random Rule Model**|Avner Seror et.al.|[2603.04105](http://arxiv.org/abs/2603.04105)|**[link](https://github.com/HPSCIL/Patch-generating_Land_Use_Simulation_Model)**|null|
+|**2026-03-04**|**A Random Rule Model**|Avner Seror et.al.|[2603.04105](http://arxiv.org/abs/2603.04105)|null|null|
 |**2026-03-04**|**The Empty Quadrant: AI Teammates for Embodied Field Learning**|Hyein Kim et.al.|[2603.04034](http://arxiv.org/abs/2603.04034)|null|null|
 |**2026-03-04**|**Weakly Supervised Patch Annotation for Improved Screening of Diabetic Retinopathy**|Shramana Dey et.al.|[2603.03991](http://arxiv.org/abs/2603.03991)|null|null|
 |**2026-03-04**|**Hydrostatic Pressure Driven Band Gap Tuning and Self-Trapped Exciton Formation in (4FPEA) $_2$SnBr$_{4}$ Halide Perovskite**|Rafał Bartoszewicz et.al.|[2603.03931](http://arxiv.org/abs/2603.03931)|null|null|
-|**2026-03-04**|**DeepScan: A Training-Free Framework for Visually Grounded Reasoning in Large Vision-Language Models**|Yangfu Li et.al.|[2603.03857](http://arxiv.org/abs/2603.03857)|**[link](https://github.com/YChenL/DeepScan)**|**[link](https://huggingface.co/mantavya1/Deepscan)**|
+|**2026-03-04**|**DeepScan: A Training-Free Framework for Visually Grounded Reasoning in Large Vision-Language Models**|Yangfu Li et.al.|[2603.03857](http://arxiv.org/abs/2603.03857)|null|**[link](https://huggingface.co/mantavya1/Deepscan)**|
 |**2026-03-04**|**RAGNav: A Retrieval-Augmented Topological Reasoning Framework for Multi-Goal Visual-Language Navigation**|Ling Luo et.al.|[2603.03745](http://arxiv.org/abs/2603.03745)|null|null|
 |**2026-03-04**|**Insights into hydrogen-induced vacancy stability and creep in chemically complex alloys**|Prashant Singh et.al.|[2603.03707](http://arxiv.org/abs/2603.03707)|null|null|
 |**2026-03-04**|**Plasmonic polaron in self-intercalated 1T-TiS2**|Byoung Ki Choi et.al.|[2603.03663](http://arxiv.org/abs/2603.03663)|null|null|
@@ -3909,7 +3909,7 @@ layout: default
 |**2026-03-05**|**Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction**|John F Kam et.al.|[2603.05474](http://arxiv.org/abs/2603.05474)|null|null|
 |**2026-03-05**|**Leveraging LLM Parametric Knowledge for Fact Checking without Retrieval**|Artem Vazhentsev et.al.|[2603.05471](http://arxiv.org/abs/2603.05471)|null|null|
 |**2026-03-05**|**Kraus Constrained Sequence Learning For Quantum Trajectories from Continuous Measurement**|Priyanshi Singh et.al.|[2603.05468](http://arxiv.org/abs/2603.05468)|null|null|
-|**2026-03-05**|**EdgeDAM: Real-time Object Tracking for Mobile Devices**|Syed Muhammad Raza et.al.|[2603.05463](http://arxiv.org/abs/2603.05463)|**[link](https://github.com/SMRaza1009/EdgeDAM)**|null|
+|**2026-03-05**|**EdgeDAM: Real-time Object Tracking for Mobile Devices**|Syed Muhammad Raza et.al.|[2603.05463](http://arxiv.org/abs/2603.05463)|null|null|
 |**2026-03-05**|**NCTB-QA: A Large-Scale Bangla Educational Question Answering Dataset and Benchmarking Performance**|Abrar Eyasir et.al.|[2603.05462](http://arxiv.org/abs/2603.05462)|null|null|
 |**2026-03-05**|**Equilibrium for max-plus payoff**|Taras Radul et.al.|[2603.05461](http://arxiv.org/abs/2603.05461)|null|null|
 |**2026-03-05**|**Beyond Scattered Acceptance: Fast and Coherent Inference for DLMs via Longest Stable Prefixes**|Pengxiang Li et.al.|[2603.05454](http://arxiv.org/abs/2603.05454)|null|null|
