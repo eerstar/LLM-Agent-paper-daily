@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.11
+## Updated on 2026.03.12
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -592,6 +592,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-11**|**LLM2Vec-Gen: Generative Embeddings from Large Language Models**|Parishad BehnamGhader et.al.|[2603.10913](http://arxiv.org/abs/2603.10913)|**[link](https://github.com/McGill-NLP/llm2vec-gen)**|null|
+|**2026-03-11**|**VCSEL-Enhanced Holographic Communication for Next-Generation LiFi: State-of-the-Art, Applications, and Future Directions**|Hossein Safi et.al.|[2603.10912](http://arxiv.org/abs/2603.10912)|null|null|
+|**2026-03-11**|**When Fine-Tuning Fails and when it Generalises: Role of Data Diversity and Mixed Training in LLM-based TTS**|Anupam Purwar et.al.|[2603.10904](http://arxiv.org/abs/2603.10904)|null|null|
+|**2026-03-11**|**Fast Programming of In-Plane Hyperbolic Phonon Polariton Optics Through van der Waals Crystals using the Phase-Change Material In3SbTe2**|Lina Jäckering et.al.|[2603.10900](http://arxiv.org/abs/2603.10900)|null|null|
+|**2026-03-11**|**LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation**|Jinwoo Ahn et.al.|[2603.10899](http://arxiv.org/abs/2603.10899)|null|null|
+|**2026-03-11**|**Ergodicity in reinforcement learning**|Dominik Baumann et.al.|[2603.10895](http://arxiv.org/abs/2603.10895)|**[link](https://github.com/raja-grewal/rlmd)**|null|
+|**2026-03-11**|**A Hybrid Knowledge-Grounded Framework for Safety and Traceability in Prescription Verification**|Yichi Zhu et.al.|[2603.10891](http://arxiv.org/abs/2603.10891)|null|null|
+|**2026-03-11**|**VoxCare: Studying Natural Communication Behaviors of Hospital Caregivers through Wearable Sensing of Egocentric Audio**|Tiantian Feng et.al.|[2603.10888](http://arxiv.org/abs/2603.10888)|null|null|
+|**2026-03-11**|**Dynamics-Predictive Sampling for Active RL Finetuning of Large Reasoning Models**|Yixiu Mao et.al.|[2603.10887](http://arxiv.org/abs/2603.10887)|null|null|
+|**2026-03-11**|**Continuous Diffusion Transformers for Designing Synthetic Regulatory Elements**|Jonathan Liu et.al.|[2603.10885](http://arxiv.org/abs/2603.10885)|null|null|
+|**2026-03-11**|**From Images to Words: Efficient Cross-Modal Knowledge Distillation to Language Models from Black-box Teachers**|Ayan Sengupta et.al.|[2603.10877](http://arxiv.org/abs/2603.10877)|null|null|
+|**2026-03-11**|**SNPgen: Phenotype-Supervised Genotype Representation and Synthetic Data Generation via Latent Diffusion**|Andrea Lampis et.al.|[2603.10873](http://arxiv.org/abs/2603.10873)|null|null|
+|**2026-03-11**|**Bilevel Layer-Positioning LoRA for Real Image Dehazing**|Yan Zhang et.al.|[2603.10872](http://arxiv.org/abs/2603.10872)|null|null|
+|**2026-03-11**|**FG-CLTP: Fine-Grained Contrastive Language Tactile Pretraining for Robotic Manipulation**|Wenxuan Ma et.al.|[2603.10871](http://arxiv.org/abs/2603.10871)|null|null|
+|**2026-03-11**|**Risk time splitting for improved estimation of screening programs effect on later mortality**|Harald Weedon-Fekjær et.al.|[2603.10869](http://arxiv.org/abs/2603.10869)|null|null|
+|**2026-03-11**|**Beyond Sequential Distance: Inter-Modal Distance Invariant Position Encoding**|Lin Chen et.al.|[2603.10863](http://arxiv.org/abs/2603.10863)|null|null|
+|**2026-03-11**|**OSUM-Pangu: An Open-Source Multidimension Speech Understanding Foundation Model Built upon OpenPangu on Ascend NPUs**|Yujie Liao et.al.|[2603.10862](http://arxiv.org/abs/2603.10862)|null|null|
+|**2026-03-11**|**UltrasoundAgents: Hierarchical Multi-Agent Evidence-Chain Reasoning for Breast Ultrasound Diagnosis**|Yali Zhu et.al.|[2603.10852](http://arxiv.org/abs/2603.10852)|null|null|
+|**2026-03-11**|**Towards Cold-Start Drafting and Continual Refining: A Value-Driven Memory Approach with Application to NPU Kernel Synthesis**|Yujie Zheng et.al.|[2603.10846](http://arxiv.org/abs/2603.10846)|null|null|
+|**2026-03-11**|**PivotAttack: Rethinking the Search Trajectory in Hard-Label Text Attacks via Pivot Words**|Yuzhi Liang et.al.|[2603.10842](http://arxiv.org/abs/2603.10842)|null|null|
+|**2026-03-11**|**BALD-SAM: Disagreement-based Active Prompting in Interactive Segmentation**|Prithwijit Chowdhury et.al.|[2603.10828](http://arxiv.org/abs/2603.10828)|null|null|
+|**2026-03-11**|**Speaker Verification with Speech-Aware LLMs: Evaluation and Augmentation**|Thomas Thebaud et.al.|[2603.10827](http://arxiv.org/abs/2603.10827)|null|null|
+|**2026-03-11**|**ReTabSyn: Realistic Tabular Data Synthesis via Reinforcement Learning**|Xiaofeng Lin et.al.|[2603.10823](http://arxiv.org/abs/2603.10823)|null|null|
+|**2026-03-11**|**Offset Pointing for Energy-efficient Reception in Underwater Optical Wireless Communication: Modeling and Performance Analysi**|Qiyu Ma et.al.|[2603.10822](http://arxiv.org/abs/2603.10822)|null|null|
+|**2026-03-11**|**HanMoVLM: Large Vision-Language Models for Professional Artistic Painting Evaluation**|Hongji Yang et.al.|[2603.10814](http://arxiv.org/abs/2603.10814)|null|null|
+|**2026-03-11**|**Protein Counterfactuals via Diffusion-Guided Latent Optimization**|Weronika Kłos et.al.|[2603.10811](http://arxiv.org/abs/2603.10811)|null|null|
+|**2026-03-11**|**Nurture-First Agent Development: Building Domain-Expert AI Agents Through Conversational Knowledge Crystallization**|Linghao Zhang et.al.|[2603.10808](http://arxiv.org/abs/2603.10808)|null|null|
+|**2026-03-11**|**Risk-Adjusted Harm Scoring for Automated Red Teaming for LLMs in Financial Services**|Fabrizio Dimino et.al.|[2603.10807](http://arxiv.org/abs/2603.10807)|null|null|
+|**2026-03-11**|**Denoising diffusion and latent diffusion models for physics field simulations**|Yuan Jia et.al.|[2603.10799](http://arxiv.org/abs/2603.10799)|null|null|
+|**2026-03-11**|**Engineering Magnetic Anisotropy in Permalloy Films via Atomic Force Nanolithography**|Abhishek Naik et.al.|[2603.10798](http://arxiv.org/abs/2603.10798)|null|null|
+|**2026-03-11**|**Electromagnetic Signatures of Supermassive Binary Black Holes. I. Thermal Synchrotron, Self-Lensing Flares, and Jet Precession**|Hong-Xuan Jiang et.al.|[2603.10792](http://arxiv.org/abs/2603.10792)|null|null|
+|**2026-03-11**|**Semantic Satellite Communications for Synchronized Audiovisual Reconstruction**|Fangyu Liu et.al.|[2603.10791](http://arxiv.org/abs/2603.10791)|null|null|
 |**2026-03-10**|**VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**|Anh Thuan Tran et.al.|[2603.09673](http://arxiv.org/abs/2603.09673)|**[link](https://github.com/anhthuan1999/varsplat)**|null|
 |**2026-03-10**|**Understanding the Interplay between LLMs' Utilisation of Parametric and Contextual Knowledge: A keynote at ECIR 2025**|Isabelle Augenstein et.al.|[2603.09654](http://arxiv.org/abs/2603.09654)|null|null|
 |**2026-03-10**|**MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants**|Zuhao Zhang et.al.|[2603.09652](http://arxiv.org/abs/2603.09652)|null|null|
@@ -1120,6 +1152,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-11**|**Tuning correlated states of twisted mono-bilayer graphene with proximity-induced spin-orbit coupling**|Jeyong Park et.al.|[2603.10914](http://arxiv.org/abs/2603.10914)|null|null|
+|**2026-03-11**|**LLM2Vec-Gen: Generative Embeddings from Large Language Models**|Parishad BehnamGhader et.al.|[2603.10913](http://arxiv.org/abs/2603.10913)|null|null|
+|**2026-03-11**|**Level Crossing Rate Analysis for Optimal Single-user RIS Systems**|Amy S. Inwood et.al.|[2603.10909](http://arxiv.org/abs/2603.10909)|null|null|
+|**2026-03-11**|**Expressive Boundedness of Authoritative DNS Response Selection**|Chris Bertinato et.al.|[2603.10897](http://arxiv.org/abs/2603.10897)|null|null|
+|**2026-03-11**|**A Hybrid Knowledge-Grounded Framework for Safety and Traceability in Prescription Verification**|Yichi Zhu et.al.|[2603.10891](http://arxiv.org/abs/2603.10891)|null|null|
+|**2026-03-11**|**Estimands and the Choice of Non-Inferiority Margin under ICH E9(R1)**|Tobias Mütze et.al.|[2603.10889](http://arxiv.org/abs/2603.10889)|null|null|
+|**2026-03-11**|**VoxCare: Studying Natural Communication Behaviors of Hospital Caregivers through Wearable Sensing of Egocentric Audio**|Tiantian Feng et.al.|[2603.10888](http://arxiv.org/abs/2603.10888)|null|null|
+|**2026-03-11**|**Dynamics-Predictive Sampling for Active RL Finetuning of Large Reasoning Models**|Yixiu Mao et.al.|[2603.10887](http://arxiv.org/abs/2603.10887)|null|null|
+|**2026-03-11**|**Continuous Diffusion Transformers for Designing Synthetic Regulatory Elements**|Jonathan Liu et.al.|[2603.10885](http://arxiv.org/abs/2603.10885)|null|null|
+|**2026-03-11**|**Quantum Telepathy: A Quantum Technology with Near-Term Applications**|Dawei Ding et.al.|[2603.10883](http://arxiv.org/abs/2603.10883)|null|null|
+|**2026-03-11**|**Local-in-Time Existence of $L^1$ solutions to the Gravity Water Wave Kinetic Equation**|Yulin Pan et.al.|[2603.10882](http://arxiv.org/abs/2603.10882)|null|null|
+|**2026-03-11**|**From Images to Words: Efficient Cross-Modal Knowledge Distillation to Language Models from Black-box Teachers**|Ayan Sengupta et.al.|[2603.10877](http://arxiv.org/abs/2603.10877)|null|null|
+|**2026-03-11**|**SNPgen: Phenotype-Supervised Genotype Representation and Synthetic Data Generation via Latent Diffusion**|Andrea Lampis et.al.|[2603.10873](http://arxiv.org/abs/2603.10873)|null|null|
+|**2026-03-11**|**FG-CLTP: Fine-Grained Contrastive Language Tactile Pretraining for Robotic Manipulation**|Wenxuan Ma et.al.|[2603.10871](http://arxiv.org/abs/2603.10871)|null|null|
+|**2026-03-11**|**X-ray polarization in the soft state of Cyg X-1**|A. Niedzwiecki et.al.|[2603.10870](http://arxiv.org/abs/2603.10870)|null|null|
+|**2026-03-11**|**Beyond Reproducible Research: Building a Formal Representation of a Data Analysis**|Roger D. Peng et.al.|[2603.10866](http://arxiv.org/abs/2603.10866)|null|null|
+|**2026-03-11**|**GRACE: A Unified 2D Multi-Robot Path Planning Simulator & Benchmark for Grid, Roadmap, And Continuous Environments**|Chuanlong Zang et.al.|[2603.10858](http://arxiv.org/abs/2603.10858)|null|null|
+|**2026-03-11**|**6ABOS: An Open-Source Atmospheric Correction Framework for the EnMAP Hyperspectral Mission Based on 6S**|Gabriel Caballero Cañas et.al.|[2603.10856](http://arxiv.org/abs/2603.10856)|null|null|
+|**2026-03-11**|**UltrasoundAgents: Hierarchical Multi-Agent Evidence-Chain Reasoning for Breast Ultrasound Diagnosis**|Yali Zhu et.al.|[2603.10852](http://arxiv.org/abs/2603.10852)|null|null|
+|**2026-03-11**|**$V_{0.5}$ : Generalist Value Model as a Prior for Sparse RL Rollouts**|Yi-Kai Zhang et.al.|[2603.10848](http://arxiv.org/abs/2603.10848)|null|null|
+|**2026-03-11**|**Long-lived quasinormal modes, shadows and particle motion in four-dimensional quasi-topological gravity**|Bekir Can Lütfüoğlu et.al.|[2603.10844](http://arxiv.org/abs/2603.10844)|null|null|
+|**2026-03-11**|**Modeling anisotropic energy dissipation of light ions at the atomistic scale**|Evgeniia Ponomareva et.al.|[2603.10838](http://arxiv.org/abs/2603.10838)|null|null|
+|**2026-03-11**|**Evaluating Few-Shot Pill Recognition Under Visual Domain Shift**|W. I. Chu et.al.|[2603.10833](http://arxiv.org/abs/2603.10833)|null|null|
+|**2026-03-11**|**Photonic nanojets as emergent free-space power flux funnels**|Mirza Karamehmedović et.al.|[2603.10831](http://arxiv.org/abs/2603.10831)|null|null|
+|**2026-03-11**|**Magnetic criticality and magnetocaloric response in MnBi $_2$Te$_4$ and MnBi$_4$Te$_7$**|Nazma Firdosh et.al.|[2603.10824](http://arxiv.org/abs/2603.10824)|null|null|
+|**2026-03-11**|**Dissipation- versus Chaos-Induced Relaxation in Non-Markovian Quantum Many-Body Systems**|Gabriel Almeida et.al.|[2603.10815](http://arxiv.org/abs/2603.10815)|null|null|
+|**2026-03-11**|**HanMoVLM: Large Vision-Language Models for Professional Artistic Painting Evaluation**|Hongji Yang et.al.|[2603.10814](http://arxiv.org/abs/2603.10814)|null|null|
+|**2026-03-11**|**Spectral deviation of concentration operators on reproducing kernel Hilbert spaces**|Felipe Marceca et.al.|[2603.10813](http://arxiv.org/abs/2603.10813)|null|null|
+|**2026-03-11**|**PolGS++: Physically-Guided Polarimetric Gaussian Splatting for Fast Reflective Surface Reconstruction**|Yufei Han et.al.|[2603.10801](http://arxiv.org/abs/2603.10801)|null|null|
+|**2026-03-11**|**AI-Enhanced Spatial Cellular Traffic Demand Prediction with Contextual Clustering and Error Correction for 5G/6G Planning**|Mohamad Alkadamani et.al.|[2603.10800](http://arxiv.org/abs/2603.10800)|null|null|
+|**2026-03-11**|**Re-Evaluating EVMBench: Are AI Agents Ready for Smart Contract Security?**|Chaoyuan Peng et.al.|[2603.10795](http://arxiv.org/abs/2603.10795)|null|null|
+|**2026-03-11**|**Multilingual Reasoning Gym: Multilingual Scaling of Procedural Reasoning Environments**|Konstantin Dobler et.al.|[2603.10793](http://arxiv.org/abs/2603.10793)|null|null|
 |**2026-03-10**|**d-DNNF Modulo Theories: A General Framework for Polytime SMT Queries**|Gabriele Masina et.al.|[2603.09975](http://arxiv.org/abs/2603.09975)|null|null|
 |**2026-03-10**|**Probing Physics Beyond the Standard Model through Combined Analyses of Next-Generation Type Ia Supernova, CMB, and BAO Surveys**|Srinivasan Raghunathan et.al.|[2603.09973](http://arxiv.org/abs/2603.09973)|null|null|
 |**2026-03-10**|**TiPToP: A Modular Open-Vocabulary Planning System for Robotic Manipulation**|William Shen et.al.|[2603.09971](http://arxiv.org/abs/2603.09971)|**[link](https://github.com/tiptop-robot/tiptop)**|null|
@@ -1681,6 +1745,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-11**|**Ergodicity in reinforcement learning**|Dominik Baumann et.al.|[2603.10895](http://arxiv.org/abs/2603.10895)|**[link](https://github.com/raja-grewal/rlmd)**|null|
+|**2026-03-11**|**RL-Augmented MPC for Non-Gaited Legged and Hybrid Locomotion**|Andrea Patrizi et.al.|[2603.10878](http://arxiv.org/abs/2603.10878)|**[link](https://github.com/AndrePatri/AugMPC)**|null|
+|**2026-03-11**|**An Extreme Multi-label Text Classification (XMTC) Library Dataset: What if we took "Use of Practical AI in Digital Libraries" seriously?**|Jennifer D'Souza et.al.|[2603.10876](http://arxiv.org/abs/2603.10876)|null|null|
+|**2026-03-11**|**GRACE: A Unified 2D Multi-Robot Path Planning Simulator & Benchmark for Grid, Roadmap, And Continuous Environments**|Chuanlong Zang et.al.|[2603.10858](http://arxiv.org/abs/2603.10858)|null|null|
+|**2026-03-11**|**UltrasoundAgents: Hierarchical Multi-Agent Evidence-Chain Reasoning for Breast Ultrasound Diagnosis**|Yali Zhu et.al.|[2603.10852](http://arxiv.org/abs/2603.10852)|null|null|
+|**2026-03-11**|**Towards Cold-Start Drafting and Continual Refining: A Value-Driven Memory Approach with Application to NPU Kernel Synthesis**|Yujie Zheng et.al.|[2603.10846](http://arxiv.org/abs/2603.10846)|null|null|
+|**2026-03-11**|**Distributed Safety Critical Control among Uncontrollable Agents using Reconstructed Control Barrier Functions**|Yuzhang Peng et.al.|[2603.10836](http://arxiv.org/abs/2603.10836)|null|null|
+|**2026-03-11**|**Distributed Stability Certification and Control from Local Data**|Surya Malladi et.al.|[2603.10812](http://arxiv.org/abs/2603.10812)|null|null|
+|**2026-03-11**|**Nurture-First Agent Development: Building Domain-Expert AI Agents Through Conversational Knowledge Crystallization**|Linghao Zhang et.al.|[2603.10808](http://arxiv.org/abs/2603.10808)|null|null|
+|**2026-03-11**|**Re-Evaluating EVMBench: Are AI Agents Ready for Smart Contract Security?**|Chaoyuan Peng et.al.|[2603.10795](http://arxiv.org/abs/2603.10795)|null|null|
+|**2026-03-11**|**A Control-Theoretic Foundation for Agentic Systems**|Ali Eslami et.al.|[2603.10779](http://arxiv.org/abs/2603.10779)|null|null|
+|**2026-03-11**|**HeartAgent: An Autonomous Agent System for Explainable Differential Diagnosis in Cardiology**|Shuang Zhou et.al.|[2603.10764](http://arxiv.org/abs/2603.10764)|null|null|
+|**2026-03-11**|**AttriGuard: Defeating Indirect Prompt Injection in LLM Agents via Causal Attribution of Tool Invocations**|Yu He et.al.|[2603.10749](http://arxiv.org/abs/2603.10749)|null|null|
+|**2026-03-11**|**Pneuma-Seeker: A Relational Reification Mechanism to Align AI Agents with Human Work over Relational Data**|Muhammad Imam Luthfi Balaka et.al.|[2603.10747](http://arxiv.org/abs/2603.10747)|null|null|
+|**2026-03-11**|**Scaling and Trade-offs in Multi-agent Autonomous Systems**|Abram H. Clark et.al.|[2603.10743](http://arxiv.org/abs/2603.10743)|null|null|
+|**2026-03-11**|**FutureVLA: Joint Visuomotor Prediction for Vision-Language-Action Model**|Xiaoxu Xu et.al.|[2603.10712](http://arxiv.org/abs/2603.10712)|null|null|
+|**2026-03-11**|**Structured Linked Data as a Memory Layer for Agent-Orchestrated Retrieval**|Andrea Volpini et.al.|[2603.10700](http://arxiv.org/abs/2603.10700)|null|null|
+|**2026-03-11**|**OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency**|Guiyong Zheng et.al.|[2603.10682](http://arxiv.org/abs/2603.10682)|null|null|
+|**2026-03-11**|**From Education to Evidence: A Collaborative Practice Research Platform for AI-Integrated Agile Development**|Tobias Geger et.al.|[2603.10679](http://arxiv.org/abs/2603.10679)|null|null|
+|**2026-03-11**|**Emulating Clinician Cognition via Self-Evolving Deep Clinical Research**|Ruiyang Ren et.al.|[2603.10677](http://arxiv.org/abs/2603.10677)|null|null|
+|**2026-03-11**|**Cybo-Waiter: A Physical Agentic Framework for Humanoid Whole-Body Locomotion-Manipulation**|Peng Ren et.al.|[2603.10675](http://arxiv.org/abs/2603.10675)|null|null|
+|**2026-03-11**|**Breaking User-Centric Agency: A Tri-Party Framework for Agent-Based Recommendation**|Yaxin Gong et.al.|[2603.10673](http://arxiv.org/abs/2603.10673)|null|null|
+|**2026-03-11**|**Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration**|Alexandre De Masi et.al.|[2603.10664](http://arxiv.org/abs/2603.10664)|null|null|
+|**2026-03-11**|**Technological Excellence Requires Human and Social Context**|Karl Palmås et.al.|[2603.10653](http://arxiv.org/abs/2603.10653)|null|null|
+|**2026-03-11**|**ESG Reporting Lifecycle Management with Large Language Models and AI Agents**|Thong Hoang et.al.|[2603.10646](http://arxiv.org/abs/2603.10646)|null|null|
+|**2026-03-11**|**Trajectory-Informed Memory Generation for Self-Improving Agent Systems**|Gaodan Fang et.al.|[2603.10600](http://arxiv.org/abs/2603.10600)|null|null|
+|**2026-03-11**|**CUAAudit: Meta-Evaluation of Vision-Language Models as Auditors of Autonomous Computer-Use Agents**|Marta Sumyk et.al.|[2603.10577](http://arxiv.org/abs/2603.10577)|null|null|
+|**2026-03-11**|**Adaptive RAN Slicing Control via Reward-Free Self-Finetuning Agents**|Yuanhao Li et.al.|[2603.10564](http://arxiv.org/abs/2603.10564)|null|null|
+|**2026-03-11**|**DSFlash: Comprehensive Panoptic Scene Graph Generation in Realtime**|Julian Lorenz et.al.|[2603.10538](http://arxiv.org/abs/2603.10538)|null|null|
+|**2026-03-11**|**UAV-MARL: Multi-Agent Reinforcement Learning for Time-Critical and Dynamic Medical Supply Delivery**|Islam Guven et.al.|[2603.10528](http://arxiv.org/abs/2603.10528)|null|null|
+|**2026-03-11**|**IH-Challenge: A Training Dataset to Improve Instruction Hierarchy on Frontier LLMs**|Chuan Guo et.al.|[2603.10521](http://arxiv.org/abs/2603.10521)|null|null|
+|**2026-03-11**|**Safe and Scalable Web Agent Learning via Recreated Websites**|Hyungjoo Chae et.al.|[2603.10505](http://arxiv.org/abs/2603.10505)|null|null|
 |**2026-03-10**|**Emotional Modulation in Swarm Decision Dynamics**|David Freire-Obregón et.al.|[2603.09963](http://arxiv.org/abs/2603.09963)|null|null|
 |**2026-03-10**|**Towards a Neural Debugger for Python**|Maximilian Beck et.al.|[2603.09951](http://arxiv.org/abs/2603.09951)|null|null|
 |**2026-03-10**|**MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems**|Yunhang Qian et.al.|[2603.09909](http://arxiv.org/abs/2603.09909)|null|null|
@@ -2220,6 +2316,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-11**|**Sliding Ferroelectricity Driven Spin-Layertronics in Altermagnetic Multilayers**|Rui Peng et.al.|[2603.10907](http://arxiv.org/abs/2603.10907)|null|null|
+|**2026-03-11**|**GRACE: A Unified 2D Multi-Robot Path Planning Simulator & Benchmark for Grid, Roadmap, And Continuous Environments**|Chuanlong Zang et.al.|[2603.10858](http://arxiv.org/abs/2603.10858)|null|null|
+|**2026-03-11**|**6ABOS: An Open-Source Atmospheric Correction Framework for the EnMAP Hyperspectral Mission Based on 6S**|Gabriel Caballero Cañas et.al.|[2603.10856](http://arxiv.org/abs/2603.10856)|null|null|
+|**2026-03-11**|**Adjoints of Morphisms of Neural Codes**|Juliann Geraci et.al.|[2603.10837](http://arxiv.org/abs/2603.10837)|null|null|
+|**2026-03-11**|**Protein Counterfactuals via Diffusion-Guided Latent Optimization**|Weronika Kłos et.al.|[2603.10811](http://arxiv.org/abs/2603.10811)|null|null|
+|**2026-03-11**|**Backdoor Directions in Vision Transformers**|Sengim Karayalcin et.al.|[2603.10806](http://arxiv.org/abs/2603.10806)|null|null|
+|**2026-03-11**|**A Control-Theoretic Foundation for Agentic Systems**|Ali Eslami et.al.|[2603.10779](http://arxiv.org/abs/2603.10779)|null|null|
+|**2026-03-11**|**AI-Generated Rubric Interfaces: K-12 Teachers' Perceptions and Practices**|Bahare Riahi et.al.|[2603.10773](http://arxiv.org/abs/2603.10773)|null|null|
+|**2026-03-11**|**Study of Magnon-Photon Coupling in Ultra-thin Films Using the Derivative-Divide Method**|Kang An et.al.|[2603.10770](http://arxiv.org/abs/2603.10770)|null|null|
+|**2026-03-11**|**HeartAgent: An Autonomous Agent System for Explainable Differential Diagnosis in Cardiology**|Shuang Zhou et.al.|[2603.10764](http://arxiv.org/abs/2603.10764)|null|null|
+|**2026-03-11**|**AttriGuard: Defeating Indirect Prompt Injection in LLM Agents via Causal Attribution of Tool Invocations**|Yu He et.al.|[2603.10749](http://arxiv.org/abs/2603.10749)|null|null|
+|**2026-03-11**|**Discrete averaging for discrete time dynamical systems**|Vassili Gelfreich et.al.|[2603.10737](http://arxiv.org/abs/2603.10737)|null|null|
+|**2026-03-11**|**Probabilistic Verification of Voice Anti-Spoofing Models**|Evgeny Kushnir et.al.|[2603.10713](http://arxiv.org/abs/2603.10713)|null|null|
+|**2026-03-11**|**Packaging Jupyter notebooks as installable desktop apps using LabConstrictor**|Iván Hidalgo-Cenalmor et.al.|[2603.10704](http://arxiv.org/abs/2603.10704)|null|null|
+|**2026-03-11**|**Contract And Conquer: How to Provably Compute Adversarial Examples for a Black-Box Model?**|Anna Chistyakova et.al.|[2603.10689](http://arxiv.org/abs/2603.10689)|null|null|
+|**2026-03-11**|**A Python implementation of some geometric tools on Kendall 3D shape space for practical applications**|Jorge Valero et.al.|[2603.10687](http://arxiv.org/abs/2603.10687)|null|null|
+|**2026-03-11**|**From Education to Evidence: A Collaborative Practice Research Platform for AI-Integrated Agile Development**|Tobias Geger et.al.|[2603.10679](http://arxiv.org/abs/2603.10679)|null|null|
+|**2026-03-11**|**An FPGA Implementation of Displacement Vector Search for Intra Pattern Copy in JPEG XS**|Qiyue Chen et.al.|[2603.10671](http://arxiv.org/abs/2603.10671)|null|null|
+|**2026-03-11**|**Real Line Congruences of Trilinear Birational Maps**|Bert Jüttler et.al.|[2603.10666](http://arxiv.org/abs/2603.10666)|null|null|
+|**2026-03-11**|**Dressed-State Optomechanics in the Few-Photon Regime**|Surangana Sengupta et.al.|[2603.10665](http://arxiv.org/abs/2603.10665)|null|null|
+|**2026-03-11**|**Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration**|Alexandre De Masi et.al.|[2603.10664](http://arxiv.org/abs/2603.10664)|null|null|
+|**2026-03-11**|**Gradient Flow Drifting: Generative Modeling via Wasserstein Gradient Flows of KDE-Approximated Divergences**|Jiarui Cao et.al.|[2603.10592](http://arxiv.org/abs/2603.10592)|null|null|
+|**2026-03-11**|**Punctually Standard and Nonstandard Models of Natural Numbers**|Nikolay Bazhenov et.al.|[2603.10589](http://arxiv.org/abs/2603.10589)|null|null|
+|**2026-03-11**|**FP-Predictor - False Positive Prediction for Static Analysis Reports**|Tom Ohlmer et.al.|[2603.10558](http://arxiv.org/abs/2603.10558)|null|null|
+|**2026-03-11**|**First-Principles Electronegativity Scale from the Atomic Mean Inner Potential**|Jin-Cheng Zheng et.al.|[2603.10523](http://arxiv.org/abs/2603.10523)|null|null|
+|**2026-03-11**|**IH-Challenge: A Training Dataset to Improve Instruction Hierarchy on Frontier LLMs**|Chuan Guo et.al.|[2603.10521](http://arxiv.org/abs/2603.10521)|null|null|
+|**2026-03-11**|**Persistent short-range charge correlations revealed by ultrafast melting of electronic order in YBa $_2$Cu$_3$O$_{6+x}$**|C. Seo et.al.|[2603.10486](http://arxiv.org/abs/2603.10486)|null|null|
+|**2026-03-11**|**White Dwarfs with Infrared Excess from LAMOST Data Release 11**|Keyi Wang et.al.|[2603.10481](http://arxiv.org/abs/2603.10481)|null|null|
+|**2026-03-11**|**Brenier Isotonic Regression**|Han Bao et.al.|[2603.10452](http://arxiv.org/abs/2603.10452)|null|null|
+|**2026-03-11**|**Spyglass: Directional Spectrum Sensing with Single-shot AoA Estimation and Virtual Arrays**|Raghav Subbaraman et.al.|[2603.10421](http://arxiv.org/abs/2603.10421)|null|null|
+|**2026-03-11**|**A mapping-based projection of detailed kinetics uncertainty onto reduced manifolds**|Vansh Sharma et.al.|[2603.10381](http://arxiv.org/abs/2603.10381)|null|null|
+|**2026-03-11**|**Reactive Writers: How Co-Writing with AI Changes How We Engage with Ideas**|Advait Bhat et.al.|[2603.10374](http://arxiv.org/abs/2603.10374)|null|null|
 |**2026-03-10**|**d-DNNF Modulo Theories: A General Framework for Polytime SMT Queries**|Gabriele Masina et.al.|[2603.09975](http://arxiv.org/abs/2603.09975)|null|null|
 |**2026-03-10**|**Understanding the Use of a Large Language Model-Powered Guide to Make Virtual Reality Accessible for Blind and Low Vision People**|Jazmin Collins et.al.|[2603.09964](http://arxiv.org/abs/2603.09964)|null|null|
 |**2026-03-10**|**Emotional Modulation in Swarm Decision Dynamics**|David Freire-Obregón et.al.|[2603.09963](http://arxiv.org/abs/2603.09963)|null|null|
@@ -2769,6 +2897,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-11**|**LLM2Vec-Gen: Generative Embeddings from Large Language Models**|Parishad BehnamGhader et.al.|[2603.10913](http://arxiv.org/abs/2603.10913)|**[link](https://github.com/McGill-NLP/llm2vec-gen)**|null|
+|**2026-03-11**|**GLM-OCR Technical Report**|Shuaiqi Duan et.al.|[2603.10910](http://arxiv.org/abs/2603.10910)|null|null|
+|**2026-03-11**|**LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation**|Jinwoo Ahn et.al.|[2603.10899](http://arxiv.org/abs/2603.10899)|null|null|
+|**2026-03-11**|**A Hybrid Knowledge-Grounded Framework for Safety and Traceability in Prescription Verification**|Yichi Zhu et.al.|[2603.10891](http://arxiv.org/abs/2603.10891)|null|null|
+|**2026-03-11**|**An Extreme Multi-label Text Classification (XMTC) Library Dataset: What if we took "Use of Practical AI in Digital Libraries" seriously?**|Jennifer D'Souza et.al.|[2603.10876](http://arxiv.org/abs/2603.10876)|null|null|
+|**2026-03-11**|**Beyond Sequential Distance: Inter-Modal Distance Invariant Position Encoding**|Lin Chen et.al.|[2603.10863](http://arxiv.org/abs/2603.10863)|null|null|
+|**2026-03-11**|**6ABOS: An Open-Source Atmospheric Correction Framework for the EnMAP Hyperspectral Mission Based on 6S**|Gabriel Caballero Cañas et.al.|[2603.10856](http://arxiv.org/abs/2603.10856)|null|null|
+|**2026-03-11**|**Towards Cold-Start Drafting and Continual Refining: A Value-Driven Memory Approach with Application to NPU Kernel Synthesis**|Yujie Zheng et.al.|[2603.10846](http://arxiv.org/abs/2603.10846)|null|null|
+|**2026-03-11**|**MAD: Memory Allocation meets Software Diversity**|Manuel Wiesinger et.al.|[2603.10840](http://arxiv.org/abs/2603.10840)|null|null|
+|**2026-03-11**|**Semantic Satellite Communications for Synchronized Audiovisual Reconstruction**|Fangyu Liu et.al.|[2603.10791](http://arxiv.org/abs/2603.10791)|null|null|
+|**2026-03-11**|**Identifying and Measuring Satellite Streaks in DECam Images**|Alexandra Serrano Mendoza et.al.|[2603.10790](http://arxiv.org/abs/2603.10790)|null|null|
+|**2026-03-11**|**Interpretable Chinese Metaphor Identification via LLM-Assisted MIPVU Rule Script Generation: A Comparative Protocol Study**|Weihang Huang et.al.|[2603.10784](http://arxiv.org/abs/2603.10784)|null|null|
+|**2026-03-11**|**A Control-Theoretic Foundation for Agentic Systems**|Ali Eslami et.al.|[2603.10779](http://arxiv.org/abs/2603.10779)|null|null|
+|**2026-03-11**|**A Disguise-and-Squeeze PIR Scheme for the MDS-TPIR Setting and Beyond**|Rui Sun et.al.|[2603.10769](http://arxiv.org/abs/2603.10769)|null|null|
+|**2026-03-11**|**RAGPerf: An End-to-End Benchmarking Framework for Retrieval-Augmented Generation Systems**|Shaobo Li et.al.|[2603.10765](http://arxiv.org/abs/2603.10765)|null|null|
+|**2026-03-11**|**Efficient Fine-Scale Simulation of Nonlinear Hyperelastic Lattice Structures**|Clément Guillet et.al.|[2603.10741](http://arxiv.org/abs/2603.10741)|null|null|
+|**2026-03-11**|**UAV traffic scene understanding: A cross-spectral guided approach and a unified benchmark**|Yu Zhang et.al.|[2603.10722](http://arxiv.org/abs/2603.10722)|null|null|
+|**2026-03-11**|**Parallel-in-Time Nonlinear Optimal Control via GPU-native Sequential Convex Programming**|Yilin Zou et.al.|[2603.10711](http://arxiv.org/abs/2603.10711)|null|null|
+|**2026-03-11**|**Prism- $Δ$ : Differential Subspace Steering for Prompt Highlighting in Large Language Models**|Yuyao Ge et.al.|[2603.10705](http://arxiv.org/abs/2603.10705)|null|null|
+|**2026-03-11**|**Structured Linked Data as a Memory Layer for Agent-Orchestrated Retrieval**|Andrea Volpini et.al.|[2603.10700](http://arxiv.org/abs/2603.10700)|null|null|
+|**2026-03-11**|**OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency**|Guiyong Zheng et.al.|[2603.10682](http://arxiv.org/abs/2603.10682)|null|null|
+|**2026-03-11**|**Breaking User-Centric Agency: A Tri-Party Framework for Agent-Based Recommendation**|Yaxin Gong et.al.|[2603.10673](http://arxiv.org/abs/2603.10673)|null|null|
+|**2026-03-11**|**An FPGA Implementation of Displacement Vector Search for Intra Pattern Copy in JPEG XS**|Qiyue Chen et.al.|[2603.10671](http://arxiv.org/abs/2603.10671)|null|null|
+|**2026-03-11**|**Low-loss phase-change material based programmable mode converter for photonic computing**|Xueyang Shen et.al.|[2603.10667](http://arxiv.org/abs/2603.10667)|null|null|
+|**2026-03-11**|**ESG Reporting Lifecycle Management with Large Language Models and AI Agents**|Thong Hoang et.al.|[2603.10646](http://arxiv.org/abs/2603.10646)|null|null|
+|**2026-03-11**|**Density-Dependent Graph Orientation and Coloring in Scalable MPC**|Mohsen Ghaffari et.al.|[2603.10639](http://arxiv.org/abs/2603.10639)|null|null|
+|**2026-03-11**|**A Hypergraph-Based Framework for Exploratory Business Intelligence**|Yunkai Lou et.al.|[2603.10625](http://arxiv.org/abs/2603.10625)|null|null|
+|**2026-03-11**|**Trajectory-Informed Memory Generation for Self-Improving Agent Systems**|Gaodan Fang et.al.|[2603.10600](http://arxiv.org/abs/2603.10600)|null|null|
+|**2026-03-11**|**Attribution as Retrieval: Model-Agnostic AI-Generated Image Attribution**|Hongsong Wang et.al.|[2603.10583](http://arxiv.org/abs/2603.10583)|null|null|
+|**2026-03-11**|**HAPEns: Hardware-Aware Post-Hoc Ensembling for Tabular Data**|Jannis Maier et.al.|[2603.10582](http://arxiv.org/abs/2603.10582)|null|null|
+|**2026-03-11**|**R4-CGQA: Retrieval-based Vision Language Models for Computer Graphics Image Quality Assessment**|Zhuangzi Li et.al.|[2603.10578](http://arxiv.org/abs/2603.10578)|null|null|
+|**2026-03-11**|**End-to-End Chatbot Evaluation with Adaptive Reasoning and Uncertainty Filtering**|Nhi Dang et.al.|[2603.10570](http://arxiv.org/abs/2603.10570)|null|null|
 |**2026-03-10**|**d-DNNF Modulo Theories: A General Framework for Polytime SMT Queries**|Gabriele Masina et.al.|[2603.09975](http://arxiv.org/abs/2603.09975)|null|null|
 |**2026-03-10**|**PathMem: Toward Cognition-Aligned Memory Transformation for Pathology MLLMs**|Jinyue Li et.al.|[2603.09943](http://arxiv.org/abs/2603.09943)|null|null|
 |**2026-03-10**|**A Voronoi Cell Formulation for Principled Token Pruning in Late-Interaction Retrieval Models**|Yash Kankanampati et.al.|[2603.09933](http://arxiv.org/abs/2603.09933)|null|null|
@@ -3317,6 +3477,32 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-11**|**An Extreme Multi-label Text Classification (XMTC) Library Dataset: What if we took "Use of Practical AI in Digital Libraries" seriously?**|Jennifer D'Souza et.al.|[2603.10876](http://arxiv.org/abs/2603.10876)|null|null|
+|**2026-03-11**|**GRACE: A Unified 2D Multi-Robot Path Planning Simulator & Benchmark for Grid, Roadmap, And Continuous Environments**|Chuanlong Zang et.al.|[2603.10858](http://arxiv.org/abs/2603.10858)|null|null|
+|**2026-03-11**|**UltrasoundAgents: Hierarchical Multi-Agent Evidence-Chain Reasoning for Breast Ultrasound Diagnosis**|Yali Zhu et.al.|[2603.10852](http://arxiv.org/abs/2603.10852)|null|null|
+|**2026-03-11**|**Distributed Safety Critical Control among Uncontrollable Agents using Reconstructed Control Barrier Functions**|Yuzhang Peng et.al.|[2603.10836](http://arxiv.org/abs/2603.10836)|null|null|
+|**2026-03-11**|**Scaling and Trade-offs in Multi-agent Autonomous Systems**|Abram H. Clark et.al.|[2603.10743](http://arxiv.org/abs/2603.10743)|null|null|
+|**2026-03-11**|**Structured Linked Data as a Memory Layer for Agent-Orchestrated Retrieval**|Andrea Volpini et.al.|[2603.10700](http://arxiv.org/abs/2603.10700)|null|null|
+|**2026-03-11**|**Cybo-Waiter: A Physical Agentic Framework for Humanoid Whole-Body Locomotion-Manipulation**|Peng Ren et.al.|[2603.10675](http://arxiv.org/abs/2603.10675)|null|null|
+|**2026-03-11**|**Breaking User-Centric Agency: A Tri-Party Framework for Agent-Based Recommendation**|Yaxin Gong et.al.|[2603.10673](http://arxiv.org/abs/2603.10673)|null|null|
+|**2026-03-11**|**Terminal Is All You Need: Design Properties for Human-AI Agent Collaboration**|Alexandre De Masi et.al.|[2603.10664](http://arxiv.org/abs/2603.10664)|null|null|
+|**2026-03-11**|**ESG Reporting Lifecycle Management with Large Language Models and AI Agents**|Thong Hoang et.al.|[2603.10646](http://arxiv.org/abs/2603.10646)|null|null|
+|**2026-03-11**|**Fundamental Limits of Non-Hermitian Sensing from Quantum Fisher Information**|Jan Wiersig et.al.|[2603.10614](http://arxiv.org/abs/2603.10614)|null|null|
+|**2026-03-11**|**Trajectory-Informed Memory Generation for Self-Improving Agent Systems**|Gaodan Fang et.al.|[2603.10600](http://arxiv.org/abs/2603.10600)|null|null|
+|**2026-03-11**|**Adaptive RAN Slicing Control via Reward-Free Self-Finetuning Agents**|Yuanhao Li et.al.|[2603.10564](http://arxiv.org/abs/2603.10564)|null|null|
+|**2026-03-11**|**UAV-MARL: Multi-Agent Reinforcement Learning for Time-Critical and Dynamic Medical Supply Delivery**|Islam Guven et.al.|[2603.10528](http://arxiv.org/abs/2603.10528)|null|null|
+|**2026-03-11**|**Learning to Negotiate: Multi-Agent Deliberation for Collective Value Alignment in LLMs**|Panatchakorn Anantaprayoon et.al.|[2603.10476](http://arxiv.org/abs/2603.10476)|null|null|
+|**2026-03-11**|**Machinagogy: Experiments in Staging Teaching Dramas with LLMs**|Liam Magee et.al.|[2603.10450](http://arxiv.org/abs/2603.10450)|null|null|
+|**2026-03-11**|**COHORT: Hybrid RL for Collaborative Large DNN Inference on Multi-Robot Systems Under Real-Time Constraints**|Mohammad Saeid Anwar et.al.|[2603.10436](http://arxiv.org/abs/2603.10436)|null|null|
+|**2026-03-11**|**Don't Let the Claw Grip Your Hand: A Security Analysis and Defense Framework for OpenClaw**|Zhengyang Shan et.al.|[2603.10387](http://arxiv.org/abs/2603.10387)|null|null|
+|**2026-03-11**|**AgentServe: Algorithm-System Co-Design for Efficient Agentic AI Serving on a Consumer-Grade GPU**|Yuning Zhang et.al.|[2603.10342](http://arxiv.org/abs/2603.10342)|null|null|
+|**2026-03-11**|**Hybrid Self-evolving Structured Memory for GUI Agents**|Sibo Zhu et.al.|[2603.10291](http://arxiv.org/abs/2603.10291)|null|null|
+|**2026-03-10**|**Sabiá-4 Technical Report**|Thiago Laitz et.al.|[2603.10213](http://arxiv.org/abs/2603.10213)|null|null|
+|**2026-03-10**|**MCP-in-SoS: Risk assessment framework for open-source MCP servers**|Pratyay Kumar et.al.|[2603.10194](http://arxiv.org/abs/2603.10194)|null|null|
+|**2026-03-10**|**Compatibility at a Cost: Systematic Discovery and Exploitation of MCP Clause-Compliance Vulnerabilities**|Nanzi Yang et.al.|[2603.10163](http://arxiv.org/abs/2603.10163)|null|null|
+|**2026-03-10**|**Agentic Control Center for Data Product Optimization**|Priyadarshini Tamilselvan et.al.|[2603.10133](http://arxiv.org/abs/2603.10133)|null|null|
+|**2026-03-10**|**The Prediction-Measurement Gap: Toward Meaning Representations as Scientific Instruments**|Hubert Plisiecki et.al.|[2603.10130](http://arxiv.org/abs/2603.10130)|null|null|
+|**2026-03-10**|**Code-Space Response Oracles: Generating Interpretable Multi-Agent Policies with Large Language Models**|Daniel Hennes et.al.|[2603.10098](http://arxiv.org/abs/2603.10098)|null|null|
 |**2026-03-10**|**Emotional Modulation in Swarm Decision Dynamics**|David Freire-Obregón et.al.|[2603.09963](http://arxiv.org/abs/2603.09963)|null|null|
 |**2026-03-10**|**MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems**|Yunhang Qian et.al.|[2603.09909](http://arxiv.org/abs/2603.09909)|null|null|
 |**2026-03-10**|**Three phases of odd robotic active matter**|Fan Bo et.al.|[2603.09897](http://arxiv.org/abs/2603.09897)|null|null|
@@ -3819,6 +4005,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-11**|**Bilevel Layer-Positioning LoRA for Real Image Dehazing**|Yan Zhang et.al.|[2603.10872](http://arxiv.org/abs/2603.10872)|null|null|
+|**2026-03-11**|**Direct observation of three-neutron emission from $^7$He$^*$ and the search for the trineutron**|S. W. Huang et.al.|[2603.10859](http://arxiv.org/abs/2603.10859)|null|null|
+|**2026-03-11**|**PivotAttack: Rethinking the Search Trajectory in Hard-Label Text Attacks via Pivot Words**|Yuzhi Liang et.al.|[2603.10842](http://arxiv.org/abs/2603.10842)|null|null|
+|**2026-03-11**|**Searches for charged-lepton-flavor violation in $χ_{bJ}(1P)$ decays**|M. Abumusabh et.al.|[2603.10818](http://arxiv.org/abs/2603.10818)|null|null|
+|**2026-03-11**|**Taking Shortcuts for Categorical VQA Using Super Neurons**|Pierre Musacchio et.al.|[2603.10781](http://arxiv.org/abs/2603.10781)|null|null|
+|**2026-03-11**|**Analysis of the hidden-charm pentaquark candidates in the $J/ψΣ$ mass spectrum via the QCD sum rules**|Zhi-Gang Wang et.al.|[2603.10774](http://arxiv.org/abs/2603.10774)|null|null|
+|**2026-03-11**|**Aceso: Carbon-Aware and Cost-Effective Microservice Placement for Small and Medium-sized Enterprises**|Georgia Christofidi et.al.|[2603.10768](http://arxiv.org/abs/2603.10768)|null|null|
+|**2026-03-11**|**Scaling and Trade-offs in Multi-agent Autonomous Systems**|Abram H. Clark et.al.|[2603.10743](http://arxiv.org/abs/2603.10743)|null|null|
+|**2026-03-11**|**Sample-and-Search: An Effective Algorithm for Learning-Augmented k-Median Clustering in High dimensions**|Kangke Cheng et.al.|[2603.10721](http://arxiv.org/abs/2603.10721)|null|null|
+|**2026-03-11**|**Structured Linked Data as a Memory Layer for Agent-Orchestrated Retrieval**|Andrea Volpini et.al.|[2603.10700](http://arxiv.org/abs/2603.10700)|null|null|
+|**2026-03-11**|**Contract And Conquer: How to Provably Compute Adversarial Examples for a Black-Box Model?**|Anna Chistyakova et.al.|[2603.10689](http://arxiv.org/abs/2603.10689)|null|null|
+|**2026-03-11**|**Investigations of Heterogeneity in Diagnostic Test Accuracy Meta-Analysis: A Methodological Review**|Lukas Mischinger et.al.|[2603.10686](http://arxiv.org/abs/2603.10686)|null|null|
+|**2026-03-11**|**An FPGA Implementation of Displacement Vector Search for Intra Pattern Copy in JPEG XS**|Qiyue Chen et.al.|[2603.10671](http://arxiv.org/abs/2603.10671)|null|null|
+|**2026-03-11**|**Intermittent Cauchy walks enable optimal 3D search across target shapes and sizes**|Matteo Stromieri et.al.|[2603.10655](http://arxiv.org/abs/2603.10655)|null|null|
+|**2026-03-11**|**Practical Regularized Quasi-Newton Methods with Inexact Function Values**|Hiroki Hamaguchi et.al.|[2603.10642](http://arxiv.org/abs/2603.10642)|null|null|
+|**2026-03-11**|**Self-Scaled Broyden Family of Quasi-Newton Methods in JAX**|Ivan Bioli et.al.|[2603.10599](http://arxiv.org/abs/2603.10599)|null|null|
+|**2026-03-11**|**Crustal Structure Imaging of Ghana from Single-Station Ambient Noise Autocorrelations and Earthquake Arrival Time Inversion**|Hamzeh Mohammadigheymasi et.al.|[2603.10574](http://arxiv.org/abs/2603.10574)|null|null|
+|**2026-03-11**|**Safety-critical Control Under Partial Observability: Reach-Avoid POMDP meets Belief Space Control**|Matti Vahs et.al.|[2603.10572](http://arxiv.org/abs/2603.10572)|null|null|
+|**2026-03-11**|**Quantum-logic spectroscopy of forbidden vibrational transitions in single nitrogen molecular ions**|Aleksandr Shlykov et.al.|[2603.10553](http://arxiv.org/abs/2603.10553)|null|null|
+|**2026-03-11**|**An Event-Driven E-Skin System with Dynamic Binary Scanning and real time SNN Classification**|Gaishan Li et.al.|[2603.10537](http://arxiv.org/abs/2603.10537)|null|null|
+|**2026-03-11**|**Resource-constrained Amazons chess decision framework integrating large language models and graph attention**|Tianhao Qian et.al.|[2603.10512](http://arxiv.org/abs/2603.10512)|null|null|
+|**2026-03-11**|**Safe and Scalable Web Agent Learning via Recreated Websites**|Hyungjoo Chae et.al.|[2603.10505](http://arxiv.org/abs/2603.10505)|null|null|
+|**2026-03-11**|**Novae breves from magnetar giant flares: Potential probes of neutron star crusts**|Jiahang Zhong et.al.|[2603.10500](http://arxiv.org/abs/2603.10500)|null|null|
+|**2026-03-11**|**Discontinuous Wealth-Gradient Transition Driving Cooperation**|Hyun Gyu Lee et.al.|[2603.10488](http://arxiv.org/abs/2603.10488)|null|null|
+|**2026-03-11**|**From Verification to Herding: Exploiting Software's Sparsity of Influence**|Tim Menzies et.al.|[2603.10478](http://arxiv.org/abs/2603.10478)|null|null|
+|**2026-03-11**|**Aligning Large Language Models with Searcher Preferences**|Wei Wu et.al.|[2603.10473](http://arxiv.org/abs/2603.10473)|null|null|
+|**2026-03-11**|**Differentiable Geometric Indexing for End-to-End Generative Retrieval**|Xujing Wang et.al.|[2603.10409](http://arxiv.org/abs/2603.10409)|null|null|
+|**2026-03-11**|**Quantifying uncertainty in physics-based predictions of rare-isotope production cross sections via Bayesian-inspired model averaging across nuclear mass tables**|O. B. Tarasov et.al.|[2603.10403](http://arxiv.org/abs/2603.10403)|null|null|
+|**2026-03-11**|**Optimal Movable Antenna Placement for Near-Field Wireless Sensing**|Jinjian Liu et.al.|[2603.10383](http://arxiv.org/abs/2603.10383)|null|null|
+|**2026-03-11**|**The FAST Discovery of a binary millisecond pulsar PSR~J1647-0156B (M12B) with a candidate cross matching algorithm**|Qiuyu Yu et.al.|[2603.10347](http://arxiv.org/abs/2603.10347)|null|null|
+|**2026-03-11**|**Does Reasoning Make Search More Fair? Comparing Fairness in Reasoning and Non-Reasoning Rerankers**|Saron Samuel et.al.|[2603.10332](http://arxiv.org/abs/2603.10332)|null|null|
+|**2026-03-11**|**Optimising two-block averaging kernels to speed up Markov chains**|Ryan J. Y. Lim et.al.|[2603.10318](http://arxiv.org/abs/2603.10318)|null|null|
 |**2026-03-10**|**CREATE: Testing LLMs for Associative Creativity**|Manya Wadhwa et.al.|[2603.09970](http://arxiv.org/abs/2603.09970)|null|null|
 |**2026-03-10**|**When Learning Rates Go Wrong: Early Structural Signals in PPO Actor-Critic**|Alberto Fernández-Hernández et.al.|[2603.09950](http://arxiv.org/abs/2603.09950)|null|null|
 |**2026-03-10**|**Fine-grained Motion Retrieval via Joint-Angle Motion Images and Token-Patch Late Interaction**|Yao Zhang et.al.|[2603.09930](http://arxiv.org/abs/2603.09930)|null|null|
@@ -4333,11 +4551,27 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-11**|**Calibration of electric fields in low-frequency off-resonant Rydberg receivers**|Baran Kayim et.al.|[2603.10898](http://arxiv.org/abs/2603.10898)|null|null|
+|**2026-03-11**|**Risk time splitting for improved estimation of screening programs effect on later mortality**|Harald Weedon-Fekjær et.al.|[2603.10869](http://arxiv.org/abs/2603.10869)|null|null|
+|**2026-03-11**|**Beyond Sequential Distance: Inter-Modal Distance Invariant Position Encoding**|Lin Chen et.al.|[2603.10863](http://arxiv.org/abs/2603.10863)|null|null|
+|**2026-03-11**|**Long-lived quasinormal modes, shadows and particle motion in four-dimensional quasi-topological gravity**|Bekir Can Lütfüoğlu et.al.|[2603.10844](http://arxiv.org/abs/2603.10844)|null|null|
+|**2026-03-11**|**Taking Shortcuts for Categorical VQA Using Super Neurons**|Pierre Musacchio et.al.|[2603.10781](http://arxiv.org/abs/2603.10781)|null|null|
+|**2026-03-11**|**An FPGA Implementation of Displacement Vector Search for Intra Pattern Copy in JPEG XS**|Qiyue Chen et.al.|[2603.10671](http://arxiv.org/abs/2603.10671)|null|null|
+|**2026-03-11**|**Experimental simulation of non-equilibrium quantum piston on a programmable photonic quantum computer**|Govind Krishna et.al.|[2603.10647](http://arxiv.org/abs/2603.10647)|null|null|
+|**2026-03-11**|**High-Throughput-Screening Workflow for Predicting Volume Changes by Ion Intercalation in Battery Materials**|Aljoscha Felix Baumann et.al.|[2603.10631](http://arxiv.org/abs/2603.10631)|null|null|
+|**2026-03-11**|**CUAAudit: Meta-Evaluation of Vision-Language Models as Auditors of Autonomous Computer-Use Agents**|Marta Sumyk et.al.|[2603.10577](http://arxiv.org/abs/2603.10577)|null|null|
+|**2026-03-11**|**Microstructural Characterization of Nb3Sn Thin Films Using FIB Tomography**|Eric Viklund et.al.|[2603.10472](http://arxiv.org/abs/2603.10472)|null|null|
+|**2026-03-11**|**Beyond geometrical screening in predicting two-dimensional materials**|Shota Ono et.al.|[2603.10462](http://arxiv.org/abs/2603.10462)|null|null|
+|**2026-03-11**|**Ab initio quantum embedding description of magic angle twisted bilayer graphene at even-integer fillings**|Raehyun Kim et.al.|[2603.10433](http://arxiv.org/abs/2603.10433)|null|null|
+|**2026-03-11**|**Hybrid Self-evolving Structured Memory for GUI Agents**|Sibo Zhu et.al.|[2603.10291](http://arxiv.org/abs/2603.10291)|null|null|
+|**2026-03-10**|**ID-LoRA: Identity-Driven Audio-Video Personalization with In-Context LoRA**|Aviad Dahan et.al.|[2603.10256](http://arxiv.org/abs/2603.10256)|null|null|
+|**2026-03-10**|**Video-Based Reward Modeling for Computer-Use Agents**|Linxin Song et.al.|[2603.10178](http://arxiv.org/abs/2603.10178)|null|null|
+|**2026-03-10**|**The baryon content of magnetically arrested black hole disks and jets**|Anthony Chow et.al.|[2603.10122](http://arxiv.org/abs/2603.10122)|null|null|
 |**2026-03-10**|**When Learning Rates Go Wrong: Early Structural Signals in PPO Actor-Critic**|Alberto Fernández-Hernández et.al.|[2603.09950](http://arxiv.org/abs/2603.09950)|null|null|
 |**2026-03-10**|**MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems**|Yunhang Qian et.al.|[2603.09909](http://arxiv.org/abs/2603.09909)|null|null|
 |**2026-03-10**|**The Richest Paradigm You're Not Using: Commercial Videogames at the Intersection of Human-Computer Interaction and Cognitive Science**|Jaap Munneke et.al.|[2603.09753](http://arxiv.org/abs/2603.09753)|null|null|
 |**2026-03-10**|**FetalAgents: A Multi-Agent System for Fetal Ultrasound Image and Video Analysis**|Xiaotian Hu et.al.|[2603.09733](http://arxiv.org/abs/2603.09733)|null|null|
-|**2026-03-10**|**AutoViVQA: A Large-Scale Automatically Constructed Dataset for Vietnamese Visual Question Answering**|Nguyen Anh Tuong et.al.|[2603.09689](http://arxiv.org/abs/2603.09689)|null|null|
+|**2026-03-11**|**AutoViVQA: A Large-Scale Automatically Constructed Dataset for Vietnamese Visual Question Answering**|Nguyen Anh Tuong et.al.|[2603.09689](http://arxiv.org/abs/2603.09689)|null|null|
 |**2026-03-10**|**Association of Radiologic PPFE Change with Mortality in Lung Cancer Screening Cohorts**|Shahab Aslani et.al.|[2603.09531](http://arxiv.org/abs/2603.09531)|null|null|
 |**2026-03-10**|**Sensing Low-Frequency Field with Rydberg Atoms via Quantum Weak Measurement**|Ding Wang et.al.|[2603.09518](http://arxiv.org/abs/2603.09518)|null|null|
 |**2026-03-10**|**OmniEarth: A Benchmark for Evaluating Vision-Language Models in Geospatial Tasks**|Ronghao Fu et.al.|[2603.09471](http://arxiv.org/abs/2603.09471)|null|null|
@@ -4346,7 +4580,7 @@ layout: default
 |**2026-03-10**|**Testing Screened Modified Gravity with Strongly Lensed Gravitational Waves**|Chengsheng Mu et.al.|[2603.09340](http://arxiv.org/abs/2603.09340)|null|null|
 |**2026-03-10**|**High-Slip-Ratio Control for Peak Tire-Road Friction Estimation Using Automated Vehicles**|Zhaohui Liang et.al.|[2603.09073](http://arxiv.org/abs/2603.09073)|null|null|
 |**2026-03-10**|**Distribution-free screening of spatially variable genes in spatial transcriptomics**|Changhu Wang et.al.|[2603.09061](http://arxiv.org/abs/2603.09061)|null|null|
-|**2026-03-09**|**From Word2Vec to Transformers: Text-Derived Composition Embeddings for Filtering Combinatorial Electrocatalysts**|Lei Zhang et.al.|[2603.08881](http://arxiv.org/abs/2603.08881)|null|null|
+|**2026-03-09**|**From Word2Vec to Transformers: Text-Derived Composition Embeddings for Filtering Combinatorial Electrocatalysts**|Lei Zhang et.al.|[2603.08881](http://arxiv.org/abs/2603.08881)|**[link](https://github.com/lab-mids/w2v_transformers_materials_embeddings)**|null|
 |**2026-03-09**|**Ground-State Structure Search of Defective High-Entropy Alloys Using Machine-Learning Potentials and Monte Carlo Sampling**|Siya Zhu et.al.|[2603.08855](http://arxiv.org/abs/2603.08855)|null|null|
 |**2026-03-09**|**unxt: A Python package for unit-aware computing with JAX**|Nathaniel Starkman et.al.|[2603.08770](http://arxiv.org/abs/2603.08770)|null|null|
 |**2026-03-09**|**Scalable Postselection of Quantum Resources**|J. Wilson Staples et.al.|[2603.08697](http://arxiv.org/abs/2603.08697)|null|null|
@@ -4629,6 +4863,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-11**|**GLM-OCR Technical Report**|Shuaiqi Duan et.al.|[2603.10910](http://arxiv.org/abs/2603.10910)|null|null|
+|**2026-03-11**|**Sliding Ferroelectricity Driven Spin-Layertronics in Altermagnetic Multilayers**|Rui Peng et.al.|[2603.10907](http://arxiv.org/abs/2603.10907)|null|null|
+|**2026-03-11**|**A gripper for flap separation and opening of sealed bags**|Sergi Foix et.al.|[2603.10890](http://arxiv.org/abs/2603.10890)|null|null|
+|**2026-03-11**|**RL-Augmented MPC for Non-Gaited Legged and Hybrid Locomotion**|Andrea Patrizi et.al.|[2603.10878](http://arxiv.org/abs/2603.10878)|null|null|
+|**2026-03-11**|**From Images to Words: Efficient Cross-Modal Knowledge Distillation to Language Models from Black-box Teachers**|Ayan Sengupta et.al.|[2603.10877](http://arxiv.org/abs/2603.10877)|null|null|
+|**2026-03-11**|**FG-CLTP: Fine-Grained Contrastive Language Tactile Pretraining for Robotic Manipulation**|Wenxuan Ma et.al.|[2603.10871](http://arxiv.org/abs/2603.10871)|null|null|
+|**2026-03-11**|**Beyond Sequential Distance: Inter-Modal Distance Invariant Position Encoding**|Lin Chen et.al.|[2603.10863](http://arxiv.org/abs/2603.10863)|null|null|
+|**2026-03-11**|**OSUM-Pangu: An Open-Source Multidimension Speech Understanding Foundation Model Built upon OpenPangu on Ascend NPUs**|Yujie Liao et.al.|[2603.10862](http://arxiv.org/abs/2603.10862)|null|null|
+|**2026-03-11**|**GRACE: A Unified 2D Multi-Robot Path Planning Simulator & Benchmark for Grid, Roadmap, And Continuous Environments**|Chuanlong Zang et.al.|[2603.10858](http://arxiv.org/abs/2603.10858)|null|null|
+|**2026-03-11**|**UltrasoundAgents: Hierarchical Multi-Agent Evidence-Chain Reasoning for Breast Ultrasound Diagnosis**|Yali Zhu et.al.|[2603.10852](http://arxiv.org/abs/2603.10852)|null|null|
+|**2026-03-11**|**Semantic Landmark Particle Filter for Robot Localisation in Vineyards**|Rajitha de Silva et.al.|[2603.10847](http://arxiv.org/abs/2603.10847)|null|null|
+|**2026-03-11**|**HanMoVLM: Large Vision-Language Models for Professional Artistic Painting Evaluation**|Hongji Yang et.al.|[2603.10814](http://arxiv.org/abs/2603.10814)|null|null|
+|**2026-03-11**|**Semantic Satellite Communications for Synchronized Audiovisual Reconstruction**|Fangyu Liu et.al.|[2603.10791](http://arxiv.org/abs/2603.10791)|null|null|
+|**2026-03-11**|**Identifying and Measuring Satellite Streaks in DECam Images**|Alexandra Serrano Mendoza et.al.|[2603.10790](http://arxiv.org/abs/2603.10790)|null|null|
+|**2026-03-11**|**Taking Shortcuts for Categorical VQA Using Super Neurons**|Pierre Musacchio et.al.|[2603.10781](http://arxiv.org/abs/2603.10781)|null|null|
+|**2026-03-11**|**Sublinear-Time Reconfiguration of Programmable Matter with Joint Movements**|Manish Kumar et.al.|[2603.10720](http://arxiv.org/abs/2603.10720)|null|null|
+|**2026-03-11**|**ASTER: Attitude-aware Suspended-payload Quadrotor Traversal via Efficient Reinforcement Learning**|Dongcheng Cao et.al.|[2603.10715](http://arxiv.org/abs/2603.10715)|null|null|
+|**2026-03-11**|**MAVEN: A Meta-Reinforcement Learning Framework for Varying-Dynamics Expertise in Agile Quadrotor Maneuvers**|Jin Zhou et.al.|[2603.10714](http://arxiv.org/abs/2603.10714)|null|null|
+|**2026-03-11**|**FutureVLA: Joint Visuomotor Prediction for Vision-Language-Action Model**|Xiaoxu Xu et.al.|[2603.10712](http://arxiv.org/abs/2603.10712)|null|null|
+|**2026-03-11**|**Parallel-in-Time Nonlinear Optimal Control via GPU-native Sequential Convex Programming**|Yilin Zou et.al.|[2603.10711](http://arxiv.org/abs/2603.10711)|null|null|
+|**2026-03-11**|**WalkGPT: Grounded Vision-Language Conversation with Depth-Aware Segmentation for Pedestrian Navigation**|Rafi Ibn Sultan et.al.|[2603.10703](http://arxiv.org/abs/2603.10703)|null|null|
+|**2026-03-11**|**UniCom: Unified Multimodal Modeling via Compressed Continuous Semantic Representations**|Yaqi Zhao et.al.|[2603.10702](http://arxiv.org/abs/2603.10702)|null|null|
+|**2026-03-11**|**Structured Linked Data as a Memory Layer for Agent-Orchestrated Retrieval**|Andrea Volpini et.al.|[2603.10700](http://arxiv.org/abs/2603.10700)|null|null|
+|**2026-03-11**|**MapGCLR: Geospatial Contrastive Learning of Representations for Online Vectorized HD Map Construction**|Jonas Merkert et.al.|[2603.10688](http://arxiv.org/abs/2603.10688)|null|null|
+|**2026-03-11**|**OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency**|Guiyong Zheng et.al.|[2603.10682](http://arxiv.org/abs/2603.10682)|null|null|
+|**2026-03-11**|**A Platform-Agnostic Multimodal Digital Human Modelling Framework: Neurophysiological Sensing in Game-Based Interaction**|Daniel J. Buxton et.al.|[2603.10680](http://arxiv.org/abs/2603.10680)|null|null|
+|**2026-03-11**|**Cybo-Waiter: A Physical Agentic Framework for Humanoid Whole-Body Locomotion-Manipulation**|Peng Ren et.al.|[2603.10675](http://arxiv.org/abs/2603.10675)|null|null|
+|**2026-03-11**|**Dynamic Modeling and Attitude Control of a Reaction-Wheel-Based Low-Gravity Bipedal Hopper**|Shriram Hari et.al.|[2603.10670](http://arxiv.org/abs/2603.10670)|null|null|
+|**2026-03-11**|**Dressed-State Optomechanics in the Few-Photon Regime**|Surangana Sengupta et.al.|[2603.10665](http://arxiv.org/abs/2603.10665)|null|null|
+|**2026-03-11**|**STM32-Based Smart Waste Bin for Hygienic Disposal Using Embedded Sensing and Automated Control**|Mohammed Aman Bhuiyan et.al.|[2603.10660](http://arxiv.org/abs/2603.10660)|null|null|
+|**2026-03-11**|**Are Video Reasoning Models Ready to Go Outside?**|Yangfan He et.al.|[2603.10652](http://arxiv.org/abs/2603.10652)|null|null|
+|**2026-03-11**|**Interleaving Scheduling and Motion Planning with Incremental Learning of Symbolic Space-Time Motion Abstractions**|Elisa Tosello et.al.|[2603.10651](http://arxiv.org/abs/2603.10651)|null|null|
 |**2026-03-10**|**TiPToP: A Modular Open-Vocabulary Planning System for Robotic Manipulation**|William Shen et.al.|[2603.09971](http://arxiv.org/abs/2603.09971)|null|null|
 |**2026-03-10**|**Understanding the Use of a Large Language Model-Powered Guide to Make Virtual Reality Accessible for Blind and Low Vision People**|Jazmin Collins et.al.|[2603.09964](http://arxiv.org/abs/2603.09964)|null|null|
 |**2026-03-10**|**BEACON: Language-Conditioned Navigation Affordance Prediction under Occlusion**|Xinyu Gao et.al.|[2603.09961](http://arxiv.org/abs/2603.09961)|null|null|
@@ -5191,6 +5457,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-11**|**LLM2Vec-Gen: Generative Embeddings from Large Language Models**|Parishad BehnamGhader et.al.|[2603.10913](http://arxiv.org/abs/2603.10913)|null|null|
+|**2026-03-11**|**GLM-OCR Technical Report**|Shuaiqi Duan et.al.|[2603.10910](http://arxiv.org/abs/2603.10910)|null|null|
+|**2026-03-11**|**TOI-4616 b: a benchmark Earth-sized planet transiting a nearby M4 dwarf**|F. Zong Lang et.al.|[2603.10905](http://arxiv.org/abs/2603.10905)|null|null|
+|**2026-03-11**|**When Fine-Tuning Fails and when it Generalises: Role of Data Diversity and Mixed Training in LLM-based TTS**|Anupam Purwar et.al.|[2603.10904](http://arxiv.org/abs/2603.10904)|null|null|
+|**2026-03-11**|**LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation**|Jinwoo Ahn et.al.|[2603.10899](http://arxiv.org/abs/2603.10899)|null|null|
+|**2026-03-11**|**LAtte: Hyperbolic Lorentz Attention for Cross-Subject EEG Classification**|Johannes Burchert et.al.|[2603.10881](http://arxiv.org/abs/2603.10881)|null|null|
+|**2026-03-11**|**The potential and viability of V2G for California BEV drivers**|Clement Wong et.al.|[2603.10880](http://arxiv.org/abs/2603.10880)|null|null|
+|**2026-03-11**|**RL-Augmented MPC for Non-Gaited Legged and Hybrid Locomotion**|Andrea Patrizi et.al.|[2603.10878](http://arxiv.org/abs/2603.10878)|null|null|
+|**2026-03-11**|**An Extreme Multi-label Text Classification (XMTC) Library Dataset: What if we took "Use of Practical AI in Digital Libraries" seriously?**|Jennifer D'Souza et.al.|[2603.10876](http://arxiv.org/abs/2603.10876)|null|null|
+|**2026-03-11**|**A Physics-Informed, Global-in-Time Neural Particle Method for the Spatially Homogeneous Landau Equation**|Minseok Kim et.al.|[2603.10874](http://arxiv.org/abs/2603.10874)|null|null|
+|**2026-03-11**|**SNPgen: Phenotype-Supervised Genotype Representation and Synthetic Data Generation via Latent Diffusion**|Andrea Lampis et.al.|[2603.10873](http://arxiv.org/abs/2603.10873)|null|null|
+|**2026-03-11**|**Bilevel Layer-Positioning LoRA for Real Image Dehazing**|Yan Zhang et.al.|[2603.10872](http://arxiv.org/abs/2603.10872)|null|null|
+|**2026-03-11**|**Risk time splitting for improved estimation of screening programs effect on later mortality**|Harald Weedon-Fekjær et.al.|[2603.10869](http://arxiv.org/abs/2603.10869)|null|null|
+|**2026-03-11**|**Beyond Reproducible Research: Building a Formal Representation of a Data Analysis**|Roger D. Peng et.al.|[2603.10866](http://arxiv.org/abs/2603.10866)|null|null|
+|**2026-03-11**|**Beyond Sequential Distance: Inter-Modal Distance Invariant Position Encoding**|Lin Chen et.al.|[2603.10863](http://arxiv.org/abs/2603.10863)|null|null|
+|**2026-03-11**|**SiDiaC-v.2.0: Sinhala Diachronic Corpus Version 2.0**|Nevidu Jayatilleke et.al.|[2603.10861](http://arxiv.org/abs/2603.10861)|null|null|
+|**2026-03-11**|**GRACE: A Unified 2D Multi-Robot Path Planning Simulator & Benchmark for Grid, Roadmap, And Continuous Environments**|Chuanlong Zang et.al.|[2603.10858](http://arxiv.org/abs/2603.10858)|null|null|
+|**2026-03-11**|**Star Topology Optimizes the Charging Power of Quantum Batteries**|Matthieu Sarkis et.al.|[2603.10853](http://arxiv.org/abs/2603.10853)|null|null|
+|**2026-03-11**|**$V_{0.5}$ : Generalist Value Model as a Prior for Sparse RL Rollouts**|Yi-Kai Zhang et.al.|[2603.10848](http://arxiv.org/abs/2603.10848)|null|null|
+|**2026-03-11**|**Towards Cold-Start Drafting and Continual Refining: A Value-Driven Memory Approach with Application to NPU Kernel Synthesis**|Yujie Zheng et.al.|[2603.10846](http://arxiv.org/abs/2603.10846)|null|null|
+|**2026-03-11**|**Modeling anisotropic energy dissipation of light ions at the atomistic scale**|Evgeniia Ponomareva et.al.|[2603.10838](http://arxiv.org/abs/2603.10838)|null|null|
+|**2026-03-11**|**On the Reliability of Cue Conflict and Beyond**|Pum Jun Kim et.al.|[2603.10834](http://arxiv.org/abs/2603.10834)|null|null|
+|**2026-03-11**|**Evaluating Few-Shot Pill Recognition Under Visual Domain Shift**|W. I. Chu et.al.|[2603.10833](http://arxiv.org/abs/2603.10833)|null|null|
+|**2026-03-11**|**BALD-SAM: Disagreement-based Active Prompting in Interactive Segmentation**|Prithwijit Chowdhury et.al.|[2603.10828](http://arxiv.org/abs/2603.10828)|null|null|
+|**2026-03-11**|**Speaker Verification with Speech-Aware LLMs: Evaluation and Augmentation**|Thomas Thebaud et.al.|[2603.10827](http://arxiv.org/abs/2603.10827)|null|null|
+|**2026-03-11**|**A dataset of medication images with instance segmentation masks for preventing adverse drug events**|W. I. Chu et.al.|[2603.10825](http://arxiv.org/abs/2603.10825)|null|null|
+|**2026-03-11**|**ReTabSyn: Realistic Tabular Data Synthesis via Reinforcement Learning**|Xiaofeng Lin et.al.|[2603.10823](http://arxiv.org/abs/2603.10823)|null|null|
+|**2026-03-11**|**Evaluating randomized smoothing as a defense against adversarial attacks in trajectory prediction**|Julian F. Schumann et.al.|[2603.10821](http://arxiv.org/abs/2603.10821)|null|null|
+|**2026-03-11**|**HanMoVLM: Large Vision-Language Models for Professional Artistic Painting Evaluation**|Hongji Yang et.al.|[2603.10814](http://arxiv.org/abs/2603.10814)|null|null|
+|**2026-03-11**|**Protein Counterfactuals via Diffusion-Guided Latent Optimization**|Weronika Kłos et.al.|[2603.10811](http://arxiv.org/abs/2603.10811)|null|null|
+|**2026-03-11**|**Beyond Standard Datacubes: Extracting Features from Irregular and Branching Earth System Data**|Mathilde Leuridan et.al.|[2603.10809](http://arxiv.org/abs/2603.10809)|null|null|
+|**2026-03-11**|**Risk-Adjusted Harm Scoring for Automated Red Teaming for LLMs in Financial Services**|Fabrizio Dimino et.al.|[2603.10807](http://arxiv.org/abs/2603.10807)|null|null|
 |**2026-03-10**|**d-DNNF Modulo Theories: A General Framework for Polytime SMT Queries**|Gabriele Masina et.al.|[2603.09975](http://arxiv.org/abs/2603.09975)|null|null|
 |**2026-03-10**|**TiPToP: A Modular Open-Vocabulary Planning System for Robotic Manipulation**|William Shen et.al.|[2603.09971](http://arxiv.org/abs/2603.09971)|null|null|
 |**2026-03-10**|**CREATE: Testing LLMs for Associative Creativity**|Manya Wadhwa et.al.|[2603.09970](http://arxiv.org/abs/2603.09970)|null|null|
