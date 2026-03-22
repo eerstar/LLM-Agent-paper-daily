@@ -3477,7 +3477,7 @@
 |**2026-03-19**|**Certifying ergotropy under partial information**|Egle Pagliaro et.al.|[2603.18828](http://arxiv.org/abs/2603.18828)|null|null|
 |**2026-03-19**|**Mi:dm K 2.5 Pro**|KT Tech innovation Group et.al.|[2603.18788](http://arxiv.org/abs/2603.18788)|null|null|
 |**2026-03-19**|**Spreading of pathological proteins through brain networks: a case study for Alzheimers disease**|G. Landi et.al.|[2603.18755](http://arxiv.org/abs/2603.18755)|null|null|
-|**2026-03-19**|**Automatic detection of Gen-AI texts: A comparative framework of neural models**|Cristian Buttaro et.al.|[2603.18750](http://arxiv.org/abs/2603.18750)|null|null|
+|**2026-03-19**|**Automatic detection of Gen-AI texts: A comparative framework of neural models**|Cristian Buttaro et.al.|[2603.18750](http://arxiv.org/abs/2603.18750)|**[link](https://github.com/cristian03git/DETECTION_GENAI)**|null|
 |**2026-03-19**|**Measuring and Exploiting Confirmation Bias in LLM-Assisted Security Code Review**|Dimitris Mitropoulos et.al.|[2603.18740](http://arxiv.org/abs/2603.18740)|null|null|
 |**2026-03-19**|**SpaceTime Programming: Live and Omniscient Exploration of Code and Execution**|Jean-Baptiste Döderlein et.al.|[2603.18735](http://arxiv.org/abs/2603.18735)|null|null|
 |**2026-03-19**|**Scheduling Ground-Based Telescope Observations with Uncertain Nights**|Thomas Rahab Lacroix et.al.|[2603.18730](http://arxiv.org/abs/2603.18730)|null|null|
@@ -4358,9 +4358,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
-|**2026-03-19**|**MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction**|Haitian Li et.al.|[2603.19231](http://arxiv.org/abs/2603.19231)|**[link](https://github.com/Quest4Science/MonoArt)**|null|
+|**2026-03-19**|**MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction**|Haitian Li et.al.|[2603.19231](http://arxiv.org/abs/2603.19231)|null|null|
 |**2026-03-19**|**FinTradeBench: A Financial Reasoning Benchmark for LLMs**|Yogesh Agrawal et.al.|[2603.19225](http://arxiv.org/abs/2603.19225)|null|null|
-|**2026-03-19**|**LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs**|Keda Tao et.al.|[2603.19217](http://arxiv.org/abs/2603.19217)|**[link](https://github.com/KD-TAO/LVOmniBench)**|null|
+|**2026-03-19**|**LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs**|Keda Tao et.al.|[2603.19217](http://arxiv.org/abs/2603.19217)|null|null|
 |**2026-03-19**|**The Exponentially Weighted Signature**|Alexandre Bloch et.al.|[2603.19198](http://arxiv.org/abs/2603.19198)|null|null|
 |**2026-03-19**|**Box Maze: A Process-Control Architecture for Reliable LLM Reasoning**|Zou Qiang et.al.|[2603.19182](http://arxiv.org/abs/2603.19182)|null|null|
 |**2026-03-19**|**Few-shot Acoustic Synthesis with Multimodal Flow Matching**|Amandine Brunetto et.al.|[2603.19176](http://arxiv.org/abs/2603.19176)|null|null|
@@ -5300,7 +5300,7 @@
 |**2026-03-19**|**Poverty traps are rare, but trappedness isn't**|Isaak Mengesha et.al.|[2603.18716](http://arxiv.org/abs/2603.18716)|null|null|
 |**2026-03-19**|**HISR: Hindsight Information Modulated Segmental Process Rewards For Multi-turn Agentic Reinforcement Learning**|Zhicong Lu et.al.|[2603.18683](http://arxiv.org/abs/2603.18683)|null|null|
 |**2026-03-19**|**Multimodal Model for Computational Pathology:Representation Learning and Image Compression**|Peihang Wu et.al.|[2603.18660](http://arxiv.org/abs/2603.18660)|null|null|
-|**2026-03-19**|**Mean-field control barrier functions for stochastic multi-agent systems**|Cinzia Tomaselli et.al.|[2603.18658](http://arxiv.org/abs/2603.18658)|null|null|
+|**2026-03-19**|**Mean-field control barrier functions for stochastic multi-agent systems**|Cinzia Tomaselli et.al.|[2603.18658](http://arxiv.org/abs/2603.18658)|**[link](https://github.com/SINCROgroup/Mean-field-control-barrier-functions-for-stochastic-multi-agent-systems)**|null|
 |**2026-03-19**|**An Onto-Relational-Sophic Framework for Governing Synthetic Minds**|Huansheng Ning et.al.|[2603.18633](http://arxiv.org/abs/2603.18633)|null|null|
 |**2026-03-19**|**D-Mem: A Dual-Process Memory System for LLM Agents**|Zhixing You et.al.|[2603.18631](http://arxiv.org/abs/2603.18631)|null|null|
 |**2026-03-19**|**Reasonably reasoning AI agents can avoid game-theoretic failures in zero-shot, provably**|Enoch Hyunwook Kang et.al.|[2603.18563](http://arxiv.org/abs/2603.18563)|null|null|
@@ -6088,7 +6088,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
-|**2026-03-19**|**Measurement-Induced Quantum Neural Network**|Paul Argyle et.al.|[2603.19200](http://arxiv.org/abs/2603.19200)|**[link](https://github.com/yablokolabs/minn-sim)**|null|
+|**2026-03-19**|**Measurement-Induced Quantum Neural Network**|Paul Argyle et.al.|[2603.19200](http://arxiv.org/abs/2603.19200)|null|null|
 |**2026-03-19**|**cuGenOpt: A GPU-Accelerated General-Purpose Metaheuristic Framework for Combinatorial Optimization**|Yuyang Liu et.al.|[2603.19163](http://arxiv.org/abs/2603.19163)|null|null|
 |**2026-03-19**|**Fast and Effective Computation of Generalized Symmetric Matrix Factorization**|Lei Yang et.al.|[2603.19147](http://arxiv.org/abs/2603.19147)|null|null|
 |**2026-03-19**|**D5P4: Partition Determinantal Point Process for Diversity in Parallel Discrete Diffusion Decoding**|Jonathan Lys et.al.|[2603.19146](http://arxiv.org/abs/2603.19146)|null|null|
@@ -7372,10 +7372,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
-|**2026-03-19**|**Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**|Xianjin Wu et.al.|[2603.19235](http://arxiv.org/abs/2603.19235)|**[link](https://github.com/H-EmbodVis/VEGA-3D)**|null|
-|**2026-03-19**|**Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models**|Bryce Grant et.al.|[2603.19233](http://arxiv.org/abs/2603.19233)|**[link](https://github.com/Ufere/Assingment_1)**|null|
-|**2026-03-19**|**Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens**|Yuqing Wang et.al.|[2603.19232](http://arxiv.org/abs/2603.19232)|**[link](https://github.com/YuqingWang1029/CubiD)**|null|
-|**2026-03-19**|**MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction**|Haitian Li et.al.|[2603.19231](http://arxiv.org/abs/2603.19231)|**[link](https://github.com/Quest4Science/MonoArt)**|null|
+|**2026-03-19**|**Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**|Xianjin Wu et.al.|[2603.19235](http://arxiv.org/abs/2603.19235)|null|null|
+|**2026-03-19**|**Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models**|Bryce Grant et.al.|[2603.19233](http://arxiv.org/abs/2603.19233)|null|null|
+|**2026-03-19**|**Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens**|Yuqing Wang et.al.|[2603.19232](http://arxiv.org/abs/2603.19232)|null|null|
+|**2026-03-19**|**MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction**|Haitian Li et.al.|[2603.19231](http://arxiv.org/abs/2603.19231)|null|null|
 |**2026-03-19**|**NavTrust: Benchmarking Trustworthiness for Embodied Navigation**|Huaide Jiang et.al.|[2603.19229](http://arxiv.org/abs/2603.19229)|null|null|
 |**2026-03-19**|**SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing**|Xinyao Zhang et.al.|[2603.19228](http://arxiv.org/abs/2603.19228)|null|null|
 |**2026-03-19**|**DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding**|Dong Zhuo et.al.|[2603.19219](http://arxiv.org/abs/2603.19219)|null|null|
