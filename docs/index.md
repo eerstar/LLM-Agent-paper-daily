@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.03.26
+## Updated on 2026.03.27
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -10105,6 +10105,38 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
+|**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|**[link](https://github.com/gudaochangsheng/RefAlign)**|null|
+|**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740](http://arxiv.org/abs/2603.25740)|null|null|
+|**2026-03-26**|**MegaFlow: Zero-Shot Large Displacement Optical Flow**|Dingxi Zhang et.al.|[2603.25739](http://arxiv.org/abs/2603.25739)|null|**[link](https://huggingface.co/Kristen-Z/MegaFlow)**|
+|**2026-03-26**|**Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment**|Yuxing Lu et.al.|[2603.25737](http://arxiv.org/abs/2603.25737)|null|null|
+|**2026-03-26**|**SlotVTG: Object-Centric Adapter for Generalizable Video Temporal Grounding**|Jiwook Han et.al.|[2603.25733](http://arxiv.org/abs/2603.25733)|null|null|
+|**2026-03-26**|**BizGenEval: A Systematic Benchmark for Commercial Visual Content Generation**|Yan Li et.al.|[2603.25732](http://arxiv.org/abs/2603.25732)|null|null|
+|**2026-03-26**|**PixelSmile: Toward Fine-Grained Facial Expression Editing**|Jiabin Hua et.al.|[2603.25728](http://arxiv.org/abs/2603.25728)|null|**[link](https://huggingface.co/PixelSmile/PixelSmile)**|
+|**2026-03-26**|**Back to Basics: Revisiting ASR in the Age of Voice Agents**|Geeyang Tay et.al.|[2603.25727](http://arxiv.org/abs/2603.25727)|null|null|
+|**2026-03-26**|**AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation**|Chen Si et.al.|[2603.25726](http://arxiv.org/abs/2603.25726)|null|null|
+|**2026-03-26**|**Natural-Language Agent Harnesses**|Linyue Pan et.al.|[2603.25723](http://arxiv.org/abs/2603.25723)|null|null|
+|**2026-03-26**|**No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models**|Hai X. Pham et.al.|[2603.25722](http://arxiv.org/abs/2603.25722)|null|null|
+|**2026-03-26**|**Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?**|Abhishek Bhandwaldar et.al.|[2603.25719](http://arxiv.org/abs/2603.25719)|null|null|
+|**2026-03-26**|**Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models**|Kaijin Chen et.al.|[2603.25716](http://arxiv.org/abs/2603.25716)|null|null|
+|**2026-03-26**|**Seeing to Ground: Visual Attention for Hallucination-Resilient MDLLMs**|Vishal Narnaware et.al.|[2603.25711](http://arxiv.org/abs/2603.25711)|null|null|
+|**2026-03-26**|**Wan-Weaver: Interleaved Multi-modal Generation via Decoupled Training**|Jinbo Xing et.al.|[2603.25706](http://arxiv.org/abs/2603.25706)|null|null|
+|**2026-03-26**|**Assessing Age Assurance Technologies: Effectiveness, Side-Effects, and Acceptance**|Wouter Lueks et.al.|[2603.25695](http://arxiv.org/abs/2603.25695)|null|null|
+|**2026-03-26**|**A Unified Memory Perspective for Probabilistic Trustworthy AI**|Xueji Zhao et.al.|[2603.25692](http://arxiv.org/abs/2603.25692)|null|null|
+|**2026-03-26**|**Just Zoom In: Cross-View Geo-Localization via Autoregressive Zooming**|Yunus Talha Erzurumlu et.al.|[2603.25686](http://arxiv.org/abs/2603.25686)|null|null|
+|**2026-03-26**|**Self-Improvement of Large Language Models: A Technical Overview and Future Outlook**|Haoyan Yang et.al.|[2603.25681](http://arxiv.org/abs/2603.25681)|null|null|
+|**2026-03-26**|**Modular Ackermann maps and hierarchical hash constructions**|Jean-Christophe Pain et.al.|[2603.25677](http://arxiv.org/abs/2603.25677)|null|null|
+|**2026-03-26**|**Longitudinal Digital Phenotyping for Early Cognitive-Motor Screening**|Diego Jimenez-Oviedo et.al.|[2603.25673](http://arxiv.org/abs/2603.25673)|null|null|
+|**2026-03-26**|**Can Users Specify Driving Speed? Bench2Drive-Speed: Benchmark and Baselines for Desired-Speed Conditioned Autonomous Driving**|Yuqian Shao et.al.|[2603.25672](http://arxiv.org/abs/2603.25672)|null|null|
+|**2026-03-26**|**Uncertainty-Guided Label Rebalancing for CPS Safety Monitoring**|John Ayotunde et.al.|[2603.25670](http://arxiv.org/abs/2603.25670)|null|null|
+|**2026-03-26**|**SHAPR: Operationalising Human-AI Collaborative Research Through Structured Knowledge Generation**|Ka Ching Chan et.al.|[2603.25660](http://arxiv.org/abs/2603.25660)|null|null|
+|**2026-03-26**|**Diffusion in interacting two-dimensional systems under a uniform magnetic field**|Łukasz Iwanek et.al.|[2603.25659](http://arxiv.org/abs/2603.25659)|null|null|
+|**2026-03-26**|**Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos**|Abdullah Hamdi et.al.|[2603.25645](http://arxiv.org/abs/2603.25645)|null|null|
+|**2026-03-26**|**RenoBench: A Citation Parsing Benchmark**|Parth Sarin et.al.|[2603.25640](http://arxiv.org/abs/2603.25640)|null|null|
+|**2026-03-26**|**A new formula for the Wasserstein distance between solutions to (nonlinear) continuity equations**|José A. Carrillo et.al.|[2603.25634](http://arxiv.org/abs/2603.25634)|null|null|
+|**2026-03-26**|**Is Mathematical Problem-Solving Expertise in Large Language Models Associated with Assessment Performance?**|Liang Zhang et.al.|[2603.25633](http://arxiv.org/abs/2603.25633)|null|null|
+|**2026-03-26**|**LanteRn: Latent Visual Structured Reasoning**|André G. Viveiros et.al.|[2603.25629](http://arxiv.org/abs/2603.25629)|null|null|
+|**2026-03-26**|**PICon: A Multi-Turn Interrogation Framework for Evaluating Persona Agent Consistency**|Minseo Kim et.al.|[2603.25620](http://arxiv.org/abs/2603.25620)|null|null|
+|**2026-03-26**|**Molecular dynamics study of the role of anisotropy in radiation-driven embrittlement**|Hojjat Mousavi et.al.|[2603.25617](http://arxiv.org/abs/2603.25617)|null|null|
 |**2026-03-25**|**Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method**|Arthur Jacot et.al.|[2603.24594](http://arxiv.org/abs/2603.24594)|null|null|
 |**2026-03-25**|**Vibe Coding XR: Accelerating AI + XR Prototyping with XR Blocks and Gemini**|Ruofei Du et.al.|[2603.24591](http://arxiv.org/abs/2603.24591)|null|null|
 |**2026-03-25**|**YingMusic-Singer: Controllable Singing Voice Synthesis with Flexible Lyric Manipulation and Annotation-free Melody Guidance**|Chunbo Hao et.al.|[2603.24589](http://arxiv.org/abs/2603.24589)|null|**[link](https://huggingface.co/ASLP-lab/YingMusic-Singer)**|
