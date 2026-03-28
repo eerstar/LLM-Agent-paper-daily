@@ -6592,11 +6592,11 @@
 |**2026-03-26**|**Learning in Proportional Allocation Auctions Games**|Younes Ben Mazziane et.al.|[2603.25303](http://arxiv.org/abs/2603.25303)|null|null|
 |**2026-03-26**|**V2U4Real: A Real-world Large-scale Dataset for Vehicle-to-UAV Cooperative Perception**|Weijia Li et.al.|[2603.25275](http://arxiv.org/abs/2603.25275)|null|null|
 |**2026-03-26**|**When Hate Meets Facts: LLMs-in-the-Loop for Check-worthiness Detection in Hate Speech**|Nicolás Benjamín Ocampo et.al.|[2603.25269](http://arxiv.org/abs/2603.25269)|null|null|
-|**2026-03-26**|**CRAFT: Grounded Multi-Agent Coordination Under Partial Information**|Abhijnan Nath et.al.|[2603.25268](http://arxiv.org/abs/2603.25268)|null|null|
+|**2026-03-26**|**CRAFT: Grounded Multi-Agent Coordination Under Partial Information**|Abhijnan Nath et.al.|[2603.25268](http://arxiv.org/abs/2603.25268)|**[link](https://github.com/csu-signal/CRAFT)**|null|
 |**2026-03-26**|**Hyperspectral Trajectory Image for Multi-Month Trajectory Anomaly Detection**|Md Awsafur Rahman et.al.|[2603.25255](http://arxiv.org/abs/2603.25255)|null|null|
 |**2026-03-26**|**MolQuest: A Benchmark for Agentic Evaluation of Abductive Reasoning in Chemical Structure Elucidation**|Taolin Han et.al.|[2603.25253](http://arxiv.org/abs/2603.25253)|null|null|
 |**2026-03-26**|**FluxEDA: A Unified Execution Infrastructure for Stateful Agentic EDA**|Zhengrui Chen et.al.|[2603.25243](http://arxiv.org/abs/2603.25243)|null|null|
-|**2026-03-26**|**WebTestBench: Evaluating Computer-Use Agents towards End-to-End Automated Web Testing**|Fanheng Kong et.al.|[2603.25226](http://arxiv.org/abs/2603.25226)|null|null|
+|**2026-03-26**|**WebTestBench: Evaluating Computer-Use Agents towards End-to-End Automated Web Testing**|Fanheng Kong et.al.|[2603.25226](http://arxiv.org/abs/2603.25226)|**[link](https://github.com/friedrichor/WebTestBench)**|null|
 |**2026-03-26**|**Distributed Event-Triggered Consensus Control of Discrete-Time Linear Multi-Agent Systems under LQ Performance Constraints**|Shumpei Nishida et.al.|[2603.25161](http://arxiv.org/abs/2603.25161)|null|null|
 |**2026-03-26**|**Reinforcement learning for quantum processes with memory**|Josep Lumbreras et.al.|[2603.25138](http://arxiv.org/abs/2603.25138)|null|null|
 |**2026-03-26**|**CTS-PLL: A Robust and Anytime Framework for Collaborative Task Sequencing and Multi-Agent Path Finding**|Junkai Jiang et.al.|[2603.25121](http://arxiv.org/abs/2603.25121)|null|null|
@@ -8679,7 +8679,7 @@
 |**2026-03-26**|**Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos**|Abdullah Hamdi et.al.|[2603.25645](http://arxiv.org/abs/2603.25645)|null|null|
 |**2026-03-26**|**LanteRn: Latent Visual Structured Reasoning**|André G. Viveiros et.al.|[2603.25629](http://arxiv.org/abs/2603.25629)|null|null|
 |**2026-03-26**|**TAAC: A gate into Trustable Audio Affective Computing**|Xintao Hu et.al.|[2603.25570](http://arxiv.org/abs/2603.25570)|null|null|
-|**2026-03-26**|**Humans vs Vision-Language Models: A Unified Measure of Narrative Coherence**|Nikolai Ilinykh et.al.|[2603.25537](http://arxiv.org/abs/2603.25537)|**[link](https://github.com/GU-CLASP/coherence-driven-humans)**|null|
+|**2026-03-26**|**Humans vs Vision-Language Models: A Unified Measure of Narrative Coherence**|Nikolai Ilinykh et.al.|[2603.25537](http://arxiv.org/abs/2603.25537)|null|null|
 |**2026-03-26**|**Introducing pixelation with applications**|J. Daisie Rock et.al.|[2603.25432](http://arxiv.org/abs/2603.25432)|null|null|
 |**2026-03-26**|**Mapping the limits of equilibrium in sheared granular liquid crystals**|Jacopo Bilotto et.al.|[2603.25252](http://arxiv.org/abs/2603.25252)|null|null|
 |**2026-03-26**|**Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells**|Han Zhang et.al.|[2603.25240](http://arxiv.org/abs/2603.25240)|null|null|
@@ -8697,7 +8697,7 @@
 |**2026-03-25**|**KitchenTwin: Semantically and Geometrically Grounded 3D Kitchen Digital Twins**|Quanyun Wu et.al.|[2603.24684](http://arxiv.org/abs/2603.24684)|null|null|
 |**2026-03-25**|**Coronary artery calcification assessment in National Lung Screening Trial CT images (DeepCAC2)**|Leonard Nürnberg et.al.|[2603.24633](http://arxiv.org/abs/2603.24633)|null|null|
 |**2026-03-25**|**Electronic properties of the Radium-monochalcogenides RaX (X = O,S,Se) and RaO+/- ions**|Mateo Londoño et.al.|[2603.24590](http://arxiv.org/abs/2603.24590)|null|null|
-|**2026-03-25**|**UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience**|Zichuan Lin et.al.|[2603.24533](http://arxiv.org/abs/2603.24533)|null|**[link](https://huggingface.co/MarsXL/UI-Voyager)**|
+|**2026-03-25**|**UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience**|Zichuan Lin et.al.|[2603.24533](http://arxiv.org/abs/2603.24533)|**[link](https://github.com/ui-voyager/UI-Voyager)**|**[link](https://huggingface.co/MarsXL/UI-Voyager)**|
 |**2026-03-25**|**A generalization of the Froissart-Stora formula to piecewise-linear spin-orbit resonance crossings**|Joseph P. Devlin et.al.|[2603.24510](http://arxiv.org/abs/2603.24510)|null|null|
 |**2026-03-25**|**Fine-tuning universal machine learning potentials for transition state search in surface catalysis**|Raffaele Cheula et.al.|[2603.24482](http://arxiv.org/abs/2603.24482)|null|null|
 |**2026-03-25**|**CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents**|Xiangru Jian et.al.|[2603.24440](http://arxiv.org/abs/2603.24440)|null|null|
@@ -10433,7 +10433,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
-|**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|**[link](https://github.com/gudaochangsheng/RefAlign)**|null|
+|**2026-03-26**|**RefAlign: Representation Alignment for Reference-to-Video Generation**|Lei Wang et.al.|[2603.25743](http://arxiv.org/abs/2603.25743)|null|null|
 |**2026-03-26**|**Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving**|Zehao Wang et.al.|[2603.25740](http://arxiv.org/abs/2603.25740)|null|null|
 |**2026-03-26**|**MegaFlow: Zero-Shot Large Displacement Optical Flow**|Dingxi Zhang et.al.|[2603.25739](http://arxiv.org/abs/2603.25739)|null|**[link](https://huggingface.co/Kristen-Z/MegaFlow)**|
 |**2026-03-26**|**Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment**|Yuxing Lu et.al.|[2603.25737](http://arxiv.org/abs/2603.25737)|null|null|
@@ -10451,7 +10451,7 @@
 |**2026-03-26**|**Assessing Age Assurance Technologies: Effectiveness, Side-Effects, and Acceptance**|Wouter Lueks et.al.|[2603.25695](http://arxiv.org/abs/2603.25695)|null|null|
 |**2026-03-26**|**A Unified Memory Perspective for Probabilistic Trustworthy AI**|Xueji Zhao et.al.|[2603.25692](http://arxiv.org/abs/2603.25692)|null|null|
 |**2026-03-26**|**Just Zoom In: Cross-View Geo-Localization via Autoregressive Zooming**|Yunus Talha Erzurumlu et.al.|[2603.25686](http://arxiv.org/abs/2603.25686)|null|null|
-|**2026-03-26**|**Self-Improvement of Large Language Models: A Technical Overview and Future Outlook**|Haoyan Yang et.al.|[2603.25681](http://arxiv.org/abs/2603.25681)|null|null|
+|**2026-03-26**|**Self-Improvement of Large Language Models: A Technical Overview and Future Outlook**|Haoyan Yang et.al.|[2603.25681](http://arxiv.org/abs/2603.25681)|**[link](https://github.com/Joyyang158/self-improvement-llm-website)**|null|
 |**2026-03-26**|**Modular Ackermann maps and hierarchical hash constructions**|Jean-Christophe Pain et.al.|[2603.25677](http://arxiv.org/abs/2603.25677)|null|null|
 |**2026-03-26**|**Longitudinal Digital Phenotyping for Early Cognitive-Motor Screening**|Diego Jimenez-Oviedo et.al.|[2603.25673](http://arxiv.org/abs/2603.25673)|null|null|
 |**2026-03-26**|**Can Users Specify Driving Speed? Bench2Drive-Speed: Benchmark and Baselines for Desired-Speed Conditioned Autonomous Driving**|Yuqian Shao et.al.|[2603.25672](http://arxiv.org/abs/2603.25672)|null|null|
