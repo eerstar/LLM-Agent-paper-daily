@@ -3520,7 +3520,7 @@
 |**2026-04-02**|**Flexibility allocation in random bipartite matching markets: exact matching rates and dominance regimes**|Taha Ameen et.al.|[2604.02295](http://arxiv.org/abs/2604.02295)|null|null|
 |**2026-04-02**|**Novel Memory Forgetting Techniques for Autonomous AI Agents: Balancing Relevance and Efficiency**|Payal Fofadiya et.al.|[2604.02280](http://arxiv.org/abs/2604.02280)|null|null|
 |**2026-04-02**|**The Self Driving Portfolio: Agentic Architecture for Institutional Asset Management**|Andrew Ang et.al.|[2604.02279](http://arxiv.org/abs/2604.02279)|null|null|
-|**2026-04-02**|**SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization**|Zhengxi Lu et.al.|[2604.02268](http://arxiv.org/abs/2604.02268)|null|**[link](https://huggingface.co/skill0/Lisa_ai_modal)**|
+|**2026-04-02**|**SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization**|Zhengxi Lu et.al.|[2604.02268](http://arxiv.org/abs/2604.02268)|**[link](https://github.com/ZJU-REAL/SkillZero)**|**[link](https://huggingface.co/skill0/Lisa_ai_modal)**|
 |**2026-04-02**|**Model-Based Reinforcement Learning for Control under Time-Varying Dynamics**|Klemens Iten et.al.|[2604.02260](http://arxiv.org/abs/2604.02260)|null|null|
 |**2026-04-02**|**Best-Arm Identification with Noisy Actuation**|Merve Karakas et.al.|[2604.02255](http://arxiv.org/abs/2604.02255)|null|null|
 |**2026-04-02**|**When to ASK: Uncertainty-Gated Language Assistance for Reinforcement Learning**|Juarez Monteiro et.al.|[2604.02226](http://arxiv.org/abs/2604.02226)|null|null|
@@ -6161,11 +6161,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
-|**2026-04-02**|**Steerable Visual Representations**|Jona Ruthardt et.al.|[2604.02327](http://arxiv.org/abs/2604.02327)|null|null|
+|**2026-04-02**|**Steerable Visual Representations**|Jona Ruthardt et.al.|[2604.02327](http://arxiv.org/abs/2604.02327)|**[link](https://github.com/manugaurdl/SteerViT)**|null|
 |**2026-04-02**|**Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning**|Bangji Yang et.al.|[2604.02322](http://arxiv.org/abs/2604.02322)|null|null|
 |**2026-04-02**|**Stop Wandering: Efficient Vision-Language Navigation via Metacognitive Reasoning**|Xueying Li et.al.|[2604.02318](http://arxiv.org/abs/2604.02318)|null|null|
 |**2026-04-02**|**A Simple Baseline for Streaming Video Understanding**|Yujiao Shen et.al.|[2604.02317](http://arxiv.org/abs/2604.02317)|null|null|
-|**2026-04-02**|**Covariate-Balanced Weighted Stacked Difference-in-Differences**|Vadim Ustyuzhanin et.al.|[2604.02293](http://arxiv.org/abs/2604.02293)|null|null|
+|**2026-04-02**|**Covariate-Balanced Weighted Stacked Difference-in-Differences**|Vadim Ustyuzhanin et.al.|[2604.02293](http://arxiv.org/abs/2604.02293)|**[link](https://github.com/vadvu/cbwsdid)**|null|
 |**2026-04-02**|**TensorPool: A 3D-Stacked 8.4TFLOPS/4.3W Many-Core Domain-Specific Processor for AI-Native Radio Access Networks**|Marco Bertuletti et.al.|[2604.02291](http://arxiv.org/abs/2604.02291)|null|null|
 |**2026-04-02**|**Novel Memory Forgetting Techniques for Autonomous AI Agents: Balancing Relevance and Efficiency**|Payal Fofadiya et.al.|[2604.02280](http://arxiv.org/abs/2604.02280)|null|null|
 |**2026-04-02**|**De Jure: Iterative LLM Self-Refinement for Structured Extraction of Regulatory Rules**|Keerat Guliani et.al.|[2604.02276](http://arxiv.org/abs/2604.02276)|null|null|
@@ -8694,7 +8694,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
-|**2026-04-02**|**SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization**|Zhengxi Lu et.al.|[2604.02268](http://arxiv.org/abs/2604.02268)|null|**[link](https://huggingface.co/skill0/Lisa_ai_modal)**|
+|**2026-04-02**|**SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization**|Zhengxi Lu et.al.|[2604.02268](http://arxiv.org/abs/2604.02268)|**[link](https://github.com/ZJU-REAL/SkillZero)**|**[link](https://huggingface.co/skill0/Lisa_ai_modal)**|
 |**2026-04-02**|**Search for dark photons at future e $^+$e$^-$ colliders**|Mikael Berggren et.al.|[2604.02245](http://arxiv.org/abs/2604.02245)|null|null|
 |**2026-04-02**|**Impact of Multimodal and Conversational AI on Learning Outcomes and Experience**|Karan Taneja et.al.|[2604.02221](http://arxiv.org/abs/2604.02221)|null|null|
 |**2026-04-02**|**Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges**|Srivaths Ranganathan et.al.|[2604.02211](http://arxiv.org/abs/2604.02211)|null|null|
@@ -9967,7 +9967,7 @@
 |**2026-04-01**|**Stochastic GW with the Orthogonalized Projector Augmented Wave Method**|Dimitri Bazile et.al.|[2604.00522](http://arxiv.org/abs/2604.00522)|null|null|
 |**2026-04-01**|**A Reasoning-Enabled Vision-Language Foundation Model for Chest X-ray Interpretation**|Yabin Zhang et.al.|[2604.00493](http://arxiv.org/abs/2604.00493)|null|null|
 |**2026-04-01**|**First Logit Boosting: Visual Grounding Method to Mitigate Object Hallucination in Large Vision-Language Models**|Jiwoo Ha et.al.|[2604.00455](http://arxiv.org/abs/2604.00455)|null|null|
-|**2026-04-01**|**UCMNet: Uncertainty-Aware Context Memory Network for Under-Display Camera Image Restoration**|Daehyun Kim et.al.|[2604.00381](http://arxiv.org/abs/2604.00381)|null|null|
+|**2026-04-01**|**UCMNet: Uncertainty-Aware Context Memory Network for Under-Display Camera Image Restoration**|Daehyun Kim et.al.|[2604.00381](http://arxiv.org/abs/2604.00381)|**[link](https://github.com/kdhRick2222/UCMNet)**|null|
 |**2026-03-31**|**OmniSch: A Multimodal PCB Schematic Benchmark For Structured Diagram Visual Reasoning**|Taiting Lu et.al.|[2604.00270](http://arxiv.org/abs/2604.00270)|null|null|
 |**2026-03-31**|**Dielectric control of ultrafast carrier dynamics and transport in graphene**|Hai I. Wang et.al.|[2604.00217](http://arxiv.org/abs/2604.00217)|null|null|
 |**2026-03-31**|**Macroscopic Signatures of Gauge-Mediated Contagion: Deriving Behavioral Shielding from Stochastic Field Theory**|Jose de Jesus Bernal-Alvarado et.al.|[2604.00153](http://arxiv.org/abs/2604.00153)|null|null|
@@ -10581,10 +10581,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
-|**2026-04-02**|**Generative World Renderer**|Zheng-Hui Huang et.al.|[2604.02329](http://arxiv.org/abs/2604.02329)|null|null|
+|**2026-04-02**|**Generative World Renderer**|Zheng-Hui Huang et.al.|[2604.02329](http://arxiv.org/abs/2604.02329)|**[link](https://github.com/ShandaAI/AlayaRenderer)**|null|
 |**2026-04-02**|**Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection**|Alex Costanzino et.al.|[2604.02328](http://arxiv.org/abs/2604.02328)|null|null|
-|**2026-04-02**|**Steerable Visual Representations**|Jona Ruthardt et.al.|[2604.02327](http://arxiv.org/abs/2604.02327)|null|null|
-|**2026-04-02**|**Large-scale Codec Avatars: The Unreasonable Effectiveness of Large-scale Avatar Pretraining**|Junxuan Li et.al.|[2604.02320](http://arxiv.org/abs/2604.02320)|null|null|
+|**2026-04-02**|**Steerable Visual Representations**|Jona Ruthardt et.al.|[2604.02327](http://arxiv.org/abs/2604.02327)|**[link](https://github.com/manugaurdl/SteerViT)**|null|
+|**2026-04-02**|**Large-scale Codec Avatars: The Unreasonable Effectiveness of Large-scale Avatar Pretraining**|Junxuan Li et.al.|[2604.02320](http://arxiv.org/abs/2604.02320)|**[link](https://github.com/junxuan-li/lca)**|null|
 |**2026-04-02**|**Stop Wandering: Efficient Vision-Language Navigation via Metacognitive Reasoning**|Xueying Li et.al.|[2604.02318](http://arxiv.org/abs/2604.02318)|null|null|
 |**2026-04-02**|**A Simple Baseline for Streaming Video Understanding**|Yujiao Shen et.al.|[2604.02317](http://arxiv.org/abs/2604.02317)|null|null|
 |**2026-04-02**|**VOID: Video Object and Interaction Deletion**|Saman Motamed et.al.|[2604.02296](http://arxiv.org/abs/2604.02296)|null|null|
