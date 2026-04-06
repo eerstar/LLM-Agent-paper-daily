@@ -1,8 +1,8 @@
 <!-- STATS_PANEL_START -->
-📈 **Today**: +0 papers ｜ **Total**: 8291 ｜ **Stars**: 0
+📈 **Today**: +0 papers ｜ **Total**: 8484 ｜ **Stars**: 0
 <!-- STATS_PANEL_END -->
 
-## Updated on 2026.04.05
+## Updated on 2026.04.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -189,7 +189,7 @@
 |**2026-02-12**|**Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments**|Romain Froger et.al.|[2602.11964](http://arxiv.org/abs/2602.11964)|null|null|
 |**2026-02-12**|**Wisdom of the LLM Crowd: A Large Scale Benchmark of Multi-Label U.S. Election-Related Harmful Social Media Content**|Qile Wang et.al.|[2602.11962](http://arxiv.org/abs/2602.11962)|null|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Multimodal
 
@@ -237,7 +237,7 @@
 |**2026-02-01**|**StoryState: Agent-Based State Control for Consistent and Editable Storybooks**|Ayushman Sarkar et.al.|[2602.01305](http://arxiv.org/abs/2602.01305)|null|null|
 |**2026-02-01**|**Boosting Point-supervised Temporal Action Localization via Text Refinement and Alignment**|Yunchuan Ma et.al.|[2602.01257](http://arxiv.org/abs/2602.01257)|null|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Diffusion Models
 
@@ -404,7 +404,7 @@
 |**2026-02-12**|**U-DAVI: Uncertainty-Aware Diffusion-Prior-Based Amortized Variational Inference for Image Reconstruction**|Ayush Varshney et.al.|[2602.11704](http://arxiv.org/abs/2602.11704)|null|null|
 |**2026-02-12**|**Semantically Conditioned Diffusion Models for Cerebral DSA Synthesis**|Qiwen Xu et.al.|[2602.11703](http://arxiv.org/abs/2602.11703)|null|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Representation Learning
 
@@ -493,7 +493,7 @@
 |**2026-02-10**|**Equilibrium contrastive learning for imbalanced image classification**|Sumin Roh et.al.|[2602.09506](http://arxiv.org/abs/2602.09506)|**[link](https://github.com/suminRoh/ECL-main)**|null|
 |**2026-02-12**|**Weakly Supervised Contrastive Learning for Histopathology Patch Embeddings**|Bodong Zhang et.al.|[2602.09477](http://arxiv.org/abs/2602.09477)|null|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Agent
 
@@ -617,12 +617,44 @@
 |**2026-02-11**|**Security Threat Modeling for Emerging AI-Agent Protocols: A Comparative Analysis of MCP, A2A, Agora, and ANP**|Zeynab Anbiaee et.al.|[2602.11327](http://arxiv.org/abs/2602.11327)|null|null|
 |**2026-02-11**|**Evaluating Memory Structure in LLM Agents**|Alina Shutova et.al.|[2602.11243](http://arxiv.org/abs/2602.11243)|null|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## LLM (General)
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
+|**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|**[link](https://github.com/mbzuai-oryx/CoME-VL)**|null|
+|**2026-04-03**|**Unmixing the Crowd: Learning Mixture-to-Set Speaker Embeddings for Enrollment-Free Target Speech Extraction**|FNU Sidharth et.al.|[2604.03219](http://arxiv.org/abs/2604.03219)|null|null|
+|**2026-04-03**|**BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence**|Sean Wu et.al.|[2604.03216](http://arxiv.org/abs/2604.03216)|null|null|
+|**2026-04-03**|**Prosocial Persuasion at Scale? Large Language Models Outperform Humans in Donation Appeals Across Levels of Personalization**|John Caffier et.al.|[2604.03202](http://arxiv.org/abs/2604.03202)|null|null|
+|**2026-04-03**|**Coupled Control, Structured Memory, and Verifiable Action in Agentic AI (SCRAT -- Stochastic Control with Retrieval and Auditable Trajectories): A Comparative Perspective from Squirrel Locomotion and Scatter-Hoarding**|Maximiliano Armesto et.al.|[2604.03201](http://arxiv.org/abs/2604.03201)|null|null|
+|**2026-04-03**|**Learning the Signature of Memorization in Autoregressive Language Models**|David Ilić et.al.|[2604.03199](http://arxiv.org/abs/2604.03199)|null|null|
+|**2026-04-03**|**Bifurcations in Stokes Flow Sedimentation**|Elias Huseby et.al.|[2604.03193](http://arxiv.org/abs/2604.03193)|null|null|
+|**2026-04-03**|**Reliability Gated Multi-Teacher Distillation for Low Resource Abstractive Summarization**|Dipto Sumit et.al.|[2604.03192](http://arxiv.org/abs/2604.03192)|null|null|
+|**2026-04-03**|**The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling**|Takuya Shiba et.al.|[2604.03191](http://arxiv.org/abs/2604.03191)|null|null|
+|**2026-04-03**|**Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model**|Peiyan Li et.al.|[2604.03181](http://arxiv.org/abs/2604.03181)|null|null|
+|**2026-04-03**|**PRISM: LLM-Guided Semantic Clustering for High-Precision Topics**|Connor Douglas et.al.|[2604.03180](http://arxiv.org/abs/2604.03180)|null|null|
+|**2026-04-03**|**Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models**|Gengwei Zhang et.al.|[2604.03179](http://arxiv.org/abs/2604.03179)|null|null|
+|**2026-04-03**|**Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models: From In-Context Prompting to Causal Retrieval-Augmented Generation**|Prakhar Bansal et.al.|[2604.03174](http://arxiv.org/abs/2604.03174)|null|null|
+|**2026-04-03**|**Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents**|Delip Rao et.al.|[2604.03173](http://arxiv.org/abs/2604.03173)|null|null|
+|**2026-04-03**|**EffiMiniVLM: A Compact Dual-Encoder Regression Framework**|Yin-Loon Khor et.al.|[2604.03172](http://arxiv.org/abs/2604.03172)|null|null|
+|**2026-04-03**|**BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation**|Delip Rao et.al.|[2604.03159](http://arxiv.org/abs/2604.03159)|null|null|
+|**2026-04-03**|**Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models**|Yunfei Bai et.al.|[2604.03157](http://arxiv.org/abs/2604.03157)|null|null|
+|**2026-04-03**|**DSBD: Dual-Aligned Structural Basis Distillation for Graph Domain Adaptation**|Yingxu Wang et.al.|[2604.03154](http://arxiv.org/abs/2604.03154)|null|null|
+|**2026-04-03**|**Valence-Arousal Subspace in LLMs: Circular Emotion Geometry and Multi-Behavioral Control**|Lihao Sun et.al.|[2604.03147](http://arxiv.org/abs/2604.03147)|null|null|
+|**2026-04-03**|**TokenDance: Scaling Multi-Agent LLM Serving via Collective KV Cache Sharing**|Zhuohang Bian et.al.|[2604.03143](http://arxiv.org/abs/2604.03143)|null|null|
+|**2026-04-03**|**Beyond Precision: Importance-Aware Recall for Factuality Evaluation in Long-Form LLM Generation**|Nazanin Jafari et.al.|[2604.03141](http://arxiv.org/abs/2604.03141)|null|null|
+|**2026-04-03**|**FSUNav: A Cerebrum-Cerebellum Architecture for Fast, Safe, and Universal Zero-Shot Goal-Oriented Navigation**|Mingao Tan et.al.|[2604.03139](http://arxiv.org/abs/2604.03139)|null|null|
+|**2026-04-03**|**StoryScope: Investigating idiosyncrasies in AI fiction**|Jenna Russell et.al.|[2604.03136](http://arxiv.org/abs/2604.03136)|null|null|
+|**2026-04-03**|**A Systematic Security Evaluation of OpenClaw and Its Variants**|Yuhang Wang et.al.|[2604.03131](http://arxiv.org/abs/2604.03131)|null|null|
+|**2026-04-03**|**Self-Distilled RLVR**|Chenxu Yang et.al.|[2604.03128](http://arxiv.org/abs/2604.03128)|null|null|
+|**2026-04-03**|**Domain-Adapted Retrieval for In-Context Annotation of Pedagogical Dialogue Acts**|Jinsook Lee et.al.|[2604.03127](http://arxiv.org/abs/2604.03127)|null|null|
+|**2026-04-03**|**An Independent Safety Evaluation of Kimi K2.5**|Zheng-Xin Yong et.al.|[2604.03121](http://arxiv.org/abs/2604.03121)|null|null|
+|**2026-04-03**|**SCC-Loc: A Unified Semantic Cascade Consensus Framework for UAV Thermal Geo-Localization**|Xiaoran Zhang et.al.|[2604.03120](http://arxiv.org/abs/2604.03120)|null|null|
+|**2026-04-03**|**Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation**|Xingtong Ge et.al.|[2604.03118](http://arxiv.org/abs/2604.03118)|null|null|
+|**2026-04-03**|**Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models**|Chengyin Hu et.al.|[2604.03117](http://arxiv.org/abs/2604.03117)|null|null|
+|**2026-04-03**|**Novel permanent magnet array geometries for scalable trapped-ion quantum computing in a laser-free entanglement architecture**|Mitchell G. Peaks et.al.|[2604.03116](http://arxiv.org/abs/2604.03116)|null|null|
+|**2026-04-03**|**Can VLMs Truly Forget? Benchmarking Training-Free Visual Concept Unlearning**|Zhangyun Tan et.al.|[2604.03114](http://arxiv.org/abs/2604.03114)|null|null|
 |**2026-04-02**|**EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors**|Luca Bartolomei et.al.|[2604.02331](http://arxiv.org/abs/2604.02331)|**[link](https://github.com/bartn8/eventhub)**|**[link](https://huggingface.co/firemkt/EVENTHUB)**|
 |**2026-04-02**|**Steerable Visual Representations**|Jona Ruthardt et.al.|[2604.02327](http://arxiv.org/abs/2604.02327)|**[link](https://github.com/manugaurdl/SteerViT)**|null|
 |**2026-04-02**|**Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation**|Daiwei Chen et.al.|[2604.02324](http://arxiv.org/abs/2604.02324)|null|null|
@@ -2044,12 +2076,44 @@
 |**2026-02-18**|**Why Thinking Hurts? Diagnosing and Rectifying the Reasoning Shift in Foundation Recommender Models**|Luankang Zhang et.al.|[2602.16587](http://arxiv.org/abs/2602.16587)|null|null|
 |**2026-02-18**|**The Representational Alignment Hypothesis: Evidence for and Consequences of Invariant Semantic Structure Across Embedding Modalities**|Akhil Ramidi et.al.|[2602.16584](http://arxiv.org/abs/2602.16584)|null|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## LLM Reasoning & Planning
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
+|**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|null|null|
+|**2026-04-03**|**Parametric SED Modelling of Protoplanetary Discs: Validation and Application to an Unstudied YSO**|Volkan Bakış et.al.|[2604.03211](http://arxiv.org/abs/2604.03211)|null|null|
+|**2026-04-03**|**Hierarchical Planning with Latent World Models**|Wancong Zhang et.al.|[2604.03208](http://arxiv.org/abs/2604.03208)|null|null|
+|**2026-04-03**|**CO and N2 Produced from H2O, CO2, and NH3 Cometary Ice Analogs**|Alexandra McKinnon et.al.|[2604.03207](http://arxiv.org/abs/2604.03207)|null|null|
+|**2026-04-03**|**Coupled Control, Structured Memory, and Verifiable Action in Agentic AI (SCRAT -- Stochastic Control with Retrieval and Auditable Trajectories): A Comparative Perspective from Squirrel Locomotion and Scatter-Hoarding**|Maximiliano Armesto et.al.|[2604.03201](http://arxiv.org/abs/2604.03201)|null|null|
+|**2026-04-03**|**Bifurcations in Stokes Flow Sedimentation**|Elias Huseby et.al.|[2604.03193](http://arxiv.org/abs/2604.03193)|null|null|
+|**2026-04-03**|**Reflective Context Learning: Studying the Optimization Primitives of Context Space**|Nikita Vassilyev et.al.|[2604.03189](http://arxiv.org/abs/2604.03189)|null|null|
+|**2026-04-03**|**Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models**|Gengwei Zhang et.al.|[2604.03179](http://arxiv.org/abs/2604.03179)|null|null|
+|**2026-04-03**|**Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models: From In-Context Prompting to Causal Retrieval-Augmented Generation**|Prakhar Bansal et.al.|[2604.03174](http://arxiv.org/abs/2604.03174)|null|null|
+|**2026-04-03**|**Exclusive and Shared Electric Flying Taxis: Evidence on Modal Shares, Stated Reasons, and Modal Shifts**|Nael Alsaleh et.al.|[2604.03166](http://arxiv.org/abs/2604.03166)|null|null|
+|**2026-04-03**|**BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation**|Delip Rao et.al.|[2604.03159](http://arxiv.org/abs/2604.03159)|null|null|
+|**2026-04-03**|**Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models**|Yunfei Bai et.al.|[2604.03157](http://arxiv.org/abs/2604.03157)|null|null|
+|**2026-04-03**|**CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator**|Yuhan Pu et.al.|[2604.03156](http://arxiv.org/abs/2604.03156)|null|null|
+|**2026-04-03**|**Scattering of TE and TM waves by inhomogeneities of a 2D material, low-frequency behavior of the scattering amplitude, and low-frequency invisibility**|Farhang Loran et.al.|[2604.03149](http://arxiv.org/abs/2604.03149)|null|null|
+|**2026-04-03**|**Valence-Arousal Subspace in LLMs: Circular Emotion Geometry and Multi-Behavioral Control**|Lihao Sun et.al.|[2604.03147](http://arxiv.org/abs/2604.03147)|null|null|
+|**2026-04-03**|**InCoder-32B-Thinking: Industrial Code World Model for Thinking**|Jian Yang et.al.|[2604.03144](http://arxiv.org/abs/2604.03144)|null|null|
+|**2026-04-03**|**Beyond Precision: Importance-Aware Recall for Factuality Evaluation in Long-Form LLM Generation**|Nazanin Jafari et.al.|[2604.03141](http://arxiv.org/abs/2604.03141)|null|null|
+|**2026-04-03**|**FSUNav: A Cerebrum-Cerebellum Architecture for Fast, Safe, and Universal Zero-Shot Goal-Oriented Navigation**|Mingao Tan et.al.|[2604.03139](http://arxiv.org/abs/2604.03139)|null|null|
+|**2026-04-03**|**A Systematic Security Evaluation of OpenClaw and Its Variants**|Yuhang Wang et.al.|[2604.03131](http://arxiv.org/abs/2604.03131)|null|null|
+|**2026-04-03**|**Self-Distilled RLVR**|Chenxu Yang et.al.|[2604.03128](http://arxiv.org/abs/2604.03128)|null|null|
+|**2026-04-03**|**Nested Multilevel Monte Carlo with Preintegration for Efficient Risk Estimation**|Yu Xu et.al.|[2604.03122](http://arxiv.org/abs/2604.03122)|null|null|
+|**2026-04-03**|**Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation**|Xingtong Ge et.al.|[2604.03118](http://arxiv.org/abs/2604.03118)|null|null|
+|**2026-04-03**|**AlertStar: Path-Aware Alert Prediction on Hyper-Relational Knowledge Graphs**|Zahra Makki Nayeri et.al.|[2604.03104](http://arxiv.org/abs/2604.03104)|null|null|
+|**2026-04-03**|**Adaptive Bidding Policies for First-Price Auctions with Budget Constraints under Non-stationarity**|Yige Wang et.al.|[2604.03103](http://arxiv.org/abs/2604.03103)|null|null|
+|**2026-04-03**|**Nonlinear dynamics of educational choices under social influence and endogenous returns**|Andrea Caravaggio et.al.|[2604.03102](http://arxiv.org/abs/2604.03102)|null|null|
+|**2026-04-03**|**An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack**|Rémi Marsal et.al.|[2604.03096](http://arxiv.org/abs/2604.03096)|null|null|
+|**2026-04-03**|**HistMSO: A Logic for Reasoning about Consistency Models with MONA**|Isabelle Coget et.al.|[2604.03085](http://arxiv.org/abs/2604.03085)|null|null|
+|**2026-04-03**|**The Price of Interoperability: Exploring Cross-Chain Bridges and Their Economic Consequences**|Yiyue Cao et.al.|[2604.03083](http://arxiv.org/abs/2604.03083)|null|null|
+|**2026-04-03**|**Carbon cost pass-through rate in power system: evidence from Italy under the EU ETS**|Pierdomenico Duttilo et.al.|[2604.03076](http://arxiv.org/abs/2604.03076)|null|null|
+|**2026-04-03**|**Speaker-Reasoner: Scaling Interaction Turns and Reasoning Patterns for Timestamped Speaker-Attributed ASR**|Zhennan Lin et.al.|[2604.03074](http://arxiv.org/abs/2604.03074)|null|null|
+|**2026-04-03**|**SparseSplat: Towards Applicable Feed-Forward 3D Gaussian Splatting with Pixel-Unaligned Prediction**|Zicheng Zhang et.al.|[2604.03069](http://arxiv.org/abs/2604.03069)|null|null|
+|**2026-04-03**|**Redefining End-of-Life: Intelligent Automation for Electronics Remanufacturing Systems**|Sibo Tian et.al.|[2604.03066](http://arxiv.org/abs/2604.03066)|null|null|
 |**2026-04-02**|**Beyond Referring Expressions: Scenario Comprehension Visual Grounding**|Ruozhen He et.al.|[2604.02323](http://arxiv.org/abs/2604.02323)|null|null|
 |**2026-04-02**|**Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning**|Bangji Yang et.al.|[2604.02322](http://arxiv.org/abs/2604.02322)|null|null|
 |**2026-04-02**|**Stop Wandering: Efficient Vision-Language Navigation via Metacognitive Reasoning**|Xueying Li et.al.|[2604.02318](http://arxiv.org/abs/2604.02318)|null|null|
@@ -3509,12 +3573,44 @@
 |**2026-02-18**|**IndicEval: A Bilingual Indian Educational Evaluation Framework for Large Language Models**|Saurabh Bharti et.al.|[2602.16467](http://arxiv.org/abs/2602.16467)|null|null|
 |**2026-02-18**|**Reactive Motion Generation With Particle-Based Perception in Dynamic Environments**|Xiyuan Zhao et.al.|[2602.16462](http://arxiv.org/abs/2602.16462)|null|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## LLM Agents (Core)
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
+|**2026-04-03**|**Coupled Control, Structured Memory, and Verifiable Action in Agentic AI (SCRAT -- Stochastic Control with Retrieval and Auditable Trajectories): A Comparative Perspective from Squirrel Locomotion and Scatter-Hoarding**|Maximiliano Armesto et.al.|[2604.03201](http://arxiv.org/abs/2604.03201)|null|null|
+|**2026-04-03**|**From Industry Claims to Empirical Reality: An Empirical Study of Code Review Agents in Pull Requests**|Kowshik Chowdhury et.al.|[2604.03196](http://arxiv.org/abs/2604.03196)|null|null|
+|**2026-04-03**|**Reflective Context Learning: Studying the Optimization Primitives of Context Space**|Nikita Vassilyev et.al.|[2604.03189](http://arxiv.org/abs/2604.03189)|null|null|
+|**2026-04-03**|**Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents**|Delip Rao et.al.|[2604.03173](http://arxiv.org/abs/2604.03173)|null|null|
+|**2026-04-03**|**BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation**|Delip Rao et.al.|[2604.03159](http://arxiv.org/abs/2604.03159)|null|null|
+|**2026-04-03**|**CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator**|Yuhan Pu et.al.|[2604.03156](http://arxiv.org/abs/2604.03156)|null|null|
+|**2026-04-03**|**TokenDance: Scaling Multi-Agent LLM Serving via Collective KV Cache Sharing**|Zhuohang Bian et.al.|[2604.03143](http://arxiv.org/abs/2604.03143)|null|null|
+|**2026-04-03**|**A Systematic Security Evaluation of OpenClaw and Its Variants**|Yuhang Wang et.al.|[2604.03131](http://arxiv.org/abs/2604.03131)|null|null|
+|**2026-04-03**|**Swarm-Based Inertial Methods for Optimization**|Qiyu Wu et.al.|[2604.03124](http://arxiv.org/abs/2604.03124)|null|null|
+|**2026-04-03**|**An Independent Safety Evaluation of Kimi K2.5**|Zheng-Xin Yong et.al.|[2604.03121](http://arxiv.org/abs/2604.03121)|null|null|
+|**2026-04-03**|**Nonlinear dynamics of educational choices under social influence and endogenous returns**|Andrea Caravaggio et.al.|[2604.03102](http://arxiv.org/abs/2604.03102)|null|null|
+|**2026-04-03**|**Co-Evolution of Policy and Internal Reward for Language Agents**|Xinyu Wang et.al.|[2604.03098](http://arxiv.org/abs/2604.03098)|null|null|
+|**2026-04-03**|**CASCADE: A Cascading Architecture for Social Coordination with Controllable Emergence at Low Cost**|Yizhi Xu et.al.|[2604.03091](http://arxiv.org/abs/2604.03091)|null|null|
+|**2026-04-03**|**SkillRT: Compiling Skills for Efficient Execution Everywhere**|Le Chen et.al.|[2604.03088](http://arxiv.org/abs/2604.03088)|null|null|
+|**2026-04-03**|**Supply-Chain Poisoning Attacks Against LLM Coding Agent Skill Ecosystems**|Yubin Qu et.al.|[2604.03081](http://arxiv.org/abs/2604.03081)|null|null|
+|**2026-04-03**|**EEspice: A Modular Circuit Simulation Platform with Parallel Device Model Evaluation via Graph Coloring**|Xuanhao Bao et.al.|[2604.03079](http://arxiv.org/abs/2604.03079)|null|null|
+|**2026-04-03**|**Speaker-Reasoner: Scaling Interaction Turns and Reasoning Patterns for Timestamped Speaker-Attributed ASR**|Zhennan Lin et.al.|[2604.03074](http://arxiv.org/abs/2604.03074)|null|null|
+|**2026-04-03**|**Automatic Textbook Formalization**|Fabian Gloeckle et.al.|[2604.03071](http://arxiv.org/abs/2604.03071)|null|null|
+|**2026-04-03**|**Credential Leakage in LLM Agent Skills: A Large-Scale Empirical Study**|Zhihao Chen et.al.|[2604.03070](http://arxiv.org/abs/2604.03070)|null|null|
+|**2026-04-03**|**A Network Formation Game for Katz Centrality Maximization: A Resource Allocation Perspective**|Balaji R et.al.|[2604.03056](http://arxiv.org/abs/2604.03056)|null|null|
+|**2026-04-03**|**Enhancing Multi-Robot Exploration Using Probabilistic Frontier Prioritization with Dirichlet Process Gaussian Mixtures**|John Lewis Devassy et.al.|[2604.03042](http://arxiv.org/abs/2604.03042)|null|null|
+|**2026-04-03**|**QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection**|Lokman Bekit et.al.|[2604.03040](http://arxiv.org/abs/2604.03040)|null|null|
+|**2026-04-03**|**Beyond Isolated Tasks: A Framework for Evaluating Coding Agents on Sequential Software Evolution**|KN Ajay Shastry et.al.|[2604.03035](http://arxiv.org/abs/2604.03035)|null|null|
+|**2026-04-03**|**Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?**|Qianshan Wei et.al.|[2604.03016](http://arxiv.org/abs/2604.03016)|null|null|
+|**2026-04-03**|**Nonzero-Sum Stochastic Differential Games for Controlled Convection-Diffusion SPDEs**|Nacira Agram et.al.|[2604.02998](http://arxiv.org/abs/2604.02998)|null|null|
+|**2026-04-03**|**Self-Optimizing Multi-Agent Systems for Deep Research**|Arthur Câmara et.al.|[2604.02988](http://arxiv.org/abs/2604.02988)|null|null|
+|**2026-04-03**|**InfoSeeker: A Scalable Hierarchical Parallel Agent Framework for Web Information Seeking**|Ka Yiu Lee et.al.|[2604.02971](http://arxiv.org/abs/2604.02971)|null|null|
+|**2026-04-03**|**AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents**|Yunhao Feng et.al.|[2604.02947](http://arxiv.org/abs/2604.02947)|null|null|
+|**2026-04-03**|**Digital Twin-Assisted In-Network and Edge Collaboration for Joint User Association, Task Offloading, and Resource Allocation in the Metaverse**|Ibrahim Aliyu et.al.|[2604.02938](http://arxiv.org/abs/2604.02938)|null|null|
+|**2026-04-03**|**Council Mode: Mitigating Hallucination and Bias in LLMs via Multi-Agent Consensus**|Shuai Wu et.al.|[2604.02923](http://arxiv.org/abs/2604.02923)|null|null|
+|**2026-04-03**|**Progressive Video Condensation with MLLM Agent for Long-form Video Understanding**|Yufei Yin et.al.|[2604.02891](http://arxiv.org/abs/2604.02891)|null|null|
+|**2026-04-03**|**Multi-Turn Reinforcement Learning for Tool-Calling Agents with Iterative Reward Calibration**|Wachiravit Modecrua et.al.|[2604.02869](http://arxiv.org/abs/2604.02869)|null|null|
 |**2026-04-02**|**ActionParty: Multi-Subject Action Binding in Generative Video Games**|Alexander Pondaven et.al.|[2604.02330](http://arxiv.org/abs/2604.02330)|**[link](https://github.com/action-party/action-party)**|null|
 |**2026-04-02**|**Stop Wandering: Efficient Vision-Language Navigation via Metacognitive Reasoning**|Xueying Li et.al.|[2604.02318](http://arxiv.org/abs/2604.02318)|null|null|
 |**2026-04-02**|**Flexibility allocation in random bipartite matching markets: exact matching rates and dominance regimes**|Taha Ameen et.al.|[2604.02295](http://arxiv.org/abs/2604.02295)|null|null|
@@ -4832,12 +4928,44 @@
 |**2026-02-18**|**Multi-agent cooperation through in-context co-player inference**|Marissa A. Weis et.al.|[2602.16301](http://arxiv.org/abs/2602.16301)|null|null|
 |**2026-02-18**|**Condorcet Dimension and Pareto Optimality for Matchings and Beyond**|Telikepalli Kavitha et.al.|[2602.16289](http://arxiv.org/abs/2602.16289)|null|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Tool Use & Function Calling
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
+|**2026-04-03**|**Directional Dependence of Extreme Events**|Matthieu Garcin et.al.|[2604.03215](http://arxiv.org/abs/2604.03215)|null|null|
+|**2026-04-03**|**Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents**|Delip Rao et.al.|[2604.03173](http://arxiv.org/abs/2604.03173)|null|null|
+|**2026-04-03**|**BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation**|Delip Rao et.al.|[2604.03159](http://arxiv.org/abs/2604.03159)|null|null|
+|**2026-04-03**|**A Systematic Security Evaluation of OpenClaw and Its Variants**|Yuhang Wang et.al.|[2604.03131](http://arxiv.org/abs/2604.03131)|null|null|
+|**2026-04-03**|**Nonlinear dynamics of educational choices under social influence and endogenous returns**|Andrea Caravaggio et.al.|[2604.03102](http://arxiv.org/abs/2604.03102)|null|null|
+|**2026-04-03**|**CASCADE: A Cascading Architecture for Social Coordination with Controllable Emergence at Low Cost**|Yizhi Xu et.al.|[2604.03091](http://arxiv.org/abs/2604.03091)|null|null|
+|**2026-04-03**|**HistMSO: A Logic for Reasoning about Consistency Models with MONA**|Isabelle Coget et.al.|[2604.03085](http://arxiv.org/abs/2604.03085)|null|null|
+|**2026-04-03**|**Quantitative spectroscopy of single and multiple OB-type stars. Non-LTE spectrum analysis with machine learning**|P. Aschenbrenner et.al.|[2604.03082](http://arxiv.org/abs/2604.03082)|null|null|
+|**2026-04-03**|**Posterior Matching over Binary-Input Memoryless Symmetric Channels: Non-Asymptotic Bounds and Low-Complexity Encoding**|Recep Can Yavas et.al.|[2604.03038](http://arxiv.org/abs/2604.03038)|null|null|
+|**2026-04-03**|**A Boolean encoding of the Most Permissive semantics for Boolean networks**|Laure de Chancel et.al.|[2604.03029](http://arxiv.org/abs/2604.03029)|null|null|
+|**2026-04-03**|**Dataset Distillation for Machine Learning Force Field in Phase Transition Regime**|Ruiyang Chen et.al.|[2604.03027](http://arxiv.org/abs/2604.03027)|null|null|
+|**2026-04-03**|**Comparing the Impact of Pedagogy-Informed Custom and General-Purpose GAI Chatbots on Students' Science Problem-Solving Processes and Performance Using Heterogeneous Interaction Network Analysis**|Hanyu Su et.al.|[2604.03022](http://arxiv.org/abs/2604.03022)|null|null|
+|**2026-04-03**|**Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?**|Qianshan Wei et.al.|[2604.03016](http://arxiv.org/abs/2604.03016)|null|null|
+|**2026-04-03**|**On observer forms for hyperbolic PDEs with boundary dynamics**|Luca Mayer et.al.|[2604.03009](http://arxiv.org/abs/2604.03009)|null|null|
+|**2026-04-03**|**UnrealVis: A Testing Laboratory of Optimization Techniques in Unreal Engine for Scientific Visualization**|Matteo Filosa et.al.|[2604.02980](http://arxiv.org/abs/2604.02980)|null|null|
+|**2026-04-03**|**Spatially inhomogeneous delithiation in LiNiO2 positive electrode: the effect of X-rays dose**|Francesco La Porta et.al.|[2604.02974](http://arxiv.org/abs/2604.02974)|null|null|
+|**2026-04-03**|**Applying Self-organizing Maps to the Inverse Problem**|Vaidehi Tikhe et.al.|[2604.02958](http://arxiv.org/abs/2604.02958)|null|null|
+|**2026-04-03**|**AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents**|Yunhao Feng et.al.|[2604.02947](http://arxiv.org/abs/2604.02947)|null|null|
+|**2026-04-03**|**Stabilized Proximal Point Method via Trust Region Control**|Hanmin Li et.al.|[2604.02943](http://arxiv.org/abs/2604.02943)|null|null|
+|**2026-04-03**|**New Robust Streaming DMD with Forecasting**|Zlatko Drmač et.al.|[2604.02928](http://arxiv.org/abs/2604.02928)|null|null|
+|**2026-04-03**|**Towards Near-Real-Time Telemetry-Aware Routing with Neural Routing Algorithms**|Andreas Boltres et.al.|[2604.02927](http://arxiv.org/abs/2604.02927)|null|null|
+|**2026-04-03**|**BioUNER: A Benchmark Dataset for Clinical Urdu Named Entity Recognition**|Wazir Ali et.al.|[2604.02904](http://arxiv.org/abs/2604.02904)|null|null|
+|**2026-04-03**|**Multi-Turn Reinforcement Learning for Tool-Calling Agents with Iterative Reward Calibration**|Wachiravit Modecrua et.al.|[2604.02869](http://arxiv.org/abs/2604.02869)|null|null|
+|**2026-04-03**|**ESL-Bench: An Event-Driven Synthetic Longitudinal Benchmark for Health Agents**|Chao Li et.al.|[2604.02834](http://arxiv.org/abs/2604.02834)|null|null|
+|**2026-04-03**|**Real-Variable Theory of Hardy--Lorentz Spaces on Quasi-Ultrametric Spaces of Homogeneous Type with Reverse-Doubling Property**|Chenfeng Zhu et.al.|[2604.02822](http://arxiv.org/abs/2604.02822)|null|null|
+|**2026-04-03**|**PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis**|Dexiang Li et.al.|[2604.02804](http://arxiv.org/abs/2604.02804)|null|null|
+|**2026-04-03**|**Equivalence between the Functional Equation and Voronoï-type summation identities for a class of $L$ -Functions**|Arindam Roy et.al.|[2604.02803](http://arxiv.org/abs/2604.02803)|null|null|
+|**2026-04-03**|**CharTool: Tool-Integrated Visual Reasoning for Chart Understanding**|Situo Zhang et.al.|[2604.02794](http://arxiv.org/abs/2604.02794)|null|null|
+|**2026-04-03**|**Generative AI Use in Professional Graduate Thesis Writing: Adoption, Perceived Outcomes, and the Role of a Research-Specialized Agent**|Kenji Saito et.al.|[2604.02792](http://arxiv.org/abs/2604.02792)|null|null|
+|**2026-04-03**|**Structure-Aware Commitment Reduction for Network-Constrained Unit Commitment with Solver-Preserving Guarantees**|Guangwen Wang et.al.|[2604.02788](http://arxiv.org/abs/2604.02788)|null|null|
+|**2026-04-03**|**A Unified Perspective on Adversarial Membership Manipulation in Vision Models**|Ruize Gao et.al.|[2604.02780](http://arxiv.org/abs/2604.02780)|**[link](https://github.com/Sjtubrian/Adversarial_Membership_Manipulation)**|null|
+|**2026-04-03**|**Evaluating the Environmental Impact of using SLMs and Prompt Engineering for Code Generation**|Md Afif Al Mamun et.al.|[2604.02776](http://arxiv.org/abs/2604.02776)|null|null|
 |**2026-04-02**|**ActionParty: Multi-Subject Action Binding in Generative Video Games**|Alexander Pondaven et.al.|[2604.02330](http://arxiv.org/abs/2604.02330)|null|null|
 |**2026-04-02**|**Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models**|Sarath Shekkizhar et.al.|[2604.02315](http://arxiv.org/abs/2604.02315)|null|null|
 |**2026-04-02**|**Magboltz-GUI: a Python-based graphical user interface for Magboltz**|Michele Renda. Dan Andrei Ciubotaru et.al.|[2604.02277](http://arxiv.org/abs/2604.02277)|null|null|
@@ -6155,12 +6283,44 @@
 |**2026-02-18**|**Mind the Gap: Evaluating LLMs for High-Level Malicious Package Detection vs. Fine-Grained Indicator Identification**|Ahmed Ryan et.al.|[2602.16304](http://arxiv.org/abs/2602.16304)|null|null|
 |**2026-02-18**|**Finite elements for the space approximation of a differential model for salts crystallization**|Alessandra Aimi et.al.|[2602.16303](http://arxiv.org/abs/2602.16303)|null|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## RAG / Memory / Long Context for Agents
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
+|**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|**[link](https://github.com/mbzuai-oryx/CoME-VL)**|null|
+|**2026-04-03**|**Coupled Control, Structured Memory, and Verifiable Action in Agentic AI (SCRAT -- Stochastic Control with Retrieval and Auditable Trajectories): A Comparative Perspective from Squirrel Locomotion and Scatter-Hoarding**|Maximiliano Armesto et.al.|[2604.03201](http://arxiv.org/abs/2604.03201)|null|null|
+|**2026-04-03**|**PRISM: LLM-Guided Semantic Clustering for High-Precision Topics**|Connor Douglas et.al.|[2604.03180](http://arxiv.org/abs/2604.03180)|null|null|
+|**2026-04-03**|**Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models: From In-Context Prompting to Causal Retrieval-Augmented Generation**|Prakhar Bansal et.al.|[2604.03174](http://arxiv.org/abs/2604.03174)|null|null|
+|**2026-04-03**|**Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents**|Delip Rao et.al.|[2604.03173](http://arxiv.org/abs/2604.03173)|null|null|
+|**2026-04-03**|**From Gaussian Fading to Gilbert-Elliott: Bridging Physical and Link-Layer Channel Models in Closed Form**|Bhaskar Krishnamachari et.al.|[2604.03160](http://arxiv.org/abs/2604.03160)|null|null|
+|**2026-04-03**|**BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation**|Delip Rao et.al.|[2604.03159](http://arxiv.org/abs/2604.03159)|null|null|
+|**2026-04-03**|**Causal Inference for Quantifying Noisy Neighbor Effects in Multi-Tenant Cloud Environments**|Philipe S. Schiavo et.al.|[2604.03145](http://arxiv.org/abs/2604.03145)|null|null|
+|**2026-04-03**|**Domain-Adapted Retrieval for In-Context Annotation of Pedagogical Dialogue Acts**|Jinsook Lee et.al.|[2604.03127](http://arxiv.org/abs/2604.03127)|null|null|
+|**2026-04-03**|**SCC-Loc: A Unified Semantic Cascade Consensus Framework for UAV Thermal Geo-Localization**|Xiaoran Zhang et.al.|[2604.03120](http://arxiv.org/abs/2604.03120)|null|null|
+|**2026-04-03**|**Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation**|Xingtong Ge et.al.|[2604.03118](http://arxiv.org/abs/2604.03118)|null|null|
+|**2026-04-03**|**Testing the Role of Diagonal Interactions in High-Order Hopfield Models via Dynamical Mean-Field Theory**|Yuto Sumikawa et.al.|[2604.03115](http://arxiv.org/abs/2604.03115)|null|null|
+|**2026-04-03**|**Speaker-Reasoner: Scaling Interaction Turns and Reasoning Patterns for Timestamped Speaker-Attributed ASR**|Zhennan Lin et.al.|[2604.03074](http://arxiv.org/abs/2604.03074)|null|null|
+|**2026-04-03**|**Querying Structured Data Through Natural Language Using Language Models**|Hontan Valentin-Micu et.al.|[2604.03057](http://arxiv.org/abs/2604.03057)|null|null|
+|**2026-04-03**|**QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection**|Lokman Bekit et.al.|[2604.03040](http://arxiv.org/abs/2604.03040)|null|null|
+|**2026-04-03**|**User-Aware Conditional Generative Total Correlation Learning for Multi-Modal Recommendation**|Jing Du et.al.|[2604.03014](http://arxiv.org/abs/2604.03014)|null|null|
+|**2026-04-03**|**CIDER: Boosting Memory-Disaggregated Key-Value Stores with Pessimistic Synchronization**|Yuxuan Du et.al.|[2604.03007](http://arxiv.org/abs/2604.03007)|null|null|
+|**2026-04-03**|**Self-Optimizing Multi-Agent Systems for Deep Research**|Arthur Câmara et.al.|[2604.02988](http://arxiv.org/abs/2604.02988)|null|null|
+|**2026-04-03**|**Prompt Compression in the Wild: Measuring Latency, Rate Adherence, and Quality for Faster LLM Inference**|Cornelius Kummer et.al.|[2604.02985](http://arxiv.org/abs/2604.02985)|null|null|
+|**2026-04-03**|**Effect of Input Resolution on Retinal Vessel Segmentation Performance: An Empirical Study Across Five Datasets**|Amarnath R et.al.|[2604.02977](http://arxiv.org/abs/2604.02977)|null|null|
+|**2026-04-03**|**Inversion-Free Natural Gradient Descent on Riemannian Manifolds**|Dario Draca et.al.|[2604.02969](http://arxiv.org/abs/2604.02969)|null|null|
+|**2026-04-03**|**LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation**|Yilin Xiao et.al.|[2604.02954](http://arxiv.org/abs/2604.02954)|null|null|
+|**2026-04-03**|**Sample compression schemes for balls in structurally sparse graphs**|Romain Bourneuf et.al.|[2604.02949](http://arxiv.org/abs/2604.02949)|null|null|
+|**2026-04-03**|**New Robust Streaming DMD with Forecasting**|Zlatko Drmač et.al.|[2604.02928](http://arxiv.org/abs/2604.02928)|null|null|
+|**2026-04-03**|**Memory-Type Null Controllability for Non-Autonomous Degenerate Parabolic Equations with Boundary Degeneracy**|Dev Prakash Jha et.al.|[2604.02916](http://arxiv.org/abs/2604.02916)|null|null|
+|**2026-04-03**|**Analysis of Optimality of Large Language Models on Planning Problems**|Bernd Bohnet et.al.|[2604.02910](http://arxiv.org/abs/2604.02910)|null|null|
+|**2026-04-03**|**BioUNER: A Benchmark Dataset for Clinical Urdu Named Entity Recognition**|Wazir Ali et.al.|[2604.02904](http://arxiv.org/abs/2604.02904)|null|null|
+|**2026-04-03**|**Extracting Money Laundering Transactions from Quasi-Temporal Graph Representation**|Haseeb Tariq et.al.|[2604.02899](http://arxiv.org/abs/2604.02899)|null|null|
+|**2026-04-03**|**Token Warping Helps MLLMs Look from Nearby Viewpoints**|Phillip Y. Lee et.al.|[2604.02870](http://arxiv.org/abs/2604.02870)|null|null|
+|**2026-04-03**|**A Paradigm Shift: Fully End-to-End Training for Temporal Sentence Grounding in Videos**|Allen He et.al.|[2604.02860](http://arxiv.org/abs/2604.02860)|null|null|
+|**2026-04-03**|**Factorized Multi-Resolution HashGrid for Efficient Neural Radiance Fields: Execution on Edge-Devices**|Kim Jun-Seong et.al.|[2604.02836](http://arxiv.org/abs/2604.02836)|null|null|
+|**2026-04-03**|**ESL-Bench: An Event-Driven Synthetic Longitudinal Benchmark for Health Agents**|Chao Li et.al.|[2604.02834](http://arxiv.org/abs/2604.02834)|null|null|
 |**2026-04-02**|**Steerable Visual Representations**|Jona Ruthardt et.al.|[2604.02327](http://arxiv.org/abs/2604.02327)|**[link](https://github.com/manugaurdl/SteerViT)**|null|
 |**2026-04-02**|**Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning**|Bangji Yang et.al.|[2604.02322](http://arxiv.org/abs/2604.02322)|null|null|
 |**2026-04-02**|**Stop Wandering: Efficient Vision-Language Navigation via Metacognitive Reasoning**|Xueying Li et.al.|[2604.02318](http://arxiv.org/abs/2604.02318)|null|null|
@@ -7478,12 +7638,44 @@
 |**2026-02-18**|**RefineFormer3D: Efficient 3D Medical Image Segmentation via Adaptive Multi-Scale Transformer with Cross Attention Fusion**|Kavyansh Tyagi et.al.|[2602.16320](http://arxiv.org/abs/2602.16320)|null|null|
 |**2026-02-18**|**The Diversity Paradox revisited: Systemic Effects of Feedback Loops in Recommender Systems**|Gabriele Barlacchi et.al.|[2602.16315](http://arxiv.org/abs/2602.16315)|null|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Multi-Agent / Collaboration
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
+|**2026-04-03**|**CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator**|Yuhan Pu et.al.|[2604.03156](http://arxiv.org/abs/2604.03156)|null|null|
+|**2026-04-03**|**TokenDance: Scaling Multi-Agent LLM Serving via Collective KV Cache Sharing**|Zhuohang Bian et.al.|[2604.03143](http://arxiv.org/abs/2604.03143)|null|null|
+|**2026-04-03**|**A Systematic Security Evaluation of OpenClaw and Its Variants**|Yuhang Wang et.al.|[2604.03131](http://arxiv.org/abs/2604.03131)|null|null|
+|**2026-04-03**|**Swarm-Based Inertial Methods for Optimization**|Qiyu Wu et.al.|[2604.03124](http://arxiv.org/abs/2604.03124)|null|null|
+|**2026-04-03**|**Speaker-Reasoner: Scaling Interaction Turns and Reasoning Patterns for Timestamped Speaker-Attributed ASR**|Zhennan Lin et.al.|[2604.03074](http://arxiv.org/abs/2604.03074)|null|null|
+|**2026-04-03**|**Automatic Textbook Formalization**|Fabian Gloeckle et.al.|[2604.03071](http://arxiv.org/abs/2604.03071)|null|null|
+|**2026-04-03**|**A Network Formation Game for Katz Centrality Maximization: A Resource Allocation Perspective**|Balaji R et.al.|[2604.03056](http://arxiv.org/abs/2604.03056)|null|null|
+|**2026-04-03**|**Enhancing Multi-Robot Exploration Using Probabilistic Frontier Prioritization with Dirichlet Process Gaussian Mixtures**|John Lewis Devassy et.al.|[2604.03042](http://arxiv.org/abs/2604.03042)|null|null|
+|**2026-04-03**|**Self-Optimizing Multi-Agent Systems for Deep Research**|Arthur Câmara et.al.|[2604.02988](http://arxiv.org/abs/2604.02988)|null|null|
+|**2026-04-03**|**InfoSeeker: A Scalable Hierarchical Parallel Agent Framework for Web Information Seeking**|Ka Yiu Lee et.al.|[2604.02971](http://arxiv.org/abs/2604.02971)|null|null|
+|**2026-04-03**|**Nanomechanical detection of vortices in an electron fluid**|Andrey A. Shevyrin et.al.|[2604.02961](http://arxiv.org/abs/2604.02961)|null|null|
+|**2026-04-03**|**Digital Twin-Assisted In-Network and Edge Collaboration for Joint User Association, Task Offloading, and Resource Allocation in the Metaverse**|Ibrahim Aliyu et.al.|[2604.02938](http://arxiv.org/abs/2604.02938)|null|null|
+|**2026-04-03**|**Council Mode: Mitigating Hallucination and Bias in LLMs via Multi-Agent Consensus**|Shuai Wu et.al.|[2604.02923](http://arxiv.org/abs/2604.02923)|null|null|
+|**2026-04-03**|**Multi-Turn Reinforcement Learning for Tool-Calling Agents with Iterative Reward Calibration**|Wachiravit Modecrua et.al.|[2604.02869](http://arxiv.org/abs/2604.02869)|null|null|
+|**2026-04-03**|**EMS: Multi-Agent Voting via Efficient Majority-then-Stopping**|Yiqing Liu et.al.|[2604.02863](http://arxiv.org/abs/2604.02863)|null|null|
+|**2026-04-03**|**ESL-Bench: An Event-Driven Synthetic Longitudinal Benchmark for Health Agents**|Chao Li et.al.|[2604.02834](http://arxiv.org/abs/2604.02834)|null|null|
+|**2026-04-03**|**Orientation Matters: Learning Radiation Patterns of Multi-Rotor UAVs In-Flight to Enhance Communication Availability Modeling**|Martin Zoula et.al.|[2604.02827](http://arxiv.org/abs/2604.02827)|null|null|
+|**2026-04-03**|**ChatSVA: Bridging SVA Generation for Hardware Verification via Task-Specific LLMs**|Lik Tung Fu et.al.|[2604.02811](http://arxiv.org/abs/2604.02811)|null|null|
+|**2026-04-03**|**PaveBench: A Versatile Benchmark for Pavement Distress Perception and Interactive Vision-Language Analysis**|Dexiang Li et.al.|[2604.02804](http://arxiv.org/abs/2604.02804)|null|null|
+|**2026-04-03**|**Fully Byzantine-Resilient Distributed Multi-Agent Q-Learning**|Haejoon Lee et.al.|[2604.02791](http://arxiv.org/abs/2604.02791)|null|null|
+|**2026-04-03**|**QuadAgent: A Responsive Agent System for Vision-Language Guided Quadrotor Agile Flight**|Ao Zhuang et.al.|[2604.02786](http://arxiv.org/abs/2604.02786)|null|null|
+|**2026-04-03**|**Improving Role Consistency in Multi-Agent Collaboration via Quantitative Role Clarity**|Guoling Zhou et.al.|[2604.02770](http://arxiv.org/abs/2604.02770)|null|null|
+|**2026-04-03**|**SentinelAgent: Intent-Verified Delegation Chains for Securing Federal Multi-Agent AI Systems**|KrishnaSaiReddy Patil et.al.|[2604.02767](http://arxiv.org/abs/2604.02767)|null|null|
+|**2026-04-03**|**OMNI-PoseX: A Fast Vision Model for 6D Object Pose Estimation in Embodied Tasks**|Michael Zhang et.al.|[2604.02759](http://arxiv.org/abs/2604.02759)|null|null|
+|**2026-04-03**|**Multi-agent Reinforcement Learning-based Joint Design of Low-Carbon P2P Market and Bidding Strategy in Microgrids**|Junhao Ren et.al.|[2604.02728](http://arxiv.org/abs/2604.02728)|null|null|
+|**2026-04-03**|**GrandCode: Achieving Grandmaster Level in Competitive Programming via Agentic Reinforcement Learning**|DeepReinforce Team et.al.|[2604.02721](http://arxiv.org/abs/2604.02721)|null|null|
+|**2026-04-03**|**Breakdowns in Conversational AI: Interactional Failures in Emotionally and Ethically Sensitive Contexts**|Jiawen Deng et.al.|[2604.02713](http://arxiv.org/abs/2604.02713)|null|null|
+|**2026-04-03**|**XrayClaw: Cooperative-Competitive Multi-Agent Alignment for Trustworthy Chest X-ray Diagnosis**|Shawn Young et.al.|[2604.02695](http://arxiv.org/abs/2604.02695)|null|null|
+|**2026-04-03**|**DocShield: Towards AI Document Safety via Evidence-Grounded Agentic Reasoning**|Fanwei Zeng et.al.|[2604.02694](http://arxiv.org/abs/2604.02694)|null|null|
+|**2026-04-03**|**MatClaw: An Autonomous Code-First LLM Agent for End-to-End Materials Exploration**|Chenmu Zhang et.al.|[2604.02688](http://arxiv.org/abs/2604.02688)|null|null|
+|**2026-04-03**|**Inverse Safety Filtering: Inferring Constraints from Safety Filters for Decentralized Coordination**|Minh Nguyen et.al.|[2604.02687](http://arxiv.org/abs/2604.02687)|null|null|
+|**2026-04-03**|**Beyond the AI Tutor: Social Learning with LLM Agents**|Harsh Kumar et.al.|[2604.02677](http://arxiv.org/abs/2604.02677)|null|null|
 |**2026-04-02**|**ActionParty: Multi-Subject Action Binding in Generative Video Games**|Alexander Pondaven et.al.|[2604.02330](http://arxiv.org/abs/2604.02330)|null|null|
 |**2026-04-02**|**Flexibility allocation in random bipartite matching markets: exact matching rates and dominance regimes**|Taha Ameen et.al.|[2604.02295](http://arxiv.org/abs/2604.02295)|null|null|
 |**2026-04-02**|**The Self Driving Portfolio: Agentic Architecture for Institutional Asset Management**|Andrew Ang et.al.|[2604.02279](http://arxiv.org/abs/2604.02279)|null|null|
@@ -8688,12 +8880,44 @@
 |**2026-02-17**|**MARLEM: A Multi-Agent Reinforcement Learning Simulation Framework for Implicit Cooperation in Decentralized Local Energy Markets**|Nelson Salazar-Pena et.al.|[2602.16063](http://arxiv.org/abs/2602.16063)|null|null|
 |**2026-02-17**|**Harnessing Implicit Cooperation: A Multi-Agent Reinforcement Learning Approach Towards Decentralized Local Energy Markets**|Nelson Salazar-Pena et.al.|[2602.16062](http://arxiv.org/abs/2602.16062)|**[link](https://github.com/Ufere/Assingment_1)**|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Web / Search / Browsing Agents
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
+|**2026-04-03**|**Hierarchical Planning with Latent World Models**|Wancong Zhang et.al.|[2604.03208](http://arxiv.org/abs/2604.03208)|null|null|
+|**2026-04-03**|**Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents**|Delip Rao et.al.|[2604.03173](http://arxiv.org/abs/2604.03173)|null|null|
+|**2026-04-03**|**Bounds on Decorated Sweep Covers in Tree Posets**|Blake A. Wilson et.al.|[2604.03165](http://arxiv.org/abs/2604.03165)|null|null|
+|**2026-04-03**|**BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation**|Delip Rao et.al.|[2604.03159](http://arxiv.org/abs/2604.03159)|null|null|
+|**2026-04-03**|**PAFT: Preservation Aware Fine-Tuning for Minimal-Edit Program Repair**|Boyang Yang et.al.|[2604.03113](http://arxiv.org/abs/2604.03113)|null|null|
+|**2026-04-03**|**The Darkside-20k Data Acquisition System**|Fabio Acerbi et.al.|[2604.03059](http://arxiv.org/abs/2604.03059)|null|null|
+|**2026-04-03**|**A 1151-Year Quasi-Commensurability Among the Pre-Uranian Planets: Empirical Detection and Statistical Characterization**|Carlos Baiget Orts et.al.|[2604.03049](http://arxiv.org/abs/2604.03049)|null|null|
+|**2026-04-03**|**Enhancing Multi-Robot Exploration Using Probabilistic Frontier Prioritization with Dirichlet Process Gaussian Mixtures**|John Lewis Devassy et.al.|[2604.03042](http://arxiv.org/abs/2604.03042)|null|null|
+|**2026-04-03**|**Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?**|Qianshan Wei et.al.|[2604.03016](http://arxiv.org/abs/2604.03016)|null|null|
+|**2026-04-03**|**Self-Optimizing Multi-Agent Systems for Deep Research**|Arthur Câmara et.al.|[2604.02988](http://arxiv.org/abs/2604.02988)|null|null|
+|**2026-04-03**|**InfoSeeker: A Scalable Hierarchical Parallel Agent Framework for Web Information Seeking**|Ka Yiu Lee et.al.|[2604.02971](http://arxiv.org/abs/2604.02971)|null|null|
+|**2026-04-03**|**Applying Self-organizing Maps to the Inverse Problem**|Vaidehi Tikhe et.al.|[2604.02958](http://arxiv.org/abs/2604.02958)|null|null|
+|**2026-04-03**|**Search for the decays $B_{(s)}^0\to J/ψγ$ at LHCb**|LHCb collaboration et.al.|[2604.02933](http://arxiv.org/abs/2604.02933)|null|null|
+|**2026-04-03**|**Scalable Mean-Variance Portfolio Optimization via Subspace Embeddings and GPU-Friendly Nesterov-Accelerated Projected Gradient**|Yi-Shuai Niu et.al.|[2604.02917](http://arxiv.org/abs/2604.02917)|null|null|
+|**2026-04-03**|**Analysis of Optimality of Large Language Models on Planning Problems**|Bernd Bohnet et.al.|[2604.02910](http://arxiv.org/abs/2604.02910)|null|null|
+|**2026-04-03**|**Importance Sampling Optimization with Laplace Principle**|Radu-Alexandru Dragomir et.al.|[2604.02882](http://arxiv.org/abs/2604.02882)|null|null|
+|**2026-04-03**|**Unified and Efficient Approach for Multi-Vector Similarity Search**|Binhan Yang et.al.|[2604.02815](http://arxiv.org/abs/2604.02815)|null|null|
+|**2026-04-03**|**Characterizing charge-parity detection based on an offset-charge-tunable transmon qubit via randomized benchmarking**|Yao-Yao Jiang et.al.|[2604.02809](http://arxiv.org/abs/2604.02809)|null|null|
+|**2026-04-03**|**Distance Comparison Operations Are Not Silver Bullets in Vector Similarity Search: A Benchmark Study on Their Merits and Limits**|Zhuanglin Zheng et.al.|[2604.02801](http://arxiv.org/abs/2604.02801)|null|null|
+|**2026-04-03**|**Vision-Based End-to-End Learning for UAV Traversal of Irregular Gaps via Differentiable Simulation**|Linzuo Zhang et.al.|[2604.02779](http://arxiv.org/abs/2604.02779)|null|null|
+|**2026-04-03**|**Adaptive Newton-CG methods with global and local analysis for unconstrained optimization with Hölder continuous Hessian**|Ziyang Zeng et.al.|[2604.02763](http://arxiv.org/abs/2604.02763)|null|null|
+|**2026-04-03**|**Wave-appropriate reconstruction of compressible flows: physics-constrained acoustic dissipation and rank-1 entropy wave correction**|Amareshwara Sainadh Chamarthi et.al.|[2604.02757](http://arxiv.org/abs/2604.02757)|null|null|
+|**2026-04-03**|**Differentiable Stroke Planning with Dual Parameterization for Efficient and High-Fidelity Painting Creation**|Jinfan Liu et.al.|[2604.02752](http://arxiv.org/abs/2604.02752)|null|null|
+|**2026-04-03**|**AnnoRetrieve: Efficient Structured Retrieval for Unstructured Document Analysis**|Teng Lin et.al.|[2604.02690](http://arxiv.org/abs/2604.02690)|null|null|
+|**2026-04-03**|**MatClaw: An Autonomous Code-First LLM Agent for End-to-End Materials Exploration**|Chenmu Zhang et.al.|[2604.02688](http://arxiv.org/abs/2604.02688)|null|null|
+|**2026-04-03**|**Smart Transfer: Leveraging Vision Foundation Model for Rapid Building Damage Mapping with Post-Earthquake VHR Imagery**|Hao Li et.al.|[2604.02627](http://arxiv.org/abs/2604.02627)|null|null|
+|**2026-04-03**|**Poison Once, Exploit Forever: Environment-Injected Memory Poisoning Attacks on Web Agents**|Wei Zou et.al.|[2604.02623](http://arxiv.org/abs/2604.02623)|null|null|
+|**2026-04-03**|**Probing Freeze-In Dark Matter via a Spin-2 Portal at the LHC with Vector Boson Fusion and Machine Learning**|Junzhe Liu et.al.|[2604.02604](http://arxiv.org/abs/2604.02604)|null|null|
+|**2026-04-03**|**AI Fact-Checking in the Wild: A Field Evaluation of LLM-Written Community Notes on X**|Haiwen Li et.al.|[2604.02592](http://arxiv.org/abs/2604.02592)|null|null|
+|**2026-04-02**|**High Volatility and Action Bias Distinguish LLMs from Humans in Group Coordination**|Sahaj Singh Maini et.al.|[2604.02578](http://arxiv.org/abs/2604.02578)|null|null|
+|**2026-04-02**|**Construction and characterisation of the DarkSide-20k veto silicon photo-multiplier tiles**|DarkSide-20k collaboration et.al.|[2604.02551](http://arxiv.org/abs/2604.02551)|null|null|
+|**2026-04-02**|**A perfect crystal neutron loop cavity**|Owen Lailey et.al.|[2604.02541](http://arxiv.org/abs/2604.02541)|null|null|
 |**2026-04-02**|**SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization**|Zhengxi Lu et.al.|[2604.02268](http://arxiv.org/abs/2604.02268)|**[link](https://github.com/ZJU-REAL/SkillZero)**|**[link](https://huggingface.co/skill0/Lisa_ai_modal)**|
 |**2026-04-02**|**Search for dark photons at future e $^+$e$^-$ colliders**|Mikael Berggren et.al.|[2604.02245](http://arxiv.org/abs/2604.02245)|null|null|
 |**2026-04-02**|**Impact of Multimodal and Conversational AI on Learning Outcomes and Experience**|Karan Taneja et.al.|[2604.02221](http://arxiv.org/abs/2604.02221)|null|null|
@@ -9930,12 +10154,36 @@
 |**2026-02-17**|**Adaptive Semi-Supervised Training of P300 ERP-BCI Speller System with Minimum Calibration Effort**|Shumeng Chen et.al.|[2602.15955](http://arxiv.org/abs/2602.15955)|null|null|
 |**2026-02-17**|**Probing baryon number with missing energy**|Gudrun Hiller et.al.|[2602.15936](http://arxiv.org/abs/2602.15936)|null|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## GUI / Computer Use Agents
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
+|**2026-04-03**|**HyperCT: Low-Rank Hypernet for Unified Chest CT Analysis**|Fengbei Liu et.al.|[2604.03224](http://arxiv.org/abs/2604.03224)|null|null|
+|**2026-04-03**|**Real-Time Surrogate Modeling for Personalized Blood Flow Prediction and Hemodynamic Analysis**|Sokratis J. Anagnostopoulos et.al.|[2604.03197](http://arxiv.org/abs/2604.03197)|null|null|
+|**2026-04-03**|**Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models: From In-Context Prompting to Causal Retrieval-Augmented Generation**|Prakhar Bansal et.al.|[2604.03174](http://arxiv.org/abs/2604.03174)|null|null|
+|**2026-04-03**|**STEAR: Layer-Aware Spatiotemporal Evidence Intervention for Hallucination Mitigation in Video Large Language Models**|Linfeng Fan et.al.|[2604.03045](http://arxiv.org/abs/2604.03045)|null|null|
+|**2026-04-03**|**Maximizing the magnetic anisotropy of Dy complexes by fine tuning organic ligands: A systematic multireference high-throughput exploration of over 30k molecules**|Lion Frangoulis et.al.|[2604.03019](http://arxiv.org/abs/2604.03019)|null|null|
+|**2026-04-03**|**The analytic structure of the QCD propagators, confinement, and deconfinement**|Giorgio Comitini et.al.|[2604.02963](http://arxiv.org/abs/2604.02963)|null|null|
+|**2026-04-03**|**AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents**|Yunhao Feng et.al.|[2604.02947](http://arxiv.org/abs/2604.02947)|null|null|
+|**2026-04-03**|**Toward an Artificial General Teacher: Procedural Geometry Data Generation and Visual Grounding with Vision-Language Models**|Hai Nguyen-Truong et.al.|[2604.02893](http://arxiv.org/abs/2604.02893)|null|null|
+|**2026-04-03**|**Band Renormalization in Monolayer MoS2 Induced by Multipole Screening**|Woojoo Lee et.al.|[2604.02857](http://arxiv.org/abs/2604.02857)|null|null|
+|**2026-04-03**|**ViraHinter: a dual-modal artificial intelligence framework for predicting virus-host interactions**|Weiqiang Bai et.al.|[2604.02842](http://arxiv.org/abs/2604.02842)|null|null|
+|**2026-04-03**|**CharTool: Tool-Integrated Visual Reasoning for Chart Understanding**|Situo Zhang et.al.|[2604.02794](http://arxiv.org/abs/2604.02794)|null|null|
+|**2026-04-03**|**Pulsar scintillation studies with LOFAR III. Annual variations in PSR~J0814 $+$ 7429**|Yanqing Cai et.al.|[2604.02681](http://arxiv.org/abs/2604.02681)|null|null|
+|**2026-04-03**|**Data-driven identification of critical links in transport networks using quantum annealing**|Junxiang Xu et.al.|[2604.02675](http://arxiv.org/abs/2604.02675)|null|null|
+|**2026-04-03**|**Quantum optimisation in cities: Limitations and prospects of urban transport systems**|Junxiang Xu et.al.|[2604.02671](http://arxiv.org/abs/2604.02671)|null|null|
+|**2026-04-03**|**Transfer Learning for Meta-analysis Under Covariate Shift**|Zilong Wang et.al.|[2604.02656](http://arxiv.org/abs/2604.02656)|null|null|
+|**2026-04-03**|**Evolution from Landau Quantization to Discrete Scale Invariance Revealed by Quantum Oscillations in Topological Materials**|Jiayi Yang et.al.|[2604.02630](http://arxiv.org/abs/2604.02630)|null|null|
+|**2026-04-03**|**Toys that listen, talk, and play: Understanding Children's Sensemaking and Interactions with AI Toys**|Aayushi Dangol et.al.|[2604.02629](http://arxiv.org/abs/2604.02629)|null|null|
+|**2026-04-03**|**Multi-Site Health Research Integrating Complementary Data Sources: A Scoping Review of Statistical Inference Methods for Vertically Partitioned Data**|Marie-Pier Domingue et.al.|[2604.02595](http://arxiv.org/abs/2604.02595)|null|null|
+|**2026-04-02**|**Synapse: Evolving Job-Person Fit with Explainable Two-phase Retrieval and LLM-guided Genetic Resume Optimization**|Ansel Kaplan Erol et.al.|[2604.02539](http://arxiv.org/abs/2604.02539)|null|null|
+|**2026-04-02**|**AQVolt26: High-Temperature r $^2$ SCAN Halide Dataset for Universal ML Potentials and Solid-State Batteries**|Jiyoon Kim et.al.|[2604.02524](http://arxiv.org/abs/2604.02524)|null|null|
+|**2026-04-02**|**Re-analysis of the Human Transcription Factor Atlas Recovers TF-Specific Signatures from Pooled Single-Cell Screens with Missing Controls**|Arka Jain et.al.|[2604.02511](http://arxiv.org/abs/2604.02511)|null|null|
+|**2026-04-02**|**CARBON-2D Topological Descriptor (C2DTD): An Interpretable and Physics-Informed Representation for Two-Dimensional Carbon Networks**|Felipe Hawthorne et.al.|[2604.02499](http://arxiv.org/abs/2604.02499)|null|null|
+|**2026-04-02**|**VERTIGO: Visual Preference Optimization for Cinematic Camera Trajectory Generation**|Mengtian Li et.al.|[2604.02467](http://arxiv.org/abs/2604.02467)|null|null|
+|**2026-04-02**|**Managing Diabetic Retinopathy with Deep Learning: A Data Centric Overview**|Shramana Dey et.al.|[2604.02448](http://arxiv.org/abs/2604.02448)|null|null|
 |**2026-04-02**|**Generative World Renderer**|Zheng-Hui Huang et.al.|[2604.02329](http://arxiv.org/abs/2604.02329)|null|null|
 |**2026-04-02**|**ReVAR: A Data-Driven Algorithm for Generating Aero-Optic Phase Screens**|Jeffrey W. Utley et.al.|[2604.02326](http://arxiv.org/abs/2604.02326)|null|**[link](https://huggingface.co/calbors/ReVar)**|
 |**2026-04-02**|**Loop-level surrogate modeling of dopant-distribution effects in Ba(Zr,Ti)O $_3$**|Heiko Röthl et.al.|[2604.02325](http://arxiv.org/abs/2604.02325)|null|null|
@@ -10575,12 +10823,44 @@
 |**2026-02-15**|**AutoWebWorld: Synthesizing Infinite Verifiable Web Environments via Finite State Machines**|Yifan Wu et.al.|[2602.14296](http://arxiv.org/abs/2602.14296)|null|null|
 |**2026-02-15**|**Gaia FGK Benchmark Stars: Selecting Infrared Lines for Abundance Determination**|Scarlet Elgueta et.al.|[2602.14294](http://arxiv.org/abs/2602.14294)|null|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Multimodal Agents (VLM)
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
+|**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|null|null|
+|**2026-04-03**|**VOSR: A Vision-Only Generative Model for Image Super-Resolution**|Rongyuan Wu et.al.|[2604.03225](http://arxiv.org/abs/2604.03225)|null|null|
+|**2026-04-03**|**Hierarchical Planning with Latent World Models**|Wancong Zhang et.al.|[2604.03208](http://arxiv.org/abs/2604.03208)|null|null|
+|**2026-04-03**|**Prosocial Persuasion at Scale? Large Language Models Outperform Humans in Donation Appeals Across Levels of Personalization**|John Caffier et.al.|[2604.03202](http://arxiv.org/abs/2604.03202)|null|null|
+|**2026-04-03**|**Coupled Control, Structured Memory, and Verifiable Action in Agentic AI (SCRAT -- Stochastic Control with Retrieval and Auditable Trajectories): A Comparative Perspective from Squirrel Locomotion and Scatter-Hoarding**|Maximiliano Armesto et.al.|[2604.03201](http://arxiv.org/abs/2604.03201)|null|null|
+|**2026-04-03**|**Safety-Critical Centralized Nonlinear MPC for Cooperative Payload Transportation by Two Quadrupedal Robots**|Ruturaj S. Sambhus et.al.|[2604.03200](http://arxiv.org/abs/2604.03200)|null|null|
+|**2026-04-03**|**The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling**|Takuya Shiba et.al.|[2604.03191](http://arxiv.org/abs/2604.03191)|null|null|
+|**2026-04-03**|**Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model**|Peiyan Li et.al.|[2604.03181](http://arxiv.org/abs/2604.03181)|null|null|
+|**2026-04-03**|**Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models**|Gengwei Zhang et.al.|[2604.03179](http://arxiv.org/abs/2604.03179)|null|null|
+|**2026-04-03**|**EffiMiniVLM: A Compact Dual-Encoder Regression Framework**|Yin-Loon Khor et.al.|[2604.03172](http://arxiv.org/abs/2604.03172)|null|null|
+|**2026-04-03**|**Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models**|Yunfei Bai et.al.|[2604.03157](http://arxiv.org/abs/2604.03157)|null|null|
+|**2026-04-03**|**FSUNav: A Cerebrum-Cerebellum Architecture for Fast, Safe, and Universal Zero-Shot Goal-Oriented Navigation**|Mingao Tan et.al.|[2604.03139](http://arxiv.org/abs/2604.03139)|null|null|
+|**2026-04-03**|**Understanding the complexity of frequency and phase angle fluctuations in power grids**|Alessandro Lonardi et.al.|[2604.03133](http://arxiv.org/abs/2604.03133)|null|null|
+|**2026-04-03**|**Minimal Information Control Invariance via Vector Quantization**|Ege Yuceel et.al.|[2604.03132](http://arxiv.org/abs/2604.03132)|null|null|
+|**2026-04-03**|**An Independent Safety Evaluation of Kimi K2.5**|Zheng-Xin Yong et.al.|[2604.03121](http://arxiv.org/abs/2604.03121)|null|null|
+|**2026-04-03**|**SCC-Loc: A Unified Semantic Cascade Consensus Framework for UAV Thermal Geo-Localization**|Xiaoran Zhang et.al.|[2604.03120](http://arxiv.org/abs/2604.03120)|null|null|
+|**2026-04-03**|**Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models**|Chengyin Hu et.al.|[2604.03117](http://arxiv.org/abs/2604.03117)|null|null|
+|**2026-04-03**|**Can VLMs Truly Forget? Benchmarking Training-Free Visual Concept Unlearning**|Zhangyun Tan et.al.|[2604.03114](http://arxiv.org/abs/2604.03114)|null|null|
+|**2026-04-03**|**An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack**|Rémi Marsal et.al.|[2604.03096](http://arxiv.org/abs/2604.03096)|null|null|
+|**2026-04-03**|**A Data-Centric Vision Transformer Baseline for SAR Sea Ice Classification**|David Mike-Ewewie et.al.|[2604.03094](http://arxiv.org/abs/2604.03094)|null|null|
+|**2026-04-03**|**Flash-Mono: Feed-Forward Accelerated Gaussian Splatting Monocular SLAM**|Zicheng Zhang et.al.|[2604.03092](http://arxiv.org/abs/2604.03092)|null|null|
+|**2026-04-03**|**MI-Pruner: Crossmodal Mutual Information-guided Token Pruner for Efficient MLLMs**|Jiameng Li et.al.|[2604.03072](http://arxiv.org/abs/2604.03072)|null|null|
+|**2026-04-03**|**Redefining End-of-Life: Intelligent Automation for Electronics Remanufacturing Systems**|Sibo Tian et.al.|[2604.03066](http://arxiv.org/abs/2604.03066)|null|null|
+|**2026-04-03**|**Joint Prediction of Human Motions and Actions in Human-Robot Collaboration**|Alessandra Bulanti et.al.|[2604.03065](http://arxiv.org/abs/2604.03065)|null|null|
+|**2026-04-03**|**Ho:YAG Thin-Disk Laser with 230 W Multimode and 150 W Single-Mode Output**|Xiyi Wang et.al.|[2604.03052](http://arxiv.org/abs/2604.03052)|null|null|
+|**2026-04-03**|**MECO: A Multimodal Dataset for Emotion and Cognitive Understanding in Older Adults**|Hongbin Chen et.al.|[2604.03050](http://arxiv.org/abs/2604.03050)|null|null|
+|**2026-04-03**|**Enhancing Multi-Robot Exploration Using Probabilistic Frontier Prioritization with Dirichlet Process Gaussian Mixtures**|John Lewis Devassy et.al.|[2604.03042](http://arxiv.org/abs/2604.03042)|null|null|
+|**2026-04-03**|**QVAD: A Question-Centric Agentic Framework for Efficient and Training-Free Video Anomaly Detection**|Lokman Bekit et.al.|[2604.03040](http://arxiv.org/abs/2604.03040)|null|null|
+|**2026-04-03**|**ARM: Advantage Reward Modeling for Long-Horizon Manipulation**|Yiming Mao et.al.|[2604.03037](http://arxiv.org/abs/2604.03037)|null|null|
+|**2026-04-03**|**Behavior-Constrained Reinforcement Learning with Receding-Horizon Credit Assignment for High-Performance Control**|Siwei Ju et.al.|[2604.03023](http://arxiv.org/abs/2604.03023)|null|null|
+|**2026-04-03**|**Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?**|Qianshan Wei et.al.|[2604.03016](http://arxiv.org/abs/2604.03016)|null|null|
+|**2026-04-03**|**Asymptotically-Bounded 3D Frontier Exploration enhanced with Bayesian Information Gain**|John Lewis et.al.|[2604.03008](http://arxiv.org/abs/2604.03008)|null|null|
 |**2026-04-02**|**Generative World Renderer**|Zheng-Hui Huang et.al.|[2604.02329](http://arxiv.org/abs/2604.02329)|**[link](https://github.com/ShandaAI/AlayaRenderer)**|null|
 |**2026-04-02**|**Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection**|Alex Costanzino et.al.|[2604.02328](http://arxiv.org/abs/2604.02328)|null|null|
 |**2026-04-02**|**Steerable Visual Representations**|Jona Ruthardt et.al.|[2604.02327](http://arxiv.org/abs/2604.02327)|**[link](https://github.com/manugaurdl/SteerViT)**|null|
@@ -11980,12 +12260,44 @@
 |**2026-02-18**|**Markerless 6D Pose Estimation and Position-Based Visual Servoing for Endoscopic Continuum Manipulators**|Junhyun Park et.al.|[2602.16365](http://arxiv.org/abs/2602.16365)|null|null|
 |**2026-02-18**|**Docking and Persistent Operations for a Resident Underwater Vehicle**|Leonard Günzel et.al.|[2602.16360](http://arxiv.org/abs/2602.16360)|null|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Evaluation / Benchmarks (Agents)
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
+|**2026-04-03**|**CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**|Ankan Deria et.al.|[2604.03231](http://arxiv.org/abs/2604.03231)|null|null|
+|**2026-04-03**|**VOSR: A Vision-Only Generative Model for Image Super-Resolution**|Rongyuan Wu et.al.|[2604.03225](http://arxiv.org/abs/2604.03225)|null|null|
+|**2026-04-03**|**BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence**|Sean Wu et.al.|[2604.03216](http://arxiv.org/abs/2604.03216)|null|null|
+|**2026-04-03**|**ProtoFlow: Mitigating Forgetting in Class-Incremental Remote Sensing Segmentation via Low-Curvature Prototype Flow**|Jiekai Wu et.al.|[2604.03212](http://arxiv.org/abs/2604.03212)|null|null|
+|**2026-04-03**|**Coupled Control, Structured Memory, and Verifiable Action in Agentic AI (SCRAT -- Stochastic Control with Retrieval and Auditable Trajectories): A Comparative Perspective from Squirrel Locomotion and Scatter-Hoarding**|Maximiliano Armesto et.al.|[2604.03201](http://arxiv.org/abs/2604.03201)|null|null|
+|**2026-04-03**|**Learning the Signature of Memorization in Autoregressive Language Models**|David Ilić et.al.|[2604.03199](http://arxiv.org/abs/2604.03199)|null|null|
+|**2026-04-03**|**Reliability Gated Multi-Teacher Distillation for Low Resource Abstractive Summarization**|Dipto Sumit et.al.|[2604.03192](http://arxiv.org/abs/2604.03192)|null|null|
+|**2026-04-03**|**The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling**|Takuya Shiba et.al.|[2604.03191](http://arxiv.org/abs/2604.03191)|null|null|
+|**2026-04-03**|**Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models**|Gengwei Zhang et.al.|[2604.03179](http://arxiv.org/abs/2604.03179)|null|null|
+|**2026-04-03**|**EffiMiniVLM: A Compact Dual-Encoder Regression Framework**|Yin-Loon Khor et.al.|[2604.03172](http://arxiv.org/abs/2604.03172)|null|null|
+|**2026-04-03**|**Cosmological Constraints from GW-FRB Associations without Redshift Measurements for LIGO-Virgo and Cosmic Explorer**|Jiaming Zhuge et.al.|[2604.03163](http://arxiv.org/abs/2604.03163)|null|null|
+|**2026-04-03**|**BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation**|Delip Rao et.al.|[2604.03159](http://arxiv.org/abs/2604.03159)|null|null|
+|**2026-04-03**|**Entropy correction artificial viscosity for high order DG methods using multiple artificial viscosities**|Raymond Park et.al.|[2604.03158](http://arxiv.org/abs/2604.03158)|null|null|
+|**2026-04-03**|**Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models**|Yunfei Bai et.al.|[2604.03157](http://arxiv.org/abs/2604.03157)|null|null|
+|**2026-04-03**|**CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator**|Yuhan Pu et.al.|[2604.03156](http://arxiv.org/abs/2604.03156)|null|null|
+|**2026-04-03**|**DSBD: Dual-Aligned Structural Basis Distillation for Graph Domain Adaptation**|Yingxu Wang et.al.|[2604.03154](http://arxiv.org/abs/2604.03154)|null|null|
+|**2026-04-03**|**Engineering Algorithms for Dynamic Greedy Set Cover**|Amitai Uzrad et.al.|[2604.03152](http://arxiv.org/abs/2604.03152)|null|null|
+|**2026-04-03**|**InCoder-32B-Thinking: Industrial Code World Model for Thinking**|Jian Yang et.al.|[2604.03144](http://arxiv.org/abs/2604.03144)|null|null|
+|**2026-04-03**|**TokenDance: Scaling Multi-Agent LLM Serving via Collective KV Cache Sharing**|Zhuohang Bian et.al.|[2604.03143](http://arxiv.org/abs/2604.03143)|null|null|
+|**2026-04-03**|**Beyond Precision: Importance-Aware Recall for Factuality Evaluation in Long-Form LLM Generation**|Nazanin Jafari et.al.|[2604.03141](http://arxiv.org/abs/2604.03141)|null|null|
+|**2026-04-03**|**FSUNav: A Cerebrum-Cerebellum Architecture for Fast, Safe, and Universal Zero-Shot Goal-Oriented Navigation**|Mingao Tan et.al.|[2604.03139](http://arxiv.org/abs/2604.03139)|null|null|
+|**2026-04-03**|**StoryScope: Investigating idiosyncrasies in AI fiction**|Jenna Russell et.al.|[2604.03136](http://arxiv.org/abs/2604.03136)|null|null|
+|**2026-04-03**|**A Systematic Security Evaluation of OpenClaw and Its Variants**|Yuhang Wang et.al.|[2604.03131](http://arxiv.org/abs/2604.03131)|null|null|
+|**2026-04-03**|**Domain-Adapted Retrieval for In-Context Annotation of Pedagogical Dialogue Acts**|Jinsook Lee et.al.|[2604.03127](http://arxiv.org/abs/2604.03127)|null|null|
+|**2026-04-03**|**Swarm-Based Inertial Methods for Optimization**|Qiyu Wu et.al.|[2604.03124](http://arxiv.org/abs/2604.03124)|null|null|
+|**2026-04-03**|**Distributed Snitch Digital Twin-Based Anomaly Detection for Smart Voltage Source Converter-Enabled Wind Power Systems**|Mohammad Ashraf Hossain Sadi et.al.|[2604.03123](http://arxiv.org/abs/2604.03123)|null|null|
+|**2026-04-03**|**An Independent Safety Evaluation of Kimi K2.5**|Zheng-Xin Yong et.al.|[2604.03121](http://arxiv.org/abs/2604.03121)|**[link](https://github.com/yongzx/kimi-k2.5-safety-evaluation)**|null|
+|**2026-04-03**|**Can VLMs Truly Forget? Benchmarking Training-Free Visual Concept Unlearning**|Zhangyun Tan et.al.|[2604.03114](http://arxiv.org/abs/2604.03114)|null|null|
+|**2026-04-03**|**ARIQA-3DS: A Stereoscopic Image Quality Assessment Dataset for Realistic Augmented Reality**|Aymen Sekhri et.al.|[2604.03112](http://arxiv.org/abs/2604.03112)|null|null|
+|**2026-04-03**|**Design and Performance of a Monolithic Plastic Scintillator Tracker with Embedded Scatterers**|Naoki Otani et.al.|[2604.03107](http://arxiv.org/abs/2604.03107)|null|null|
+|**2026-04-03**|**AlertStar: Path-Aware Alert Prediction on Hyper-Relational Knowledge Graphs**|Zahra Makki Nayeri et.al.|[2604.03104](http://arxiv.org/abs/2604.03104)|null|null|
+|**2026-04-03**|**Adaptive Bidding Policies for First-Price Auctions with Budget Constraints under Non-stationarity**|Yige Wang et.al.|[2604.03103](http://arxiv.org/abs/2604.03103)|null|null|
 |**2026-04-02**|**ActionParty: Multi-Subject Action Binding in Generative Video Games**|Alexander Pondaven et.al.|[2604.02330](http://arxiv.org/abs/2604.02330)|null|null|
 |**2026-04-02**|**Generative World Renderer**|Zheng-Hui Huang et.al.|[2604.02329](http://arxiv.org/abs/2604.02329)|null|null|
 |**2026-04-02**|**Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection**|Alex Costanzino et.al.|[2604.02328](http://arxiv.org/abs/2604.02328)|null|null|
@@ -13463,5 +13775,5 @@
 |**2026-02-18**|**Chiral gravitational waves from multi-phase magnetogenesis**|H. V. Ragavendra et.al.|[2602.16575](http://arxiv.org/abs/2602.16575)|null|null|
 |**2026-02-18**|**MoDE-Boost: Boosting Shared Mobility Demand with Edge-Ready Prediction Models**|Antonios Tziorvas et.al.|[2602.16573](http://arxiv.org/abs/2602.16573)|null|null|
 
-<p align=right>(<a href=#updated-on-20260405>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
