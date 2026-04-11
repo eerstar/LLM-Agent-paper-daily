@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.10
+## Updated on 2026.04.11
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -601,7 +601,7 @@ layout: default
 |**2026-04-09**|**OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks**|Wenbo Hu et.al.|[2604.08539](http://arxiv.org/abs/2604.08539)|null|null|
 |**2026-04-09**|**ParseBench: A Document Parsing Benchmark for AI Agents**|Boyang Zhang et.al.|[2604.08538](http://arxiv.org/abs/2604.08538)|null|null|
 |**2026-04-09**|**Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding**|Mu Nan et.al.|[2604.08537](http://arxiv.org/abs/2604.08537)|null|null|
-|**2026-04-09**|**RewardFlow: Generate Images by Optimizing What You Reward**|Onkar Susladkar et.al.|[2604.08536](http://arxiv.org/abs/2604.08536)|null|null|
+|**2026-04-09**|**RewardFlow: Generate Images by Optimizing What You Reward**|Onkar Susladkar et.al.|[2604.08536](http://arxiv.org/abs/2604.08536)|null|**[link](https://huggingface.co/onkarsus13/RewardFlow)**|
 |**2026-04-09**|**Demystifying OPD: Length Inflation and Stabilization Strategies for Large Language Models**|Feng Luo et.al.|[2604.08527](http://arxiv.org/abs/2604.08527)|null|null|
 |**2026-04-09**|**Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest**|Addison J. Wu et.al.|[2604.08525](http://arxiv.org/abs/2604.08525)|null|null|
 |**2026-04-09**|**What Drives Representation Steering? A Mechanistic Case Study on Steering Refusal**|Stephen Cheng et.al.|[2604.08524](http://arxiv.org/abs/2604.08524)|null|null|
@@ -2263,7 +2263,7 @@ layout: default
 |**2026-04-09**|**AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation**|Ziwei Zhou et.al.|[2604.08540](http://arxiv.org/abs/2604.08540)|null|null|
 |**2026-04-09**|**OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks**|Wenbo Hu et.al.|[2604.08539](http://arxiv.org/abs/2604.08539)|null|null|
 |**2026-04-09**|**ParseBench: A Document Parsing Benchmark for AI Agents**|Boyang Zhang et.al.|[2604.08538](http://arxiv.org/abs/2604.08538)|null|null|
-|**2026-04-09**|**RewardFlow: Generate Images by Optimizing What You Reward**|Onkar Susladkar et.al.|[2604.08536](http://arxiv.org/abs/2604.08536)|null|null|
+|**2026-04-09**|**RewardFlow: Generate Images by Optimizing What You Reward**|Onkar Susladkar et.al.|[2604.08536](http://arxiv.org/abs/2604.08536)|null|**[link](https://huggingface.co/onkarsus13/RewardFlow)**|
 |**2026-04-09**|**Fail2Drive: Benchmarking Closed-Loop Driving Generalization**|Simon Gerstenecker et.al.|[2604.08535](http://arxiv.org/abs/2604.08535)|null|null|
 |**2026-04-09**|**Self-Improving 4D Perception via Self-Distillation**|Nan Huang et.al.|[2604.08532](http://arxiv.org/abs/2604.08532)|null|null|
 |**2026-04-09**|**PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents**|Zhiyuan Wang et.al.|[2604.08529](http://arxiv.org/abs/2604.08529)|null|null|
@@ -2285,7 +2285,7 @@ layout: default
 |**2026-04-09**|**A Machine Learning Framework for Turbofan Health Estimation via Inverse Problem Formulation**|Milad Leyli-Abadi et.al.|[2604.08460](http://arxiv.org/abs/2604.08460)|null|null|
 |**2026-04-09**|**CrashSight: A Phase-Aware, Infrastructure-Centric Video Benchmark for Traffic Crash Scene Understanding and Reasoning**|Rui Gan et.al.|[2604.08457](http://arxiv.org/abs/2604.08457)|null|null|
 |**2026-04-09**|**Less Approximates More: Harmonizing Performance and Confidence Faithfulness via Hybrid Post-Training for High-Stakes Tasks**|Haokai Ma et.al.|[2604.08454](http://arxiv.org/abs/2604.08454)|null|null|
-|**2026-04-09**|**KV Cache Offloading for Context-Intensive Tasks**|Andrey Bocharnikov et.al.|[2604.08426](http://arxiv.org/abs/2604.08426)|**[link](https://github.com/yandex-research/context-intensive-kv-offloading)**|null|
+|**2026-04-09**|**KV Cache Offloading for Context-Intensive Tasks**|Andrey Bocharnikov et.al.|[2604.08426](http://arxiv.org/abs/2604.08426)|null|null|
 |**2026-04-09**|**Learning Who Disagrees: Demographic Importance Weighting for Modeling Annotator Distributions with DiADEM**|Samay U. Shetty et.al.|[2604.08425](http://arxiv.org/abs/2604.08425)|null|null|
 |**2026-04-09**|**Expansion kinematics of young clusters. III. The kiloparsec sample**|Joseph J. Armstrong et.al.|[2604.08422](http://arxiv.org/abs/2604.08422)|null|null|
 |**2026-04-09**|**Lost in the Hype: Revealing and Dissecting the Performance Degradation of Medical Multimodal Large Language Models in Image Classification**|Xun Zhu et.al.|[2604.08333](http://arxiv.org/abs/2604.08333)|null|null|
@@ -3956,7 +3956,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-04-09**|**Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models**|Shilin Yan et.al.|[2604.08545](http://arxiv.org/abs/2604.08545)|null|null|
-|**2026-04-09**|**ParseBench: A Document Parsing Benchmark for AI Agents**|Boyang Zhang et.al.|[2604.08538](http://arxiv.org/abs/2604.08538)|null|null|
+|**2026-04-09**|**ParseBench: A Document Parsing Benchmark for AI Agents**|Boyang Zhang et.al.|[2604.08538](http://arxiv.org/abs/2604.08538)|**[link](https://github.com/run-llama/ParseBench)**|null|
 |**2026-04-09**|**PSI: Shared State as the Missing Layer for Coherent AI-Generated Instruments in Personal AI Agents**|Zhiyuan Wang et.al.|[2604.08529](http://arxiv.org/abs/2604.08529)|null|null|
 |**2026-04-09**|**ClawBench: Can AI Agents Complete Everyday Online Tasks?**|Yuxuan Zhang et.al.|[2604.08523](http://arxiv.org/abs/2604.08523)|null|null|
 |**2026-04-09**|**Learning vs. Optimizing Bidders in Budgeted Auctions**|Giannis Fikioris et.al.|[2604.08517](http://arxiv.org/abs/2604.08517)|null|null|
@@ -7015,7 +7015,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-04-09**|**GaussiAnimate: Reconstruct and Rig Animatable Categories with Level of Dynamics**|Jiaxin Wang et.al.|[2604.08547](http://arxiv.org/abs/2604.08547)|null|null|
-|**2026-04-09**|**Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction**|Tao Xie et.al.|[2604.08542](http://arxiv.org/abs/2604.08542)|null|**[link](https://huggingface.co/xbillowy/Scal3R)**|
+|**2026-04-09**|**Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction**|Tao Xie et.al.|[2604.08542](http://arxiv.org/abs/2604.08542)|**[link](https://github.com/zju3dv/Scal3R)**|**[link](https://huggingface.co/xbillowy/Scal3R)**|
 |**2026-04-09**|**What do Language Models Learn and When? The Implicit Curriculum Hypothesis**|Emmy Liu et.al.|[2604.08510](http://arxiv.org/abs/2604.08510)|null|null|
 |**2026-04-09**|**Bayesian Semiparametric Multivariate Density Regression with Coordinate-Wise Predictor Selection**|Giovanni Toto et.al.|[2604.08470](http://arxiv.org/abs/2604.08470)|null|null|
 |**2026-04-09**|**Persistence-Augmented Neural Networks**|Elena Xinyi Wang et.al.|[2604.08469](http://arxiv.org/abs/2604.08469)|null|null|
@@ -8561,7 +8561,7 @@ layout: default
 |**2026-04-09**|**IoT-Brain: Grounding LLMs for Semantic-Spatial Sensor Scheduling**|Zhaomeng Zhou et.al.|[2604.08033](http://arxiv.org/abs/2604.08033)|null|null|
 |**2026-04-09**|**PASK: Toward Intent-Aware Proactive Agents with Long-Term Memory**|Zhifei Xie et.al.|[2604.08000](http://arxiv.org/abs/2604.08000)|null|null|
 |**2026-04-09**|**MotionScape: A Large-Scale Real-World Highly Dynamic UAV Video Dataset for World Models**|Zile Guo et.al.|[2604.07991](http://arxiv.org/abs/2604.07991)|null|null|
-|**2026-04-09**|**Show Me the Infographic I Imagine: Intent-Aware Infographic Retrieval for Authoring Support**|Jing Xu et.al.|[2604.07989](http://arxiv.org/abs/2604.07989)|**[link](https://github.com/InfographicRetrieval/intent-aware-infographic-retrieval)**|null|
+|**2026-04-09**|**Show Me the Infographic I Imagine: Intent-Aware Infographic Retrieval for Authoring Support**|Jing Xu et.al.|[2604.07989](http://arxiv.org/abs/2604.07989)|null|null|
 |**2026-04-09**|**LogAct: Enabling Agentic Reliability via Shared Logs**|Mahesh Balakrishnan et.al.|[2604.07988](http://arxiv.org/abs/2604.07988)|null|null|
 |**2026-04-09**|**Socio-demographic inequalities in the maximum human lifespan**|Jens Robben et.al.|[2604.07974](http://arxiv.org/abs/2604.07974)|null|null|
 |**2026-04-09**|**Karma Mechanisms for Decentralised, Cooperative Multi Agent Path Finding**|Kevin Riehl et.al.|[2604.07970](http://arxiv.org/abs/2604.07970)|null|null|
@@ -8572,7 +8572,7 @@ layout: default
 |**2026-04-09**|**Dynamic Attentional Context Scoping: Agent-Triggered Focus Sessions for Isolated Per-Agent Steering in Multi-Agent LLM Orchestration**|Nickson Patel et.al.|[2604.07911](http://arxiv.org/abs/2604.07911)|null|null|
 |**2026-04-09**|**An Agentic Evaluation Architecture for Historical Bias Detection in Educational Textbooks**|Gabriel Stefan et.al.|[2604.07883](http://arxiv.org/abs/2604.07883)|null|null|
 |**2026-04-09**|**PyVRP $^+$ : LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems**|Manuj Malik et.al.|[2604.07872](http://arxiv.org/abs/2604.07872)|null|null|
-|**2026-04-09**|**Task-Adaptive Retrieval over Agentic Multi-Modal Web Histories via Learned Graph Memory**|Saman Forouzandeh et.al.|[2604.07863](http://arxiv.org/abs/2604.07863)|null|null|
+|**2026-04-09**|**Task-Adaptive Retrieval over Agentic Multi-Modal Web Histories via Learned Graph Memory**|Saman Forouzandeh et.al.|[2604.07863](http://arxiv.org/abs/2604.07863)|**[link](https://github.com/S-Forouzandeh/ACGM-Agentic-Web)**|null|
 |**2026-04-09**|**LPM 1.0: Video-based Character Performance Model**|Ailing Zeng et.al.|[2604.07823](http://arxiv.org/abs/2604.07823)|**[link](https://github.com/large-performance-model/large-performance-model.github.io)**|null|
 |**2026-04-09**|**More Capable, Less Cooperative? When LLMs Fail At Zero-Cost Collaboration**|Advait Yadav et.al.|[2604.07821](http://arxiv.org/abs/2604.07821)|null|null|
 |**2026-04-09**|**Open-Ended Video Game Glitch Detection with Agentic Reasoning and Temporal Grounding**|Muyang Zheng et.al.|[2604.07818](http://arxiv.org/abs/2604.07818)|null|null|
@@ -9934,7 +9934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-04-09**|**When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models**|Zhengyang Sun et.al.|[2604.08546](http://arxiv.org/abs/2604.08546)|null|null|
+|**2026-04-09**|**When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models**|Zhengyang Sun et.al.|[2604.08546](http://arxiv.org/abs/2604.08546)|**[link](https://github.com/H-EmbodVis/NUMINA)**|null|
 |**2026-04-09**|**MolmoWeb: Open Visual Web Agent and Open Data for the Open Web**|Tanmay Gupta et.al.|[2604.08516](http://arxiv.org/abs/2604.08516)|null|null|
 |**2026-04-09**|**Search for the lepton-flavour violating decays $B^+ \to π^+ μ^\pm e^\mp$**|LHCb collaboration et.al.|[2604.08396](http://arxiv.org/abs/2604.08396)|null|null|
 |**2026-04-09**|**Awakening the Sleeping Agent: Lean-Specific Agentic Data Reactivates General Tool Use in Goedel Prover**|Jui-Hui Chung et.al.|[2604.08388](http://arxiv.org/abs/2604.08388)|null|null|
@@ -12121,7 +12121,7 @@ layout: default
 |**2026-04-09**|**AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation**|Ziwei Zhou et.al.|[2604.08540](http://arxiv.org/abs/2604.08540)|null|null|
 |**2026-04-09**|**OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks**|Wenbo Hu et.al.|[2604.08539](http://arxiv.org/abs/2604.08539)|null|null|
 |**2026-04-09**|**ParseBench: A Document Parsing Benchmark for AI Agents**|Boyang Zhang et.al.|[2604.08538](http://arxiv.org/abs/2604.08538)|null|null|
-|**2026-04-09**|**RewardFlow: Generate Images by Optimizing What You Reward**|Onkar Susladkar et.al.|[2604.08536](http://arxiv.org/abs/2604.08536)|null|null|
+|**2026-04-09**|**RewardFlow: Generate Images by Optimizing What You Reward**|Onkar Susladkar et.al.|[2604.08536](http://arxiv.org/abs/2604.08536)|null|**[link](https://huggingface.co/onkarsus13/RewardFlow)**|
 |**2026-04-09**|**Fail2Drive: Benchmarking Closed-Loop Driving Generalization**|Simon Gerstenecker et.al.|[2604.08535](http://arxiv.org/abs/2604.08535)|null|null|
 |**2026-04-09**|**ActiveGlasses: Learning Manipulation with Active Vision from Ego-centric Human Demonstration**|Yanwen Zou et.al.|[2604.08534](http://arxiv.org/abs/2604.08534)|null|null|
 |**2026-04-09**|**A-SLIP: Acoustic Sensing for Continuous In-hand Slip Estimation**|Uksang Yoo et.al.|[2604.08528](http://arxiv.org/abs/2604.08528)|null|null|
@@ -13754,9 +13754,9 @@ layout: default
 |**2026-04-09**|**AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation**|Ziwei Zhou et.al.|[2604.08540](http://arxiv.org/abs/2604.08540)|null|null|
 |**2026-04-09**|**OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks**|Wenbo Hu et.al.|[2604.08539](http://arxiv.org/abs/2604.08539)|null|null|
 |**2026-04-09**|**ParseBench: A Document Parsing Benchmark for AI Agents**|Boyang Zhang et.al.|[2604.08538](http://arxiv.org/abs/2604.08538)|null|null|
-|**2026-04-09**|**RewardFlow: Generate Images by Optimizing What You Reward**|Onkar Susladkar et.al.|[2604.08536](http://arxiv.org/abs/2604.08536)|null|null|
-|**2026-04-09**|**Fail2Drive: Benchmarking Closed-Loop Driving Generalization**|Simon Gerstenecker et.al.|[2604.08535](http://arxiv.org/abs/2604.08535)|**[link](https://github.com/autonomousvision/fail2drive)**|null|
-|**2026-04-09**|**Self-Improving 4D Perception via Self-Distillation**|Nan Huang et.al.|[2604.08532](http://arxiv.org/abs/2604.08532)|**[link](https://github.com/Self-Evo/SelfEvo)**|null|
+|**2026-04-09**|**RewardFlow: Generate Images by Optimizing What You Reward**|Onkar Susladkar et.al.|[2604.08536](http://arxiv.org/abs/2604.08536)|null|**[link](https://huggingface.co/onkarsus13/RewardFlow)**|
+|**2026-04-09**|**Fail2Drive: Benchmarking Closed-Loop Driving Generalization**|Simon Gerstenecker et.al.|[2604.08535](http://arxiv.org/abs/2604.08535)|null|null|
+|**2026-04-09**|**Self-Improving 4D Perception via Self-Distillation**|Nan Huang et.al.|[2604.08532](http://arxiv.org/abs/2604.08532)|null|null|
 |**2026-04-09**|**A-SLIP: Acoustic Sensing for Continuous In-hand Slip Estimation**|Uksang Yoo et.al.|[2604.08528](http://arxiv.org/abs/2604.08528)|null|null|
 |**2026-04-09**|**FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On**|Johanna Karras et.al.|[2604.08526](http://arxiv.org/abs/2604.08526)|null|null|
 |**2026-04-09**|**Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest**|Addison J. Wu et.al.|[2604.08525](http://arxiv.org/abs/2604.08525)|null|null|
@@ -13771,7 +13771,7 @@ layout: default
 |**2026-04-09**|**Quantifying Explanation Consistency: The C-Score Metric for CAM-Based Explainability in Medical Image Classification**|Kabilan Elangovan et.al.|[2604.08502](http://arxiv.org/abs/2604.08502)|null|null|
 |**2026-04-09**|**sciwrite-lint: Verification Infrastructure for the Age of Science Vibe-Writing**|Sergey V Samsonau et.al.|[2604.08501](http://arxiv.org/abs/2604.08501)|null|null|
 |**2026-04-09**|**Novel View Synthesis as Video Completion**|Qi Wu et.al.|[2604.08500](http://arxiv.org/abs/2604.08500)|null|null|
-|**2026-04-09**|**PIArena: A Platform for Prompt Injection Evaluation**|Runpeng Geng et.al.|[2604.08499](http://arxiv.org/abs/2604.08499)|null|null|
+|**2026-04-09**|**PIArena: A Platform for Prompt Injection Evaluation**|Runpeng Geng et.al.|[2604.08499](http://arxiv.org/abs/2604.08499)|**[link](https://github.com/sleeepeer/PIArena)**|null|
 |**2026-04-09**|**What They Saw, Not Just Where They Looked: Semantic Scanpath Similarity via VLMs and NLP metric**|Mohamed Amine Kerkouri et.al.|[2604.08494](http://arxiv.org/abs/2604.08494)|null|null|
 |**2026-04-09**|**The Impact of Dimensionality on the Stability of Node Embeddings**|Tobias Schumacher et.al.|[2604.08492](http://arxiv.org/abs/2604.08492)|null|null|
 |**2026-04-09**|**Beyond the Static Approximation: Assessing the Impact of Conformational and Kinetic Broadening on the Description of TADF Emitters**|Daniel Beer et.al.|[2604.08483](http://arxiv.org/abs/2604.08483)|null|null|
