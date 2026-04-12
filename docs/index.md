@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.11
+## Updated on 2026.04.12
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -7015,7 +7015,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-04-09**|**GaussiAnimate: Reconstruct and Rig Animatable Categories with Level of Dynamics**|Jiaxin Wang et.al.|[2604.08547](http://arxiv.org/abs/2604.08547)|null|null|
-|**2026-04-09**|**Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction**|Tao Xie et.al.|[2604.08542](http://arxiv.org/abs/2604.08542)|null|**[link](https://huggingface.co/xbillowy/Scal3R)**|
+|**2026-04-09**|**Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction**|Tao Xie et.al.|[2604.08542](http://arxiv.org/abs/2604.08542)|**[link](https://github.com/zju3dv/Scal3R)**|**[link](https://huggingface.co/xbillowy/Scal3R)**|
 |**2026-04-09**|**What do Language Models Learn and When? The Implicit Curriculum Hypothesis**|Emmy Liu et.al.|[2604.08510](http://arxiv.org/abs/2604.08510)|null|null|
 |**2026-04-09**|**Bayesian Semiparametric Multivariate Density Regression with Coordinate-Wise Predictor Selection**|Giovanni Toto et.al.|[2604.08470](http://arxiv.org/abs/2604.08470)|null|null|
 |**2026-04-09**|**Persistence-Augmented Neural Networks**|Elena Xinyi Wang et.al.|[2604.08469](http://arxiv.org/abs/2604.08469)|null|null|
