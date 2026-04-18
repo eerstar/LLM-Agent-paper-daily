@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.17
+## Updated on 2026.04.18
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -593,7 +593,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-04-16**|**Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo**|Ninghui Xu et.al.|[2604.15312](http://arxiv.org/abs/2604.15312)|**[link](https://github.com/xnh97/Bi-CMPStereo)**|null|
-|**2026-04-16**|**LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories**|Zhanhao Liang et.al.|[2604.15311](http://arxiv.org/abs/2604.15311)|null|null|
+|**2026-04-16**|**LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories**|Zhanhao Liang et.al.|[2604.15311](http://arxiv.org/abs/2604.15311)|**[link](https://github.com/nktkt/leap-align)**|null|
 |**2026-04-16**|**Generalization in LLM Problem Solving: The Case of the Shortest Path**|Yao Tong et.al.|[2604.15306](http://arxiv.org/abs/2604.15306)|**[link](https://github.com/privacytrustlab/PathGeneralization)**|null|
 |**2026-04-16**|**Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations**|Manan Gupta et.al.|[2604.15302](http://arxiv.org/abs/2604.15302)|null|null|
 |**2026-04-16**|**AnimationBench: Are Video Models Good at Character-Centric Animation?**|Leyi Wu et.al.|[2604.15299](http://arxiv.org/abs/2604.15299)|**[link](https://github.com/VideoVerses/AnimationBench)**|null|
@@ -6230,7 +6230,7 @@ layout: default
 |**2026-04-16**|**Agentic Explainability at Scale: Between Corporate Fears and XAI Needs**|Yomna Elsayed et.al.|[2604.14984](http://arxiv.org/abs/2604.14984)|null|null|
 |**2026-04-16**|**Modelling and identification of diffusively coupled linear networks with additional directed links**|E. M. M. et.al.|[2604.14960](http://arxiv.org/abs/2604.14960)|null|null|
 |**2026-04-16**|**RaTA-Tool: Retrieval-based Tool Selection with Multimodal Large Language Models**|Gabriele Mattioli et.al.|[2604.14951](http://arxiv.org/abs/2604.14951)|null|null|
-|**2026-04-16**|**What if we have 90 minutes only to teach programming?**|Attila Egri-Nagy et.al.|[2604.14942](http://arxiv.org/abs/2604.14942)|**[link](https://github.com/rprokap/pset-9)**|null|
+|**2026-04-16**|**What if we have 90 minutes only to teach programming?**|Attila Egri-Nagy et.al.|[2604.14942](http://arxiv.org/abs/2604.14942)|null|null|
 |**2026-04-16**|**Learning to Concatenate Quantum Codes**|Nico Meyer et.al.|[2604.14931](http://arxiv.org/abs/2604.14931)|null|null|
 |**2026-04-16**|**Equivariant L-Classes of Atiyah-Singer-Zagier Type for Singular Spaces**|Markus Banagl et.al.|[2604.14913](http://arxiv.org/abs/2604.14913)|null|null|
 |**2026-04-16**|**Does RL Expand the Capability Boundary of LLM Agents? A PASS@(k,T) Analysis**|Zhiyuan Zhai et.al.|[2604.14877](http://arxiv.org/abs/2604.14877)|null|null|
@@ -12862,7 +12862,7 @@ layout: default
 |**2026-04-15**|**When PCOS Meets Eating Disorders: An Explainable AI Approach to Detecting the Hidden Triple Burden**|Apoorv Prasad et.al.|[2604.14356](http://arxiv.org/abs/2604.14356)|null|null|
 |**2026-04-15**|**Calibrate-Then-Delegate: Safety Monitoring with Risk and Budget Guarantees via Model Cascades**|Edoardo Pona et.al.|[2604.14251](http://arxiv.org/abs/2604.14251)|null|null|
 |**2026-04-15**|**HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System**|Tianshuo Yang et.al.|[2604.14125](http://arxiv.org/abs/2604.14125)|null|null|
-|**2026-04-16**|**Generative design of inorganic materials**|Jose Recatala-Gomez et.al.|[2604.14082](http://arxiv.org/abs/2604.14082)|null|null|
+|**2026-04-16**|**Generative design of inorganic materials**|Jose Recatala-Gomez et.al.|[2604.14082](http://arxiv.org/abs/2604.14082)|**[link](https://github.com/microsoft/mattergen)**|null|
 |**2026-04-15**|**Properties of black holes in non-linear electrodynamics**|Lewis Croney et.al.|[2604.14011](http://arxiv.org/abs/2604.14011)|null|null|
 |**2026-04-15**|**Reward Design for Physical Reasoning in Vision-Language Models**|Derek Lilienthal et.al.|[2604.13993](http://arxiv.org/abs/2604.13993)|null|null|
 |**2026-04-15**|**GEM3D CIM General Purpose Matrix Computation Using 3D Integrated SRAM eDRAM Hybrid Compute In Memory on Memory Architecture**|Subhradip Chakraborty et.al.|[2604.13969](http://arxiv.org/abs/2604.13969)|null|null|
