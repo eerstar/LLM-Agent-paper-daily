@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.04.18
+## Updated on 2026.04.19
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -6203,7 +6203,7 @@ layout: default
 |**2026-04-16**|**A Manual Bar-by-Bar Tempo Measurement Protocol for Polyphonic Chamber Music Recordings: Design, Validation, and Application to Beethoven's Piano and Cello Sonatas**|Ignasi Sole et.al.|[2604.15278](http://arxiv.org/abs/2604.15278)|null|null|
 |**2026-04-16**|**Cloning is as Hard as Learning for Stabilizer States**|Nikhil Bansal et.al.|[2604.15269](http://arxiv.org/abs/2604.15269)|null|null|
 |**2026-04-16**|**General framework for anticoncentration and linear cross-entropy benchmarking in photonic quantum advantage experiments**|Zoltán Kolarovszki et.al.|[2604.15258](http://arxiv.org/abs/2604.15258)|null|null|
-|**2026-04-16**|**Structural Dependency Analysis for Masked NTT Hardware: Scalable Pre-Silicon Verification of Post-Quantum Cryptographic Accelerators**|Ray Iskander et.al.|[2604.15249](http://arxiv.org/abs/2604.15249)|null|null|
+|**2026-04-16**|**Structural Dependency Analysis for Masked NTT Hardware: Scalable Pre-Silicon Verification of Post-Quantum Cryptographic Accelerators**|Ray Iskander et.al.|[2604.15249](http://arxiv.org/abs/2604.15249)|**[link](https://github.com/rayiskander2406/Paper1-structural-dependency-analysis-arXiv-2604.15249)**|null|
 |**2026-04-16**|**Goxpyriment: A Go Framework for Behavioral and Cognitive Experiments**|Christophe Pallier et.al.|[2604.15245](http://arxiv.org/abs/2604.15245)|null|null|
 |**2026-04-16**|**Agentic Microphysics: A Manifesto for Generative AI Safety**|Federico Pierucci et.al.|[2604.15236](http://arxiv.org/abs/2604.15236)|null|null|
 |**2026-04-16**|**RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography**|Mélanie Roschewitz et.al.|[2604.15231](http://arxiv.org/abs/2604.15231)|null|**[link](https://huggingface.co/RadAgent/radagent-qwen3-14b-lora)**|
@@ -7943,7 +7943,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-04-16**|**LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories**|Zhanhao Liang et.al.|[2604.15311](http://arxiv.org/abs/2604.15311)|**[link](https://github.com/nktkt/leap-align)**|null|
+|**2026-04-16**|**LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories**|Zhanhao Liang et.al.|[2604.15311](http://arxiv.org/abs/2604.15311)|null|null|
 |**2026-04-16**|**Cloudy with a chance of metals: Indications of CO $_2$ in the atmosphere of GJ 1214 b from high-resolution K-band spectroscopy**|L. Nortmann et.al.|[2604.15292](http://arxiv.org/abs/2604.15292)|null|null|
 |**2026-04-16**|**AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving**|Fabrizio Genilotti et.al.|[2604.15291](http://arxiv.org/abs/2604.15291)|null|null|
 |**2026-04-16**|**Why Do Vision Language Models Struggle To Recognize Human Emotions?**|Madhav Agarwal et.al.|[2604.15280](http://arxiv.org/abs/2604.15280)|null|null|
@@ -7971,9 +7971,9 @@ layout: default
 |**2026-04-16**|**Learning Where to Embed: Noise-Aware Positional Embedding for Query Retrieval in Small-Object Detection**|Yangchen Zeng et.al.|[2604.15065](http://arxiv.org/abs/2604.15065)|null|null|
 |**2026-04-16**|**"From remembering to shaping": Narrating Shared Experiences by Co-Designing Cultural Heritage Artifacts in Collaborative VR**|Yushang Yang et.al.|[2604.15058](http://arxiv.org/abs/2604.15058)|null|null|
 |**2026-04-16**|**SyQMA: A memory-efficient, symbolic and exact universal simulator for quantum error correction**|George Umbrarescu et.al.|[2604.15043](http://arxiv.org/abs/2604.15043)|null|null|
-|**2026-04-16**|**HintPilot: LLM-based Compiler Hint Synthesis for Code Optimization**|Hanyun Jiang et.al.|[2604.15041](http://arxiv.org/abs/2604.15041)|null|null|
+|**2026-04-16**|**HintPilot: LLM-based Compiler Hint Synthesis for Code Optimization**|Hanyun Jiang et.al.|[2604.15041](http://arxiv.org/abs/2604.15041)|**[link](https://github.com/ZJU-PL/hintpilot)**|null|
 |**2026-04-16**|**Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter**|Ruoyu Qin et.al.|[2604.15039](http://arxiv.org/abs/2604.15039)|null|null|
-|**2026-04-16**|**Autogenesis: A Self-Evolving Agent Protocol**|Wentao Zhang et.al.|[2604.15034](http://arxiv.org/abs/2604.15034)|null|null|
+|**2026-04-16**|**Autogenesis: A Self-Evolving Agent Protocol**|Wentao Zhang et.al.|[2604.15034](http://arxiv.org/abs/2604.15034)|**[link](https://github.com/CuriosityQuantified/autogenesis-2604.15034)**|null|
 |**2026-04-16**|**Quality-Aware Calibration for AI-Generated Image Detection in the Wild**|Fabrizio Guillaro et.al.|[2604.15027](http://arxiv.org/abs/2604.15027)|null|null|
 |**2026-04-16**|**Applying SHAPR in AI-Assisted Research Software Development: Lessons Learnt from Building a Share Trading System**|Ka Ching Chan et.al.|[2604.15020](http://arxiv.org/abs/2604.15020)|null|null|
 |**2026-04-16**|**DLink: Distilling Layer-wise and Dominant Knowledge from EEG Foundation Models**|Jingyuan Wang et.al.|[2604.15016](http://arxiv.org/abs/2604.15016)|null|null|
@@ -13712,7 +13712,7 @@ layout: default
 |**2026-04-16**|**RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework**|Hao Gao et.al.|[2604.15308](http://arxiv.org/abs/2604.15308)|null|null|
 |**2026-04-16**|**How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study**|Zhen Yang et.al.|[2604.15294](http://arxiv.org/abs/2604.15294)|null|null|
 |**2026-04-16**|**Abstract Sim2Real through Approximate Information States**|Yunfu Deng et.al.|[2604.15289](http://arxiv.org/abs/2604.15289)|null|null|
-|**2026-04-16**|**R3D: Revisiting 3D Policy Learning**|Zhengdong Hong et.al.|[2604.15281](http://arxiv.org/abs/2604.15281)|**[link](https://github.com/Wushr-Lance/R3D-Policy)**|null|
+|**2026-04-16**|**R3D: Revisiting 3D Policy Learning**|Zhengdong Hong et.al.|[2604.15281](http://arxiv.org/abs/2604.15281)|null|null|
 |**2026-04-16**|**Why Do Vision Language Models Struggle To Recognize Human Emotions?**|Madhav Agarwal et.al.|[2604.15280](http://arxiv.org/abs/2604.15280)|null|null|
 |**2026-04-16**|**New frontiers in quantum science and technology using van der Waals Josephson junctions**|Joydip Sarkar et.al.|[2604.15276](http://arxiv.org/abs/2604.15276)|null|null|
 |**2026-04-16**|**RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography**|Mélanie Roschewitz et.al.|[2604.15231](http://arxiv.org/abs/2604.15231)|null|**[link](https://huggingface.co/RadAgent/radagent-qwen3-14b-lora)**|
@@ -13737,7 +13737,7 @@ layout: default
 |**2026-04-16**|**No More Guessing: a Verifiable Gradient Inversion Attack in Federated Learning**|Francesco Diana et.al.|[2604.15063](http://arxiv.org/abs/2604.15063)|null|null|
 |**2026-04-16**|**"From remembering to shaping": Narrating Shared Experiences by Co-Designing Cultural Heritage Artifacts in Collaborative VR**|Yushang Yang et.al.|[2604.15058](http://arxiv.org/abs/2604.15058)|null|null|
 |**2026-04-16**|**CAVERS: Multimodal SLAM Data from a Natural Karstic Cave with Ground Truth Motion Capture**|Giacomo Franchini et.al.|[2604.15052](http://arxiv.org/abs/2604.15052)|null|null|
-|**2026-04-16**|**HintPilot: LLM-based Compiler Hint Synthesis for Code Optimization**|Hanyun Jiang et.al.|[2604.15041](http://arxiv.org/abs/2604.15041)|null|null|
+|**2026-04-16**|**HintPilot: LLM-based Compiler Hint Synthesis for Code Optimization**|Hanyun Jiang et.al.|[2604.15041](http://arxiv.org/abs/2604.15041)|**[link](https://github.com/ZJU-PL/hintpilot)**|null|
 |**2026-04-16**|**From Reactive to Proactive: Assessing the Proactivity of Voice Agents via ProVoice-Bench**|Ke Xu et.al.|[2604.15037](http://arxiv.org/abs/2604.15037)|null|null|
 |**2026-04-16**|**DockAnywhere: Data-Efficient Visuomotor Policy Learning for Mobile Manipulation via Novel Demonstration Generation**|Ziyu Shan et.al.|[2604.15023](http://arxiv.org/abs/2604.15023)|null|null|
 |**2026-04-15**|**One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding**|Zheyu Zhang et.al.|[2604.14149](http://arxiv.org/abs/2604.14149)|null|null|
