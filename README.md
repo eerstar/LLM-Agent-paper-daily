@@ -630,7 +630,7 @@
 |**2026-04-23**|**When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs**|Pegah Khayatan et.al.|[2604.21911](http://arxiv.org/abs/2604.21911)|null|null|
 |**2026-04-23**|**From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**|Bartosz Balis et.al.|[2604.21910](http://arxiv.org/abs/2604.21910)|null|null|
 |**2026-04-23**|**Low-Rank Adaptation Redux for Large Models**|Bingcong Li et.al.|[2604.21905](http://arxiv.org/abs/2604.21905)|null|null|
-|**2026-04-23**|**UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection**|Yanran Zhang et.al.|[2604.21904](http://arxiv.org/abs/2604.21904)|null|null|
+|**2026-04-23**|**UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection**|Yanran Zhang et.al.|[2604.21904](http://arxiv.org/abs/2604.21904)|null|**[link](https://huggingface.co/Yanran21/UniGenDet)**|
 |**2026-04-23**|**Mapping the Political Discourse in the Brazilian Chamber of Deputies: A Multi-Faceted Computational Approach**|Flávio Soriano et.al.|[2604.21897](http://arxiv.org/abs/2604.21897)|null|null|
 |**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)|null|null|
 |**2026-04-23**|**EVENT5Ws: A Large Dataset for Open-Domain Event Extraction from Documents**|Praval Sharma et.al.|[2604.21890](http://arxiv.org/abs/2604.21890)|null|null|
@@ -2790,7 +2790,7 @@
 |**2026-04-23**|**From Codebooks to VLMs: Evaluating Automated Visual Discourse Analysis for Climate Change on Social Media**|Katharina Prasse et.al.|[2604.21786](http://arxiv.org/abs/2604.21786)|null|null|
 |**2026-04-23**|**Exact formulas for arbitrary order velocity-gradient moments in isotropic turbulence**|Tong Wu et.al.|[2604.21781](http://arxiv.org/abs/2604.21781)|null|null|
 |**2026-04-23**|**Only Brains Align with Brains: Cross-Region Alignment Patterns Expose Limits of Normative Models**|Larissa Höfling et.al.|[2604.21780](http://arxiv.org/abs/2604.21780)|null|null|
-|**2026-04-23**|**Reshoot-Anything: A Self-Supervised Model for In-the-Wild Video Reshooting**|Avinash Paliwal et.al.|[2604.21776](http://arxiv.org/abs/2604.21776)|null|null|
+|**2026-04-23**|**Reshoot-Anything: A Self-Supervised Model for In-the-Wild Video Reshooting**|Avinash Paliwal et.al.|[2604.21776](http://arxiv.org/abs/2604.21776)|**[link](https://github.com/morphicfilms/video-to-video)**|null|
 |**2026-04-23**|**Generalizing Test Cases for Comprehensive Test Scenario Coverage**|Binhang Qi et.al.|[2604.21771](http://arxiv.org/abs/2604.21771)|**[link](https://github.com/code-philia/TestGeneralizer)**|null|
 |**2026-04-23**|**AUDITA: A New Dataset to Audit Humans vs. AI Skill at Audio QA**|Tasnim Kabir et.al.|[2604.21766](http://arxiv.org/abs/2604.21766)|null|null|
 |**2026-04-22**|**Self-regulated galaxy evolution within a self-consistently varying galaxy-wide IMF**|Lukas Hof et.al.|[2604.20843](http://arxiv.org/abs/2604.20843)|null|null|
@@ -6926,7 +6926,7 @@
 |**2026-04-23**|**A microwave super-resolution imaging approach towards breast cancer margin mapping**|Harry Penketh et.al.|[2604.21636](http://arxiv.org/abs/2604.21636)|null|null|
 |**2026-04-23**|**Mitigate or Fail: How Risk Management Shapes Cybersecurity Competency**|Jeffrey T. Gardiner et.al.|[2604.21604](http://arxiv.org/abs/2604.21604)|null|null|
 |**2026-04-23**|**AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use**|Yuanjie Lyu et.al.|[2604.21590](http://arxiv.org/abs/2604.21590)|null|null|
-|**2026-04-23**|**Using Assembly Language for Creating Games**|Haris Turkmanović et.al.|[2604.21532](http://arxiv.org/abs/2604.21532)|null|null|
+|**2026-04-23**|**Using Assembly Language for Creating Games**|Haris Turkmanović et.al.|[2604.21532](http://arxiv.org/abs/2604.21532)|**[link](https://github.com/sanusanth/c-basic-programs)**|null|
 |**2026-04-23**|**A temporal deep learning framework for calibration of low-cost air quality sensors**|Arindam Sengupta et.al.|[2604.21527](http://arxiv.org/abs/2604.21527)|null|null|
 |**2026-04-23**|**Quadrupolar bremsstrahlung waveform at the third-and-a-half post-Newtonian accuracy**|Donato Bini et.al.|[2604.21522](http://arxiv.org/abs/2604.21522)|null|null|
 |**2026-04-23**|**BioMiner: A Multi-modal System for Automated Mining of Protein-Ligand Bioactivity Data from Literature**|Jiaxian Yan et.al.|[2604.21508](http://arxiv.org/abs/2604.21508)|null|null|
@@ -15264,7 +15264,7 @@
 |**2026-04-23**|**Context Unrolling in Omni Models**|Ceyuan Yang et.al.|[2604.21921](http://arxiv.org/abs/2604.21921)|null|null|
 |**2026-04-23**|**VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis**|Songen Gu et.al.|[2604.21914](http://arxiv.org/abs/2604.21914)|null|null|
 |**2026-04-23**|**When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs**|Pegah Khayatan et.al.|[2604.21911](http://arxiv.org/abs/2604.21911)|null|null|
-|**2026-04-23**|**UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection**|Yanran Zhang et.al.|[2604.21904](http://arxiv.org/abs/2604.21904)|null|null|
+|**2026-04-23**|**UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection**|Yanran Zhang et.al.|[2604.21904](http://arxiv.org/abs/2604.21904)|null|**[link](https://huggingface.co/Yanran21/UniGenDet)**|
 |**2026-04-23**|**Task-Driven Co-Design of Heterogeneous Multi-Robot Systems**|Maximilian Stralz et.al.|[2604.21894](http://arxiv.org/abs/2604.21894)|null|null|
 |**2026-04-23**|**The Dyson Minds 2025 Workshop: SETI around Black Holes**|Olivia Curtis et.al.|[2604.21886](http://arxiv.org/abs/2604.21886)|null|null|
 |**2026-04-23**|**A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents**|Praval Sharma et.al.|[2604.21885](http://arxiv.org/abs/2604.21885)|null|null|
@@ -17202,10 +17202,10 @@
 |**2026-04-23**|**Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions**|Jiseon Kim et.al.|[2604.21871](http://arxiv.org/abs/2604.21871)|null|null|
 |**2026-04-23**|**Analytical and Machine Learning Methods for Model Discernment at CE $ν$ NS Experiments**|Iain A. Bisset et.al.|[2604.21869](http://arxiv.org/abs/2604.21869)|null|null|
 |**2026-04-23**|**Extending Hamiltonian-Adaptive Resolution Simulation to Interfaces: An Updated LAMMPS Implementation and Application to Porous Solids**|Hari Haran Sudhakar et.al.|[2604.21867](http://arxiv.org/abs/2604.21867)|null|null|
-|**2026-04-23**|**High-performance cellular automaton decoders for quantum repetition and toric code**|Don Winter et.al.|[2604.21866](http://arxiv.org/abs/2604.21866)|**[link](https://github.com/dpwinter/scala-ca-decoders)**|null|
+|**2026-04-23**|**High-performance cellular automaton decoders for quantum repetition and toric code**|Don Winter et.al.|[2604.21866](http://arxiv.org/abs/2604.21866)|null|null|
 |**2026-04-23**|**Replay-buffer engineering for noise-robust quantum circuit optimization**|Akash Kundu et.al.|[2604.21863](http://arxiv.org/abs/2604.21863)|null|null|
 |**2026-04-23**|**Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs**|Mahadev Sunil Kumar et.al.|[2604.21861](http://arxiv.org/abs/2604.21861)|null|null|
-|**2026-04-23**|**Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**|Naheed Rayhan et.al.|[2604.21860](http://arxiv.org/abs/2604.21860)|**[link](https://github.com/Arxiv-to-code/arxiv-260421860-transient-turn-injection-exposing-stateless-multi-turn-vulne)**|null|
+|**2026-04-23**|**Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**|Naheed Rayhan et.al.|[2604.21860](http://arxiv.org/abs/2604.21860)|null|null|
 |**2026-04-23**|**Beyond Expected Information Gain: Stable Bayesian Optimal Experimental Design with Integral Probability Metrics and Plug-and-Play Extensions**|Di Wu et.al.|[2604.21849](http://arxiv.org/abs/2604.21849)|null|null|
 |**2026-04-23**|**Broad-band High-Energy Resolution Hard X-ray Spectroscopy using Transition Edge Sensors at SPring-8**|Shinya Yamada et.al.|[2604.21846](http://arxiv.org/abs/2604.21846)|null|null|
 |**2026-04-23**|**Cross-Modal Phantom: Coordinated Camera-LiDAR Spoofing Against Multi-Sensor Fusion in Autonomous Vehicles**|Shahriar Rahman Khan et.al.|[2604.21841](http://arxiv.org/abs/2604.21841)|null|null|
