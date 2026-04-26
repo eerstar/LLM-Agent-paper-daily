@@ -4906,7 +4906,7 @@ layout: default
 |**2026-04-23**|**From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation**|Bartosz Balis et.al.|[2604.21910](http://arxiv.org/abs/2604.21910)|null|null|
 |**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)|**[link](https://github.com/Arxiv-to-code/arxiv-260421896-nemobot-games-crafting-strategic-ai-gaming-agents-for-intera)**|null|
 |**2026-04-23**|**Task-Driven Co-Design of Heterogeneous Multi-Robot Systems**|Maximilian Stralz et.al.|[2604.21894](http://arxiv.org/abs/2604.21894)|null|null|
-|**2026-04-23**|**Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**|Naheed Rayhan et.al.|[2604.21860](http://arxiv.org/abs/2604.21860)|null|null|
+|**2026-04-23**|**Transient Turn Injection: Exposing Stateless Multi-Turn Vulnerabilities in Large Language Models**|Naheed Rayhan et.al.|[2604.21860](http://arxiv.org/abs/2604.21860)|**[link](https://github.com/Arxiv-to-code/arxiv-260421860-transient-turn-injection-exposing-stateless-multi-turn-vulne)**|null|
 |**2026-04-23**|**OptiMat Alloys: A FAIR End-to-End Agent with Living Database for Computational Multi-Principal Alloy Exploration**|Yang Hu et.al.|[2604.21850](http://arxiv.org/abs/2604.21850)|null|null|
 |**2026-04-23**|**TraceScope: Interactive URL Triage via Decoupled Checklist Adjudication**|Haolin Zhang et.al.|[2604.21840](http://arxiv.org/abs/2604.21840)|null|null|
 |**2026-04-23**|**Black-Box Skill Stealing Attack from Proprietary LLM Agents: An Empirical Study**|Zihan Wang et.al.|[2604.21829](http://arxiv.org/abs/2604.21829)|null|null|
@@ -6889,7 +6889,7 @@ layout: default
 |**2026-04-23**|**A microwave super-resolution imaging approach towards breast cancer margin mapping**|Harry Penketh et.al.|[2604.21636](http://arxiv.org/abs/2604.21636)|null|null|
 |**2026-04-23**|**Mitigate or Fail: How Risk Management Shapes Cybersecurity Competency**|Jeffrey T. Gardiner et.al.|[2604.21604](http://arxiv.org/abs/2604.21604)|null|null|
 |**2026-04-23**|**AgenticQwen: Training Small Agentic Language Models with Dual Data Flywheels for Industrial-Scale Tool Use**|Yuanjie Lyu et.al.|[2604.21590](http://arxiv.org/abs/2604.21590)|null|null|
-|**2026-04-23**|**Using Assembly Language for Creating Games**|Haris Turkmanović et.al.|[2604.21532](http://arxiv.org/abs/2604.21532)|**[link](https://github.com/sanusanth/c-basic-programs)**|null|
+|**2026-04-23**|**Using Assembly Language for Creating Games**|Haris Turkmanović et.al.|[2604.21532](http://arxiv.org/abs/2604.21532)|null|null|
 |**2026-04-23**|**A temporal deep learning framework for calibration of low-cost air quality sensors**|Arindam Sengupta et.al.|[2604.21527](http://arxiv.org/abs/2604.21527)|null|null|
 |**2026-04-23**|**Quadrupolar bremsstrahlung waveform at the third-and-a-half post-Newtonian accuracy**|Donato Bini et.al.|[2604.21522](http://arxiv.org/abs/2604.21522)|null|null|
 |**2026-04-23**|**BioMiner: A Multi-modal System for Automated Mining of Protein-Ligand Bioactivity Data from Literature**|Jiaxian Yan et.al.|[2604.21508](http://arxiv.org/abs/2604.21508)|null|null|
@@ -14250,7 +14250,7 @@ layout: default
 |**2026-04-23**|**The impact of hydrogen atom tunneling on aromatic chemistry in TMC-1**|Reace H. J. Willis et.al.|[2604.21892](http://arxiv.org/abs/2604.21892)|null|null|
 |**2026-04-23**|**OptiMat Alloys: A FAIR End-to-End Agent with Living Database for Computational Multi-Principal Alloy Exploration**|Yang Hu et.al.|[2604.21850](http://arxiv.org/abs/2604.21850)|null|null|
 |**2026-04-23**|**Divide-then-Diagnose: Weaving Clinician-Inspired Contexts for Ultra-Long Capsule Endoscopy Videos**|Bowen Liu et.al.|[2604.21814](http://arxiv.org/abs/2604.21814)|null|null|
-|**2026-04-23**|**Adversarial Robustness of Near-Field Millimeter-Wave Imaging under Waveform-Domain Attacks**|Lhamo Dorje et.al.|[2604.21774](http://arxiv.org/abs/2604.21774)|**[link](https://github.com/ldorje1/Differential-Imaging-Attacks-on-Near-Field-SAR-Imaging)**|null|
+|**2026-04-23**|**Adversarial Robustness of Near-Field Millimeter-Wave Imaging under Waveform-Domain Attacks**|Lhamo Dorje et.al.|[2604.21774](http://arxiv.org/abs/2604.21774)|null|null|
 |**2026-04-23**|**IR behaviour of one-loop complex $\mathbb{R}\times S^3$ saddles**|Shubhashis Mallik et.al.|[2604.21736](http://arxiv.org/abs/2604.21736)|null|null|
 |**2026-04-23**|**Causal Disentanglement for Full-Reference Image Quality Assessment**|Zhen Zhang et.al.|[2604.21654](http://arxiv.org/abs/2604.21654)|null|null|
 |**2026-04-23**|**Causal Discovery in Multivariate Extremes via Tail Asymmetry**|Mengran Li et.al.|[2604.21620](http://arxiv.org/abs/2604.21620)|null|null|
@@ -15236,10 +15236,10 @@ layout: default
 |**2026-04-23**|**Ramen: Robust Test-Time Adaptation of Vision-Language Models with Active Sample Selection**|Wenxuan Bao et.al.|[2604.21728](http://arxiv.org/abs/2604.21728)|null|null|
 |**2026-04-23**|**Entanglement of two optical emitters mediated by a terahertz channel**|Yanis Le Fur et.al.|[2604.21723](http://arxiv.org/abs/2604.21723)|null|null|
 |**2026-04-23**|**Effects of Swarm Size Variability on Operator Workload**|William Hunt et.al.|[2604.21707](http://arxiv.org/abs/2604.21707)|null|null|
-|**2026-04-23**|**Can Large Language Models Assist the Comprehension of ROS2 Software Architectures?**|Laura Duits et.al.|[2604.21699](http://arxiv.org/abs/2604.21699)|null|null|
+|**2026-04-23**|**Can Large Language Models Assist the Comprehension of ROS2 Software Architectures?**|Laura Duits et.al.|[2604.21699](http://arxiv.org/abs/2604.21699)|**[link](https://github.com/S2-group/ease-2026-sa-ros-llms-rep-pkg)**|null|
 |**2026-04-23**|**SLAM as a Stochastic Control Problem with Partial Information: Optimal Solutions and Rigorous Approximations**|Ilir Gusija et.al.|[2604.21693](http://arxiv.org/abs/2604.21693)|null|null|
 |**2026-04-23**|**WorldMark: A Unified Benchmark Suite for Interactive Video World Models**|Xiaojie Xu et.al.|[2604.21686](http://arxiv.org/abs/2604.21686)|null|null|
-|**2026-04-23**|**Speed-oriented quantum circuit backend**|Sören Wilkening et.al.|[2604.21656](http://arxiv.org/abs/2604.21656)|**[link](https://github.com/SoerenWilkening/speed-oriented-quantum-circuit-backend)**|null|
+|**2026-04-23**|**Speed-oriented quantum circuit backend**|Sören Wilkening et.al.|[2604.21656](http://arxiv.org/abs/2604.21656)|null|null|
 |**2026-04-23**|**Task-specific Subnetwork Discovery in Reinforcement Learning for Autonomous Underwater Navigation**|Yi-Ling Liu et.al.|[2604.21640](http://arxiv.org/abs/2604.21640)|null|null|
 |**2026-04-23**|**Scalable Multimodal Beam Alignment in V2X: An Anti-Imbalance Graph Learning Approach**|Jiahui Liang et.al.|[2604.21585](http://arxiv.org/abs/2604.21585)|null|null|
 |**2026-04-23**|**Pricing and Hedging Financial Derivatives in Merger\&Acquisition Deals with Price Impact**|Emilio Barucci et.al.|[2604.21581](http://arxiv.org/abs/2604.21581)|null|null|
