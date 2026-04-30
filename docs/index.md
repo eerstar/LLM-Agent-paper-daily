@@ -592,7 +592,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
-|**2026-04-29**|**Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models**|Gongbo Zhang et.al.|[2604.26951](http://arxiv.org/abs/2604.26951)|null|null|
+|**2026-04-29**|**Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models**|Gongbo Zhang et.al.|[2604.26951](http://arxiv.org/abs/2604.26951)|**[link](https://github.com/PKU-YuanGroup/TIDE)**|null|
 |**2026-04-29**|**Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation**|Wanrong Zheng et.al.|[2604.26946](http://arxiv.org/abs/2604.26946)|null|null|
 |**2026-04-29**|**Select to Think: Unlocking SLM Potential with Local Sufficiency**|Wenxuan Ye et.al.|[2604.26940](http://arxiv.org/abs/2604.26940)|null|null|
 |**2026-04-29**|**World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning**|Wanyue Zhang et.al.|[2604.26934](http://arxiv.org/abs/2604.26934)|null|null|
@@ -2884,7 +2884,7 @@ layout: default
 |**2026-04-29**|**On the monotonicity of affine quermassintegrals**|Shibing Chen et.al.|[2604.26828](http://arxiv.org/abs/2604.26828)|null|null|
 |**2026-04-29**|**Exploring the Efficiency of 3D-Stacked AI Chip Architecture for LLM Inference with Voxel**|Yiqi Liu et.al.|[2604.26821](http://arxiv.org/abs/2604.26821)|null|null|
 |**2026-04-29**|**Do News and Social Media Tell the Same Story? Constructing and Comparing Sentiment Spillover Networks**|Fan Wu et.al.|[2604.26811](http://arxiv.org/abs/2604.26811)|null|null|
-|**2026-04-29**|**Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations**|Bochao Liu et.al.|[2604.26805](http://arxiv.org/abs/2604.26805)|**[link](https://github.com/benchen4395/BianQue_Assistant)**|null|
+|**2026-04-29**|**Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations**|Bochao Liu et.al.|[2604.26805](http://arxiv.org/abs/2604.26805)|null|null|
 |**2026-04-29**|**Continuum contribution to charged-current absorption of low-energy $ν_e$ on $^{40}$ Ar**|Steven Gardiner et.al.|[2604.26801](http://arxiv.org/abs/2604.26801)|null|null|
 |**2026-04-29**|**The Influence of the Fractal Dimension on Dust Evolution in Protoplanetary Disks**|J. E. Schöll et.al.|[2604.26794](http://arxiv.org/abs/2604.26794)|null|null|
 |**2026-04-29**|**Virtual-reality based patient-specific simulation of spine surgical procedures: A fast, highly automated and high-fidelity system for surgical education and planning**|Raj Kumar Ranabhat et.al.|[2604.26781](http://arxiv.org/abs/2604.26781)|null|null|
@@ -7272,7 +7272,7 @@ layout: default
 |**2026-04-29**|**MultEval: Supporting Collaborative Alignment for LLM-as-a-Judge Evaluation Criteria**|Charles Chiang et.al.|[2604.26679](http://arxiv.org/abs/2604.26679)|null|null|
 |**2026-04-29**|**Reproducible Automated Program Repair Is Hard -- Experiences With the Defects4J Dataset**|Adam Krafczyk et.al.|[2604.26674](http://arxiv.org/abs/2604.26674)|null|null|
 |**2026-04-29**|**Understanding the Skills Gap between Higher Education Institutions and the Software Engineering Industry**|Huy Phan et.al.|[2604.26655](http://arxiv.org/abs/2604.26655)|null|null|
-|**2026-04-29**|**The Bandit's Blind Spot: The Critical Role of User State Representation in Recommender Systems**|Pedro R. Pires et.al.|[2604.26651](http://arxiv.org/abs/2604.26651)|**[link](https://github.com/UFSCar-LaSID/bandits_blind_spot)**|null|
+|**2026-04-29**|**The Bandit's Blind Spot: The Critical Role of User State Representation in Recommender Systems**|Pedro R. Pires et.al.|[2604.26651](http://arxiv.org/abs/2604.26651)|null|null|
 |**2026-04-29**|**SciHorizon-DataEVA: An Agentic System for AI-Readiness Evaluation of Heterogeneous Scientific Data**|Dianyu Liu et.al.|[2604.26645](http://arxiv.org/abs/2604.26645)|null|null|
 |**2026-04-29**|**ATLAS: An Annotation Tool for Long-horizon Robotic Action Segmentation**|Sergej Stanovcic et.al.|[2604.26637](http://arxiv.org/abs/2604.26637)|null|null|
 |**2026-04-29**|**SAGE: A Strategy-Aware Graph-Enhanced Generation Framework For Online Counseling**|Eliya Naomi Aharon et.al.|[2604.26630](http://arxiv.org/abs/2604.26630)|null|null|
@@ -11404,7 +11404,7 @@ layout: default
 |**2026-04-28**|**Properties of black hole mergers in disks of active galactic nuclei**|Hiromichi Tagawa et.al.|[2604.25994](http://arxiv.org/abs/2604.25994)|null|null|
 |**2026-04-28**|**The GlimmIr: Spectroscopic Variability in a z~7 LRD Indicates Rapid Changes in Both the Narrow and Broad Line Regions**|Erini Lambrides et.al.|[2604.25991](http://arxiv.org/abs/2604.25991)|null|null|
 |**2026-04-28**|**Measuring Apsidal Clustering**|Amir Siraj et.al.|[2604.25990](http://arxiv.org/abs/2604.25990)|null|null|
-|**2026-04-28**|**Recursive Multi-Agent Systems**|Xiyuan Yang et.al.|[2604.25917](http://arxiv.org/abs/2604.25917)|null|null|
+|**2026-04-28**|**Recursive Multi-Agent Systems**|Xiyuan Yang et.al.|[2604.25917](http://arxiv.org/abs/2604.25917)|**[link](https://github.com/sentient-agi/ROMA)**|null|
 |**2026-04-28**|**JOYS+ analyses of OCN $^-$, N$_2$O, NO, and complex cyanides in ices -- Thermal processing results in modest enhancement of OCN$^-$ ice**|P. Nazari et.al.|[2604.25915](http://arxiv.org/abs/2604.25915)|null|null|
 |**2026-04-28**|**Pythia: Toward Predictability-Driven Agent-Native LLM Serving**|Shan Yu et.al.|[2604.25899](http://arxiv.org/abs/2604.25899)|null|null|
 |**2026-04-28**|**From Threads to Trajectories: A Multi-LLM Pipeline for Community Knowledge Extraction from GitHub Issue Discussions**|Nazia Shehnaz Joynab et.al.|[2604.25880](http://arxiv.org/abs/2604.25880)|null|null|
@@ -15149,7 +15149,7 @@ layout: default
 |**2026-04-28**|**Self-consistent vertex corrected $GW$ with static and dynamic screening using tensor hypercontraction: assessment of molecular ionization potentials**|Munkhorgil Wang et.al.|[2604.25581](http://arxiv.org/abs/2604.25581)|null|null|
 |**2026-04-28**|**Liouville Blocks from Spectral Networks**|Lotte Hollands et.al.|[2604.25463](http://arxiv.org/abs/2604.25463)|null|null|
 |**2026-04-28**|**Generative UI as an Accessibility Bridge: Lessons from C2C E-Commerce**|Bektur Ryskeldiev et.al.|[2604.25455](http://arxiv.org/abs/2604.25455)|null|null|
-|**2026-04-28**|**Recommending Usability Improvements with Multimodal Large Language Models**|Sebastian Lubos et.al.|[2604.25420](http://arxiv.org/abs/2604.25420)|**[link](https://github.com/AIG-ist-tugraz/MLLM-Usability-Improvements)**|null|
+|**2026-04-28**|**Recommending Usability Improvements with Multimodal Large Language Models**|Sebastian Lubos et.al.|[2604.25420](http://arxiv.org/abs/2604.25420)|null|null|
 |**2026-04-28**|**Benchmarking and Improving GUI Agents in High-Dynamic Environments**|Enqi Liu et.al.|[2604.25380](http://arxiv.org/abs/2604.25380)|null|null|
 |**2026-04-28**|**Reversible Modulation of Thermal Conductivity in GaN via Strain-Driven Reorganization of Dislocation Ensembles**|Shantal Adajian et.al.|[2604.25287](http://arxiv.org/abs/2604.25287)|null|null|
 |**2026-04-28**|**Fractionally Supervised Classification with Maxima Nominated Samples**|Mohammad Jafari Jozani et.al.|[2604.25145](http://arxiv.org/abs/2604.25145)|null|null|
