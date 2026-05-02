@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.01
+## Updated on 2026.05.02
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -16438,7 +16438,7 @@ layout: default
 |**2026-04-30**|**Multimode grating couplers via foundry-compliant inverse design**|Hao Li et.al.|[2604.28058](http://arxiv.org/abs/2604.28058)|null|null|
 |**2026-04-30**|**Framework for Collaborative Operation of Autonomous Delivery Vehicles Within a Marshaling Yard**|James O'Hara et.al.|[2604.28057](http://arxiv.org/abs/2604.28057)|null|null|
 |**2026-04-30**|**RHyVE: Competence-Aware Verification and Phase-Aware Deployment for LLM-Generated Reward Hypotheses**|Feiyu Wu et.al.|[2604.28056](http://arxiv.org/abs/2604.28056)|null|null|
-|**2026-04-30**|**Stable Behavior, Limited Variation: Persona Validity in LLM Agents for Urban Sentiment Perception**|Neemias B da Silva et.al.|[2604.28048](http://arxiv.org/abs/2604.28048)|null|null|
+|**2026-04-30**|**Stable Behavior, Limited Variation: Persona Validity in LLM Agents for Urban Sentiment Perception**|Neemias B da Silva et.al.|[2604.28048](http://arxiv.org/abs/2604.28048)|**[link](https://github.com/neemiasbsilva/mllm-persona-evaluation)**|null|
 |**2026-04-30**|**SpecVQA: A Benchmark for Spectral Understanding and Visual Question Answering in Scientific Images**|Jialu Shen et.al.|[2604.28039](http://arxiv.org/abs/2604.28039)|null|null|
 |**2026-04-30**|**Are DeepFakes Realistic Enough? Exploring Semantic Mismatch as a Novel Challenge**|Sharayu Nilesh Deshmukh et.al.|[2604.28022](http://arxiv.org/abs/2604.28022)|null|null|
 |**2026-04-30**|**Echo-α: Large Agentic Multimodal Reasoning Model for Ultrasound Interpretation**|Jing Zhang et.al.|[2604.28011](http://arxiv.org/abs/2604.28011)|null|null|
