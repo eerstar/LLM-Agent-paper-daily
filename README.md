@@ -9505,7 +9505,7 @@
 |**2026-04-30**|**OmniRobotHome: A Multi-Camera Platform for Real-Time Multiadic Human-Robot Interaction**|Junyoung Lee et.al.|[2604.28197](http://arxiv.org/abs/2604.28197)|null|null|
 |**2026-04-30**|**An adaptive wavelet-based PINN for problems with localized high-magnitude source**|Himanshu Pandey et.al.|[2604.28180](http://arxiv.org/abs/2604.28180)|null|null|
 |**2026-04-30**|**FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption**|Yanting Wang et.al.|[2604.28157](http://arxiv.org/abs/2604.28157)|null|null|
-|**2026-04-30**|**Efficient Multivector Retrieval with Token-Aware Clustering and Hierarchical Indexing**|Silvio Martinico et.al.|[2604.28142](http://arxiv.org/abs/2604.28142)|null|null|
+|**2026-04-30**|**Efficient Multivector Retrieval with Token-Aware Clustering and Hierarchical Indexing**|Silvio Martinico et.al.|[2604.28142](http://arxiv.org/abs/2604.28142)|**[link](https://github.com/BleedingDev/ir-multivector-retrieval)**|null|
 |**2026-04-30**|**Auto-FlexSwitch: Efficient Dynamic Model Merging via Learnable Task Vector Compression**|Junqi Gao et.al.|[2604.28109](http://arxiv.org/abs/2604.28109)|null|null|
 |**2026-04-30**|**Succinct Graph Representations and Algorithmic Applications**|Ahammed Ullah et.al.|[2604.28096](http://arxiv.org/abs/2604.28096)|null|null|
 |**2026-04-30**|**Towards Neuro-symbolic Causal Rule Synthesis, Verification, and Evaluation Grounded in Legal and Safety Principles**|Zainab Rehan et.al.|[2604.28087](http://arxiv.org/abs/2604.28087)|null|null|
@@ -13496,7 +13496,7 @@
 |**2026-04-30**|**Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists**|Yujun Wu et.al.|[2604.28158](http://arxiv.org/abs/2604.28158)|null|null|
 |**2026-04-30**|**The DAMSA Experiment**|Prithak Bhattarai et.al.|[2604.28133](http://arxiv.org/abs/2604.28133)|null|null|
 |**2026-04-30**|**Normativity and Productivism: Ableist Intelligence? A Degrowth Analysis of AI Sign Language Translation Tools for Deaf People**|Nina Seron-Abouelfadil et.al.|[2604.28125](http://arxiv.org/abs/2604.28125)|null|null|
-|**2026-04-30**|**Do Sparse Autoencoders Capture Concept Manifolds?**|Usha Bhalla et.al.|[2604.28119](http://arxiv.org/abs/2604.28119)|null|null|
+|**2026-04-30**|**Do Sparse Autoencoders Capture Concept Manifolds?**|Usha Bhalla et.al.|[2604.28119](http://arxiv.org/abs/2604.28119)|**[link](https://github.com/goodfire-ai/sae-manifold)**|null|
 |**2026-04-30**|**A Scaled Gradient Modified Non-monotone Line Search Method for Constrained Optimization Problems**|Qamrul Hasan Ansari et.al.|[2604.28110](http://arxiv.org/abs/2604.28110)|null|null|
 |**2026-04-30**|**Succinct Graph Representations and Algorithmic Applications**|Ahammed Ullah et.al.|[2604.28096](http://arxiv.org/abs/2604.28096)|null|null|
 |**2026-04-30**|**TransVLM: A Vision-Language Framework and Benchmark for Detecting Any Shot Transitions**|Ce Chen et.al.|[2604.27975](http://arxiv.org/abs/2604.27975)|null|null|
@@ -15421,7 +15421,7 @@
 |**2026-04-30**|**One Size Fits All? An Empirical Comparison of ADR Templates regarding Comprehension, Usability, and Ease of Adoption**|Fernando Nogueira et.al.|[2604.27333](http://arxiv.org/abs/2604.27333)|null|null|
 |**2026-04-29**|**Instruction Complexity Induces Positional Collapse in Adversarial LLM Evaluation**|Jon-Paul Cacioli et.al.|[2604.27249](http://arxiv.org/abs/2604.27249)|null|null|
 |**2026-04-29**|**Step-level Optimization for Efficient Computer-use Agents**|Jinbiao Wei et.al.|[2604.27151](http://arxiv.org/abs/2604.27151)|null|null|
-|**2026-04-29**|**First-Principles Thermodynamic Analysis of Ternary Chalcogenide Phase Change Materials**|Felix Adams et.al.|[2604.27120](http://arxiv.org/abs/2604.27120)|**[link](https://github.com/felix-adams/ternary_pcm_polymorphs)**|null|
+|**2026-04-29**|**First-Principles Thermodynamic Analysis of Ternary Chalcogenide Phase Change Materials**|Felix Adams et.al.|[2604.27120](http://arxiv.org/abs/2604.27120)|null|null|
 |**2026-04-29**|**Holographic realization of higher-spin Carrollian free fields**|Ethan D'Arcy et.al.|[2604.27068](http://arxiv.org/abs/2604.27068)|null|null|
 |**2026-04-29**|**Chiral-Transport-Induced Collective Modes in Strong Magnetic Fields and Their Implications for Neutron Star Phenomenology**|Sota Hanai et.al.|[2604.27020](http://arxiv.org/abs/2604.27020)|null|null|
 |**2026-04-29**|**Beyond Accuracy: LLM Variability in Evidence Screening for Software Engineering SLRs**|Gilberto Sussumu Hida et.al.|[2604.27006](http://arxiv.org/abs/2604.27006)|null|null|
@@ -18563,7 +18563,7 @@
 |**2026-04-30**|**Deeply virtual pion production through two-loop order**|Wen Chen et.al.|[2604.28164](http://arxiv.org/abs/2604.28164)|null|null|
 |**2026-04-30**|**RopeDreamer: A Kinematic Recurrent State Space Model for Dynamics of Flexible Deformable Linear Objects**|Tim Missal et.al.|[2604.28161](http://arxiv.org/abs/2604.28161)|null|null|
 |**2026-04-30**|**Reorganizing Quantum Measurement Records Improves Time-Series Prediction**|Markus Baumann et.al.|[2604.28160](http://arxiv.org/abs/2604.28160)|null|null|
-|**2026-04-30**|**Continuous-tone Simple Points: An $\ell_0$ -Norm of Cyclic Gradient for Topology-Preserving Data-Driven Image Segmentation**|Wenxiao Li et.al.|[2604.28159](http://arxiv.org/abs/2604.28159)|**[link](https://github.com/levnsio/CSP)**|null|
+|**2026-04-30**|**Continuous-tone Simple Points: An $\ell_0$ -Norm of Cyclic Gradient for Topology-Preserving Data-Driven Image Segmentation**|Wenxiao Li et.al.|[2604.28159](http://arxiv.org/abs/2604.28159)|null|null|
 |**2026-04-30**|**Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists**|Yujun Wu et.al.|[2604.28158](http://arxiv.org/abs/2604.28158)|null|null|
 |**2026-04-30**|**FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption**|Yanting Wang et.al.|[2604.28157](http://arxiv.org/abs/2604.28157)|null|null|
 |**2026-04-30**|**Explainable Load Forecasting with Covariate-Informed Time Series Foundation Models**|Matthias Hertel et.al.|[2604.28149](http://arxiv.org/abs/2604.28149)|null|null|
@@ -18578,7 +18578,7 @@
 |**2026-04-30**|**Measuring the risk or reducing it, that is the question: is risk measurement necessary for risk reduction?**|Pierpaolo Uberti et.al.|[2604.28124](http://arxiv.org/abs/2604.28124)|null|null|
 |**2026-04-30**|**PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning**|Sudong Wang et.al.|[2604.28123](http://arxiv.org/abs/2604.28123)|null|null|
 |**2026-04-30**|**DEFault++: Automated Fault Detection, Categorization, and Diagnosis for Transformer Architectures**|Sigma Jahan et.al.|[2604.28118](http://arxiv.org/abs/2604.28118)|null|null|
-|**2026-04-30**|**FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction**|Zeyu Jiang et.al.|[2604.28115](http://arxiv.org/abs/2604.28115)|null|null|
+|**2026-04-30**|**FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction**|Zeyu Jiang et.al.|[2604.28115](http://arxiv.org/abs/2604.28115)|**[link](https://github.com/the-masses/FreeOcc)**|null|
 |**2026-04-29**|**Outer-Crust Equations of State for Neutron Stars**|P. S. Koliogiannis et.al.|[2604.26952](http://arxiv.org/abs/2604.26952)|null|null|
 |**2026-04-29**|**Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models**|Gongbo Zhang et.al.|[2604.26951](http://arxiv.org/abs/2604.26951)|null|null|
 |**2026-04-29**|**Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation**|Wanrong Zheng et.al.|[2604.26946](http://arxiv.org/abs/2604.26946)|null|null|
