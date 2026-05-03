@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.02
+## Updated on 2026.05.03
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -15376,7 +15376,7 @@ layout: default
 |**2026-04-30**|**One Size Fits All? An Empirical Comparison of ADR Templates regarding Comprehension, Usability, and Ease of Adoption**|Fernando Nogueira et.al.|[2604.27333](http://arxiv.org/abs/2604.27333)|null|null|
 |**2026-04-29**|**Instruction Complexity Induces Positional Collapse in Adversarial LLM Evaluation**|Jon-Paul Cacioli et.al.|[2604.27249](http://arxiv.org/abs/2604.27249)|null|null|
 |**2026-04-29**|**Step-level Optimization for Efficient Computer-use Agents**|Jinbiao Wei et.al.|[2604.27151](http://arxiv.org/abs/2604.27151)|null|null|
-|**2026-04-29**|**First-Principles Thermodynamic Analysis of Ternary Chalcogenide Phase Change Materials**|Felix Adams et.al.|[2604.27120](http://arxiv.org/abs/2604.27120)|null|null|
+|**2026-04-29**|**First-Principles Thermodynamic Analysis of Ternary Chalcogenide Phase Change Materials**|Felix Adams et.al.|[2604.27120](http://arxiv.org/abs/2604.27120)|**[link](https://github.com/felix-adams/ternary_pcm_polymorphs)**|null|
 |**2026-04-29**|**Holographic realization of higher-spin Carrollian free fields**|Ethan D'Arcy et.al.|[2604.27068](http://arxiv.org/abs/2604.27068)|null|null|
 |**2026-04-29**|**Chiral-Transport-Induced Collective Modes in Strong Magnetic Fields and Their Implications for Neutron Star Phenomenology**|Sota Hanai et.al.|[2604.27020](http://arxiv.org/abs/2604.27020)|null|null|
 |**2026-04-29**|**Beyond Accuracy: LLM Variability in Evidence Screening for Software Engineering SLRs**|Gilberto Sussumu Hida et.al.|[2604.27006](http://arxiv.org/abs/2604.27006)|null|null|
@@ -18514,7 +18514,7 @@ layout: default
 |**2026-04-30**|**Deeply virtual pion production through two-loop order**|Wen Chen et.al.|[2604.28164](http://arxiv.org/abs/2604.28164)|null|null|
 |**2026-04-30**|**RopeDreamer: A Kinematic Recurrent State Space Model for Dynamics of Flexible Deformable Linear Objects**|Tim Missal et.al.|[2604.28161](http://arxiv.org/abs/2604.28161)|null|null|
 |**2026-04-30**|**Reorganizing Quantum Measurement Records Improves Time-Series Prediction**|Markus Baumann et.al.|[2604.28160](http://arxiv.org/abs/2604.28160)|null|null|
-|**2026-04-30**|**Continuous-tone Simple Points: An $\ell_0$ -Norm of Cyclic Gradient for Topology-Preserving Data-Driven Image Segmentation**|Wenxiao Li et.al.|[2604.28159](http://arxiv.org/abs/2604.28159)|null|null|
+|**2026-04-30**|**Continuous-tone Simple Points: An $\ell_0$ -Norm of Cyclic Gradient for Topology-Preserving Data-Driven Image Segmentation**|Wenxiao Li et.al.|[2604.28159](http://arxiv.org/abs/2604.28159)|**[link](https://github.com/levnsio/CSP)**|null|
 |**2026-04-30**|**Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists**|Yujun Wu et.al.|[2604.28158](http://arxiv.org/abs/2604.28158)|null|null|
 |**2026-04-30**|**FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption**|Yanting Wang et.al.|[2604.28157](http://arxiv.org/abs/2604.28157)|null|null|
 |**2026-04-30**|**Explainable Load Forecasting with Covariate-Informed Time Series Foundation Models**|Matthias Hertel et.al.|[2604.28149](http://arxiv.org/abs/2604.28149)|null|null|
