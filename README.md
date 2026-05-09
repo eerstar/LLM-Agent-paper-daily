@@ -16546,12 +16546,12 @@
 |**2026-05-06**|**Gated Multimodal Learning for Interpretable Property Energy Performance Prediction and Retrofit Scenario Analysis**|Yunfei Bai et.al.|[2605.05088](http://arxiv.org/abs/2605.05088)|null|null|
 |**2026-05-06**|**Beyond Seeing Is Believing: On Crowdsourced Detection of Audiovisual Deepfakes**|Michael Soprano et.al.|[2605.04797](http://arxiv.org/abs/2605.04797)|null|null|
 |**2026-05-06**|**Effective long-range attraction of moiré excitons under the influence of atomic reconstructions and anisotropic screening**|Nils-Erik Schütte et.al.|[2605.04667](http://arxiv.org/abs/2605.04667)|null|null|
-|**2026-05-06**|**AuditRepairBench: A Paired-Execution Trace Corpus for Evaluator-Channel Ranking Instability in Agent Repair**|Yuelin Hu et.al.|[2605.04624](http://arxiv.org/abs/2605.04624)|**[link](https://github.com/huyuelin/AuditRepairBench)**|null|
+|**2026-05-06**|**AuditRepairBench: A Paired-Execution Trace Corpus for Evaluator-Channel Ranking Instability in Agent Repair**|Yuelin Hu et.al.|[2605.04624](http://arxiv.org/abs/2605.04624)|null|null|
 |**2026-05-06**|**Approximate Dynamic Programming for Real-time Assignment of Extraboard Transit Operators**|Jilin Song et.al.|[2605.04511](http://arxiv.org/abs/2605.04511)|null|null|
 |**2026-05-06**|**HIMCE: High-dimensional multiple imputation via covariance-mode updating for neuroimaging and spatiotemporal blocks**|Hsin-Hsiung Huang et.al.|[2605.04440](http://arxiv.org/abs/2605.04440)|null|null|
 |**2026-05-05**|**Pattern Formation and Stick-Slip Dynamics in Binary Particle Assemblies with Rotating Drives**|C. Reichhardt et.al.|[2605.04322](http://arxiv.org/abs/2605.04322)|null|null|
 |**2026-05-05**|**Climate-based Pre-screening of Self-sustaining Regreening Opportunities in Drylands: A Case Study for Saudi Arabia**|Katja Froehlich et.al.|[2605.04206](http://arxiv.org/abs/2605.04206)|null|null|
-|**2026-05-05**|**Long Inflation Screens Euclidean-Wormhole Initial States**|Imtiaz Khan et.al.|[2605.04166](http://arxiv.org/abs/2605.04166)|null|null|
+|**2026-05-05**|**Long Inflation Screens Euclidean-Wormhole Initial States**|Imtiaz Khan et.al.|[2605.04166](http://arxiv.org/abs/2605.04166)|**[link](https://github.com/pirzada-1/Long-Inflation-Screens-Euclidean-Wormhole-Initial-States)**|null|
 |**2026-05-05**|**On the spin dependence of the emergent gravity phenomena as observed in axially symmetric black hole accretion with spatially varying adiabatic index**|Kalyanbrata Pal et.al.|[2605.04156](http://arxiv.org/abs/2605.04156)|null|null|
 |**2026-05-05**|**A Master Equation for Screening in Luminal Horndeski Gravity**|Sergi Sirera et.al.|[2605.04154](http://arxiv.org/abs/2605.04154)|null|null|
 |**2026-05-05**|**Lifting to tensors when compiling scientific computing workloads for AI Engines**|Nick Brown et.al.|[2605.03566](http://arxiv.org/abs/2605.03566)|null|null|
@@ -17676,7 +17676,7 @@
 |**2026-05-07**|**BAMI: Training-Free Bias Mitigation in GUI Grounding**|Borui Zhang et.al.|[2605.06664](http://arxiv.org/abs/2605.06664)|null|null|
 |**2026-05-07**|**Multi-Robot Coordination in V2X Environments**|John Pravin Arockiasamy et.al.|[2605.06662](http://arxiv.org/abs/2605.06662)|null|null|
 |**2026-05-07**|**Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval**|Zeyu Yang et.al.|[2605.06647](http://arxiv.org/abs/2605.06647)|null|null|
-|**2026-05-07**|**Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study**|Hao Dong et.al.|[2605.06643](http://arxiv.org/abs/2605.06643)|null|null|
+|**2026-05-07**|**Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study**|Hao Dong et.al.|[2605.06643](http://arxiv.org/abs/2605.06643)|**[link](https://github.com/lihongzhao99/MMDG_Benchmark)**|null|
 |**2026-05-07**|**GlazyBench: A Benchmark for Ceramic Glaze Property Prediction and Image Generation**|Ziyu Zhai et.al.|[2605.06641](http://arxiv.org/abs/2605.06641)|null|null|
 |**2026-05-07**|**MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems**|Zhexuan Wang et.al.|[2605.06623](http://arxiv.org/abs/2605.06623)|null|null|
 |**2026-05-07**|**SoftSAE: Dynamic Top-K Selection for Adaptive Sparse Autoencoders**|Jakub Stępień et.al.|[2605.06610](http://arxiv.org/abs/2605.06610)|null|null|
@@ -19915,11 +19915,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
-|**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667](http://arxiv.org/abs/2605.06667)|**[link](https://github.com/elkhomar/actcam)**|null|
+|**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667](http://arxiv.org/abs/2605.06667)|null|null|
 |**2026-05-07**|**BAMI: Training-Free Bias Mitigation in GUI Grounding**|Borui Zhang et.al.|[2605.06664](http://arxiv.org/abs/2605.06664)|null|null|
 |**2026-05-07**|**Multi-Robot Coordination in V2X Environments**|John Pravin Arockiasamy et.al.|[2605.06662](http://arxiv.org/abs/2605.06662)|null|null|
 |**2026-05-07**|**Verifier-Backed Hard Problem Generation for Mathematical Reasoning**|Yuhang Lai et.al.|[2605.06660](http://arxiv.org/abs/2605.06660)|null|null|
-|**2026-05-07**|**Relit-LiVE: Relight Video by Jointly Learning Environment Video**|Weiqing Xiao et.al.|[2605.06658](http://arxiv.org/abs/2605.06658)|**[link](https://github.com/zhuxing0/Relit-LiVE)**|**[link](https://huggingface.co/weiqingXiao/Relit-LiVE)**|
+|**2026-05-07**|**Relit-LiVE: Relight Video by Jointly Learning Environment Video**|Weiqing Xiao et.al.|[2605.06658](http://arxiv.org/abs/2605.06658)|null|**[link](https://huggingface.co/weiqingXiao/Relit-LiVE)**|
 |**2026-05-07**|**When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels**|Sushant Gautam et.al.|[2605.06652](http://arxiv.org/abs/2605.06652)|null|null|
 |**2026-05-07**|**AI Co-Mathematician: Accelerating Mathematicians with Agentic AI**|Daniel Zheng et.al.|[2605.06651](http://arxiv.org/abs/2605.06651)|null|null|
 |**2026-05-07**|**Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients**|Mingwei Xu et.al.|[2605.06650](http://arxiv.org/abs/2605.06650)|null|null|
