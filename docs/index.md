@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.05.09
+## Updated on 2026.05.10
 ## LLM
 
 | Publish Date | Title | Authors | PDF | Code | Model |
@@ -3074,7 +3074,7 @@ layout: default
 |**2026-05-07**|**Continuous Latent Diffusion Language Model**|Hongcan Guo et.al.|[2605.06548](http://arxiv.org/abs/2605.06548)|null|null|
 |**2026-05-07**|**CCL-Bench 1.0: A Trace-Based Benchmark for LLM Infrastructure**|Eric Ding et.al.|[2605.06544](http://arxiv.org/abs/2605.06544)|null|null|
 |**2026-05-07**|**MedHorizon: Towards Long-context Medical Video Understanding in the Wild**|Bodong Du et.al.|[2605.06537](http://arxiv.org/abs/2605.06537)|null|null|
-|**2026-05-07**|**ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL**|Wei Gao et.al.|[2605.06534](http://arxiv.org/abs/2605.06534)|null|null|
+|**2026-05-07**|**ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL**|Wei Gao et.al.|[2605.06534](http://arxiv.org/abs/2605.06534)|null|**[link](https://huggingface.co/Kunbyte/ROSE)**|
 |**2026-05-07**|**SpatialEpiBench: Benchmarking Spatial Information and Epidemic Priors in Forecasting**|Ruiqi Lyu et.al.|[2605.06530](http://arxiv.org/abs/2605.06530)|null|null|
 |**2026-05-07**|**Market-Alignment Risk in Pricing Agents: Trace Diagnostics and Trace-Prior RL under Hidden Competitor State**|Peiying Zhu et.al.|[2605.06529](http://arxiv.org/abs/2605.06529)|null|null|
 |**2026-05-07**|**STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?**|Hanxiang Chao et.al.|[2605.06527](http://arxiv.org/abs/2605.06527)|null|null|
@@ -5545,8 +5545,8 @@ layout: default
 |**2026-05-07**|**BAMI: Training-Free Bias Mitigation in GUI Grounding**|Borui Zhang et.al.|[2605.06664](http://arxiv.org/abs/2605.06664)|null|null|
 |**2026-05-07**|**AI Co-Mathematician: Accelerating Mathematicians with Agentic AI**|Daniel Zheng et.al.|[2605.06651](http://arxiv.org/abs/2605.06651)|null|null|
 |**2026-05-07**|**Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval**|Zeyu Yang et.al.|[2605.06647](http://arxiv.org/abs/2605.06647)|null|null|
-|**2026-05-07**|**StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction**|Xiangyuan Xue et.al.|[2605.06642](http://arxiv.org/abs/2605.06642)|null|null|
-|**2026-05-07**|**Recursive Agent Optimization**|Apurva Gandhi et.al.|[2605.06639](http://arxiv.org/abs/2605.06639)|null|null|
+|**2026-05-07**|**StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction**|Xiangyuan Xue et.al.|[2605.06642](http://arxiv.org/abs/2605.06642)|**[link](https://github.com/xxyQwQ/StraTA)**|null|
+|**2026-05-07**|**Recursive Agent Optimization**|Apurva Gandhi et.al.|[2605.06639](http://arxiv.org/abs/2605.06639)|**[link](https://github.com/zszszszsz/.config)**|null|
 |**2026-05-07**|**Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research Agents**|Hailey Onweller et.al.|[2605.06635](http://arxiv.org/abs/2605.06635)|null|null|
 |**2026-05-07**|**Quantifying Trade-Offs Between Stability and Goal-Obfuscation**|Yixuan Wang et.al.|[2605.06630](http://arxiv.org/abs/2605.06630)|null|null|
 |**2026-05-07**|**MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems**|Zhexuan Wang et.al.|[2605.06623](http://arxiv.org/abs/2605.06623)|null|null|
@@ -5557,7 +5557,7 @@ layout: default
 |**2026-05-07**|**Cross-Modal Navigation with Multi-Agent Reinforcement Learning**|Shuo Liu et.al.|[2605.06595](http://arxiv.org/abs/2605.06595)|null|null|
 |**2026-05-07**|**NeuroAgent: LLM Agents for Multimodal Neuroimaging Analysis and Research**|Lujia Zhong et.al.|[2605.06584](http://arxiv.org/abs/2605.06584)|null|null|
 |**2026-05-07**|**Coordination Matters: Evaluation of Cooperative Multi-Agent Reinforcement Learning**|Maria Ana Cardei et.al.|[2605.06557](http://arxiv.org/abs/2605.06557)|null|null|
-|**2026-05-07**|**ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL**|Wei Gao et.al.|[2605.06534](http://arxiv.org/abs/2605.06534)|null|null|
+|**2026-05-07**|**ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL**|Wei Gao et.al.|[2605.06534](http://arxiv.org/abs/2605.06534)|null|**[link](https://huggingface.co/Kunbyte/ROSE)**|
 |**2026-05-07**|**Market-Alignment Risk in Pricing Agents: Trace Diagnostics and Trace-Prior RL under Hidden Competitor State**|Peiying Zhu et.al.|[2605.06529](http://arxiv.org/abs/2605.06529)|null|null|
 |**2026-05-07**|**STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?**|Hanxiang Chao et.al.|[2605.06527](http://arxiv.org/abs/2605.06527)|null|null|
 |**2026-05-07**|**Sustaining Cooperation in Populations Guided by AI: A Folk Theorem for LLMs**|Jonathan Shaki et.al.|[2605.06525](http://arxiv.org/abs/2605.06525)|null|null|
@@ -7833,7 +7833,7 @@ layout: default
 |**2026-05-07**|**Automated Clinical Report Generation for Remote Cognitive Remediation: Comparing Knowledge-Engineered Templates and LLMs in Low-Resource Settings**|Yongxin Zhou et.al.|[2605.06594](http://arxiv.org/abs/2605.06594)|null|null|
 |**2026-05-07**|**Constraining Galaxy Cluster Triaxiality via Weak Lensing -- I. Preparation for the Rubin Data Beyond Leading Order**|Shenming Fu et.al.|[2605.06587](http://arxiv.org/abs/2605.06587)|null|null|
 |**2026-05-07**|**John Equation Constraints for the 3D X-ray Transform under a Cylindrical-Spherical Mixed Parameterization: Theoretical Derivation, Experimental Validation, and Application Analysis**|Shaojie Tang et.al.|[2605.06558](http://arxiv.org/abs/2605.06558)|null|null|
-|**2026-05-07**|**ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL**|Wei Gao et.al.|[2605.06534](http://arxiv.org/abs/2605.06534)|null|null|
+|**2026-05-07**|**ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL**|Wei Gao et.al.|[2605.06534](http://arxiv.org/abs/2605.06534)|null|**[link](https://huggingface.co/Kunbyte/ROSE)**|
 |**2026-05-07**|**On the Security of Research Artifacts**|Nanda Rani et.al.|[2605.06508](http://arxiv.org/abs/2605.06508)|null|null|
 |**2026-05-07**|**ReasonSTL: Bridging Natural Language and Signal Temporal Logic via Tool-Augmented Process-Rewarded Learning**|Bowen Ye et.al.|[2605.06483](http://arxiv.org/abs/2605.06483)|null|null|
 |**2026-05-07**|**Risk-Controlled Post-Processing of Decision Policies**|Sunay Joshi et.al.|[2605.06479](http://arxiv.org/abs/2605.06479)|null|null|
@@ -10122,7 +10122,7 @@ layout: default
 |**2026-05-07**|**CCL-Bench 1.0: A Trace-Based Benchmark for LLM Infrastructure**|Eric Ding et.al.|[2605.06544](http://arxiv.org/abs/2605.06544)|null|null|
 |**2026-05-07**|**Hedging Memory Horizons for Non-Stationary Prediction via Online Aggregation**|Yutong Wang et.al.|[2605.06541](http://arxiv.org/abs/2605.06541)|null|null|
 |**2026-05-07**|**MedHorizon: Towards Long-context Medical Video Understanding in the Wild**|Bodong Du et.al.|[2605.06537](http://arxiv.org/abs/2605.06537)|null|null|
-|**2026-05-07**|**ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL**|Wei Gao et.al.|[2605.06534](http://arxiv.org/abs/2605.06534)|null|null|
+|**2026-05-07**|**ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL**|Wei Gao et.al.|[2605.06534](http://arxiv.org/abs/2605.06534)|null|**[link](https://huggingface.co/Kunbyte/ROSE)**|
 |**2026-05-07**|**STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?**|Hanxiang Chao et.al.|[2605.06527](http://arxiv.org/abs/2605.06527)|null|null|
 |**2026-05-07**|**From Token Lists to Graph Motifs: Weisfeiler-Lehman Analysis of Sparse Autoencoder Features**|Ruben Fernandez-Boullon et.al.|[2605.06494](http://arxiv.org/abs/2605.06494)|null|null|
 |**2026-05-07**|**Litespark Inference on Consumer CPUs: Custom SIMD Kernels for Ternary Neural Networks**|Nii Osae Osae Dade et.al.|[2605.06485](http://arxiv.org/abs/2605.06485)|null|null|
@@ -12341,7 +12341,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code | Model |
 |:---------|:-----------------------|:---------|:------|:------|:------|
 |**2026-05-07**|**Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval**|Zeyu Yang et.al.|[2605.06647](http://arxiv.org/abs/2605.06647)|null|null|
-|**2026-05-07**|**Recursive Agent Optimization**|Apurva Gandhi et.al.|[2605.06639](http://arxiv.org/abs/2605.06639)|**[link](https://github.com/zszszszsz/.config)**|null|
+|**2026-05-07**|**Recursive Agent Optimization**|Apurva Gandhi et.al.|[2605.06639](http://arxiv.org/abs/2605.06639)|null|null|
 |**2026-05-07**|**MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems**|Zhexuan Wang et.al.|[2605.06623](http://arxiv.org/abs/2605.06623)|null|null|
 |**2026-05-07**|**SkillOS: Learning Skill Curation for Self-Evolving Agents**|Siru Ouyang et.al.|[2605.06614](http://arxiv.org/abs/2605.06614)|null|null|
 |**2026-05-07**|**How Many Iterations to Jailbreak? Dynamic Budget Allocation for Multi-Turn LLM Evaluation**|Shai Feldman et.al.|[2605.06605](http://arxiv.org/abs/2605.06605)|null|null|
@@ -17629,7 +17629,7 @@ layout: default
 |**2026-05-07**|**BAMI: Training-Free Bias Mitigation in GUI Grounding**|Borui Zhang et.al.|[2605.06664](http://arxiv.org/abs/2605.06664)|null|null|
 |**2026-05-07**|**Multi-Robot Coordination in V2X Environments**|John Pravin Arockiasamy et.al.|[2605.06662](http://arxiv.org/abs/2605.06662)|null|null|
 |**2026-05-07**|**Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval**|Zeyu Yang et.al.|[2605.06647](http://arxiv.org/abs/2605.06647)|null|null|
-|**2026-05-07**|**Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study**|Hao Dong et.al.|[2605.06643](http://arxiv.org/abs/2605.06643)|**[link](https://github.com/lihongzhao99/MMDG_Benchmark)**|null|
+|**2026-05-07**|**Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study**|Hao Dong et.al.|[2605.06643](http://arxiv.org/abs/2605.06643)|null|null|
 |**2026-05-07**|**GlazyBench: A Benchmark for Ceramic Glaze Property Prediction and Image Generation**|Ziyu Zhai et.al.|[2605.06641](http://arxiv.org/abs/2605.06641)|null|null|
 |**2026-05-07**|**MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems**|Zhexuan Wang et.al.|[2605.06623](http://arxiv.org/abs/2605.06623)|null|null|
 |**2026-05-07**|**SoftSAE: Dynamic Top-K Selection for Adaptive Sparse Autoencoders**|Jakub Stępień et.al.|[2605.06610](http://arxiv.org/abs/2605.06610)|null|null|
@@ -19894,7 +19894,7 @@ layout: default
 |**2026-05-07**|**Online Bayesian Calibration under Gradual and Abrupt System Changes**|Yang Xu et.al.|[2605.06612](http://arxiv.org/abs/2605.06612)|null|null|
 |**2026-05-07**|**How Many Iterations to Jailbreak? Dynamic Budget Allocation for Multi-Turn LLM Evaluation**|Shai Feldman et.al.|[2605.06605](http://arxiv.org/abs/2605.06605)|null|null|
 |**2026-05-07**|**Patch2Vuln: Agentic Reconstruction of Vulnerabilities from Linux Distribution Binary Patches**|Isaac David et.al.|[2605.06601](http://arxiv.org/abs/2605.06601)|null|null|
-|**2026-05-07**|**UniSD: Towards a Unified Self-Distillation Framework for Large Language Models**|Yiqiao Jin et.al.|[2605.06597](http://arxiv.org/abs/2605.06597)|null|null|
+|**2026-05-07**|**UniSD: Towards a Unified Self-Distillation Framework for Large Language Models**|Yiqiao Jin et.al.|[2605.06597](http://arxiv.org/abs/2605.06597)|**[link](https://github.com/UnifiedSD/UnifiedSD.github.io)**|null|
 |**2026-05-07**|**Automated Clinical Report Generation for Remote Cognitive Remediation: Comparing Knowledge-Engineered Templates and LLMs in Low-Resource Settings**|Yongxin Zhou et.al.|[2605.06594](http://arxiv.org/abs/2605.06594)|null|null|
 |**2026-05-07**|**DINORANKCLIP: DINOv3 Distillation and Injection for Vision-Language Pretraining with High-Order Ranking Consistency**|Shuyang Jiang et.al.|[2605.06592](http://arxiv.org/abs/2605.06592)|null|null|
 |**2026-05-07**|**BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation**|Richard Hildebrandt et.al.|[2605.06591](http://arxiv.org/abs/2605.06591)|null|null|
