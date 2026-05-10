@@ -5546,7 +5546,7 @@ layout: default
 |**2026-05-07**|**AI Co-Mathematician: Accelerating Mathematicians with Agentic AI**|Daniel Zheng et.al.|[2605.06651](http://arxiv.org/abs/2605.06651)|null|null|
 |**2026-05-07**|**Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval**|Zeyu Yang et.al.|[2605.06647](http://arxiv.org/abs/2605.06647)|null|null|
 |**2026-05-07**|**StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction**|Xiangyuan Xue et.al.|[2605.06642](http://arxiv.org/abs/2605.06642)|**[link](https://github.com/xxyQwQ/StraTA)**|null|
-|**2026-05-07**|**Recursive Agent Optimization**|Apurva Gandhi et.al.|[2605.06639](http://arxiv.org/abs/2605.06639)|**[link](https://github.com/zszszszsz/.config)**|null|
+|**2026-05-07**|**Recursive Agent Optimization**|Apurva Gandhi et.al.|[2605.06639](http://arxiv.org/abs/2605.06639)|null|null|
 |**2026-05-07**|**Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research Agents**|Hailey Onweller et.al.|[2605.06635](http://arxiv.org/abs/2605.06635)|null|null|
 |**2026-05-07**|**Quantifying Trade-Offs Between Stability and Goal-Obfuscation**|Yixuan Wang et.al.|[2605.06630](http://arxiv.org/abs/2605.06630)|null|null|
 |**2026-05-07**|**MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems**|Zhexuan Wang et.al.|[2605.06623](http://arxiv.org/abs/2605.06623)|null|null|
