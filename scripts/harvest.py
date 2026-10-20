@@ -26,11 +26,31 @@ class TimeoutSession(requests.Session):
     deadline = None
 
     def request(self, method, url, **kwargs):
-        remaining = 30 if self.deadline is None else self.deadline - time.monotonic()
-        if remaining <= 0:
-            raise BudgetExceeded("network time budget reached")
-        kwargs.setdefault("timeout", (min(10, remaining), min(30, remaining)))
-        response = super().request(method, url, **kwargs)
+        response = None
+        for attempt in range(3):
+            remaining = 90 if self.deadline is None else self.deadline - time.monotonic()
+            if remaining <= 0:
+                raise BudgetExceeded("network time budget reached")
+            kwargs["timeout"] = (min(10, remaining), min(60, remaining))
+            try:
+                response = super().request(method, url, **kwargs)
+                if response.status_code not in (429, 500, 502, 503, 504):
+                    break
+                wait = 30 * (attempt + 1) if response.status_code == 429 else 5 * (attempt + 1)
+                retry_after = response.headers.get("Retry-After", "")
+                if retry_after.isdigit():
+                    wait = max(wait, int(retry_after))
+                response.close()
+            except (requests.Timeout, requests.ConnectionError):
+                if attempt == 2:
+                    raise
+                wait = 5 * (attempt + 1)
+            if attempt == 2:
+                raise requests.HTTPError(f"arXiv transient response after 3 attempts: {response.status_code}")
+            if self.deadline is not None and time.monotonic() + wait >= self.deadline:
+                raise BudgetExceeded("source cooldown exceeds remaining budget")
+            logging.warning("arXiv transient failure; retry %s/2 after %ss", attempt + 1, wait)
+            time.sleep(wait)
         if response.status_code == 200:
             try:
                 root = ET.fromstring(response.content)
@@ -55,7 +75,7 @@ class TimeoutSession(requests.Session):
 
 
 def make_client():
-    client = arxiv.Client(page_size=100, delay_seconds=3, num_retries=2)
+    client = arxiv.Client(page_size=500, delay_seconds=5, num_retries=0)
     # arxiv 4.0.1 has no public timeout option; keep this adapter version-tested.
     client._session.close()
     client._session = TimeoutSession()
@@ -112,9 +132,13 @@ def harvest_daily(config, client=None, max_seconds=900, max_per_topic=1500):
     today = dt.datetime.now(UTC).date()
     default_start = today - dt.timedelta(days=config.get("lookback_days", 3))
     failed, succeeded = [], []
+    recovering = state.get("last_run", {}).get("status") in ("partial", "failed", "running")
     for topic, query in config["kv"].items():
         batch = {}
         record = state["topics"].setdefault(topic, {})
+        if recovering and not record.get("pending") and record.get("covered_through") == today.isoformat():
+            succeeded.append(topic)
+            continue
         previous = record.get("covered_through") or record.get("last_success_at")
         start = min(default_start, dt.date.fromisoformat(previous[:10])) if previous else default_start
         pending = record.setdefault("pending", {

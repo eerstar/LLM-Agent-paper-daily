@@ -99,7 +99,7 @@ def render_catalog(data, web=False):
         "[Pipeline operation and recovery](https://github.com/eerstar/LLM-Agent-paper-daily/blob/main/docs/operations.md)",
         "", f"## Updated on {today}", "",
     ]
-    for topic, papers in data.items():
+    for topic, papers in sorted(data.items()):
         if not papers:
             continue
         lines += [f"## {topic}", "", "|Publish Date|Title|Authors|PDF|Code|Model|",

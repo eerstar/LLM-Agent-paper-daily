@@ -155,6 +155,31 @@ class WorkflowTests(unittest.TestCase):
 
 
 class ReviewRegressionTests(unittest.TestCase):
+    def test_arxiv_read_timeout_retries_once_in_transport(self):
+        from scripts.harvest import TimeoutSession
+        import requests
+        response = requests.Response()
+        response.status_code = 200
+        response._content = b'<feed xmlns="http://www.w3.org/2005/Atom" xmlns:os="http://a9.com/-/spec/opensearch/1.1/"><os:totalResults>0</os:totalResults><os:startIndex>0</os:startIndex></feed>'
+        with patch("requests.Session.request", side_effect=[requests.ReadTimeout("slow"), response]) as request, patch("scripts.harvest.time.sleep"):
+            self.assertIs(TimeoutSession().get("https://export.arxiv.org/api/query"), response)
+            self.assertEqual(request.call_count, 2)
+
+    def test_arxiv_rate_limit_stops_before_exceeding_budget(self):
+        from scripts.harvest import TimeoutSession, BudgetExceeded
+        import requests
+        response = requests.Response()
+        response.status_code = 429
+        response._content = b"rate limited"
+        response._content_consumed = True
+        response.headers["Retry-After"] = "120"
+        session = TimeoutSession()
+        session.deadline = 101
+        with patch("scripts.harvest.time.monotonic", return_value=100), patch("requests.Session.request", return_value=response) as request:
+            with self.assertRaises(BudgetExceeded):
+                session.get("https://export.arxiv.org/api/query")
+            self.assertEqual(request.call_count, 1)
+
     def test_invalid_success_feed_is_rejected(self):
         from scripts.harvest import make_client
         import arxiv
