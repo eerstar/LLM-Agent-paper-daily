@@ -1,0 +1,36 @@
+{
+  "last_run": {
+    "attempted": 3,
+    "cached": 0,
+    "deferred": 0,
+    "elapsed_seconds": 6.709,
+    "finished_at": 1792500433.988341,
+    "found": 1,
+    "invalid_rows": 0,
+    "status": "max_papers",
+    "updated_rows": 652
+  },
+  "next_request_at": 1792500436.0863628,
+  "papers": {
+    "2602.01257": {
+      "last_attempt": 1792500427.413485,
+      "result": null,
+      "retry_after": 1795092428.6109,
+      "status": "not_found"
+    },
+    "2602.01305": {
+      "last_attempt": 1792500430.7159328,
+      "result": null,
+      "retry_after": 1795092431.250273,
+      "status": "not_found"
+    },
+    "2602.02140": {
+      "last_attempt": 1792500433.3538911,
+      "result": "https://github.com/Lucky-Wang-Chenlong/GapEval",
+      "retry_after": 0,
+      "status": "found"
+    }
+  },
+  "retry_after": 0,
+  "version": 1
+}

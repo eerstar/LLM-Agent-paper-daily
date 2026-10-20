@@ -1,0 +1,35 @@
+{
+  "complete": false,
+  "day": "2026-05-15",
+  "end_date": "2026-10-20",
+  "last_error": null,
+  "offset": 5,
+  "published": false,
+  "queries": {
+    "Evaluation / Benchmarks (Agents)": "(Benchmark OR Evaluation OR Evals OR \"Agent Benchmark\" OR \"Tool Benchmark\" OR WebArena OR MiniWoB OR AgentBench OR SWE-bench OR SWE-Bench)",
+    "GUI / Computer Use Agents": "(\"GUI Agent\" OR \"Computer Use\" OR \"UI Automation\" OR \"Web UI\" OR \"Mobile UI\" OR \"Visual Grounding\" OR Screen)",
+    "LLM (General)": "(LLM OR LLMs OR \"Large Language Model\" OR \"Large Language Models\" OR \"Large-Language Model\" OR \"Large-Language Models\" OR \"Language Model\" OR \"Language Models\" OR \"Foundation Model\" OR \"Foundation Models\" OR \"Instruction Tuning\" OR Instruct OR SFT OR RLHF OR DPO OR Alignment)",
+    "LLM Agents (Core)": "(\"LLM Agent\" OR LLM-Agent OR \"Language Agent\" OR \"Language Agents\" OR Agentic OR Agent OR \"Agent Framework\" OR \"Agent System\" OR \"Agent Systems\" OR \"Autonomous Agent\" OR \"Autonomous Agents\")",
+    "LLM Reasoning & Planning": "(Reasoning OR Chain-of-Thought OR CoT OR Tree-of-Thought OR ToT OR Self-Consistency OR Planning OR \"Task Planning\" OR Reflection OR Verifier OR \"Process Reward Model\" OR PRM)",
+    "Multi-Agent / Collaboration": "(Multi-Agent OR \"Multi Agent\" OR Multiagent OR \"Agent Collaboration\" OR \"Agent Coordination\" OR Swarm OR Debate OR \"Society of Agents\")",
+    "Multimodal Agents (VLM)": "(Multimodal OR Vision-Language OR \"Vision Language\" OR VLM OR LMM OR Embodied OR Robotics OR Robot OR Navigation OR Manipulation)",
+    "RAG / Memory / Long Context for Agents": "(RAG OR Retrieval-Augmented OR \"Retrieval Augmented\" OR Retrieval OR Memory OR \"Long Context\" OR \"Context Window\" OR \"Vector Database\" OR \"Knowledge Base\" OR \"Tool Memory\")",
+    "Tool Use & Function Calling": "(\"Tool Use\" OR Tool-Use OR Toolformer OR \"Function Calling\" OR Function-Calling OR \"API Calling\" OR \"API Call\" OR Tools OR \"External Tools\" OR \"Program of Thoughts\" OR PoT OR ReAct OR MRKL)",
+    "Web / Search / Browsing Agents": "(\"Web Agent\" OR Browsing OR Search OR \"Web Navigation\" OR \"Information Seeking\" OR Search-Augmented)"
+  },
+  "start_date": "2026-05-15",
+  "topic_index": 0,
+  "topics": [
+    "LLM (General)",
+    "LLM Reasoning & Planning",
+    "LLM Agents (Core)",
+    "Tool Use & Function Calling",
+    "RAG / Memory / Long Context for Agents",
+    "Multi-Agent / Collaboration",
+    "Web / Search / Browsing Agents",
+    "GUI / Computer Use Agents",
+    "Multimodal Agents (VLM)",
+    "Evaluation / Benchmarks (Agents)"
+  ],
+  "updated_at": "2026-10-20T12:53:40.320286+00:00"
+}

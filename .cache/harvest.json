@@ -1,0 +1,63 @@
+{
+  "last_run": {
+    "failed_topics": [],
+    "finished_at": "2026-10-20T12:38:36.625767+00:00",
+    "new_papers": 1404,
+    "status": "success",
+    "succeeded_topics": [
+      "LLM (General)",
+      "LLM Reasoning & Planning",
+      "LLM Agents (Core)",
+      "Tool Use & Function Calling",
+      "RAG / Memory / Long Context for Agents",
+      "Multi-Agent / Collaboration",
+      "Web / Search / Browsing Agents",
+      "GUI / Computer Use Agents",
+      "Multimodal Agents (VLM)",
+      "Evaluation / Benchmarks (Agents)"
+    ]
+  },
+  "last_success_at": "2026-10-20T12:38:36.625775+00:00",
+  "topics": {
+    "Evaluation / Benchmarks (Agents)": {
+      "last_success_at": "2026-10-20T12:38:36.500087+00:00",
+      "papers": 846
+    },
+    "GUI / Computer Use Agents": {
+      "last_success_at": "2026-10-20T12:37:28.908629+00:00",
+      "papers": 61
+    },
+    "LLM (General)": {
+      "last_success_at": "2026-10-20T12:35:52.394772+00:00",
+      "papers": 602
+    },
+    "LLM Agents (Core)": {
+      "last_success_at": "2026-10-20T12:36:42.556293+00:00",
+      "papers": 271
+    },
+    "LLM Reasoning & Planning": {
+      "last_success_at": "2026-10-20T12:36:25.435371+00:00",
+      "papers": 520
+    },
+    "Multi-Agent / Collaboration": {
+      "last_success_at": "2026-10-20T12:37:15.641783+00:00",
+      "papers": 96
+    },
+    "Multimodal Agents (VLM)": {
+      "last_success_at": "2026-10-20T12:37:44.420845+00:00",
+      "papers": 272
+    },
+    "RAG / Memory / Long Context for Agents": {
+      "last_success_at": "2026-10-20T12:37:10.605994+00:00",
+      "papers": 256
+    },
+    "Tool Use & Function Calling": {
+      "last_success_at": "2026-10-20T12:36:53.862011+00:00",
+      "papers": 139
+    },
+    "Web / Search / Browsing Agents": {
+      "last_success_at": "2026-10-20T12:37:24.581487+00:00",
+      "papers": 113
+    }
+  }
+}
