@@ -1,17 +1,18 @@
 {
   "last_run": {
-    "failed_topics": [],
-    "finished_at": "2026-10-20T12:38:36.625767+00:00",
-    "new_papers": 1404,
-    "status": "success",
-    "succeeded_topics": [
-      "LLM (General)",
+    "failed_topics": [
       "LLM Reasoning & Planning",
       "LLM Agents (Core)",
       "Tool Use & Function Calling",
       "RAG / Memory / Long Context for Agents",
       "Multi-Agent / Collaboration",
-      "Web / Search / Browsing Agents",
+      "Web / Search / Browsing Agents"
+    ],
+    "finished_at": "2026-10-20T13:10:28.354674+00:00",
+    "new_papers": 0,
+    "status": "partial",
+    "succeeded_topics": [
+      "LLM (General)",
       "GUI / Computer Use Agents",
       "Multimodal Agents (VLM)",
       "Evaluation / Benchmarks (Agents)"
@@ -20,44 +21,90 @@
   "last_success_at": "2026-10-20T12:38:36.625775+00:00",
   "topics": {
     "Evaluation / Benchmarks (Agents)": {
-      "last_success_at": "2026-10-20T12:38:36.500087+00:00",
+      "covered_through": "2026-10-20",
+      "last_success_at": "2026-10-20T13:10:28.113547+00:00",
       "papers": 846
     },
     "GUI / Computer Use Agents": {
-      "last_success_at": "2026-10-20T12:37:28.908629+00:00",
+      "covered_through": "2026-10-20",
+      "last_success_at": "2026-10-20T13:09:23.999206+00:00",
       "papers": 61
     },
     "LLM (General)": {
-      "last_success_at": "2026-10-20T12:35:52.394772+00:00",
+      "covered_through": "2026-10-20",
+      "last_success_at": "2026-10-20T13:05:49.707503+00:00",
       "papers": 602
     },
     "LLM Agents (Core)": {
+      "last_error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)",
       "last_success_at": "2026-10-20T12:36:42.556293+00:00",
-      "papers": 271
+      "papers": 271,
+      "pending": {
+        "end": "2026-10-20",
+        "offset": 0,
+        "query": "(\"LLM Agent\" OR LLM-Agent OR \"Language Agent\" OR \"Language Agents\" OR Agentic OR Agent OR \"Agent Framework\" OR \"Agent System\" OR \"Agent Systems\" OR \"Autonomous Agent\" OR \"Autonomous Agents\")",
+        "start": "2026-10-17"
+      }
     },
     "LLM Reasoning & Planning": {
+      "last_error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)",
       "last_success_at": "2026-10-20T12:36:25.435371+00:00",
-      "papers": 520
+      "papers": 520,
+      "pending": {
+        "end": "2026-10-20",
+        "offset": 300,
+        "query": "(Reasoning OR Chain-of-Thought OR CoT OR Tree-of-Thought OR ToT OR Self-Consistency OR Planning OR \"Task Planning\" OR Reflection OR Verifier OR \"Process Reward Model\" OR PRM)",
+        "start": "2026-10-17"
+      }
     },
     "Multi-Agent / Collaboration": {
+      "last_error": "Page request resulted in HTTP 429 (https://export.arxiv.org/api/query?search_query=%28%28Multi-Agent+OR+%22Multi+Agent%22+OR+Multiagent+OR+%22Agent+Collaboration%22+OR+%22Agent+Coordination%22+OR+Swarm+OR+Debate+OR+%22Society+of+Agents%22%29%29+AND+submittedDate%3A%5B202610170000+TO+202610202359%5D&",
       "last_success_at": "2026-10-20T12:37:15.641783+00:00",
-      "papers": 96
+      "papers": 96,
+      "pending": {
+        "end": "2026-10-20",
+        "offset": 0,
+        "query": "(Multi-Agent OR \"Multi Agent\" OR Multiagent OR \"Agent Collaboration\" OR \"Agent Coordination\" OR Swarm OR Debate OR \"Society of Agents\")",
+        "start": "2026-10-17"
+      }
     },
     "Multimodal Agents (VLM)": {
-      "last_success_at": "2026-10-20T12:37:44.420845+00:00",
+      "covered_through": "2026-10-20",
+      "last_success_at": "2026-10-20T13:09:43.177853+00:00",
       "papers": 272
     },
     "RAG / Memory / Long Context for Agents": {
+      "last_error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)",
       "last_success_at": "2026-10-20T12:37:10.605994+00:00",
-      "papers": 256
+      "papers": 256,
+      "pending": {
+        "end": "2026-10-20",
+        "offset": 0,
+        "query": "(RAG OR Retrieval-Augmented OR \"Retrieval Augmented\" OR Retrieval OR Memory OR \"Long Context\" OR \"Context Window\" OR \"Vector Database\" OR \"Knowledge Base\" OR \"Tool Memory\")",
+        "start": "2026-10-17"
+      }
     },
     "Tool Use & Function Calling": {
+      "last_error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)",
       "last_success_at": "2026-10-20T12:36:53.862011+00:00",
-      "papers": 139
+      "papers": 139,
+      "pending": {
+        "end": "2026-10-20",
+        "offset": 0,
+        "query": "(\"Tool Use\" OR Tool-Use OR Toolformer OR \"Function Calling\" OR Function-Calling OR \"API Calling\" OR \"API Call\" OR Tools OR \"External Tools\" OR \"Program of Thoughts\" OR PoT OR ReAct OR MRKL)",
+        "start": "2026-10-17"
+      }
     },
     "Web / Search / Browsing Agents": {
+      "last_error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)",
       "last_success_at": "2026-10-20T12:37:24.581487+00:00",
-      "papers": 113
+      "papers": 113,
+      "pending": {
+        "end": "2026-10-20",
+        "offset": 0,
+        "query": "(\"Web Agent\" OR Browsing OR Search OR \"Web Navigation\" OR \"Information Seeking\" OR Search-Augmented)",
+        "start": "2026-10-17"
+      }
     }
   }
 }
