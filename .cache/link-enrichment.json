@@ -1,16 +1,16 @@
 {
   "last_run": {
-    "attempted": 3,
+    "attempted": 40,
     "cached": 0,
-    "deferred": 0,
-    "elapsed_seconds": 6.709,
-    "finished_at": 1792500433.988341,
-    "found": 1,
+    "deferred": 2,
+    "elapsed_seconds": 97.295,
+    "finished_at": 1792501950.72653,
+    "found": 7,
     "invalid_rows": 0,
     "status": "max_papers",
-    "updated_rows": 652
+    "updated_rows": 7
   },
-  "next_request_at": 1792500436.0863628,
+  "next_request_at": 1792501952.8252745,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -29,6 +29,246 @@
       "result": "https://github.com/Lucky-Wang-Chenlong/GapEval",
       "retry_after": 0,
       "status": "found"
+    },
+    "2602.02204": {
+      "last_attempt": 1792501853.7613297,
+      "result": null,
+      "retry_after": 1792502754.5251245,
+      "status": "transient_error"
+    },
+    "2602.02437": {
+      "last_attempt": 1792501856.6252465,
+      "result": null,
+      "retry_after": 1792502757.3379066,
+      "status": "transient_error"
+    },
+    "2602.02465": {
+      "last_attempt": 1792501859.4380314,
+      "result": "https://github.com/Jana-Z/mentis-oculi",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.02786": {
+      "last_attempt": 1792501861.9249032,
+      "result": null,
+      "retry_after": 1795093862.1980057,
+      "status": "not_found"
+    },
+    "2602.03533": {
+      "last_attempt": 1792501864.2981308,
+      "result": null,
+      "retry_after": 1792502764.659877,
+      "status": "transient_error"
+    },
+    "2602.03558": {
+      "last_attempt": 1792501866.759997,
+      "result": null,
+      "retry_after": 1795093867.0804632,
+      "status": "not_found"
+    },
+    "2602.04920": {
+      "last_attempt": 1792501869.18058,
+      "result": null,
+      "retry_after": 1795093869.5295634,
+      "status": "not_found"
+    },
+    "2602.04924": {
+      "last_attempt": 1792501871.6297026,
+      "result": null,
+      "retry_after": 1795093871.9659333,
+      "status": "not_found"
+    },
+    "2602.05096": {
+      "last_attempt": 1792501874.0660381,
+      "result": null,
+      "retry_after": 1795093874.285935,
+      "status": "not_found"
+    },
+    "2602.05986": {
+      "last_attempt": 1792501876.386055,
+      "result": null,
+      "retry_after": 1792502776.8874774,
+      "status": "transient_error"
+    },
+    "2602.05988": {
+      "last_attempt": 1792501878.9875915,
+      "result": null,
+      "retry_after": 1792502779.4559565,
+      "status": "transient_error"
+    },
+    "2602.06442": {
+      "last_attempt": 1792501881.5560827,
+      "result": null,
+      "retry_after": 1795093881.8201842,
+      "status": "not_found"
+    },
+    "2602.06663": {
+      "last_attempt": 1792501883.9202743,
+      "result": "https://github.com/lijunxian111/PlanViz",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.07038": {
+      "last_attempt": 1792501886.4296536,
+      "result": "https://github.com/NEUIR/UNIKIE-BENCH",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.07624": {
+      "last_attempt": 1792501888.874804,
+      "result": null,
+      "retry_after": 1795093889.2101934,
+      "status": "not_found"
+    },
+    "2602.08336": {
+      "last_attempt": 1792501891.3102973,
+      "result": null,
+      "retry_after": 1792502791.7597642,
+      "status": "transient_error"
+    },
+    "2602.08524": {
+      "last_attempt": 1792501893.8598783,
+      "result": "https://github.com/dle666/GeoFocus",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.08794": {
+      "last_attempt": 1792501896.3329916,
+      "result": "https://github.com/OpenMOSS/MOVA",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.09080": {
+      "last_attempt": 1792501898.8380015,
+      "result": null,
+      "retry_after": 1795093899.1915808,
+      "status": "not_found"
+    },
+    "2602.09477": {
+      "last_attempt": 1792501901.2917087,
+      "result": null,
+      "retry_after": 1795093901.5486717,
+      "status": "not_found"
+    },
+    "2602.09507": {
+      "last_attempt": 1792501903.6488,
+      "result": null,
+      "retry_after": 1795093903.9771836,
+      "status": "not_found"
+    },
+    "2602.09618": {
+      "last_attempt": 1792501906.0772994,
+      "result": null,
+      "retry_after": 1792502806.4726136,
+      "status": "transient_error"
+    },
+    "2602.09813": {
+      "last_attempt": 1792501908.5727525,
+      "result": null,
+      "retry_after": 1795093908.8365092,
+      "status": "not_found"
+    },
+    "2602.09843": {
+      "last_attempt": 1792501910.9366565,
+      "result": null,
+      "retry_after": 1792502811.3564832,
+      "status": "transient_error"
+    },
+    "2602.10357": {
+      "last_attempt": 1792501913.4566,
+      "result": null,
+      "retry_after": 1795093913.7461507,
+      "status": "not_found"
+    },
+    "2602.10384": {
+      "last_attempt": 1792501915.8462665,
+      "result": null,
+      "retry_after": 1795093916.2592156,
+      "status": "not_found"
+    },
+    "2602.10411": {
+      "last_attempt": 1792501918.359329,
+      "result": null,
+      "retry_after": 1795093918.6557322,
+      "status": "not_found"
+    },
+    "2602.10445": {
+      "last_attempt": 1792501920.7558434,
+      "result": null,
+      "retry_after": 1795093921.248892,
+      "status": "not_found"
+    },
+    "2602.10502": {
+      "last_attempt": 1792501923.3490047,
+      "result": null,
+      "retry_after": 1795093923.6318223,
+      "status": "not_found"
+    },
+    "2602.10512": {
+      "last_attempt": 1792501925.7319405,
+      "result": null,
+      "retry_after": 1795093926.0571933,
+      "status": "not_found"
+    },
+    "2602.10551": {
+      "last_attempt": 1792501928.157313,
+      "result": null,
+      "retry_after": 1795093928.482441,
+      "status": "not_found"
+    },
+    "2602.10553": {
+      "last_attempt": 1792501930.582527,
+      "result": null,
+      "retry_after": 1795093930.8824863,
+      "status": "not_found"
+    },
+    "2602.10622": {
+      "last_attempt": 1792501932.982602,
+      "result": "https://github.com/JhCircle/Deepfind-GGSM",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.10624": {
+      "last_attempt": 1792501935.5567012,
+      "result": null,
+      "retry_after": 1795093936.1000938,
+      "status": "not_found"
+    },
+    "2602.10659": {
+      "last_attempt": 1792501938.2001848,
+      "result": null,
+      "retry_after": 1795093938.5274663,
+      "status": "not_found"
+    },
+    "2602.10711": {
+      "last_attempt": 1792501940.6275775,
+      "result": "https://github.com/HyeongminLEE/fascl",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.10744": {
+      "last_attempt": 1792501943.0696502,
+      "result": null,
+      "retry_after": 1792502843.5181155,
+      "status": "transient_error"
+    },
+    "2602.10745": {
+      "last_attempt": 1792501945.6182494,
+      "result": null,
+      "retry_after": 1795093945.8991802,
+      "status": "not_found"
+    },
+    "2602.10875": {
+      "last_attempt": 1792501947.9992995,
+      "result": null,
+      "retry_after": 1795093948.3205316,
+      "status": "not_found"
+    },
+    "2602.10978": {
+      "last_attempt": 1792501950.4206731,
+      "result": null,
+      "retry_after": 1795093950.725273,
+      "status": "not_found"
     }
   },
   "retry_after": 0,

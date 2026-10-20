@@ -16782,12 +16782,12 @@
 |**2026-02-12**|**When Tables Go Crazy: Evaluating Multimodal Models on French Financial Documents**|Virginie Mouilleron et.al.|[2602.10384](http://arxiv.org/abs/2602.10384)|null|null|
 |**2026-02-12**|**Kelix Technical Report**|Boyang Ding et.al.|[2602.09843](http://arxiv.org/abs/2602.09843)|null|null|
 |**2026-02-09**|**Looping Back to Move Forward: Recursive Transformers for Efficient and Flexible Large Multimodal Models**|Ruihan Xu et.al.|[2602.09080](http://arxiv.org/abs/2602.09080)|null|null|
-|**2026-02-10**|**MOVA: Towards Scalable and Synchronized Video-Audio Generation**|SII-OpenMOSS Team et.al.|[2602.08794](http://arxiv.org/abs/2602.08794)|null|null|
-|**2026-02-09**|**GeoFocus: Blending Efficient Global-to-Local Perception for Multimodal Geometry Problem-Solving**|Linger Deng et.al.|[2602.08524](http://arxiv.org/abs/2602.08524)|null|null|
+|**2026-02-10**|**MOVA: Towards Scalable and Synchronized Video-Audio Generation**|SII-OpenMOSS Team et.al.|[2602.08794](http://arxiv.org/abs/2602.08794)|**[link](https://github.com/OpenMOSS/MOVA)**|null|
+|**2026-02-09**|**GeoFocus: Blending Efficient Global-to-Local Perception for Multimodal Geometry Problem-Solving**|Linger Deng et.al.|[2602.08524](http://arxiv.org/abs/2602.08524)|**[link](https://github.com/dle666/GeoFocus)**|null|
 |**2026-02-09**|**UReason: Benchmarking the Reasoning Paradox in Unified Multimodal Models**|Cheng Yang et.al.|[2602.08336](http://arxiv.org/abs/2602.08336)|null|null|
 |**2026-02-07**|**M2A: Multimodal Memory Agent with Dual-Layer Hybrid Memory for Long-Term Personalized Interactions**|Junyu Feng et.al.|[2602.07624](http://arxiv.org/abs/2602.07624)|null|**[link](https://huggingface.co/m2a/m2a)**|
-|**2026-02-03**|**UNIKIE-BENCH: Benchmarking Large Multimodal Models for Key Information Extraction in Visual Documents**|Yifan Ji et.al.|[2602.07038](http://arxiv.org/abs/2602.07038)|null|null|
-|**2026-02-06**|**PlanViz: Evaluating Planning-Oriented Image Generation and Editing for Computer-Use Tasks**|Junxian Li et.al.|[2602.06663](http://arxiv.org/abs/2602.06663)|null|null|
+|**2026-02-03**|**UNIKIE-BENCH: Benchmarking Large Multimodal Models for Key Information Extraction in Visual Documents**|Yifan Ji et.al.|[2602.07038](http://arxiv.org/abs/2602.07038)|**[link](https://github.com/NEUIR/UNIKIE-BENCH)**|null|
+|**2026-02-06**|**PlanViz: Evaluating Planning-Oriented Image Generation and Editing for Computer-Use Tasks**|Junxian Li et.al.|[2602.06663](http://arxiv.org/abs/2602.06663)|**[link](https://github.com/lijunxian111/PlanViz)**|null|
 |**2026-02-06**|**ChatUMM: Robust Context Tracking for Conversational Interleaved Generation**|Wenxun Dai et.al.|[2602.06442](http://arxiv.org/abs/2602.06442)|null|null|
 |**2026-02-05**|**Layer-wise LoRA fine-tuning: a similarity metric approach**|Keith Ando Ogawa et.al.|[2602.05988](http://arxiv.org/abs/2602.05988)|null|null|
 |**2026-02-05**|**RISE-Video: Can Video Generators Decode Implicit World Rules?**|Mingxin Liu et.al.|[2602.05986](http://arxiv.org/abs/2602.05986)|null|null|
@@ -16797,7 +16797,7 @@
 |**2026-02-03**|**ELIQ: A Label-Free Framework for Quality Assessment of Evolving AI-Generated Images**|Xinyue Li et.al.|[2602.03558](http://arxiv.org/abs/2602.03558)|null|null|
 |**2026-02-03**|**PnP-U3D: Plug-and-Play 3D Framework Bridging Autoregression and Diffusion for Unified Understanding and Generation**|Yongwei Chen et.al.|[2602.03533](http://arxiv.org/abs/2602.03533)|null|null|
 |**2026-02-02**|**LEMON: Local Explanations via Modality-aware OptimizatioN**|Yu Qin et.al.|[2602.02786](http://arxiv.org/abs/2602.02786)|null|null|
-|**2026-02-02**|**MentisOculi: Revealing the Limits of Reasoning with Mental Imagery**|Jana Zeller et.al.|[2602.02465](http://arxiv.org/abs/2602.02465)|null|null|
+|**2026-02-02**|**MentisOculi: Revealing the Limits of Reasoning with Mental Imagery**|Jana Zeller et.al.|[2602.02465](http://arxiv.org/abs/2602.02465)|**[link](https://github.com/Jana-Z/mentis-oculi)**|null|
 |**2026-02-07**|**UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing**|Dianyi Wang et.al.|[2602.02437](http://arxiv.org/abs/2602.02437)|null|null|
 |**2026-02-02**|**vLLM-Omni: Fully Disaggregated Serving for Any-to-Any Multimodal Models**|Peiqi Yin et.al.|[2602.02204](http://arxiv.org/abs/2602.02204)|null|null|
 |**2026-02-02**|**Quantifying the Gap between Understanding and Generation within Unified Multimodal Models**|Chenlong Wang et.al.|[2602.02140](http://arxiv.org/abs/2602.02140)|**[link](https://github.com/Lucky-Wang-Chenlong/GapEval)**|null|
@@ -22260,9 +22260,9 @@
 |**2026-02-11**|**Stride-Net: Fairness-Aware Disentangled Representation Learning for Chest X-Ray Diagnosis**|Darakshan Rashid et.al.|[2602.10875](http://arxiv.org/abs/2602.10875)|null|null|
 |**2026-02-11**|**Spectral-Spatial Contrastive Learning Framework for Regression on Hyperspectral Data**|Mohamad Dhaini et.al.|[2602.10745](http://arxiv.org/abs/2602.10745)|null|null|
 |**2026-02-11**|**Self-Supervised Image Super-Resolution Quality Assessment based on Content-Free Multi-Model Oriented Representation Learning**|Kian Majlessi et.al.|[2602.10744](http://arxiv.org/abs/2602.10744)|null|null|
-|**2026-02-11**|**Cross-Sectional Asset Retrieval via Future-Aligned Soft Contrastive Learning**|Hyeongmin Lee et.al.|[2602.10711](http://arxiv.org/abs/2602.10711)|null|null|
+|**2026-02-11**|**Cross-Sectional Asset Retrieval via Future-Aligned Soft Contrastive Learning**|Hyeongmin Lee et.al.|[2602.10711](http://arxiv.org/abs/2602.10711)|**[link](https://github.com/HyeongminLEE/fascl)**|null|
 |**2026-02-11**|**A Vision-Language Foundation Model for Zero-shot Clinical Collaboration and Automated Concept Discovery in Dermatology**|Siyuan Yan et.al.|[2602.10624](http://arxiv.org/abs/2602.10624)|null|null|
-|**2026-02-11**|**How Do Decoder-Only LLMs Perceive Users? Rethinking Attention Masking for User Representation Learning**|Jiahao Yuan et.al.|[2602.10622](http://arxiv.org/abs/2602.10622)|null|null|
+|**2026-02-11**|**How Do Decoder-Only LLMs Perceive Users? Rethinking Attention Masking for User Representation Learning**|Jiahao Yuan et.al.|[2602.10622](http://arxiv.org/abs/2602.10622)|**[link](https://github.com/JhCircle/Deepfind-GGSM)**|null|
 |**2026-02-11**|**Contrastive Learning for Multi Label ECG Classification with Jaccard Score Based Sigmoid Loss**|Junichiro Takahashi et.al.|[2602.10553](http://arxiv.org/abs/2602.10553)|null|null|
 |**2026-02-11**|**Don't Eliminate Cut: Exponential Separations in LLM-Based Theorem Proving**|Sho Sonoda et.al.|[2602.10512](http://arxiv.org/abs/2602.10512)|null|null|
 |**2026-02-11**|**Enhancing Ride-Hailing Forecasting at DiDi with Multi-View Geospatial Representation Learning from the Web**|Xixuan Hao et.al.|[2602.10502](http://arxiv.org/abs/2602.10502)|null|null|
