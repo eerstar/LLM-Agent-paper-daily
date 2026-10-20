@@ -1,10 +1,12 @@
-title: LLM Arxiv Daily
-description: Automatically Update LLM Papers Daily using Github Actions
-show_downloads: true
+title: LLM Agent Paper Daily
+description: Daily arXiv papers, bounded code-link enrichment and weekly agent digests
+show_downloads: false
+url: https://eerstar.github.io
+baseurl: /LLM-Agent-paper-daily
 
 github:
-  zip_url: https://github.com/cnlinxi/llm-arxiv-daily
-  another_url: https://github.com/cnlinxi/llm-arxiv-daily
+  zip_url: https://github.com/eerstar/LLM-Agent-paper-daily
+  another_url: https://github.com/eerstar/LLM-Agent-paper-daily
 
 ## add remote theme
 remote_theme: jekyll/minima@v2.5.1
@@ -12,10 +14,11 @@ remote_theme: jekyll/minima@v2.5.1
 # minima:
 skin: dark
 social_links:
-  twitter: AlphaRealcat
-  github: vincentqyw
+  github: eerstar
 
 plugins:
  - jekyll-remote-theme # add this line to the plugins list if you already have one
  - jekyll-feed
  - jekyll-seo-tag
+exclude:
+  - maintenance-plan.md

@@ -1,12 +1,19 @@
 import os
 import re
-import json
+import sys
 import yaml
 import logging
 import datetime
+from pathlib import Path
 from typing import Dict, Any, Tuple, Optional
 
 import requests
+
+if __package__ in (None, ""):
+    sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+from scripts.paper_store import atomic_write_json, read_json
+from scripts.weekly_report import build_papers, parse_timestamp
 
 logging.basicConfig(
     format='[%(asctime)s %(levelname)s] %(message)s',
@@ -17,6 +24,7 @@ logging.basicConfig(
 CONFIG_PATH = "config.yaml"
 CACHE_DIR = ".cache"
 CACHE_FILE = os.path.join(CACHE_DIR, "stats.json")
+HARVEST_STATE_PATH = os.path.join(CACHE_DIR, "harvest.json")
 
 STATS_PANEL_START = "<!-- STATS_PANEL_START -->"
 STATS_PANEL_END = "<!-- STATS_PANEL_END -->"
@@ -30,34 +38,18 @@ def ensure_dirs() -> None:
 
 
 def load_config(path: str = CONFIG_PATH) -> Dict[str, Any]:
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            cfg = yaml.safe_load(f) or {}
-            return cfg
-    except FileNotFoundError:
-        logging.warning("config file %s not found, use defaults", path)
-        return {}
-    except Exception as exc:  # noqa: BLE001
-        logging.error("failed to load config %s: %s", path, exc)
-        return {}
+    with open(path, "r", encoding="utf-8") as f:
+        config = yaml.safe_load(f)
+    if not isinstance(config, dict):
+        raise ValueError(f"Invalid configuration in {path}: expected an object")
+    return config
 
 
 def load_json_data(path: str) -> Dict[str, Any]:
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            content = f.read().strip()
-            if not content:
-                return {}
-            return json.loads(content)
-    except FileNotFoundError:
-        logging.warning("json file %s not found, treat as empty", path)
-        return {}
-    except json.JSONDecodeError as exc:
-        logging.error("failed to decode json %s: %s", path, exc)
-        return {}
-    except Exception as exc:  # noqa: BLE001
-        logging.error("failed to load json %s: %s", path, exc)
-        return {}
+    data = read_json(path)
+    if not isinstance(data, dict):
+        raise ValueError(f"Missing or invalid JSON object in {path}")
+    return data
 
 
 def strip_markdown_bold(text: str) -> str:
@@ -81,22 +73,28 @@ def parse_date_from_row(row: str) -> Optional[datetime.date]:
         return None
 
 
-def compute_stats(data: Dict[str, Any], target_date: datetime.date) -> Tuple[int, int]:
-    total_keys = set()
-    today_keys = set()
-
-    for _category, papers in data.items():
-        if not isinstance(papers, dict):
-            continue
-        for paper_key, row in papers.items():
-            total_keys.add(paper_key)
-            if not isinstance(row, str):
-                continue
-            d = parse_date_from_row(row)
-            if d is not None and d == target_date:
-                today_keys.add(paper_key)
-
-    return len(today_keys), len(total_keys)
+def compute_stats(
+    data: Dict[str, Any],
+    target_date: datetime.date,
+    harvest_state: Optional[Dict[str, Any]] = None,
+) -> Tuple[int, int]:
+    papers_by_category = build_papers(data)
+    total_keys = {
+        paper["key"] for papers in papers_by_category.values() for paper in papers
+    }
+    if harvest_state is None:
+        harvest_state = load_json_data(HARVEST_STATE_PATH)
+    last_run = harvest_state.get("last_run")
+    if not isinstance(last_run, dict):
+        raise ValueError("Harvest state has no last_run")
+    if last_run.get("status") not in ("success", "partial", "failed"):
+        raise ValueError("Invalid harvest run status")
+    new_papers = last_run.get("new_papers")
+    if type(new_papers) is not int or new_papers < 0:
+        raise ValueError("Harvest new_papers must be a nonnegative integer")
+    finished_at = parse_timestamp(last_run.get("finished_at"))
+    today_new = new_papers if finished_at.date() == target_date else 0
+    return today_new, len(total_keys)
 
 
 def get_repo_context(config: Dict[str, Any]) -> Tuple[Optional[str], Optional[str], Optional[str]]:
@@ -144,7 +142,7 @@ def fetch_stars(owner: Optional[str], repo: Optional[str], token: Optional[str])
             return "-"
         data = resp.json()
         stars = data.get("stargazers_count")
-        if isinstance(stars, int):
+        if type(stars) is int and stars >= 0:
             return str(stars)
         return "-"
     except Exception as exc:  # noqa: BLE001
@@ -153,22 +151,14 @@ def fetch_stars(owner: Optional[str], repo: Optional[str], token: Optional[str])
 
 
 def load_stats_cache() -> Dict[str, Any]:
-    if not os.path.exists(CACHE_FILE):
-        return {}
-    try:
-        with open(CACHE_FILE, "r", encoding="utf-8") as f:
-            return json.load(f) or {}
-    except Exception as exc:  # noqa: BLE001
-        logging.error("failed to load stats cache %s: %s", CACHE_FILE, exc)
-        return {}
+    cache = read_json(CACHE_FILE, {})
+    if not isinstance(cache, dict):
+        raise ValueError(f"Invalid stats cache object in {CACHE_FILE}")
+    return cache
 
 
 def save_stats_cache(cache: Dict[str, Any]) -> None:
-    try:
-        with open(CACHE_FILE, "w", encoding="utf-8") as f:
-            json.dump(cache, f)
-    except Exception as exc:  # noqa: BLE001
-        logging.error("failed to write stats cache %s: %s", CACHE_FILE, exc)
+    atomic_write_json(CACHE_FILE, cache)
 
 
 def create_milestone_issue(
@@ -178,6 +168,8 @@ def create_milestone_issue(
     repo: Optional[str],
     token: Optional[str],
 ) -> bool:
+    if os.getenv("ENABLE_MILESTONE_ISSUES", "").lower() != "true":
+        return False
     if not (owner and repo and token):
         logging.info("GitHub context or token missing, skip milestone issue")
         return False
@@ -224,18 +216,11 @@ def update_readme_panel(
     stars: str,
     today: datetime.date,
 ) -> None:
-    try:
-        with open(readme_path, "r", encoding="utf-8") as f:
-            content = f.read()
-    except FileNotFoundError:
-        logging.warning("README file %s not found, will create a new one", readme_path)
-        content = ""
-    except Exception as exc:  # noqa: BLE001
-        logging.error("failed to read README %s: %s", readme_path, exc)
-        return
+    with open(readme_path, "r", encoding="utf-8") as f:
+        content = f.read()
 
     panel_line = (
-        f"📈 **Today**: +{today_new} papers ｜ "
+        f"📈 **Latest run added (today UTC)**: +{today_new} papers ｜ "
         f"**Total**: {total_papers} ｜ "
         f"**Stars**: {stars}"
     )
@@ -257,17 +242,14 @@ def update_readme_panel(
         else:
             new_content = panel_block + "\n\n" + content
 
-    try:
-        with open(readme_path, "w", encoding="utf-8") as f:
-            f.write(new_content)
-        logging.info(
-            "stats panel updated: today=%s, total=%s, stars=%s",
-            today_new,
-            total_papers,
-            stars,
-        )
-    except Exception as exc:  # noqa: BLE001
-        logging.error("failed to write README %s: %s", readme_path, exc)
+    with open(readme_path, "w", encoding="utf-8") as f:
+        f.write(new_content)
+    logging.info(
+        "stats panel updated: today=%s, total=%s, stars=%s",
+        today_new,
+        total_papers,
+        stars,
+    )
 
 
 def handle_milestone(
@@ -297,7 +279,9 @@ def handle_milestone(
         )
         return
 
-    created = create_milestone_issue(total_papers, today, owner, repo, token)
+    created = False
+    if os.getenv("ENABLE_MILESTONE_ISSUES", "").lower() == "true":
+        created = create_milestone_issue(total_papers, today, owner, repo, token)
     if created:
         cache["last_milestone_total"] = current_milestone
     cache["last_total"] = total_papers
@@ -313,14 +297,23 @@ def main() -> None:
     readme_path = config.get("md_readme_path", "README.md")
 
     data = load_json_data(json_path)
-    today = datetime.date.today()
+    today = datetime.datetime.now(datetime.timezone.utc).date()
+    harvest_state = load_json_data(config.get("harvest_state_path", HARVEST_STATE_PATH))
 
-    today_new, total_papers = compute_stats(data, today)
+    today_new, total_papers = compute_stats(data, today, harvest_state)
 
+    cache = load_stats_cache()
     owner, repo, token = get_repo_context(config)
     stars = fetch_stars(owner, repo, token)
+    if stars.isdigit():
+        cache["last_star_count"] = int(stars)
+    else:
+        cached_stars = cache.get("last_star_count")
+        if type(cached_stars) is int and cached_stars >= 0:
+            stars = str(cached_stars)
 
     update_readme_panel(readme_path, today_new, total_papers, stars, today)
+    save_stats_cache(cache)
     handle_milestone(total_papers, today, owner, repo, token)
 
 
@@ -328,5 +321,5 @@ if __name__ == "__main__":
     try:
         main()
     except Exception as exc:  # noqa: BLE001
-        # 防御性兜底：任何未捕获异常只打日志，不让脚本以非零退出
         logging.error("unexpected error in stats_panel: %s", exc)
+        raise SystemExit(1) from exc

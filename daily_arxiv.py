@@ -306,11 +306,13 @@ def get_daily_papers(topic: str, query: str = "slam", max_results: int = 2):
         sort_by=arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    from scripts.harvest import make_client, result_row
+
+    for result in make_client().results(search_engine):
         paper_id = result.get_short_id()
         paper_title = result.title
         paper_first_author = get_authors(result.authors, first_author=True)
-        update_time = result.updated.date()
+        update_time = result.published.date()
 
         logging.info(f"Time = {update_time} title = {paper_title} author = {paper_first_author}")
 
@@ -319,29 +321,10 @@ def get_daily_papers(topic: str, query: str = "slam", max_results: int = 2):
 
         paper_url = ARXIV_ABS_BASE + 'abs/' + paper_key
 
-        repo_url, repo_err = fetch_pwc_official_repo(paper_key)
-        if repo_err:
-            logging.debug(f"PWC repo not available for {paper_key}: {repo_err}")
-
-        if not repo_url:
-            repo_url = get_code_link_github(paper_title) or get_code_link_github(paper_key)
-
-        hf_model_infos = get_hf_model(paper_title)
-        hf_model_url = hf_model_infos[0]["url"] if hf_model_infos else ""
-
-        code_cell = f"**[link]({repo_url})**" if repo_url else "null"
-        model_cell = f"**[link]({hf_model_url})**" if hf_model_url else "null"
-
-        content[paper_key] = (
-            f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|"
-            f"[{paper_key}]({paper_url})|{code_cell}|{model_cell}|\n"
-        )
-
-        web_code = f", Code: **[{repo_url}]({repo_url})**" if repo_url else ""
-        web_model = f", Model: **[{hf_model_url}]({hf_model_url})**" if hf_model_url else ""
+        _, content[paper_key] = result_row(result)
         content_to_web[paper_key] = (
             f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., "
-            f"Paper: [{paper_url}]({paper_url}){web_code}{web_model}\n"
+            f"Paper: [{paper_url}]({paper_url})\n"
         )
 
     return {topic: content}, {topic: content_to_web}
@@ -728,6 +711,8 @@ if __name__ == "__main__":
                         help='whether to update paper links etc.')
     args = parser.parse_args()
 
-    config = load_config(args.config_path)
-    config = {**config, 'update_paper_links': args.update_paper_links}
-    demo(**config)
+    if args.update_paper_links:
+        from scripts.enrich_links import main
+        raise SystemExit(main(["--config-path", args.config_path]))
+    from scripts.harvest import main
+    raise SystemExit(main(["--config-path", args.config_path]))

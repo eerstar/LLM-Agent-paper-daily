@@ -1,11 +1,23 @@
 # 配置文件：控制检索关键词、输出路径与发布行为
-base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "eerstar"
 repo_name: "LLM-Agent-paper-daily"
 show_authors: true
 show_links: true
 show_badge: false
 max_results: 32
+lookback_days: 3
+freshness_max_days: 3
+harvest_state_path: ".cache/harvest.json"
+backfill_state_path: ".cache/backfill.json"
+weekly_categories:
+  - "LLM Agents (Core)"
+  - "Tool Use & Function Calling"
+  - "RAG / Memory / Long Context for Agents"
+  - "Multi-Agent / Collaboration"
+  - "Web / Search / Browsing Agents"
+  - "GUI / Computer Use Agents"
+  - "Multimodal Agents (VLM)"
+  - "Evaluation / Benchmarks (Agents)"
 
 publish_readme: true
 publish_gitpage: true

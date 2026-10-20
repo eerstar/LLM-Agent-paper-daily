@@ -1,53 +1,12 @@
-# GitHub Action: 定时抓取 arXiv 论文并更新
-
 name: LLM-Agent Arxiv Daily
-
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */12 * * *"
-
-env:
-  GITHUB_USER_NAME: eerstar
-  GITHUB_USER_EMAIL: eerstar@163.com
-
+    - cron: "17 1,13 * * *"
+permissions:
+  contents: write
 jobs:
-  build:
-    name: update
-    runs-on: ubuntu-latest
-    
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        
-      - name: Set up Python Env
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Python syntax check
-        run: |
-          python -m py_compile daily_arxiv.py scripts/stats_panel.py scripts/weekly_report.py
-          
-      - name: Run daily arxiv script
-        run: |
-          python daily_arxiv.py
-
-      - name: Run stats panel
-        run: |
-          python scripts/stats_panel.py
-          
-      - name: Commit and Push changes
-        uses: github-actions-x/commit@v2.9
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action: Auto-update Agent papers"
-          files: README.md docs/index.md docs/wechat.md docs/llm-agent-arxiv-daily.json docs/llm-agent-arxiv-daily-web.json docs/llm-agent-arxiv-daily-wechat.json reports/*.md .cache/stats.json docs/weekly/index.md
-          rebase: 'true'
-          name: ${{ env.GITHUB_USER_NAME }}
-          email: ${{ env.GITHUB_USER_EMAIL }}
+  daily:
+    uses: ./.github/workflows/paper-pipeline.yml
+    with:
+      mode: daily

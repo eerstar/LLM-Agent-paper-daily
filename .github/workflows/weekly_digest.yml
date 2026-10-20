@@ -1,49 +1,12 @@
-# GitHub Action: 每周更新论文代码链接
-
 name: Weekly Agent Digest
-
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 9 * * 1"  # 每周一 09:00 触发
-
-env:
-  GITHUB_USER_NAME: eerstar
-  GITHUB_USER_EMAIL: eerstar@163.com
-
+    - cron: "23 10 * * 1"
+permissions:
+  contents: write
 jobs:
-  weekly-digest:
-    name: weekly-digest
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Set up Python Env
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Python syntax check
-        run: |
-          python -m py_compile scripts/weekly_report.py
-
-      - name: Run weekly report
-        run: |
-          python scripts/weekly_report.py --mode weekly
-
-      - name: Commit and Push weekly digest
-        uses: github-actions-x/commit@v2.9
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action: Auto-generate weekly Agent digest"
-          files: reports/weekly-*.md docs/weekly/index.md
-          rebase: 'true'
-          name: ${{ env.GITHUB_USER_NAME }}
-          email: ${{ env.GITHUB_USER_EMAIL }}
+  weekly:
+    uses: ./.github/workflows/paper-pipeline.yml
+    with:
+      mode: weekly

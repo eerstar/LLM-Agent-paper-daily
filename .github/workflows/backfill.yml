@@ -1,0 +1,12 @@
+name: Recover Historical Papers
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "47 7,19 * * *"
+permissions:
+  contents: write
+jobs:
+  backfill:
+    uses: ./.github/workflows/paper-pipeline.yml
+    with:
+      mode: backfill
