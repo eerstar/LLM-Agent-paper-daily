@@ -1,5 +1,5 @@
 <!-- STATS_PANEL_START -->
-📈 **Latest run added (today UTC)**: +1404 papers ｜ **Total**: 16278 ｜ **Stars**: 0
+📈 **Latest run added (today UTC)**: +0 papers ｜ **Total**: 16278 ｜ **Stars**: 0
 <!-- STATS_PANEL_END -->
 
 # LLM Agent Paper Daily
