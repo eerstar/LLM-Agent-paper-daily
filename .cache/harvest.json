@@ -4,8 +4,8 @@
       "LLM (General)",
       "LLM Reasoning & Planning"
     ],
-    "finished_at": "2026-10-21T06:08:45.160345+00:00",
-    "new_papers": 838,
+    "finished_at": "2026-10-21T18:06:04.007821+00:00",
+    "new_papers": 0,
     "status": "partial",
     "succeeded_topics": [
       "LLM Agents (Core)",
@@ -49,7 +49,7 @@
     },
     "LLM Reasoning & Planning": {
       "covered_through": "2026-10-20",
-      "last_error": "HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=60)",
+      "last_error": "arXiv transient response after 3 attempts: 500",
       "last_success_at": "2026-10-20T18:00:10.556818+00:00",
       "papers": 520,
       "pending": {
