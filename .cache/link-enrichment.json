@@ -2,15 +2,15 @@
   "last_run": {
     "attempted": 40,
     "cached": 0,
-    "deferred": 2,
-    "elapsed_seconds": 97.295,
-    "finished_at": 1792501950.72653,
-    "found": 7,
+    "deferred": 26,
+    "elapsed_seconds": 95.943,
+    "finished_at": 1792579008.1559098,
+    "found": 2,
     "invalid_rows": 0,
     "status": "max_papers",
-    "updated_rows": 7
+    "updated_rows": 2
   },
-  "next_request_at": 1792501952.8252745,
+  "next_request_at": 1792579010.2540812,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -268,6 +268,246 @@
       "last_attempt": 1792501950.4206731,
       "result": null,
       "retry_after": 1795093950.725273,
+      "status": "not_found"
+    },
+    "2602.10982": {
+      "last_attempt": 1792578912.667849,
+      "result": null,
+      "retry_after": 1792579813.2351189,
+      "status": "transient_error"
+    },
+    "2602.11025": {
+      "last_attempt": 1792578915.3352485,
+      "result": null,
+      "retry_after": 1795170915.626539,
+      "status": "not_found"
+    },
+    "2602.11124": {
+      "last_attempt": 1792578917.7266483,
+      "result": null,
+      "retry_after": 1792579818.2796361,
+      "status": "transient_error"
+    },
+    "2602.11144": {
+      "last_attempt": 1792578920.3797724,
+      "result": "https://github.com/arctanxarc/GENIUS",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.11151": {
+      "last_attempt": 1792578922.8024392,
+      "result": null,
+      "retry_after": 1795170923.0956244,
+      "status": "not_found"
+    },
+    "2602.11327": {
+      "last_attempt": 1792578925.1957362,
+      "result": null,
+      "retry_after": 1792579825.7049336,
+      "status": "transient_error"
+    },
+    "2602.11340": {
+      "last_attempt": 1792578927.8050463,
+      "result": null,
+      "retry_after": 1795170928.0947766,
+      "status": "not_found"
+    },
+    "2602.11351": {
+      "last_attempt": 1792578930.194891,
+      "result": null,
+      "retry_after": 1795170930.503119,
+      "status": "not_found"
+    },
+    "2602.11354": {
+      "last_attempt": 1792578932.6032276,
+      "result": null,
+      "retry_after": 1795170932.9398472,
+      "status": "not_found"
+    },
+    "2602.11399": {
+      "last_attempt": 1792578935.0399673,
+      "result": null,
+      "retry_after": 1792579835.3989575,
+      "status": "transient_error"
+    },
+    "2602.11409": {
+      "last_attempt": 1792578937.4990635,
+      "result": "https://github.com/sinatayebati/agent-tracer",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.11416": {
+      "last_attempt": 1792578939.9465694,
+      "result": null,
+      "retry_after": 1795170940.2447338,
+      "status": "not_found"
+    },
+    "2602.11511": {
+      "last_attempt": 1792578942.3448284,
+      "result": null,
+      "retry_after": 1795170942.637138,
+      "status": "not_found"
+    },
+    "2602.11527": {
+      "last_attempt": 1792578944.737239,
+      "result": null,
+      "retry_after": 1795170945.029844,
+      "status": "not_found"
+    },
+    "2602.11565": {
+      "last_attempt": 1792578947.12995,
+      "result": null,
+      "retry_after": 1795170947.383306,
+      "status": "not_found"
+    },
+    "2602.11574": {
+      "last_attempt": 1792578949.4834106,
+      "result": null,
+      "retry_after": 1795170949.8229818,
+      "status": "not_found"
+    },
+    "2602.11578": {
+      "last_attempt": 1792578951.9231083,
+      "result": null,
+      "retry_after": 1795170952.1714492,
+      "status": "not_found"
+    },
+    "2602.11619": {
+      "last_attempt": 1792578954.271561,
+      "result": null,
+      "retry_after": 1795170954.6233044,
+      "status": "not_found"
+    },
+    "2602.11643": {
+      "last_attempt": 1792578956.7234254,
+      "result": null,
+      "retry_after": 1795170956.9524415,
+      "status": "not_found"
+    },
+    "2602.11662": {
+      "last_attempt": 1792578959.0525415,
+      "result": null,
+      "retry_after": 1795170959.3133523,
+      "status": "not_found"
+    },
+    "2602.11666": {
+      "last_attempt": 1792578961.4134665,
+      "result": null,
+      "retry_after": 1792579861.7227542,
+      "status": "transient_error"
+    },
+    "2602.11673": {
+      "last_attempt": 1792578963.8228655,
+      "result": null,
+      "retry_after": 1795170964.0734425,
+      "status": "not_found"
+    },
+    "2602.11680": {
+      "last_attempt": 1792578966.1735547,
+      "result": null,
+      "retry_after": 1795170966.408668,
+      "status": "not_found"
+    },
+    "2602.11703": {
+      "last_attempt": 1792578968.5087862,
+      "result": null,
+      "retry_after": 1795170968.800809,
+      "status": "not_found"
+    },
+    "2602.11704": {
+      "last_attempt": 1792578970.9009318,
+      "result": null,
+      "retry_after": 1795170971.2465506,
+      "status": "not_found"
+    },
+    "2602.11711": {
+      "last_attempt": 1792578973.3466635,
+      "result": null,
+      "retry_after": 1795170973.627918,
+      "status": "not_found"
+    },
+    "2602.11749": {
+      "last_attempt": 1792578975.7280269,
+      "result": null,
+      "retry_after": 1795170976.1158986,
+      "status": "not_found"
+    },
+    "2602.11754": {
+      "last_attempt": 1792578978.2160158,
+      "result": null,
+      "retry_after": 1795170978.7020848,
+      "status": "not_found"
+    },
+    "2602.11767": {
+      "last_attempt": 1792578980.8022017,
+      "result": null,
+      "retry_after": 1795170981.1736686,
+      "status": "not_found"
+    },
+    "2602.11790": {
+      "last_attempt": 1792578983.2737918,
+      "result": null,
+      "retry_after": 1795170983.668624,
+      "status": "not_found"
+    },
+    "2602.11807": {
+      "last_attempt": 1792578985.7687488,
+      "result": null,
+      "retry_after": 1795170986.1258569,
+      "status": "not_found"
+    },
+    "2602.11818": {
+      "last_attempt": 1792578988.2259715,
+      "result": null,
+      "retry_after": 1795170988.5534875,
+      "status": "not_found"
+    },
+    "2602.11832": {
+      "last_attempt": 1792578990.6536198,
+      "result": null,
+      "retry_after": 1792579891.1200318,
+      "status": "transient_error"
+    },
+    "2602.11835": {
+      "last_attempt": 1792578993.2201424,
+      "result": null,
+      "retry_after": 1795170993.487104,
+      "status": "not_found"
+    },
+    "2602.11875": {
+      "last_attempt": 1792578995.5872283,
+      "result": null,
+      "retry_after": 1795170995.9828253,
+      "status": "not_found"
+    },
+    "2602.11885": {
+      "last_attempt": 1792578998.0829453,
+      "result": null,
+      "retry_after": 1795170998.367205,
+      "status": "not_found"
+    },
+    "2602.11893": {
+      "last_attempt": 1792579000.4673226,
+      "result": null,
+      "retry_after": 1795171000.822944,
+      "status": "not_found"
+    },
+    "2602.11897": {
+      "last_attempt": 1792579002.9231007,
+      "result": null,
+      "retry_after": 1795171003.265909,
+      "status": "not_found"
+    },
+    "2602.11910": {
+      "last_attempt": 1792579005.366038,
+      "result": null,
+      "retry_after": 1792579905.7182522,
+      "status": "transient_error"
+    },
+    "2602.11931": {
+      "last_attempt": 1792579007.8183575,
+      "result": null,
+      "retry_after": 1795171008.1540785,
       "status": "not_found"
     }
   },

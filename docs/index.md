@@ -122,7 +122,7 @@ layout: default
 |**2026-02-12**|**Move What Matters: Parameter-Efficient Domain Adaptation via Optimal Transport Flow for Collaborative Perception**|Zesheng Jia et.al.|[2602.11565](http://arxiv.org/abs/2602.11565)|null|null|
 |**2026-02-12**|**CausalAgent: A Conversational Multi-Agent System for End-to-End Causal Inference**|Jiawei Zhu et.al.|[2602.11527](http://arxiv.org/abs/2602.11527)|null|null|
 |**2026-02-11**|**Optimizing Agent Planning for Security and Autonomy**|Aashish Kolluri et.al.|[2602.11416](http://arxiv.org/abs/2602.11416)|null|null|
-|**2026-02-11**|**TRACER: Trajectory Risk Aggregation for Critical Episodes in Agentic Reasoning**|Sina Tayebati et.al.|[2602.11409](http://arxiv.org/abs/2602.11409)|null|null|
+|**2026-02-11**|**TRACER: Trajectory Risk Aggregation for Critical Episodes in Agentic Reasoning**|Sina Tayebati et.al.|[2602.11409](http://arxiv.org/abs/2602.11409)|**[link](https://github.com/sinatayebati/agent-tracer)**|null|
 |**2026-02-11**|**Maximizing Index Diversity in Committee Elections**|Paula Böhm et.al.|[2602.11400](http://arxiv.org/abs/2602.11400)|**[link](https://github.com/paubo14/diversity-indices-in-elections)**|null|
 |**2026-02-11**|**ReplicatorBench: Benchmarking LLM Agents for Replicability in Social and Behavioral Sciences**|Bang Nguyen et.al.|[2602.11354](http://arxiv.org/abs/2602.11354)|null|null|
 |**2026-02-11**|**Pushing Forward Pareto Frontiers of Proactive Agents with Behavioral Agentic Optimization**|Yihang Yao et.al.|[2602.11351](http://arxiv.org/abs/2602.11351)|null|null|
@@ -18976,7 +18976,7 @@ layout: default
 |**2026-02-12**|**UniT: Unified Multimodal Chain-of-Thought Test-time Scaling**|Leon Liangyu Chen et.al.|[2602.12279](http://arxiv.org/abs/2602.12279)|null|null|
 |**2026-02-13**|**DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing**|Dianyi Wang et.al.|[2602.12205](http://arxiv.org/abs/2602.12205)|null|null|
 |**2026-02-11**|**Bi-Level Prompt Optimization for Multimodal LLM-as-a-Judge**|Bo Pan et.al.|[2602.11340](http://arxiv.org/abs/2602.11340)|null|null|
-|**2026-02-11**|**GENIUS: Generative Fluid Intelligence Evaluation Suite**|Ruichuan An et.al.|[2602.11144](http://arxiv.org/abs/2602.11144)|null|null|
+|**2026-02-11**|**GENIUS: Generative Fluid Intelligence Evaluation Suite**|Ruichuan An et.al.|[2602.11144](http://arxiv.org/abs/2602.11144)|**[link](https://github.com/arctanxarc/GENIUS)**|null|
 |**2026-02-11**|**PhyCritic: Multimodal Critic Models for Physical AI**|Tianyi Xiong et.al.|[2602.11124](http://arxiv.org/abs/2602.11124)|null|null|
 |**2026-02-11**|**Reality Copilot: Voice-First Human-AI Collaboration in Mixed Reality Using Large Multimodal Models**|Liuchuan Yu et.al.|[2602.11025](http://arxiv.org/abs/2602.11025)|null|null|
 |**2026-02-11**|**Multimodal Priors-Augmented Text-Driven 3D Human-Object Interaction Generation**|Yin Wang et.al.|[2602.10659](http://arxiv.org/abs/2602.10659)|null|null|
