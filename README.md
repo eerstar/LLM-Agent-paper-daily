@@ -7065,7 +7065,7 @@
 |**2026-02-12**|**P-GenRM: Personalized Generative Reward Model with Test-time User-based Scaling**|Pinyi Zhang et.al.|[2602.12116](http://arxiv.org/abs/2602.12116)|null|null|
 |**2026-02-12**|**DeepSight: An All-in-One LM Safety Toolkit**|Bo Zhang et.al.|[2602.12092](http://arxiv.org/abs/2602.12092)|null|null|
 |**2026-02-12**|**DIVER: A Robust Text-to-SQL System with Dynamic Interactive Value Linking and Evidence Reasoning**|Yafeng Nan et.al.|[2602.12064](http://arxiv.org/abs/2602.12064)|null|null|
-|**2026-02-12**|**ModelWisdom: An Integrated Toolkit for TLA+ Model Visualization, Digest and Repair**|Zhiyong Chen et.al.|[2602.12058](http://arxiv.org/abs/2602.12058)|null|null|
+|**2026-02-12**|**ModelWisdom: An Integrated Toolkit for TLA+ Model Visualization, Digest and Repair**|Zhiyong Chen et.al.|[2602.12058](http://arxiv.org/abs/2602.12058)|**[link](https://github.com/ModelWisdom/ModelWisdom)**|null|
 |**2026-02-12**|**Improving HPC Code Generation Capability of LLMs via Online Reinforcement Learning with Real-Machine Benchmark Rewards**|Ryo Mikasa et.al.|[2602.12049](http://arxiv.org/abs/2602.12049)|null|null|
 |**2026-02-12**|**Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models**|Xin Xu et.al.|[2602.12036](http://arxiv.org/abs/2602.12036)|**[link](https://github.com/XinXU-USTC/Composition-RL)**|null|
 |**2026-02-12**|**Disentangling Ambiguity from Instability in Large Language Models: A Clinical Text-to-SQL Case Study**|Angelo Ziletti et.al.|[2602.12015](http://arxiv.org/abs/2602.12015)|null|null|
