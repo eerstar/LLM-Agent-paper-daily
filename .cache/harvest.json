@@ -4,8 +4,8 @@
       "LLM (General)",
       "LLM Reasoning & Planning"
     ],
-    "finished_at": "2026-10-21T18:06:04.007821+00:00",
-    "new_papers": 0,
+    "finished_at": "2026-10-22T06:10:59.780501+00:00",
+    "new_papers": 881,
     "status": "partial",
     "succeeded_topics": [
       "LLM Agents (Core)",
@@ -21,18 +21,18 @@
   "last_success_at": "2026-10-20T13:16:49.327991+00:00",
   "topics": {
     "Evaluation / Benchmarks (Agents)": {
-      "covered_through": "2026-10-21",
-      "last_success_at": "2026-10-21T06:08:44.235840+00:00",
-      "papers": 1185
+      "covered_through": "2026-10-22",
+      "last_success_at": "2026-10-22T06:10:59.385624+00:00",
+      "papers": 1410
     },
     "GUI / Computer Use Agents": {
-      "covered_through": "2026-10-21",
-      "last_success_at": "2026-10-21T06:07:52.557170+00:00",
-      "papers": 89
+      "covered_through": "2026-10-22",
+      "last_success_at": "2026-10-22T06:10:00.725015+00:00",
+      "papers": 105
     },
     "LLM (General)": {
       "covered_through": "2026-10-20",
-      "last_error": "arXiv transient response after 3 attempts: 429",
+      "last_error": "arXiv transient response after 3 attempts: 500",
       "last_success_at": "2026-10-20T13:05:49.707503+00:00",
       "papers": 602,
       "pending": {
@@ -43,46 +43,40 @@
       }
     },
     "LLM Agents (Core)": {
-      "covered_through": "2026-10-21",
-      "last_success_at": "2026-10-21T06:07:07.531271+00:00",
-      "papers": 376
+      "covered_through": "2026-10-22",
+      "last_success_at": "2026-10-22T06:09:13.599633+00:00",
+      "papers": 446
     },
     "LLM Reasoning & Planning": {
-      "covered_through": "2026-10-20",
-      "last_error": "arXiv transient response after 3 attempts: 500",
+      "covered_through": "2026-10-21",
+      "last_error": "LLM Reasoning & Planning: recovery window complete; next run fetches remaining recent days",
       "last_success_at": "2026-10-20T18:00:10.556818+00:00",
-      "papers": 520,
-      "pending": {
-        "end": "2026-10-21",
-        "offset": 0,
-        "query": "(Reasoning OR Chain-of-Thought OR CoT OR Tree-of-Thought OR ToT OR Self-Consistency OR Planning OR \"Task Planning\" OR Reflection OR Verifier OR \"Process Reward Model\" OR PRM)",
-        "start": "2026-10-18"
-      }
+      "papers": 520
     },
     "Multi-Agent / Collaboration": {
-      "covered_through": "2026-10-21",
-      "last_success_at": "2026-10-21T06:07:37.722931+00:00",
-      "papers": 131
+      "covered_through": "2026-10-22",
+      "last_success_at": "2026-10-22T06:09:46.143894+00:00",
+      "papers": 170
     },
     "Multimodal Agents (VLM)": {
-      "covered_through": "2026-10-21",
-      "last_success_at": "2026-10-21T06:08:04.965195+00:00",
-      "papers": 440
+      "covered_through": "2026-10-22",
+      "last_success_at": "2026-10-22T06:10:20.781045+00:00",
+      "papers": 529
     },
     "RAG / Memory / Long Context for Agents": {
-      "covered_through": "2026-10-21",
-      "last_success_at": "2026-10-21T06:07:29.614335+00:00",
-      "papers": 364
+      "covered_through": "2026-10-22",
+      "last_success_at": "2026-10-22T06:09:38.485807+00:00",
+      "papers": 415
     },
     "Tool Use & Function Calling": {
-      "covered_through": "2026-10-21",
-      "last_success_at": "2026-10-21T06:07:17.048617+00:00",
-      "papers": 218
+      "covered_through": "2026-10-22",
+      "last_success_at": "2026-10-22T06:09:24.693410+00:00",
+      "papers": 274
     },
     "Web / Search / Browsing Agents": {
-      "covered_through": "2026-10-21",
-      "last_success_at": "2026-10-21T06:07:46.057948+00:00",
-      "papers": 188
+      "covered_through": "2026-10-22",
+      "last_success_at": "2026-10-22T06:09:54.255507+00:00",
+      "papers": 242
     }
   }
 }
