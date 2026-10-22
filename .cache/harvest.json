@@ -1,13 +1,13 @@
 {
   "last_run": {
     "failed_topics": [
-      "LLM (General)",
-      "LLM Reasoning & Planning"
+      "LLM (General)"
     ],
-    "finished_at": "2026-10-22T06:10:59.780501+00:00",
-    "new_papers": 881,
+    "finished_at": "2026-10-22T18:01:42.899918+00:00",
+    "new_papers": 0,
     "status": "partial",
     "succeeded_topics": [
+      "LLM Reasoning & Planning",
       "LLM Agents (Core)",
       "Tool Use & Function Calling",
       "RAG / Memory / Long Context for Agents",
@@ -48,10 +48,9 @@
       "papers": 446
     },
     "LLM Reasoning & Planning": {
-      "covered_through": "2026-10-21",
-      "last_error": "LLM Reasoning & Planning: recovery window complete; next run fetches remaining recent days",
-      "last_success_at": "2026-10-20T18:00:10.556818+00:00",
-      "papers": 520
+      "covered_through": "2026-10-22",
+      "last_success_at": "2026-10-22T18:01:42.556644+00:00",
+      "papers": 838
     },
     "Multi-Agent / Collaboration": {
       "covered_through": "2026-10-22",
