@@ -3,7 +3,7 @@
   "day": "2026-05-20",
   "end_date": "2026-10-20",
   "last_error": null,
-  "offset": 194,
+  "offset": 0,
   "published": false,
   "queries": {
     "Evaluation / Benchmarks (Agents)": "(Benchmark OR Evaluation OR Evals OR \"Agent Benchmark\" OR \"Tool Benchmark\" OR WebArena OR MiniWoB OR AgentBench OR SWE-bench OR SWE-Bench)",
@@ -18,7 +18,7 @@
     "Web / Search / Browsing Agents": "(\"Web Agent\" OR Browsing OR Search OR \"Web Navigation\" OR \"Information Seeking\" OR Search-Augmented)"
   },
   "start_date": "2026-05-15",
-  "topic_index": 0,
+  "topic_index": 9,
   "topics": [
     "LLM (General)",
     "LLM Reasoning & Planning",
@@ -31,5 +31,5 @@
     "Multimodal Agents (VLM)",
     "Evaluation / Benchmarks (Agents)"
   ],
-  "updated_at": "2026-10-23T12:53:43.686659+00:00"
+  "updated_at": "2026-10-23T22:41:43.866564+00:00"
 }
