@@ -2,15 +2,15 @@
   "last_run": {
     "attempted": 40,
     "cached": 0,
-    "deferred": 57,
-    "elapsed_seconds": 95.278,
-    "finished_at": 1792665608.1285553,
-    "found": 1,
+    "deferred": 89,
+    "elapsed_seconds": 97.826,
+    "finished_at": 1792751536.3564239,
+    "found": 2,
     "invalid_rows": 0,
     "status": "max_papers",
-    "updated_rows": 1
+    "updated_rows": 2
   },
-  "next_request_at": 1792665610.2273295,
+  "next_request_at": 1792751538.4545064,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -748,6 +748,246 @@
       "last_attempt": 1792665607.7330096,
       "result": null,
       "retry_after": 1795257608.127328,
+      "status": "not_found"
+    },
+    "2602.12243": {
+      "last_attempt": 1792751438.9526324,
+      "result": null,
+      "retry_after": 1795343439.4272602,
+      "status": "not_found"
+    },
+    "2602.12244": {
+      "last_attempt": 1792751441.5273814,
+      "result": "https://github.com/Sii-liuzhihong/AHAT",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.12256": {
+      "last_attempt": 1792751443.9286025,
+      "result": null,
+      "retry_after": 1792752344.28679,
+      "status": "transient_error"
+    },
+    "2602.12257": {
+      "last_attempt": 1792751446.3869276,
+      "result": null,
+      "retry_after": 1795343446.7180367,
+      "status": "not_found"
+    },
+    "2602.12259": {
+      "last_attempt": 1792751448.8181603,
+      "result": null,
+      "retry_after": 1792752349.225407,
+      "status": "transient_error"
+    },
+    "2602.12267": {
+      "last_attempt": 1792751451.32555,
+      "result": null,
+      "retry_after": 1792752351.9266982,
+      "status": "transient_error"
+    },
+    "2602.12268": {
+      "last_attempt": 1792751454.0268116,
+      "result": null,
+      "retry_after": 1795343454.3731804,
+      "status": "not_found"
+    },
+    "2602.12271": {
+      "last_attempt": 1792751456.4733198,
+      "result": null,
+      "retry_after": 1792752357.010657,
+      "status": "transient_error"
+    },
+    "2602.12274": {
+      "last_attempt": 1792751459.1107678,
+      "result": null,
+      "retry_after": 1792752359.5251453,
+      "status": "transient_error"
+    },
+    "2602.12278": {
+      "last_attempt": 1792751461.6252606,
+      "result": null,
+      "retry_after": 1795343462.054494,
+      "status": "not_found"
+    },
+    "2602.12279": {
+      "last_attempt": 1792751464.1546357,
+      "result": null,
+      "retry_after": 1792752364.5152886,
+      "status": "transient_error"
+    },
+    "2602.12315": {
+      "last_attempt": 1792751466.615402,
+      "result": null,
+      "retry_after": 1795343466.9357524,
+      "status": "not_found"
+    },
+    "2602.12317": {
+      "last_attempt": 1792751469.0358782,
+      "result": null,
+      "retry_after": 1795343469.3443356,
+      "status": "not_found"
+    },
+    "2602.12430": {
+      "last_attempt": 1792751471.4444568,
+      "result": null,
+      "retry_after": 1792752372.145829,
+      "status": "transient_error"
+    },
+    "2602.12500": {
+      "last_attempt": 1792751474.2459762,
+      "result": null,
+      "retry_after": 1795343474.615,
+      "status": "not_found"
+    },
+    "2602.12517": {
+      "last_attempt": 1792751476.715127,
+      "result": "https://github.com/lorenzomagnino/Bench-MFG",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.12520": {
+      "last_attempt": 1792751479.1889274,
+      "result": null,
+      "retry_after": 1792752379.5008528,
+      "status": "transient_error"
+    },
+    "2602.12583": {
+      "last_attempt": 1792751481.6009595,
+      "result": null,
+      "retry_after": 1795343481.9995515,
+      "status": "not_found"
+    },
+    "2602.12599": {
+      "last_attempt": 1792751484.099662,
+      "result": null,
+      "retry_after": 1795343484.437441,
+      "status": "not_found"
+    },
+    "2602.12616": {
+      "last_attempt": 1792751486.537551,
+      "result": null,
+      "retry_after": 1792752386.8738096,
+      "status": "transient_error"
+    },
+    "2602.12619": {
+      "last_attempt": 1792751488.9739218,
+      "result": null,
+      "retry_after": 1795343489.2723422,
+      "status": "not_found"
+    },
+    "2602.12624": {
+      "last_attempt": 1792751491.3724577,
+      "result": null,
+      "retry_after": 1795343491.7088163,
+      "status": "not_found"
+    },
+    "2602.12631": {
+      "last_attempt": 1792751493.8089254,
+      "result": null,
+      "retry_after": 1795343494.243751,
+      "status": "not_found"
+    },
+    "2602.12634": {
+      "last_attempt": 1792751496.3438637,
+      "result": null,
+      "retry_after": 1795343496.7206702,
+      "status": "not_found"
+    },
+    "2602.12640": {
+      "last_attempt": 1792751498.8207905,
+      "result": null,
+      "retry_after": 1795343499.1256576,
+      "status": "not_found"
+    },
+    "2602.12647": {
+      "last_attempt": 1792751501.2257748,
+      "result": null,
+      "retry_after": 1795343501.5471218,
+      "status": "not_found"
+    },
+    "2602.12662": {
+      "last_attempt": 1792751503.6472285,
+      "result": null,
+      "retry_after": 1795343504.0508413,
+      "status": "not_found"
+    },
+    "2602.12670": {
+      "last_attempt": 1792751506.1509554,
+      "result": null,
+      "retry_after": 1792752406.8200572,
+      "status": "transient_error"
+    },
+    "2602.12675": {
+      "last_attempt": 1792751508.9202034,
+      "result": null,
+      "retry_after": 1795343509.3694897,
+      "status": "not_found"
+    },
+    "2602.12679": {
+      "last_attempt": 1792751511.469592,
+      "result": null,
+      "retry_after": 1792752411.806817,
+      "status": "transient_error"
+    },
+    "2602.12701": {
+      "last_attempt": 1792751513.906965,
+      "result": null,
+      "retry_after": 1795343514.2443047,
+      "status": "not_found"
+    },
+    "2602.12706": {
+      "last_attempt": 1792751516.344418,
+      "result": null,
+      "retry_after": 1792752416.7388742,
+      "status": "transient_error"
+    },
+    "2602.12727": {
+      "last_attempt": 1792751518.8389823,
+      "result": null,
+      "retry_after": 1795343519.1128292,
+      "status": "not_found"
+    },
+    "2602.12735": {
+      "last_attempt": 1792751521.2129543,
+      "result": null,
+      "retry_after": 1795343521.6869311,
+      "status": "not_found"
+    },
+    "2602.12742": {
+      "last_attempt": 1792751523.7870455,
+      "result": null,
+      "retry_after": 1795343524.1975684,
+      "status": "not_found"
+    },
+    "2602.12755": {
+      "last_attempt": 1792751526.2976737,
+      "result": null,
+      "retry_after": 1792752426.710961,
+      "status": "transient_error"
+    },
+    "2602.12769": {
+      "last_attempt": 1792751528.8111007,
+      "result": null,
+      "retry_after": 1792752429.1641245,
+      "status": "transient_error"
+    },
+    "2602.12805": {
+      "last_attempt": 1792751531.2642503,
+      "result": null,
+      "retry_after": 1795343531.579287,
+      "status": "not_found"
+    },
+    "2602.12811": {
+      "last_attempt": 1792751533.6794074,
+      "result": null,
+      "retry_after": 1795343534.0091443,
+      "status": "not_found"
+    },
+    "2602.12818": {
+      "last_attempt": 1792751536.1092606,
+      "result": null,
+      "retry_after": 1795343536.354504,
       "status": "not_found"
     }
   },

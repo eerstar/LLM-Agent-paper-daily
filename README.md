@@ -92,7 +92,7 @@
 |**2026-02-13**|**The Rise of AI Agent Communities: Large-Scale Analysis of Discourse and Interaction on Moltbook**|Lingyao Li et.al.|[2602.12634](http://arxiv.org/abs/2602.12634)|null|null|
 |**2026-02-13**|**AI Agents for Inventory Control: Human-LLM-OR Complementarity**|Jackie Baek et.al.|[2602.12631](http://arxiv.org/abs/2602.12631)|null|null|
 |**2026-02-13**|**Opinion dynamics and mutual influence with LLM agents through dialog simulation**|Yulong He et.al.|[2602.12583](http://arxiv.org/abs/2602.12583)|null|null|
-|**2026-02-13**|**Bench-MFG: A Benchmark Suite for Learning in Stationary Mean Field Games**|Lorenzo Magnino et.al.|[2602.12517](http://arxiv.org/abs/2602.12517)|null|null|
+|**2026-02-13**|**Bench-MFG: A Benchmark Suite for Learning in Stationary Mean Field Games**|Lorenzo Magnino et.al.|[2602.12517](http://arxiv.org/abs/2602.12517)|**[link](https://github.com/lorenzomagnino/Bench-MFG)**|null|
 |**2026-02-13**|**Favia: Forensic Agent for Vulnerability-fix Identification and Analysis**|André Storhaug et.al.|[2602.12500](http://arxiv.org/abs/2602.12500)|null|null|
 |**2026-02-12**|**Theory of Mind Guided Strategy Adaptation for Zero-Shot Coordination**|Andrew Ni et.al.|[2602.12458](http://arxiv.org/abs/2602.12458)|**[link](https://github.com/andrewni2002/ToMZSC)**|null|
 |**2026-02-12**|**Agent Skills for Large Language Models: Architecture, Acquisition, Security, and the Path Forward**|Renjun Xu et.al.|[2602.12430](http://arxiv.org/abs/2602.12430)|null|null|
@@ -8053,7 +8053,7 @@
 |**2026-02-12**|**T3D: Few-Step Diffusion Language Models via Trajectory Self-Distillation with Direct Discriminative Optimization**|Tunyu Zhang et.al.|[2602.12262](http://arxiv.org/abs/2602.12262)|**[link](https://github.com/Tyrion58/T3D)**|null|
 |**2026-02-12**|**Think like a Scientist: Physics-guided LLM Agent for Equation Discovery**|Jianke Yang et.al.|[2602.12259](http://arxiv.org/abs/2602.12259)|null|null|
 |**2026-02-12**|**Automated Test Suite Enhancement Using Large Language Models with Few-shot Prompting**|Alex Chudic et.al.|[2602.12256](http://arxiv.org/abs/2602.12256)|null|null|
-|**2026-02-12**|**Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks**|Zhihong Liu et.al.|[2602.12244](http://arxiv.org/abs/2602.12244)|null|null|
+|**2026-02-12**|**Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks**|Zhihong Liu et.al.|[2602.12244](http://arxiv.org/abs/2602.12244)|**[link](https://github.com/Sii-liuzhihong/AHAT)**|null|
 |**2026-02-12**|**Detecting Overflow in Compressed Token Representations for Retrieval-Augmented Generation**|Julia Belikova et.al.|[2602.12235](http://arxiv.org/abs/2602.12235)|null|null|
 |**2026-02-12**|**VIRENA: Virtual Arena for Research, Education, and Democratic Innovation**|Emma Hoes et.al.|[2602.12207](http://arxiv.org/abs/2602.12207)|null|null|
 |**2026-02-12**|**Visual Reasoning Benchmark: Evaluating Multimodal LLMs on Classroom-Authentic Visual Problems from Primary Education**|Mohamed Huti et.al.|[2602.12196](http://arxiv.org/abs/2602.12196)|null|null|
