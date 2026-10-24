@@ -2,15 +2,15 @@
   "last_run": {
     "attempted": 40,
     "cached": 0,
-    "deferred": 89,
-    "elapsed_seconds": 97.826,
-    "finished_at": 1792751536.3564239,
-    "found": 2,
+    "deferred": 113,
+    "elapsed_seconds": 93.75,
+    "finished_at": 1792835336.7256458,
+    "found": 6,
     "invalid_rows": 0,
     "status": "max_papers",
-    "updated_rows": 2
+    "updated_rows": 7
   },
-  "next_request_at": 1792751538.4545064,
+  "next_request_at": 1792835338.8237982,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -988,6 +988,246 @@
       "last_attempt": 1792751536.1092606,
       "result": null,
       "retry_after": 1795343536.354504,
+      "status": "not_found"
+    },
+    "2602.12820": {
+      "last_attempt": 1792835243.347667,
+      "result": null,
+      "retry_after": 1792836143.7538753,
+      "status": "transient_error"
+    },
+    "2602.12828": {
+      "last_attempt": 1792835245.8540304,
+      "result": null,
+      "retry_after": 1795427246.0959752,
+      "status": "not_found"
+    },
+    "2602.12829": {
+      "last_attempt": 1792835248.1961293,
+      "result": null,
+      "retry_after": 1792836148.6144407,
+      "status": "transient_error"
+    },
+    "2602.12833": {
+      "last_attempt": 1792835250.714587,
+      "result": null,
+      "retry_after": 1795427250.9126205,
+      "status": "not_found"
+    },
+    "2602.12846": {
+      "last_attempt": 1792835253.0127447,
+      "result": null,
+      "retry_after": 1792836153.3207898,
+      "status": "transient_error"
+    },
+    "2602.12869": {
+      "last_attempt": 1792835255.4209268,
+      "result": null,
+      "retry_after": 1792836155.7294922,
+      "status": "transient_error"
+    },
+    "2602.12871": {
+      "last_attempt": 1792835257.8296,
+      "result": "https://github.com/HoyunS/MentalBench",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.12873": {
+      "last_attempt": 1792835260.225853,
+      "result": null,
+      "retry_after": 1795427260.5055344,
+      "status": "not_found"
+    },
+    "2602.12876": {
+      "last_attempt": 1792835262.605731,
+      "result": "https://github.com/Halcyon-Zhang/BrowseComp-V3",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.12878": {
+      "last_attempt": 1792835265.005479,
+      "result": null,
+      "retry_after": 1795427265.2274306,
+      "status": "not_found"
+    },
+    "2602.12883": {
+      "last_attempt": 1792835267.3276203,
+      "result": null,
+      "retry_after": 1792836167.660642,
+      "status": "transient_error"
+    },
+    "2602.12889": {
+      "last_attempt": 1792835269.7607665,
+      "result": null,
+      "retry_after": 1795427270.1450083,
+      "status": "not_found"
+    },
+    "2602.12892": {
+      "last_attempt": 1792835272.245164,
+      "result": "https://github.com/Nieysh/RADAR",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.12916": {
+      "last_attempt": 1792835274.6671832,
+      "result": null,
+      "retry_after": 1795427274.9643173,
+      "status": "not_found"
+    },
+    "2602.12919": {
+      "last_attempt": 1792835277.0644412,
+      "result": null,
+      "retry_after": 1795427277.4034994,
+      "status": "not_found"
+    },
+    "2602.12921": {
+      "last_attempt": 1792835279.5036366,
+      "result": null,
+      "retry_after": 1795427279.7740598,
+      "status": "not_found"
+    },
+    "2602.12927": {
+      "last_attempt": 1792835281.874207,
+      "result": null,
+      "retry_after": 1795427282.1718934,
+      "status": "not_found"
+    },
+    "2602.12936": {
+      "last_attempt": 1792835284.272038,
+      "result": null,
+      "retry_after": 1792836184.5719345,
+      "status": "transient_error"
+    },
+    "2602.12941": {
+      "last_attempt": 1792835286.672043,
+      "result": null,
+      "retry_after": 1792836186.9780169,
+      "status": "transient_error"
+    },
+    "2602.12949": {
+      "last_attempt": 1792835289.0781736,
+      "result": null,
+      "retry_after": 1795427289.3411477,
+      "status": "not_found"
+    },
+    "2602.12962": {
+      "last_attempt": 1792835291.4412901,
+      "result": null,
+      "retry_after": 1795427291.655806,
+      "status": "not_found"
+    },
+    "2602.12966": {
+      "last_attempt": 1792835293.7559261,
+      "result": null,
+      "retry_after": 1795427294.0248609,
+      "status": "not_found"
+    },
+    "2602.12971": {
+      "last_attempt": 1792835296.1249657,
+      "result": "https://github.com/FangYukTung/INHerit-SG",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.12984": {
+      "last_attempt": 1792835298.5281634,
+      "result": "https://github.com/CMarsRover/SciAgentGYM",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.12992": {
+      "last_attempt": 1792835300.940837,
+      "result": null,
+      "retry_after": 1795427301.1764996,
+      "status": "not_found"
+    },
+    "2602.12996": {
+      "last_attempt": 1792835303.2765949,
+      "result": "https://github.com/AI9Stars/Know-More-Know-Clearer",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.13010": {
+      "last_attempt": 1792835305.633333,
+      "result": null,
+      "retry_after": 1792836206.0122685,
+      "status": "transient_error"
+    },
+    "2602.13025": {
+      "last_attempt": 1792835308.112372,
+      "result": null,
+      "retry_after": 1795427308.4325972,
+      "status": "not_found"
+    },
+    "2602.13028": {
+      "last_attempt": 1792835310.5327613,
+      "result": null,
+      "retry_after": 1795427310.752086,
+      "status": "not_found"
+    },
+    "2602.13033": {
+      "last_attempt": 1792835312.8522086,
+      "result": null,
+      "retry_after": 1795427313.0892186,
+      "status": "not_found"
+    },
+    "2602.13035": {
+      "last_attempt": 1792835315.189356,
+      "result": null,
+      "retry_after": 1795427315.4613125,
+      "status": "not_found"
+    },
+    "2602.13042": {
+      "last_attempt": 1792835317.5614583,
+      "result": null,
+      "retry_after": 1795427317.8454084,
+      "status": "not_found"
+    },
+    "2602.13062": {
+      "last_attempt": 1792835319.945515,
+      "result": null,
+      "retry_after": 1795427320.1498654,
+      "status": "not_found"
+    },
+    "2602.13069": {
+      "last_attempt": 1792835322.2499883,
+      "result": null,
+      "retry_after": 1795427322.4471362,
+      "status": "not_found"
+    },
+    "2602.13073": {
+      "last_attempt": 1792835324.5472264,
+      "result": null,
+      "retry_after": 1795427324.747095,
+      "status": "not_found"
+    },
+    "2602.13076": {
+      "last_attempt": 1792835326.8472078,
+      "result": null,
+      "retry_after": 1795427327.0864697,
+      "status": "not_found"
+    },
+    "2602.13079": {
+      "last_attempt": 1792835329.1866164,
+      "result": null,
+      "retry_after": 1795427329.4374862,
+      "status": "not_found"
+    },
+    "2602.13080": {
+      "last_attempt": 1792835331.537622,
+      "result": null,
+      "retry_after": 1792836231.9799123,
+      "status": "transient_error"
+    },
+    "2602.13084": {
+      "last_attempt": 1792835334.0800617,
+      "result": null,
+      "retry_after": 1795427334.3371062,
+      "status": "not_found"
+    },
+    "2602.13088": {
+      "last_attempt": 1792835336.4372535,
+      "result": null,
+      "retry_after": 1795427336.7237957,
       "status": "not_found"
     }
   },
