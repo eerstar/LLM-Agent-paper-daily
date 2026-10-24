@@ -6,7 +6,7 @@
 
 [Pipeline operation and recovery](https://github.com/eerstar/LLM-Agent-paper-daily/blob/main/docs/operations.md)
 
-## Updated on 2026-10-23
+## Updated on 2026-10-24
 
 ## Agent
 
