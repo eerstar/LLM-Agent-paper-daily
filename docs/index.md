@@ -75,7 +75,7 @@ layout: default
 |**2026-02-15**|**Offline Learning of Nash Stable Coalition Structures with Possibly Overlapping Coalitions**|Saar Cohen et.al.|[2602.14321](http://arxiv.org/abs/2602.14321)|null|null|
 |**2026-02-15**|**Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook**|Ming Li et.al.|[2602.14299](http://arxiv.org/abs/2602.14299)|**[link](https://github.com/tianyi-lab/Moltbook_Socialization)**|null|
 |**2026-02-15**|**Machine Learning as a Tool (MLAT): A Framework for Integrating Statistical ML Models as Callable Tools within LLM Agent Workflows**|Edwin Chen et.al.|[2602.14295](http://arxiv.org/abs/2602.14295)|null|null|
-|**2026-02-15**|**KernelBlaster: Continual Cross-Task CUDA Optimization via Memory-Augmented In-Context Reinforcement Learning**|Kris Shengjun Dong et.al.|[2602.14293](http://arxiv.org/abs/2602.14293)|null|null|
+|**2026-02-15**|**KernelBlaster: Continual Cross-Task CUDA Optimization via Memory-Augmented In-Context Reinforcement Learning**|Kris Shengjun Dong et.al.|[2602.14293](http://arxiv.org/abs/2602.14293)|**[link](https://github.com/NVlabs/KernelBlaster)**|null|
 |**2026-02-15**|**A Rational Analysis of the Effects of Sycophantic AI**|Rafael M. Batista et.al.|[2602.14270](http://arxiv.org/abs/2602.14270)|null|null|
 |**2026-02-15**|**AD-Bench: A Real-World, Trajectory-Aware Advertising Analytics Benchmark for LLM Agents**|Lingxiang Hu et.al.|[2602.14257](http://arxiv.org/abs/2602.14257)|null|null|
 |**2026-02-15**|**CORPGEN: Simulating Corporate Environments with Autonomous Digital Employees in Multi-Horizon Task Environments**|Abubakarr Jaye et.al.|[2602.14229](http://arxiv.org/abs/2602.14229)|null|null|
@@ -9202,7 +9202,7 @@ layout: default
 |**2026-02-16**|**Is Information Density Uniform when Utterances are Grounded on Perception and Discourse?**|Matteo Gay et.al.|[2602.14653](http://arxiv.org/abs/2602.14653)|**[link](https://github.com/Imatgay/Grounded-UID)**|null|
 |**2026-02-16**|**Data-Efficient Machine learning for Predicting Dopant Formation Energies in TiO$_2$ Monolayer**|Kati Asikainen et.al.|[2602.14650](http://arxiv.org/abs/2602.14650)|null|null|
 |**2026-02-16**|**Polymer Brushes and Grafted Polymers: AI/ML-Driven Synthesis, Simulation, and Characterization towards autonomous SDL**|Rigoberto C. Advincula et.al.|[2602.14362](http://arxiv.org/abs/2602.14362)|null|null|
-|**2026-02-15**|**AutoWebWorld: Synthesizing Infinite Verifiable Web Environments via Finite State Machines**|Yifan Wu et.al.|[2602.14296](http://arxiv.org/abs/2602.14296)|null|null|
+|**2026-02-15**|**AutoWebWorld: Synthesizing Infinite Verifiable Web Environments via Finite State Machines**|Yifan Wu et.al.|[2602.14296](http://arxiv.org/abs/2602.14296)|**[link](https://github.com/Evanwu1125/AutoWebWorld)**|null|
 |**2026-02-15**|**Gaia FGK Benchmark Stars: Selecting Infrared Lines for Abundance Determination**|Scarlet Elgueta et.al.|[2602.14294](http://arxiv.org/abs/2602.14294)|null|null|
 
 ## LLM
