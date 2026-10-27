@@ -1,16 +1,16 @@
 {
   "last_run": {
-    "attempted": 40,
+    "attempted": 20,
     "cached": 0,
-    "deferred": 165,
-    "elapsed_seconds": 96.812,
-    "finished_at": 1793014458.264912,
+    "deferred": 193,
+    "elapsed_seconds": 50.411,
+    "finished_at": 1793098803.5994332,
     "found": 0,
     "invalid_rows": 0,
-    "status": "max_papers",
+    "status": "rate_limited",
     "updated_rows": 0
   },
-  "next_request_at": 1793014460.3618846,
+  "next_request_at": 1793098805.6965923,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -1709,8 +1709,128 @@
       "result": null,
       "retry_after": 1793015358.2618818,
       "status": "transient_error"
+    },
+    "2602.14719": {
+      "last_attempt": 1793098753.8878431,
+      "result": null,
+      "retry_after": 1795690754.2510073,
+      "status": "not_found"
+    },
+    "2602.14727": {
+      "last_attempt": 1793098756.3511722,
+      "result": null,
+      "retry_after": 1795690756.8504124,
+      "status": "not_found"
+    },
+    "2602.14733": {
+      "last_attempt": 1793098758.950537,
+      "result": null,
+      "retry_after": 1795690759.5186052,
+      "status": "not_found"
+    },
+    "2602.14740": {
+      "last_attempt": 1793098761.6187282,
+      "result": null,
+      "retry_after": 1795690762.070056,
+      "status": "not_found"
+    },
+    "2602.14743": {
+      "last_attempt": 1793098764.170178,
+      "result": null,
+      "retry_after": 1795690764.4781895,
+      "status": "not_found"
+    },
+    "2602.14744": {
+      "last_attempt": 1793098766.5783255,
+      "result": null,
+      "retry_after": 1795690766.873172,
+      "status": "not_found"
+    },
+    "2602.14747": {
+      "last_attempt": 1793098768.9732997,
+      "result": null,
+      "retry_after": 1795690769.289077,
+      "status": "not_found"
+    },
+    "2602.14760": {
+      "last_attempt": 1793098771.3892007,
+      "result": null,
+      "retry_after": 1793099672.0613873,
+      "status": "transient_error"
+    },
+    "2602.14763": {
+      "last_attempt": 1793098774.1615107,
+      "result": null,
+      "retry_after": 1793099675.1121738,
+      "status": "transient_error"
+    },
+    "2602.14776": {
+      "last_attempt": 1793098777.2123024,
+      "result": null,
+      "retry_after": 1795690778.058214,
+      "status": "not_found"
+    },
+    "2602.14777": {
+      "last_attempt": 1793098780.1583264,
+      "result": null,
+      "retry_after": 1795690780.449254,
+      "status": "not_found"
+    },
+    "2602.14783": {
+      "last_attempt": 1793098782.5493798,
+      "result": null,
+      "retry_after": 1795690782.9356198,
+      "status": "not_found"
+    },
+    "2602.14784": {
+      "last_attempt": 1793098785.0357401,
+      "result": null,
+      "retry_after": 1795690785.2570293,
+      "status": "not_found"
+    },
+    "2602.14791": {
+      "last_attempt": 1793098787.3571358,
+      "result": null,
+      "retry_after": 1793099687.7228718,
+      "status": "transient_error"
+    },
+    "2602.14798": {
+      "last_attempt": 1793098789.8229935,
+      "result": null,
+      "retry_after": 1795690790.2024043,
+      "status": "not_found"
+    },
+    "2602.14812": {
+      "last_attempt": 1793098792.3025348,
+      "result": null,
+      "retry_after": 1795690792.8893907,
+      "status": "not_found"
+    },
+    "2602.14816": {
+      "last_attempt": 1793098794.9894762,
+      "result": null,
+      "retry_after": 1795690795.3356614,
+      "status": "not_found"
+    },
+    "2602.14820": {
+      "last_attempt": 1793098797.4357827,
+      "result": null,
+      "retry_after": 1793099698.0996032,
+      "status": "transient_error"
+    },
+    "2602.14833": {
+      "last_attempt": 1793098800.1997294,
+      "result": null,
+      "retry_after": 1793099701.3020902,
+      "status": "transient_error"
+    },
+    "2602.14841": {
+      "last_attempt": 1793098803.4022224,
+      "result": null,
+      "retry_after": 1793098863.5965698,
+      "status": "rate_limited"
     }
   },
-  "retry_after": 0,
+  "retry_after": 1793098863.5965698,
   "version": 1
 }
