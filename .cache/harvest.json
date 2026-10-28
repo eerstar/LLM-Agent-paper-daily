@@ -3,8 +3,8 @@
     "failed_topics": [
       "LLM (General)"
     ],
-    "finished_at": "2026-10-28T06:54:47.229969+00:00",
-    "new_papers": 907,
+    "finished_at": "2026-10-28T18:53:05.410154+00:00",
+    "new_papers": 71,
     "status": "partial",
     "succeeded_topics": [
       "LLM Reasoning & Planning",
@@ -32,15 +32,9 @@
     },
     "LLM (General)": {
       "covered_through": "2026-10-20",
-      "last_error": "arXiv transient response after 3 attempts: 500",
+      "last_error": "LLM (General): recovery window complete; next run fetches remaining recent days",
       "last_success_at": "2026-10-20T13:05:49.707503+00:00",
-      "papers": 602,
-      "pending": {
-        "end": "2026-10-20",
-        "offset": 500,
-        "query": "(LLM OR LLMs OR \"Large Language Model\" OR \"Large Language Models\" OR \"Large-Language Model\" OR \"Large-Language Models\" OR \"Language Model\" OR \"Language Models\" OR \"Foundation Model\" OR \"Foundation Models\" OR \"Instruction Tuning\" OR Instruct OR SFT OR RLHF OR DPO OR Alignment)",
-        "start": "2026-10-17"
-      }
+      "papers": 602
     },
     "LLM Agents (Core)": {
       "covered_through": "2026-10-28",
