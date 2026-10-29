@@ -1,16 +1,16 @@
 {
   "last_run": {
-    "attempted": 40,
+    "attempted": 21,
     "cached": 0,
-    "deferred": 207,
-    "elapsed_seconds": 98.203,
-    "finished_at": 1793187624.0923796,
-    "found": 2,
+    "deferred": 228,
+    "elapsed_seconds": 52.684,
+    "finished_at": 1793274334.3022392,
+    "found": 0,
     "invalid_rows": 0,
-    "status": "max_papers",
-    "updated_rows": 2
+    "status": "rate_limited",
+    "updated_rows": 6
   },
-  "next_request_at": 1793187626.1797152,
+  "next_request_at": 1793274336.3966498,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -2069,8 +2069,134 @@
       "result": null,
       "retry_after": 1793188524.079713,
       "status": "transient_error"
+    },
+    "2602.15201": {
+      "last_attempt": 1793274282.4582405,
+      "result": null,
+      "retry_after": 1795866283.0533788,
+      "status": "not_found"
+    },
+    "2602.15212": {
+      "last_attempt": 1793274285.1535254,
+      "result": null,
+      "retry_after": 1795866285.9971979,
+      "status": "not_found"
+    },
+    "2602.15223": {
+      "last_attempt": 1793274288.0973396,
+      "result": null,
+      "retry_after": 1793275188.6909516,
+      "status": "transient_error"
+    },
+    "2602.15233": {
+      "last_attempt": 1793274290.7910829,
+      "result": null,
+      "retry_after": 1795866291.7306592,
+      "status": "not_found"
+    },
+    "2602.15236": {
+      "last_attempt": 1793274293.8308105,
+      "result": null,
+      "retry_after": 1793275194.1775231,
+      "status": "transient_error"
+    },
+    "2602.15238": {
+      "last_attempt": 1793274296.2776515,
+      "result": null,
+      "retry_after": 1795866296.7196953,
+      "status": "not_found"
+    },
+    "2602.15242": {
+      "last_attempt": 1793274298.8198433,
+      "result": null,
+      "retry_after": 1793275199.45736,
+      "status": "transient_error"
+    },
+    "2602.15259": {
+      "last_attempt": 1793274301.5574913,
+      "result": null,
+      "retry_after": 1795866301.9385855,
+      "status": "not_found"
+    },
+    "2602.15262": {
+      "last_attempt": 1793274304.0387142,
+      "result": null,
+      "retry_after": 1795866304.3309033,
+      "status": "not_found"
+    },
+    "2602.15278": {
+      "last_attempt": 1793274306.4310322,
+      "result": null,
+      "retry_after": 1795866306.7830405,
+      "status": "not_found"
+    },
+    "2602.15294": {
+      "last_attempt": 1793274308.8831737,
+      "result": null,
+      "retry_after": 1793275209.2474284,
+      "status": "transient_error"
+    },
+    "2602.15304": {
+      "last_attempt": 1793274311.3475604,
+      "result": null,
+      "retry_after": 1795866311.6707866,
+      "status": "not_found"
+    },
+    "2602.15325": {
+      "last_attempt": 1793274313.7709143,
+      "result": null,
+      "retry_after": 1793275214.3544812,
+      "status": "transient_error"
+    },
+    "2602.15335": {
+      "last_attempt": 1793274316.454587,
+      "result": null,
+      "retry_after": 1795866316.7918363,
+      "status": "not_found"
+    },
+    "2602.15355": {
+      "last_attempt": 1793274318.8919675,
+      "result": null,
+      "retry_after": 1795866319.2004528,
+      "status": "not_found"
+    },
+    "2602.15368": {
+      "last_attempt": 1793274321.300585,
+      "result": null,
+      "retry_after": 1795866321.8731148,
+      "status": "not_found"
+    },
+    "2602.15394": {
+      "last_attempt": 1793274323.9732504,
+      "result": null,
+      "retry_after": 1795866324.498301,
+      "status": "not_found"
+    },
+    "2602.15396": {
+      "last_attempt": 1793274326.5984356,
+      "result": null,
+      "retry_after": 1793275227.0753324,
+      "status": "transient_error"
+    },
+    "2602.15399": {
+      "last_attempt": 1793274329.1754646,
+      "result": null,
+      "retry_after": 1793275229.5538385,
+      "status": "transient_error"
+    },
+    "2602.15405": {
+      "last_attempt": 1793274331.6539686,
+      "result": null,
+      "retry_after": 1795866332.0263343,
+      "status": "not_found"
+    },
+    "2602.15423": {
+      "last_attempt": 1793274334.1264699,
+      "result": null,
+      "retry_after": 1793274394.2966185,
+      "status": "rate_limited"
     }
   },
-  "retry_after": 1793098863.5965698,
+  "retry_after": 1793274394.2966185,
   "version": 1
 }

@@ -2791,7 +2791,7 @@
 |**2026-10-20**|**Back Up Before You Regret: Measuring Backup Awareness and Automating Backup in Coding Agents**|Xu Li et.al.|[2610.28934](https://arxiv.org/abs/2610.28934)|null|null|
 |**2026-10-20**|**The Data Differentiator Framework (DDF): Quantifying Marginal Data Value with Information-Theoretic and Game-Theoretic Measures in an Agentic Evaluation Pipeline (SDSAE)**|Sukesh Kumar et.al.|[2610.28933](https://arxiv.org/abs/2610.28933)|null|null|
 |**2026-10-20**|**Boot-AVT: Asymptotically Anytime-Valid Testing with Degenerate U-Statistics via Bootstrap**|Jixuan Liu et.al.|[2610.28931](https://arxiv.org/abs/2610.28931)|null|null|
-|**2026-10-20**|**Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform**|Abbas Pirmoradi et.al.|[2610.28929](https://arxiv.org/abs/2610.28929)|null|null|
+|**2026-10-20**|**Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform**|Abbas Pirmoradi et.al.|[2610.28929](https://arxiv.org/abs/2610.28929)|**[link](https://github.com/abbaspirmoradi/Scriptorium-DL-Interface)**|null|
 |**2026-10-20**|**One Policy, Many Styles: Where to Aggregate Preferences for Steerable Humanoid Control?**|Ziqian Huang et.al.|[2610.28925](https://arxiv.org/abs/2610.28925)|null|null|
 |**2026-10-20**|**Navigation Explainability for Object Avoidance with LLMs for Assistive Robots**|Courtney Young et.al.|[2610.28920](https://arxiv.org/abs/2610.28920)|null|null|
 |**2026-10-20**|**Scalar-Longitudinal Modes of Extended Electrodynamics in Perfectly Conducting Waveguides and Divergence Cleaning Interpretation**|Natan Rentzber et.al.|[2610.28916](https://arxiv.org/abs/2610.28916)|null|null|
@@ -21267,7 +21267,7 @@
 |**2026-10-20**|**Self-Improving Agents with World Model Predictive Paths**|Haori Lu et.al.|[2610.28945](https://arxiv.org/abs/2610.28945)|null|null|
 |**2026-10-20**|**Back Up Before You Regret: Measuring Backup Awareness and Automating Backup in Coding Agents**|Xu Li et.al.|[2610.28934](https://arxiv.org/abs/2610.28934)|null|null|
 |**2026-10-20**|**The Data Differentiator Framework (DDF): Quantifying Marginal Data Value with Information-Theoretic and Game-Theoretic Measures in an Agentic Evaluation Pipeline (SDSAE)**|Sukesh Kumar et.al.|[2610.28933](https://arxiv.org/abs/2610.28933)|null|null|
-|**2026-10-20**|**Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform**|Abbas Pirmoradi et.al.|[2610.28929](https://arxiv.org/abs/2610.28929)|null|null|
+|**2026-10-20**|**Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform**|Abbas Pirmoradi et.al.|[2610.28929](https://arxiv.org/abs/2610.28929)|**[link](https://github.com/abbaspirmoradi/Scriptorium-DL-Interface)**|null|
 |**2026-10-20**|**One Policy, Many Styles: Where to Aggregate Preferences for Steerable Humanoid Control?**|Ziqian Huang et.al.|[2610.28925](https://arxiv.org/abs/2610.28925)|null|null|
 |**2026-10-20**|**Kinetic Mean-Field Planning via Schrödinger Bridges: Existence, Penalization, and Consistency Bounds**|Erhan Bayraktar et.al.|[2610.28924](https://arxiv.org/abs/2610.28924)|null|null|
 |**2026-10-20**|**D-Skill: Distilling Teacher Knowledge through Agent Skills**|Shuo Yuan et.al.|[2610.28914](https://arxiv.org/abs/2610.28914)|null|null|
@@ -26895,7 +26895,7 @@
 |**2026-10-20**|**Is 2:4 Sparsity Still Worth It? Semi-Structured Sparsity versus Quantization in LLM Inference**|Xiuyi Qin et.al.|[2610.28947](https://arxiv.org/abs/2610.28947)|null|null|
 |**2026-10-20**|**X-ray Comptonization in an Accreting Kerr Black Hole System with a Tilted Disc and Thermal Corona: A General-Relativistic Monte Carlo Simulation. II. Polarization Signatures**|Mainak Chatterjee et.al.|[2610.28938](https://arxiv.org/abs/2610.28938)|null|null|
 |**2026-10-20**|**Functional limit theorems for self-interacting random walks**|Elena Kosygina et.al.|[2610.28935](https://arxiv.org/abs/2610.28935)|null|null|
-|**2026-10-20**|**Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform**|Abbas Pirmoradi et.al.|[2610.28929](https://arxiv.org/abs/2610.28929)|null|null|
+|**2026-10-20**|**Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform**|Abbas Pirmoradi et.al.|[2610.28929](https://arxiv.org/abs/2610.28929)|**[link](https://github.com/abbaspirmoradi/Scriptorium-DL-Interface)**|null|
 |**2026-10-20**|**An algorithmic construction of Nullstellensatz certificates for graph automorphism groups**|Ivan Drecun et.al.|[2610.28928](https://arxiv.org/abs/2610.28928)|null|null|
 |**2026-10-20**|**Kinetic Mean-Field Planning via Schrödinger Bridges: Existence, Penalization, and Consistency Bounds**|Erhan Bayraktar et.al.|[2610.28924](https://arxiv.org/abs/2610.28924)|null|null|
 |**2026-10-20**|**Constrained Tagging for Span Labeling**|Radek Štulc et.al.|[2610.28922](https://arxiv.org/abs/2610.28922)|null|null|
@@ -33508,7 +33508,7 @@
 |**2026-10-20**|**Black-Box Red-Teaming of Multi-Agent Systems via Reinforcement Learning**|Yuqi Jia et.al.|[2610.28966](https://arxiv.org/abs/2610.28966)|null|null|
 |**2026-10-20**|**Transformers as Generic Deep Neural Networks: Exact Compilation, the Cost of Removing Activation-Activation Products, and Multi-Agent Attention Clustering**|Sergey Salishev et.al.|[2610.28958](https://arxiv.org/abs/2610.28958)|**[link](https://github.com/iceslice0/transformer-to-dnn)**|null|
 |**2026-10-20**|**Self-Improving Agents with World Model Predictive Paths**|Haori Lu et.al.|[2610.28945](https://arxiv.org/abs/2610.28945)|null|null|
-|**2026-10-20**|**Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform**|Abbas Pirmoradi et.al.|[2610.28929](https://arxiv.org/abs/2610.28929)|null|null|
+|**2026-10-20**|**Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform**|Abbas Pirmoradi et.al.|[2610.28929](https://arxiv.org/abs/2610.28929)|**[link](https://github.com/abbaspirmoradi/Scriptorium-DL-Interface)**|null|
 |**2026-10-20**|**Kinetic Mean-Field Planning via Schrödinger Bridges: Existence, Penalization, and Consistency Bounds**|Erhan Bayraktar et.al.|[2610.28924](https://arxiv.org/abs/2610.28924)|null|null|
 |**2026-10-20**|**D-Skill: Distilling Teacher Knowledge through Agent Skills**|Shuo Yuan et.al.|[2610.28914](https://arxiv.org/abs/2610.28914)|null|null|
 |**2026-10-20**|**DiffResearch: Accelerating Deep Research with Diffusion Language Models**|Alan-Barsag Gazzaev et.al.|[2610.28909](https://arxiv.org/abs/2610.28909)|null|null|
@@ -42764,7 +42764,7 @@
 |**2026-10-20**|**Self-Improving Agents with World Model Predictive Paths**|Haori Lu et.al.|[2610.28945](https://arxiv.org/abs/2610.28945)|null|null|
 |**2026-10-20**|**MINER: Modeling Inter- and Intra-Person Variance for Reidentification**|Oron Nir et.al.|[2610.28941](https://arxiv.org/abs/2610.28941)|null|null|
 |**2026-10-20**|**Auditing Conformal Prediction for Language Models Under Inference-Time Model Shift**|Achref Doula et.al.|[2610.28937](https://arxiv.org/abs/2610.28937)|null|null|
-|**2026-10-20**|**Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform**|Abbas Pirmoradi et.al.|[2610.28929](https://arxiv.org/abs/2610.28929)|null|null|
+|**2026-10-20**|**Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform**|Abbas Pirmoradi et.al.|[2610.28929](https://arxiv.org/abs/2610.28929)|**[link](https://github.com/abbaspirmoradi/Scriptorium-DL-Interface)**|null|
 |**2026-10-20**|**Constrained Tagging for Span Labeling**|Radek Štulc et.al.|[2610.28922](https://arxiv.org/abs/2610.28922)|null|null|
 |**2026-10-20**|**KROME-X: a GPU-ready library for chemistry and microphysics in astrophysical simulations**|Alessandro Lupi et.al.|[2610.28917](https://arxiv.org/abs/2610.28917)|null|null|
 |**2026-10-20**|**DiffResearch: Accelerating Deep Research with Diffusion Language Models**|Alan-Barsag Gazzaev et.al.|[2610.28909](https://arxiv.org/abs/2610.28909)|null|null|
@@ -51669,7 +51669,7 @@
 |**2026-10-20**|**Scan or Index? large Evidence Coverage, Answer Quality, and Cost in Long-Document RAG**|Juan Terven et.al.|[2610.28957](https://arxiv.org/abs/2610.28957)|null|null|
 |**2026-10-20**|**SLoSa: Small, Low-Power, and Safe Foundation Models for Robotic Task Planning**|Weizhe Xu et.al.|[2610.28955](https://arxiv.org/abs/2610.28955)|null|null|
 |**2026-10-20**|**Multi-Objective Protein Optimization via Modular Diffusion Steering**|Meir Roketlishvili et.al.|[2610.28943](https://arxiv.org/abs/2610.28943)|null|null|
-|**2026-10-20**|**Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform**|Abbas Pirmoradi et.al.|[2610.28929](https://arxiv.org/abs/2610.28929)|null|null|
+|**2026-10-20**|**Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform**|Abbas Pirmoradi et.al.|[2610.28929](https://arxiv.org/abs/2610.28929)|**[link](https://github.com/abbaspirmoradi/Scriptorium-DL-Interface)**|null|
 |**2026-10-20**|**Building AI Research Teams for Autonomous Discovery of Linear Attention Architectures**|Yujian Liu et.al.|[2610.28887](https://arxiv.org/abs/2610.28887)|null|null|
 |**2026-10-20**|**LEAN: Loss-Engineered Modulation of the Model Weight-Sensitivity Distribution for Efficient, Error-Tolerant Neural Networks**|Habibur Rahaman et.al.|[2610.28872](https://arxiv.org/abs/2610.28872)|null|null|
 |**2026-10-20**|**Speedrunning Relational Foundation Model Pretraining**|Gabriel Wedson Mendonça de Souza Veloso et.al.|[2610.28855](https://arxiv.org/abs/2610.28855)|**[link](https://github.com/kunumi/nanoRT)**|null|
