@@ -14584,7 +14584,7 @@ layout: default
 |**2026-02-18**|**Are LLMs Ready to Replace Bangla Annotators?**|Md. Najib Hasan et.al.|[2602.16241](http://arxiv.org/abs/2602.16241)|null|null|
 |**2026-02-18**|**Long-Tail Knowledge in Large Language Models: Taxonomy, Mechanisms, Interventions and Implications**|Sanket Badhe et.al.|[2602.16201](http://arxiv.org/abs/2602.16201)|null|null|
 |**2026-02-17**|**Operationalising the Superficial Alignment Hypothesis via Task Complexity**|Tomás Vergara-Browne et.al.|[2602.15829](http://arxiv.org/abs/2602.15829)|null|null|
-|**2026-02-17**|**CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing**|Zarif Ikram et.al.|[2602.15823](http://arxiv.org/abs/2602.15823)|null|null|
+|**2026-02-17**|**CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing**|Zarif Ikram et.al.|[2602.15823](http://arxiv.org/abs/2602.15823)|**[link](https://github.com/zarifikram/CrispEdit)**|null|
 |**2026-02-17**|**VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation**|Hui Ren et.al.|[2602.15819](http://arxiv.org/abs/2602.15819)|null|**[link](https://huggingface.co/VideoSketcher/VideoSketcher-models)**|
 |**2026-02-17**|**Decision Quality Evaluation Framework at Pinterest**|Yuqi Tian et.al.|[2602.15809](http://arxiv.org/abs/2602.15809)|null|null|
 |**2026-02-17**|**Enhancing Building Semantics Preservation in AI Model Training with Large Language Model Encodings**|Suhyung Jang et.al.|[2602.15791](http://arxiv.org/abs/2602.15791)|null|null|
