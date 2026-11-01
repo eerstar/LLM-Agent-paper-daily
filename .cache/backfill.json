@@ -1,9 +1,9 @@
 {
   "complete": false,
-  "day": "2026-05-31",
+  "day": "2026-06-01",
   "end_date": "2026-10-20",
   "last_error": null,
-  "offset": 82,
+  "offset": 140,
   "published": false,
   "queries": {
     "Evaluation / Benchmarks (Agents)": "(Benchmark OR Evaluation OR Evals OR \"Agent Benchmark\" OR \"Tool Benchmark\" OR WebArena OR MiniWoB OR AgentBench OR SWE-bench OR SWE-Bench)",
@@ -31,5 +31,5 @@
     "Multimodal Agents (VLM)",
     "Evaluation / Benchmarks (Agents)"
   ],
-  "updated_at": "2026-11-01T14:34:15.463350+00:00"
+  "updated_at": "2026-11-01T23:10:14.931245+00:00"
 }
