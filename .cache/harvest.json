@@ -3,8 +3,8 @@
     "failed_topics": [
       "LLM (General)"
     ],
-    "finished_at": "2026-11-01T07:33:26.770185+00:00",
-    "new_papers": 0,
+    "finished_at": "2026-11-01T18:27:20.307703+00:00",
+    "new_papers": 110,
     "status": "partial",
     "succeeded_topics": [
       "LLM Reasoning & Planning",
@@ -37,7 +37,7 @@
       "papers": 602,
       "pending": {
         "end": "2026-10-29",
-        "offset": 0,
+        "offset": 1000,
         "query": "(LLM OR LLMs OR \"Large Language Model\" OR \"Large Language Models\" OR \"Large-Language Model\" OR \"Large-Language Models\" OR \"Language Model\" OR \"Language Models\" OR \"Foundation Model\" OR \"Foundation Models\" OR \"Instruction Tuning\" OR Instruct OR SFT OR RLHF OR DPO OR Alignment)",
         "start": "2026-10-20"
       }
