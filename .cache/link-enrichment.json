@@ -2,15 +2,15 @@
   "last_run": {
     "attempted": 40,
     "cached": 0,
-    "deferred": 300,
-    "elapsed_seconds": 92.947,
-    "finished_at": 1793534623.8389707,
-    "found": 0,
+    "deferred": 330,
+    "elapsed_seconds": 96.357,
+    "finished_at": 1793627517.7601938,
+    "found": 2,
     "invalid_rows": 0,
     "status": "max_papers",
-    "updated_rows": 0
+    "updated_rows": 11
   },
-  "next_request_at": 1793534625.9346004,
+  "next_request_at": 1793627519.8562064,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -2914,6 +2914,246 @@
       "last_attempt": 1793534623.6025052,
       "result": null,
       "retry_after": 1796126623.8345976,
+      "status": "not_found"
+    },
+    "2602.16346": {
+      "last_attempt": 1793627422.3296306,
+      "result": "https://github.com/epfl-nlp/helpful-to-a-fault",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.16348": {
+      "last_attempt": 1793627424.9303865,
+      "result": null,
+      "retry_after": 1796219425.2423518,
+      "status": "not_found"
+    },
+    "2602.16351": {
+      "last_attempt": 1793627427.3424597,
+      "result": null,
+      "retry_after": 1796219427.6240208,
+      "status": "not_found"
+    },
+    "2602.16360": {
+      "last_attempt": 1793627429.7241483,
+      "result": null,
+      "retry_after": 1796219430.0164564,
+      "status": "not_found"
+    },
+    "2602.16362": {
+      "last_attempt": 1793627432.1165822,
+      "result": null,
+      "retry_after": 1796219432.4050174,
+      "status": "not_found"
+    },
+    "2602.16363": {
+      "last_attempt": 1793627434.5051374,
+      "result": null,
+      "retry_after": 1796219434.84746,
+      "status": "not_found"
+    },
+    "2602.16365": {
+      "last_attempt": 1793627436.9475489,
+      "result": null,
+      "retry_after": 1793628337.2816489,
+      "status": "transient_error"
+    },
+    "2602.16368": {
+      "last_attempt": 1793627439.3817625,
+      "result": null,
+      "retry_after": 1793628339.7117279,
+      "status": "transient_error"
+    },
+    "2602.16369": {
+      "last_attempt": 1793627441.8118212,
+      "result": null,
+      "retry_after": 1796219442.0847578,
+      "status": "not_found"
+    },
+    "2602.16370": {
+      "last_attempt": 1793627444.1848493,
+      "result": null,
+      "retry_after": 1796219444.5449932,
+      "status": "not_found"
+    },
+    "2602.16371": {
+      "last_attempt": 1793627446.6451082,
+      "result": null,
+      "retry_after": 1793628346.9816568,
+      "status": "transient_error"
+    },
+    "2602.16378": {
+      "last_attempt": 1793627449.0817826,
+      "result": null,
+      "retry_after": 1796219449.3920739,
+      "status": "not_found"
+    },
+    "2602.16379": {
+      "last_attempt": 1793627451.4922717,
+      "result": null,
+      "retry_after": 1796219451.8067265,
+      "status": "not_found"
+    },
+    "2602.16382": {
+      "last_attempt": 1793627453.9068227,
+      "result": null,
+      "retry_after": 1796219454.2957475,
+      "status": "not_found"
+    },
+    "2602.16385": {
+      "last_attempt": 1793627456.3958468,
+      "result": null,
+      "retry_after": 1796219456.699595,
+      "status": "not_found"
+    },
+    "2602.16392": {
+      "last_attempt": 1793627458.7996864,
+      "result": null,
+      "retry_after": 1793628359.1865351,
+      "status": "transient_error"
+    },
+    "2602.16412": {
+      "last_attempt": 1793627461.28665,
+      "result": null,
+      "retry_after": 1796219461.6287527,
+      "status": "not_found"
+    },
+    "2602.16422": {
+      "last_attempt": 1793627463.7288592,
+      "result": null,
+      "retry_after": 1793628364.209238,
+      "status": "transient_error"
+    },
+    "2602.16423": {
+      "last_attempt": 1793627466.3093557,
+      "result": null,
+      "retry_after": 1796219466.627715,
+      "status": "not_found"
+    },
+    "2602.16424": {
+      "last_attempt": 1793627468.7278135,
+      "result": null,
+      "retry_after": 1796219469.042724,
+      "status": "not_found"
+    },
+    "2602.16429": {
+      "last_attempt": 1793627471.142852,
+      "result": "https://github.com/dolev31/TabAgent",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.16430": {
+      "last_attempt": 1793627473.5672686,
+      "result": null,
+      "retry_after": 1796219473.9663596,
+      "status": "not_found"
+    },
+    "2602.16432": {
+      "last_attempt": 1793627476.0664976,
+      "result": null,
+      "retry_after": 1796219476.4480991,
+      "status": "not_found"
+    },
+    "2602.16435": {
+      "last_attempt": 1793627478.548236,
+      "result": null,
+      "retry_after": 1793628378.9474087,
+      "status": "transient_error"
+    },
+    "2602.16436": {
+      "last_attempt": 1793627481.0475388,
+      "result": null,
+      "retry_after": 1796219481.3171356,
+      "status": "not_found"
+    },
+    "2602.16438": {
+      "last_attempt": 1793627483.417233,
+      "result": null,
+      "retry_after": 1796219483.6908762,
+      "status": "not_found"
+    },
+    "2602.16439": {
+      "last_attempt": 1793627485.790981,
+      "result": null,
+      "retry_after": 1796219486.0738068,
+      "status": "not_found"
+    },
+    "2602.16440": {
+      "last_attempt": 1793627488.1739328,
+      "result": null,
+      "retry_after": 1796219488.4277287,
+      "status": "not_found"
+    },
+    "2602.16442": {
+      "last_attempt": 1793627490.5278494,
+      "result": null,
+      "retry_after": 1793628390.93462,
+      "status": "transient_error"
+    },
+    "2602.16444": {
+      "last_attempt": 1793627493.0347202,
+      "result": null,
+      "retry_after": 1796219493.3038077,
+      "status": "not_found"
+    },
+    "2602.16446": {
+      "last_attempt": 1793627495.4039445,
+      "result": null,
+      "retry_after": 1796219495.7874608,
+      "status": "not_found"
+    },
+    "2602.16451": {
+      "last_attempt": 1793627497.8875864,
+      "result": null,
+      "retry_after": 1793628398.281696,
+      "status": "transient_error"
+    },
+    "2602.16455": {
+      "last_attempt": 1793627500.3818333,
+      "result": null,
+      "retry_after": 1793628400.8496516,
+      "status": "transient_error"
+    },
+    "2602.16456": {
+      "last_attempt": 1793627502.9497898,
+      "result": null,
+      "retry_after": 1796219503.253922,
+      "status": "not_found"
+    },
+    "2602.16457": {
+      "last_attempt": 1793627505.3540497,
+      "result": null,
+      "retry_after": 1796219505.6319675,
+      "status": "not_found"
+    },
+    "2602.16462": {
+      "last_attempt": 1793627507.7320766,
+      "result": null,
+      "retry_after": 1796219508.0216112,
+      "status": "not_found"
+    },
+    "2602.16466": {
+      "last_attempt": 1793627510.121815,
+      "result": null,
+      "retry_after": 1796219510.412642,
+      "status": "not_found"
+    },
+    "2602.16467": {
+      "last_attempt": 1793627512.5127485,
+      "result": null,
+      "retry_after": 1796219512.8805676,
+      "status": "not_found"
+    },
+    "2602.16469": {
+      "last_attempt": 1793627514.9807074,
+      "result": null,
+      "retry_after": 1796219515.3655605,
+      "status": "not_found"
+    },
+    "2602.16473": {
+      "last_attempt": 1793627517.4656928,
+      "result": null,
+      "retry_after": 1796219517.7562041,
       "status": "not_found"
     }
   },
