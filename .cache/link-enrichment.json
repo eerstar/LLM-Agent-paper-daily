@@ -2,15 +2,15 @@
   "last_run": {
     "attempted": 40,
     "cached": 0,
-    "deferred": 359,
-    "elapsed_seconds": 96.884,
-    "finished_at": 1793710898.323254,
+    "deferred": 387,
+    "elapsed_seconds": 96.797,
+    "finished_at": 1793798288.2137647,
     "found": 0,
     "invalid_rows": 0,
     "status": "max_papers",
-    "updated_rows": 0
+    "updated_rows": 2
   },
-  "next_request_at": 1793710900.4188244,
+  "next_request_at": 1793798290.3091304,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -3394,6 +3394,246 @@
       "last_attempt": 1793710898.000493,
       "result": null,
       "retry_after": 1796302898.3188214,
+      "status": "not_found"
+    },
+    "2602.16587": {
+      "last_attempt": 1793798192.4547093,
+      "result": null,
+      "retry_after": 1796390192.8109567,
+      "status": "not_found"
+    },
+    "2602.16590": {
+      "last_attempt": 1793798194.9111135,
+      "result": null,
+      "retry_after": 1796390195.248625,
+      "status": "not_found"
+    },
+    "2602.16591": {
+      "last_attempt": 1793798197.3487167,
+      "result": null,
+      "retry_after": 1793799097.7184439,
+      "status": "transient_error"
+    },
+    "2602.16592": {
+      "last_attempt": 1793798199.8185384,
+      "result": null,
+      "retry_after": 1796390200.1857092,
+      "status": "not_found"
+    },
+    "2602.16594": {
+      "last_attempt": 1793798202.2858105,
+      "result": null,
+      "retry_after": 1796390202.5653872,
+      "status": "not_found"
+    },
+    "2602.16598": {
+      "last_attempt": 1793798204.6654806,
+      "result": null,
+      "retry_after": 1796390204.8947701,
+      "status": "not_found"
+    },
+    "2602.16600": {
+      "last_attempt": 1793798206.9948719,
+      "result": null,
+      "retry_after": 1793799107.4085298,
+      "status": "transient_error"
+    },
+    "2602.16601": {
+      "last_attempt": 1793798209.5086608,
+      "result": null,
+      "retry_after": 1793799109.9205213,
+      "status": "transient_error"
+    },
+    "2602.16607": {
+      "last_attempt": 1793798212.0206523,
+      "result": null,
+      "retry_after": 1793799112.424611,
+      "status": "transient_error"
+    },
+    "2602.16608": {
+      "last_attempt": 1793798214.524805,
+      "result": null,
+      "retry_after": 1796390214.8014336,
+      "status": "not_found"
+    },
+    "2602.16609": {
+      "last_attempt": 1793798216.9015565,
+      "result": null,
+      "retry_after": 1793799117.262427,
+      "status": "transient_error"
+    },
+    "2602.16611": {
+      "last_attempt": 1793798219.3626125,
+      "result": null,
+      "retry_after": 1793799119.7382827,
+      "status": "transient_error"
+    },
+    "2602.16613": {
+      "last_attempt": 1793798221.8384063,
+      "result": null,
+      "retry_after": 1793799122.1927218,
+      "status": "transient_error"
+    },
+    "2602.16614": {
+      "last_attempt": 1793798224.2929633,
+      "result": null,
+      "retry_after": 1796390224.5432646,
+      "status": "not_found"
+    },
+    "2602.16616": {
+      "last_attempt": 1793798226.643362,
+      "result": null,
+      "retry_after": 1796390226.9125335,
+      "status": "not_found"
+    },
+    "2602.16623": {
+      "last_attempt": 1793798229.012664,
+      "result": null,
+      "retry_after": 1796390229.25094,
+      "status": "not_found"
+    },
+    "2602.16626": {
+      "last_attempt": 1793798231.3510525,
+      "result": null,
+      "retry_after": 1796390231.7819383,
+      "status": "not_found"
+    },
+    "2602.16627": {
+      "last_attempt": 1793798233.8820322,
+      "result": null,
+      "retry_after": 1796390234.2030945,
+      "status": "not_found"
+    },
+    "2602.16628": {
+      "last_attempt": 1793798236.3031917,
+      "result": null,
+      "retry_after": 1793799136.7516854,
+      "status": "transient_error"
+    },
+    "2602.16629": {
+      "last_attempt": 1793798238.8517838,
+      "result": null,
+      "retry_after": 1796390239.1571991,
+      "status": "not_found"
+    },
+    "2602.16633": {
+      "last_attempt": 1793798241.2573388,
+      "result": null,
+      "retry_after": 1793799141.5945063,
+      "status": "transient_error"
+    },
+    "2602.16634": {
+      "last_attempt": 1793798243.6946478,
+      "result": null,
+      "retry_after": 1793799144.1213384,
+      "status": "transient_error"
+    },
+    "2602.16636": {
+      "last_attempt": 1793798246.2214713,
+      "result": null,
+      "retry_after": 1793799146.6632912,
+      "status": "transient_error"
+    },
+    "2602.16639": {
+      "last_attempt": 1793798248.7633834,
+      "result": null,
+      "retry_after": 1796390249.032783,
+      "status": "not_found"
+    },
+    "2602.16640": {
+      "last_attempt": 1793798251.1329,
+      "result": null,
+      "retry_after": 1796390251.4419847,
+      "status": "not_found"
+    },
+    "2602.16641": {
+      "last_attempt": 1793798253.5421004,
+      "result": null,
+      "retry_after": 1796390253.7897973,
+      "status": "not_found"
+    },
+    "2602.16643": {
+      "last_attempt": 1793798255.8899095,
+      "result": null,
+      "retry_after": 1793799156.3678765,
+      "status": "transient_error"
+    },
+    "2602.16650": {
+      "last_attempt": 1793798258.4679816,
+      "result": null,
+      "retry_after": 1796390258.876153,
+      "status": "not_found"
+    },
+    "2602.16653": {
+      "last_attempt": 1793798260.9762511,
+      "result": null,
+      "retry_after": 1796390261.2853587,
+      "status": "not_found"
+    },
+    "2602.16656": {
+      "last_attempt": 1793798263.3854947,
+      "result": null,
+      "retry_after": 1793799163.7714,
+      "status": "transient_error"
+    },
+    "2602.16662": {
+      "last_attempt": 1793798265.8715217,
+      "result": null,
+      "retry_after": 1796390266.1107543,
+      "status": "not_found"
+    },
+    "2602.16664": {
+      "last_attempt": 1793798268.2108731,
+      "result": null,
+      "retry_after": 1793799168.5633566,
+      "status": "transient_error"
+    },
+    "2602.16665": {
+      "last_attempt": 1793798270.6634855,
+      "result": null,
+      "retry_after": 1793799171.052888,
+      "status": "transient_error"
+    },
+    "2602.16666": {
+      "last_attempt": 1793798273.1530042,
+      "result": null,
+      "retry_after": 1793799173.9488668,
+      "status": "transient_error"
+    },
+    "2602.16669": {
+      "last_attempt": 1793798276.0489833,
+      "result": null,
+      "retry_after": 1796390276.3209615,
+      "status": "not_found"
+    },
+    "2602.16670": {
+      "last_attempt": 1793798278.42109,
+      "result": null,
+      "retry_after": 1796390278.699182,
+      "status": "not_found"
+    },
+    "2602.16671": {
+      "last_attempt": 1793798280.799299,
+      "result": null,
+      "retry_after": 1793799181.0873444,
+      "status": "transient_error"
+    },
+    "2602.16672": {
+      "last_attempt": 1793798283.187451,
+      "result": null,
+      "retry_after": 1796390283.4536693,
+      "status": "not_found"
+    },
+    "2602.16673": {
+      "last_attempt": 1793798285.5539799,
+      "result": null,
+      "retry_after": 1796390285.8156726,
+      "status": "not_found"
+    },
+    "2602.16676": {
+      "last_attempt": 1793798287.915769,
+      "result": null,
+      "retry_after": 1796390288.2091277,
       "status": "not_found"
     }
   },
