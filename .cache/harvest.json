@@ -1,10 +1,12 @@
 {
   "last_run": {
     "failed_topics": [
-      "LLM (General)"
+      "LLM (General)",
+      "Multimodal Agents (VLM)",
+      "Evaluation / Benchmarks (Agents)"
     ],
-    "finished_at": "2026-11-04T20:27:17.725830+00:00",
-    "new_papers": 0,
+    "finished_at": "2026-11-05T08:03:19.942459+00:00",
+    "new_papers": 559,
     "status": "partial",
     "succeeded_topics": [
       "LLM Reasoning & Planning",
@@ -13,22 +15,27 @@
       "RAG / Memory / Long Context for Agents",
       "Multi-Agent / Collaboration",
       "Web / Search / Browsing Agents",
-      "GUI / Computer Use Agents",
-      "Multimodal Agents (VLM)",
-      "Evaluation / Benchmarks (Agents)"
+      "GUI / Computer Use Agents"
     ]
   },
   "last_success_at": "2026-10-20T13:16:49.327991+00:00",
   "topics": {
     "Evaluation / Benchmarks (Agents)": {
       "covered_through": "2026-11-04",
+      "last_error": "arXiv transient response after 3 attempts: 429",
       "last_success_at": "2026-11-04T07:33:09.940397+00:00",
-      "papers": 1176
+      "papers": 1176,
+      "pending": {
+        "end": "2026-11-05",
+        "offset": 0,
+        "query": "(Benchmark OR Evaluation OR Evals OR \"Agent Benchmark\" OR \"Tool Benchmark\" OR WebArena OR MiniWoB OR AgentBench OR SWE-bench OR SWE-Bench)",
+        "start": "2026-11-02"
+      }
     },
     "GUI / Computer Use Agents": {
-      "covered_through": "2026-11-04",
-      "last_success_at": "2026-11-04T07:32:21.684402+00:00",
-      "papers": 76
+      "covered_through": "2026-11-05",
+      "last_success_at": "2026-11-05T07:58:30.706942+00:00",
+      "papers": 89
     },
     "LLM (General)": {
       "covered_through": "2026-10-20",
@@ -43,39 +50,46 @@
       }
     },
     "LLM Agents (Core)": {
-      "covered_through": "2026-11-04",
-      "last_success_at": "2026-11-04T07:31:36.339658+00:00",
-      "papers": 392
+      "covered_through": "2026-11-05",
+      "last_success_at": "2026-11-05T07:57:28.283900+00:00",
+      "papers": 430
     },
     "LLM Reasoning & Planning": {
-      "covered_through": "2026-11-04",
-      "last_success_at": "2026-11-04T07:31:22.167804+00:00",
-      "papers": 698
+      "covered_through": "2026-11-05",
+      "last_success_at": "2026-11-05T07:57:10.808212+00:00",
+      "papers": 806
     },
     "Multi-Agent / Collaboration": {
-      "covered_through": "2026-11-04",
-      "last_success_at": "2026-11-04T07:32:07.284146+00:00",
-      "papers": 144
+      "covered_through": "2026-11-05",
+      "last_success_at": "2026-11-05T07:58:06.276806+00:00",
+      "papers": 149
     },
     "Multimodal Agents (VLM)": {
       "covered_through": "2026-11-04",
+      "last_error": "arXiv transient response after 3 attempts: 503",
       "last_success_at": "2026-11-04T07:32:35.683324+00:00",
-      "papers": 421
+      "papers": 421,
+      "pending": {
+        "end": "2026-11-05",
+        "offset": 0,
+        "query": "(Multimodal OR Vision-Language OR \"Vision Language\" OR VLM OR LMM OR Embodied OR Robotics OR Robot OR Navigation OR Manipulation)",
+        "start": "2026-11-02"
+      }
     },
     "RAG / Memory / Long Context for Agents": {
-      "covered_through": "2026-11-04",
-      "last_success_at": "2026-11-04T07:31:59.209739+00:00",
-      "papers": 402
+      "covered_through": "2026-11-05",
+      "last_success_at": "2026-11-05T07:57:56.323608+00:00",
+      "papers": 432
     },
     "Tool Use & Function Calling": {
-      "covered_through": "2026-11-04",
-      "last_success_at": "2026-11-04T07:31:46.431843+00:00",
-      "papers": 229
+      "covered_through": "2026-11-05",
+      "last_success_at": "2026-11-05T07:57:41.986766+00:00",
+      "papers": 257
     },
     "Web / Search / Browsing Agents": {
-      "covered_through": "2026-11-04",
-      "last_success_at": "2026-11-04T07:32:15.004102+00:00",
-      "papers": 192
+      "covered_through": "2026-11-05",
+      "last_success_at": "2026-11-05T07:58:19.589726+00:00",
+      "papers": 239
     }
   }
 }
