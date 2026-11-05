@@ -1,12 +1,10 @@
 {
   "last_run": {
     "failed_topics": [
-      "LLM (General)",
-      "Multimodal Agents (VLM)",
-      "Evaluation / Benchmarks (Agents)"
+      "LLM (General)"
     ],
-    "finished_at": "2026-11-05T08:03:19.942459+00:00",
-    "new_papers": 559,
+    "finished_at": "2026-11-05T20:41:31.342882+00:00",
+    "new_papers": 222,
     "status": "partial",
     "succeeded_topics": [
       "LLM Reasoning & Planning",
@@ -15,22 +13,17 @@
       "RAG / Memory / Long Context for Agents",
       "Multi-Agent / Collaboration",
       "Web / Search / Browsing Agents",
-      "GUI / Computer Use Agents"
+      "GUI / Computer Use Agents",
+      "Multimodal Agents (VLM)",
+      "Evaluation / Benchmarks (Agents)"
     ]
   },
   "last_success_at": "2026-10-20T13:16:49.327991+00:00",
   "topics": {
     "Evaluation / Benchmarks (Agents)": {
-      "covered_through": "2026-11-04",
-      "last_error": "arXiv transient response after 3 attempts: 429",
-      "last_success_at": "2026-11-04T07:33:09.940397+00:00",
-      "papers": 1176,
-      "pending": {
-        "end": "2026-11-05",
-        "offset": 0,
-        "query": "(Benchmark OR Evaluation OR Evals OR \"Agent Benchmark\" OR \"Tool Benchmark\" OR WebArena OR MiniWoB OR AgentBench OR SWE-bench OR SWE-Bench)",
-        "start": "2026-11-02"
-      }
+      "covered_through": "2026-11-05",
+      "last_success_at": "2026-11-05T20:41:30.215139+00:00",
+      "papers": 1328
     },
     "GUI / Computer Use Agents": {
       "covered_through": "2026-11-05",
@@ -65,16 +58,9 @@
       "papers": 149
     },
     "Multimodal Agents (VLM)": {
-      "covered_through": "2026-11-04",
-      "last_error": "arXiv transient response after 3 attempts: 503",
-      "last_success_at": "2026-11-04T07:32:35.683324+00:00",
-      "papers": 421,
-      "pending": {
-        "end": "2026-11-05",
-        "offset": 0,
-        "query": "(Multimodal OR Vision-Language OR \"Vision Language\" OR VLM OR LMM OR Embodied OR Robotics OR Robot OR Navigation OR Manipulation)",
-        "start": "2026-11-02"
-      }
+      "covered_through": "2026-11-05",
+      "last_success_at": "2026-11-05T20:40:54.297270+00:00",
+      "papers": 485
     },
     "RAG / Memory / Long Context for Agents": {
       "covered_through": "2026-11-05",
