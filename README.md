@@ -13,7 +13,7 @@
 |Publish Date|Title|Authors|PDF|Code|Model|
 |---|---|---|---|---|---|
 |**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[2602.16708](http://arxiv.org/abs/2602.16708)|**[link](https://github.com/zszszszsz/.config)**|null|
-|**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|null|null|
+|**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|**[link](https://github.com/NSF-Simons-CosmicAI-Institute/CalibrateThenAct)**|null|
 |**2026-02-18**|**Fairness Dynamics in Digital Economy Platforms with Biased Ratings**|J. Martin Smit et.al.|[2602.16695](http://arxiv.org/abs/2602.16695)|null|null|
 |**2026-02-18**|**Towards a Science of AI Agent Reliability**|Stephan Rabanser et.al.|[2602.16666](http://arxiv.org/abs/2602.16666)|null|null|
 |**2026-02-18**|**Evaluating Collective Behaviour of Hundreds of LLM Agents**|Richard Willis et.al.|[2602.16662](http://arxiv.org/abs/2602.16662)|null|null|
@@ -16030,7 +16030,7 @@
 |**2026-02-18**|**Parameter-free representations outperform single-cell foundation models on downstream benchmarks**|Huan Souza et.al.|[2602.16696](http://arxiv.org/abs/2602.16696)|**[link](https://github.com/Emergent-Behaviors-in-Biology/Linear-representations-for-scRNA-seq-data)**|null|
 |**2026-02-18**|**Synthetic-Powered Multiple Testing with FDR Control**|Yonghoon Lee et.al.|[2602.16690](http://arxiv.org/abs/2602.16690)|null|null|
 |**2026-02-18**|**Are Object-Centric Representations Better At Compositional Generalization?**|Ferdinand Kapl et.al.|[2602.16689](http://arxiv.org/abs/2602.16689)|null|null|
-|**2026-02-18**|**Fast-MCS: A Scalable Open-Source Tool to Find Minimal Cut Sets**|Shakthivelu Janardhanan et.al.|[2602.16686](http://arxiv.org/abs/2602.16686)|null|null|
+|**2026-02-18**|**Fast-MCS: A Scalable Open-Source Tool to Find Minimal Cut Sets**|Shakthivelu Janardhanan et.al.|[2602.16686](http://arxiv.org/abs/2602.16686)|**[link](https://github.com/shakthij98/Fast-MCS)**|null|
 |**2026-02-18**|**Scattering data and correlation function for the $K f_1(1285)$ interaction**|Wen-Hao Jia et.al.|[2602.16683](http://arxiv.org/abs/2602.16683)|null|null|
 |**2026-02-18**|**Learning Situated Awareness in the Real World**|Chuhan Li et.al.|[2602.16682](http://arxiv.org/abs/2602.16682)|null|null|
 |**2026-02-18**|**Learning to unfold cloth: Scaling up world models to deformable object manipulation**|Jack Rome et.al.|[2602.16675](http://arxiv.org/abs/2602.16675)|**[link](https://github.com/jrome5/Learning-to-unfold-cloth.github.io)**|null|
@@ -28107,12 +28107,12 @@
 |**2026-02-19**|**A Theoretical Framework for Modular Learning of Robust Generative Models**|Corinna Cortes et.al.|[2602.17554](http://arxiv.org/abs/2602.17554)|null|null|
 |**2026-02-19**|**MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning**|Xiaoliang Fu et.al.|[2602.17550](http://arxiv.org/abs/2602.17550)|null|null|
 |**2026-02-19**|**KLong: Training LLM Agent for Extremely Long-horizon Tasks**|Yue Liu et.al.|[2602.17547](http://arxiv.org/abs/2602.17547)|**[link](https://github.com/NSR9/klong)**|**[link](https://huggingface.co/Nattakorn/klong)**|
-|**2026-02-18**|**EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data**|Ruijie Zheng et.al.|[2602.16710](http://arxiv.org/abs/2602.16710)|null|null|
+|**2026-02-18**|**EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data**|Ruijie Zheng et.al.|[2602.16710](http://arxiv.org/abs/2602.16710)|**[link](https://github.com/dipfocus/EgoScale)**|null|
 |**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[2602.16708](http://arxiv.org/abs/2602.16708)|**[link](https://github.com/zszszszsz/.config)**|null|
 |**2026-02-18**|**Reinforced Fast Weights with Next-Sequence Prediction**|Hee Seung Hwang et.al.|[2602.16704](http://arxiv.org/abs/2602.16704)|null|null|
 |**2026-02-18**|**Measuring Mid-2025 LLM-Assistance on Novice Performance in Biology**|Shen Zhou Hong et.al.|[2602.16703](http://arxiv.org/abs/2602.16703)|**[link](https://github.com/ActiveSiteBio/pan-2025-001-code-public)**|null|
 |**2026-02-18**|**Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning**|Mingjia Shi et.al.|[2602.16702](http://arxiv.org/abs/2602.16702)|null|null|
-|**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|null|null|
+|**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|**[link](https://github.com/NSF-Simons-CosmicAI-Institute/CalibrateThenAct)**|null|
 |**2026-02-18**|**Causality is Key for Interpretability Claims to Generalise**|Shruti Joshi et.al.|[2602.16698](http://arxiv.org/abs/2602.16698)|null|null|
 |**2026-02-18**|**Parameter-free representations outperform single-cell foundation models on downstream benchmarks**|Huan Souza et.al.|[2602.16696](http://arxiv.org/abs/2602.16696)|**[link](https://github.com/Emergent-Behaviors-in-Biology/Linear-representations-for-scRNA-seq-data)**|null|
 |**2026-02-18**|**Are Object-Centric Representations Better At Compositional Generalization?**|Ferdinand Kapl et.al.|[2602.16689](http://arxiv.org/abs/2602.16689)|null|null|
@@ -34641,7 +34641,7 @@
 |**2026-02-19**|**Continual learning and refinement of causal models through dynamic predicate invention**|Enrique Crespo-Fernandez et.al.|[2602.17217](http://arxiv.org/abs/2602.17217)|null|null|
 |**2026-02-19**|**NotebookRAG: Retrieving Multiple Notebooks to Augment the Generation of EDA Notebooks for Crowd-Wisdom**|Yi Shan et.al.|[2602.17215](http://arxiv.org/abs/2602.17215)|null|null|
 |**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[2602.16708](http://arxiv.org/abs/2602.16708)|**[link](https://github.com/zszszszsz/.config)**|null|
-|**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|null|null|
+|**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|**[link](https://github.com/NSF-Simons-CosmicAI-Institute/CalibrateThenAct)**|null|
 |**2026-02-18**|**Fairness Dynamics in Digital Economy Platforms with Biased Ratings**|J. Martin Smit et.al.|[2602.16695](http://arxiv.org/abs/2602.16695)|null|null|
 |**2026-02-18**|**Learning Situated Awareness in the Real World**|Chuhan Li et.al.|[2602.16682](http://arxiv.org/abs/2602.16682)|null|null|
 |**2026-02-18**|**Consensus Based Task Allocation for Angles-Only Local Catalog Maintenance of Satellite Systems**|Harrison Perone et.al.|[2602.16678](http://arxiv.org/abs/2602.16678)|null|null|
@@ -45341,7 +45341,7 @@
 |**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[2602.16708](http://arxiv.org/abs/2602.16708)|**[link](https://github.com/zszszszsz/.config)**|null|
 |**2026-02-18**|**Reinforced Fast Weights with Next-Sequence Prediction**|Hee Seung Hwang et.al.|[2602.16704](http://arxiv.org/abs/2602.16704)|null|null|
 |**2026-02-18**|**Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning**|Mingjia Shi et.al.|[2602.16702](http://arxiv.org/abs/2602.16702)|null|null|
-|**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|null|null|
+|**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|**[link](https://github.com/NSF-Simons-CosmicAI-Institute/CalibrateThenAct)**|null|
 |**2026-02-18**|**Are Object-Centric Representations Better At Compositional Generalization?**|Ferdinand Kapl et.al.|[2602.16689](http://arxiv.org/abs/2602.16689)|null|null|
 |**2026-02-18**|**Learning Situated Awareness in the Real World**|Chuhan Li et.al.|[2602.16682](http://arxiv.org/abs/2602.16682)|null|null|
 |**2026-02-18**|**SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation**|Jaid Monwar Chowdhury et.al.|[2602.16671](http://arxiv.org/abs/2602.16671)|null|null|
@@ -56701,7 +56701,7 @@
 |**2026-02-19**|**A Cost-Effective and Climate-Resilient Air Pressure System for Rain Effect Reduction on Automated Vehicle Cameras**|Mohamed Sabry et.al.|[2602.17472](http://arxiv.org/abs/2602.17472)|null|null|
 |**2026-02-19**|**Multi-Method Li Plating Characterization of a Commercial 26 Ah Li-Ion Pouch-Cell**|Christiane Rahe et.al.|[2602.17455](http://arxiv.org/abs/2602.17455)|null|null|
 |**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Zhenyu Wei et.al.|[2602.16712](http://arxiv.org/abs/2602.16712)|**[link](https://github.com/zhenyuwei2003/OHRA)**|null|
-|**2026-02-18**|**EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data**|Ruijie Zheng et.al.|[2602.16710](http://arxiv.org/abs/2602.16710)|null|null|
+|**2026-02-18**|**EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data**|Ruijie Zheng et.al.|[2602.16710](http://arxiv.org/abs/2602.16710)|**[link](https://github.com/dipfocus/EgoScale)**|null|
 |**2026-02-18**|**Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation**|Runpei Dong et.al.|[2602.16705](http://arxiv.org/abs/2602.16705)|null|null|
 |**2026-02-18**|**Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning**|Mingjia Shi et.al.|[2602.16702](http://arxiv.org/abs/2602.16702)|null|null|
 |**2026-02-18**|**Learning Situated Awareness in the Real World**|Chuhan Li et.al.|[2602.16682](http://arxiv.org/abs/2602.16682)|null|null|
@@ -63290,7 +63290,7 @@
 |**2026-02-18**|**TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos**|Namitha Padmanabhan et.al.|[2602.16711](http://arxiv.org/abs/2602.16711)|**[link](https://github.com/namithap10/TeCoNeRV)**|null|
 |**2026-02-18**|**Reinforced Fast Weights with Next-Sequence Prediction**|Hee Seung Hwang et.al.|[2602.16704](http://arxiv.org/abs/2602.16704)|null|null|
 |**2026-02-18**|**The Role of Common Randomness Replication in Symmetric PIR on Graph-Based Replicated Systems**|Shreya Meel et.al.|[2602.16700](http://arxiv.org/abs/2602.16700)|null|null|
-|**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|null|null|
+|**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|**[link](https://github.com/NSF-Simons-CosmicAI-Institute/CalibrateThenAct)**|null|
 |**2026-02-18**|**Retrieval-Augmented Foundation Models for Matched Molecular Pair Transformations to Recapitulate Medicinal Chemistry Intuition**|Bo Pan et.al.|[2602.16684](http://arxiv.org/abs/2602.16684)|null|null|
 |**2026-02-18**|**Ab Initio Auxiliary-Field Quantum Monte Carlo in the Thermodynamic Limit**|Jinghong Zhang et.al.|[2602.16679](http://arxiv.org/abs/2602.16679)|**[link](https://github.com/JoonhoLee-Group/afqmctdl_data)**|null|
 |**2026-02-18**|**Neighborhood Stability as a Measure of Nearest Neighbor Searchability**|Thomas Vecchiato et.al.|[2602.16673](http://arxiv.org/abs/2602.16673)|null|null|
@@ -68735,7 +68735,7 @@
 |**2026-02-19**|**How Molecular Motors' Interaction Shapes Flagellar Beat and Its Fluctuations**|F. Fanelli et.al.|[2602.17163](http://arxiv.org/abs/2602.17163)|null|null|
 |**2026-02-19**|**Quantifying Competitive Relationships Among Open-Source Software Projects**|Yuki Takei et.al.|[2602.17131](http://arxiv.org/abs/2602.17131)|null|null|
 |**2026-02-18**|**Policy Compiler for Secure Agentic Systems**|Nils Palumbo et.al.|[2602.16708](http://arxiv.org/abs/2602.16708)|**[link](https://github.com/zszszszsz/.config)**|null|
-|**2026-02-18**|**Fast-MCS: A Scalable Open-Source Tool to Find Minimal Cut Sets**|Shakthivelu Janardhanan et.al.|[2602.16686](http://arxiv.org/abs/2602.16686)|null|null|
+|**2026-02-18**|**Fast-MCS: A Scalable Open-Source Tool to Find Minimal Cut Sets**|Shakthivelu Janardhanan et.al.|[2602.16686](http://arxiv.org/abs/2602.16686)|**[link](https://github.com/shakthij98/Fast-MCS)**|null|
 |**2026-02-18**|**Neighborhood Stability as a Measure of Nearest Neighbor Searchability**|Thomas Vecchiato et.al.|[2602.16673](http://arxiv.org/abs/2602.16673)|null|null|
 |**2026-02-18**|**SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation**|Jaid Monwar Chowdhury et.al.|[2602.16671](http://arxiv.org/abs/2602.16671)|null|null|
 |**2026-02-18**|**Towards a Science of AI Agent Reliability**|Stephan Rabanser et.al.|[2602.16666](http://arxiv.org/abs/2602.16666)|null|null|
@@ -73184,17 +73184,17 @@
 |**2026-02-19**|**Measurement of ionization yield of low energy ions in low pressure $\mathrm{CF}_{4}$ gas for dark matter searches**|Satoshi Higashino et.al.|[2602.17126](http://arxiv.org/abs/2602.17126)|null|null|
 |**2026-02-19**|**Multiple Index Merge for Approximate Nearest Neighbor Search**|Liuchang Jing et.al.|[2602.17099](http://arxiv.org/abs/2602.17099)|null|null|
 |**2026-02-19**|**Persona2Web: Benchmarking Personalized Web Agents for Contextual Reasoning with User History**|Serin Kim et.al.|[2602.17003](http://arxiv.org/abs/2602.17003)|null|null|
-|**2026-02-19**|**Sonar-TS: Search-Then-Verify Natural Language Querying for Time Series Databases**|Zhao Tan et.al.|[2602.17001](http://arxiv.org/abs/2602.17001)|null|null|
+|**2026-02-19**|**Sonar-TS: Search-Then-Verify Natural Language Querying for Time Series Databases**|Zhao Tan et.al.|[2602.17001](http://arxiv.org/abs/2602.17001)|**[link](https://github.com/Atlamtiz/Sonar-TS)**|null|
 |**2026-02-18**|**Multi-Agent Lipschitz Bandits**|Sourav Chakraborty et.al.|[2602.16965](http://arxiv.org/abs/2602.16965)|null|null|
 |**2026-02-18**|**SAGE: Structure Aware Graph Expansion for Retrieval of Heterogeneous Data**|Prasham Titiya et.al.|[2602.16964](http://arxiv.org/abs/2602.16964)|null|null|
 |**2026-02-18**|**Automating Agent Hijacking via Structural Template Injection**|Xinhao Deng et.al.|[2602.16958](http://arxiv.org/abs/2602.16958)|null|null|
-|**2026-02-18**|**SourceBench: Can AI Answers Reference Quality Web Sources?**|Hexi Jin et.al.|[2602.16942](http://arxiv.org/abs/2602.16942)|null|null|
-|**2026-02-18**|**RankEvolve: Automating the Discovery of Retrieval Algorithms via LLM-Driven Evolution**|Jinming Nian et.al.|[2602.16932](http://arxiv.org/abs/2602.16932)|null|null|
+|**2026-02-18**|**SourceBench: Can AI Answers Reference Quality Web Sources?**|Hexi Jin et.al.|[2602.16942](http://arxiv.org/abs/2602.16942)|**[link](https://github.com/WukLab/SourceBench)**|null|
+|**2026-02-18**|**RankEvolve: Automating the Discovery of Retrieval Algorithms via LLM-Driven Evolution**|Jinming Nian et.al.|[2602.16932](http://arxiv.org/abs/2602.16932)|**[link](https://github.com/jmnian/RankEvolve)**|null|
 |**2026-02-18**|**Free Quantum Computing**|Jacques Carette et.al.|[2602.16927](http://arxiv.org/abs/2602.16927)|null|null|
 |**2026-02-18**|**Stellar Paternity Tests: Matching High-Latitude B Stars to the Open Clusters of their Birth**|Brandon Schweers et.al.|[2602.16925](http://arxiv.org/abs/2602.16925)|null|null|
 |**2026-02-18**|**Evidotes: Integrating Scientific Evidence and Anecdotes to Support Uncertainties Triggered by Peer Health Posts**|Shreya Bali et.al.|[2602.16900](http://arxiv.org/abs/2602.16900)|null|null|
 |**2026-02-18**|**Uniform interpolation with constructive diamond**|Iris van der Giessen et.al.|[2602.16880](http://arxiv.org/abs/2602.16880)|null|null|
-|**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|null|null|
+|**2026-02-18**|**Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents**|Wenxuan Ding et.al.|[2602.16699](http://arxiv.org/abs/2602.16699)|**[link](https://github.com/NSF-Simons-CosmicAI-Institute/CalibrateThenAct)**|null|
 |**2026-02-18**|**Fairness Dynamics in Digital Economy Platforms with Biased Ratings**|J. Martin Smit et.al.|[2602.16695](http://arxiv.org/abs/2602.16695)|null|null|
 |**2026-02-18**|**Scattering data and correlation function for the $K f_1(1285)$ interaction**|Wen-Hao Jia et.al.|[2602.16683](http://arxiv.org/abs/2602.16683)|null|null|
 |**2026-02-18**|**Orbital Motions of Binaries in Orion South**|Luis A. Zapata et.al.|[2602.16676](http://arxiv.org/abs/2602.16676)|null|null|

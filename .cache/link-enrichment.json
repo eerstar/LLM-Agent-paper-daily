@@ -2,15 +2,15 @@
   "last_run": {
     "attempted": 40,
     "cached": 0,
-    "deferred": 387,
-    "elapsed_seconds": 96.797,
-    "finished_at": 1793798288.2137647,
-    "found": 0,
+    "deferred": 410,
+    "elapsed_seconds": 97.246,
+    "finished_at": 1793885461.855771,
+    "found": 6,
     "invalid_rows": 0,
     "status": "max_papers",
-    "updated_rows": 2
+    "updated_rows": 13
   },
-  "next_request_at": 1793798290.3091304,
+  "next_request_at": 1793885463.9505758,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -3635,6 +3635,246 @@
       "result": null,
       "retry_after": 1796390288.2091277,
       "status": "not_found"
+    },
+    "2602.16678": {
+      "last_attempt": 1793885365.7606058,
+      "result": null,
+      "retry_after": 1796477366.1762106,
+      "status": "not_found"
+    },
+    "2602.16681": {
+      "last_attempt": 1793885368.276328,
+      "result": null,
+      "retry_after": 1793886268.663955,
+      "status": "transient_error"
+    },
+    "2602.16682": {
+      "last_attempt": 1793885370.7640915,
+      "result": null,
+      "retry_after": 1793886271.235797,
+      "status": "transient_error"
+    },
+    "2602.16683": {
+      "last_attempt": 1793885373.335924,
+      "result": null,
+      "retry_after": 1793886273.643724,
+      "status": "transient_error"
+    },
+    "2602.16684": {
+      "last_attempt": 1793885375.7438524,
+      "result": null,
+      "retry_after": 1796477376.1204612,
+      "status": "not_found"
+    },
+    "2602.16686": {
+      "last_attempt": 1793885378.2206094,
+      "result": "https://github.com/shakthij98/Fast-MCS",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.16687": {
+      "last_attempt": 1793885380.6088781,
+      "result": null,
+      "retry_after": 1793886281.017032,
+      "status": "transient_error"
+    },
+    "2602.16689": {
+      "last_attempt": 1793885383.1171632,
+      "result": null,
+      "retry_after": 1796477383.3836854,
+      "status": "not_found"
+    },
+    "2602.16690": {
+      "last_attempt": 1793885385.4838626,
+      "result": null,
+      "retry_after": 1793886285.8597229,
+      "status": "transient_error"
+    },
+    "2602.16695": {
+      "last_attempt": 1793885387.9598587,
+      "result": null,
+      "retry_after": 1796477388.2589076,
+      "status": "not_found"
+    },
+    "2602.16698": {
+      "last_attempt": 1793885390.3590264,
+      "result": null,
+      "retry_after": 1793886290.7438915,
+      "status": "transient_error"
+    },
+    "2602.16699": {
+      "last_attempt": 1793885392.8440259,
+      "result": "https://github.com/NSF-Simons-CosmicAI-Institute/CalibrateThenAct",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.16700": {
+      "last_attempt": 1793885395.2656581,
+      "result": null,
+      "retry_after": 1796477395.5653625,
+      "status": "not_found"
+    },
+    "2602.16702": {
+      "last_attempt": 1793885397.6654558,
+      "result": null,
+      "retry_after": 1796477398.0084057,
+      "status": "not_found"
+    },
+    "2602.16704": {
+      "last_attempt": 1793885400.1085436,
+      "result": null,
+      "retry_after": 1796477400.4517777,
+      "status": "not_found"
+    },
+    "2602.16705": {
+      "last_attempt": 1793885402.5519328,
+      "result": null,
+      "retry_after": 1796477402.9699018,
+      "status": "not_found"
+    },
+    "2602.16709": {
+      "last_attempt": 1793885405.070059,
+      "result": null,
+      "retry_after": 1793886305.4708102,
+      "status": "transient_error"
+    },
+    "2602.16710": {
+      "last_attempt": 1793885407.5709448,
+      "result": "https://github.com/dipfocus/EgoScale",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.16880": {
+      "last_attempt": 1793885410.053804,
+      "result": null,
+      "retry_after": 1796477410.3145473,
+      "status": "not_found"
+    },
+    "2602.16900": {
+      "last_attempt": 1793885412.4147108,
+      "result": null,
+      "retry_after": 1796477412.7068527,
+      "status": "not_found"
+    },
+    "2602.16925": {
+      "last_attempt": 1793885414.806984,
+      "result": null,
+      "retry_after": 1796477415.1766517,
+      "status": "not_found"
+    },
+    "2602.16927": {
+      "last_attempt": 1793885417.2767947,
+      "result": null,
+      "retry_after": 1796477417.5729942,
+      "status": "not_found"
+    },
+    "2602.16932": {
+      "last_attempt": 1793885419.6731439,
+      "result": "https://github.com/jmnian/RankEvolve",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.16942": {
+      "last_attempt": 1793885422.2724626,
+      "result": "https://github.com/WukLab/SourceBench",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.16958": {
+      "last_attempt": 1793885424.7496388,
+      "result": null,
+      "retry_after": 1796477425.1482468,
+      "status": "not_found"
+    },
+    "2602.16964": {
+      "last_attempt": 1793885427.2484078,
+      "result": null,
+      "retry_after": 1796477427.6363628,
+      "status": "not_found"
+    },
+    "2602.16965": {
+      "last_attempt": 1793885429.736494,
+      "result": null,
+      "retry_after": 1796477430.1038458,
+      "status": "not_found"
+    },
+    "2602.16966": {
+      "last_attempt": 1793885432.2039845,
+      "result": null,
+      "retry_after": 1793886332.6546052,
+      "status": "transient_error"
+    },
+    "2602.16998": {
+      "last_attempt": 1793885434.7547333,
+      "result": null,
+      "retry_after": 1793886335.09859,
+      "status": "transient_error"
+    },
+    "2602.17001": {
+      "last_attempt": 1793885437.1987238,
+      "result": "https://github.com/Atlamtiz/Sonar-TS",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.17003": {
+      "last_attempt": 1793885439.6357012,
+      "result": null,
+      "retry_after": 1796477439.9641159,
+      "status": "not_found"
+    },
+    "2602.17009": {
+      "last_attempt": 1793885442.0642552,
+      "result": null,
+      "retry_after": 1793886342.3780344,
+      "status": "transient_error"
+    },
+    "2602.17039": {
+      "last_attempt": 1793885444.4781797,
+      "result": null,
+      "retry_after": 1796477444.7625988,
+      "status": "not_found"
+    },
+    "2602.17045": {
+      "last_attempt": 1793885446.8627353,
+      "result": null,
+      "retry_after": 1796477447.1145291,
+      "status": "not_found"
+    },
+    "2602.17049": {
+      "last_attempt": 1793885449.214662,
+      "result": null,
+      "retry_after": 1796477449.518671,
+      "status": "not_found"
+    },
+    "2602.17051": {
+      "last_attempt": 1793885451.6188126,
+      "result": null,
+      "retry_after": 1796477451.986677,
+      "status": "not_found"
+    },
+    "2602.17062": {
+      "last_attempt": 1793885454.0868132,
+      "result": null,
+      "retry_after": 1793886354.4931078,
+      "status": "transient_error"
+    },
+    "2602.17067": {
+      "last_attempt": 1793885456.5932693,
+      "result": null,
+      "retry_after": 1796477456.9005764,
+      "status": "not_found"
+    },
+    "2602.17068": {
+      "last_attempt": 1793885459.0007205,
+      "result": null,
+      "retry_after": 1793886359.3415265,
+      "status": "transient_error"
+    },
+    "2602.17078": {
+      "last_attempt": 1793885461.441674,
+      "result": null,
+      "retry_after": 1793886361.8505735,
+      "status": "transient_error"
     }
   },
   "retry_after": 1793274394.2966185,
