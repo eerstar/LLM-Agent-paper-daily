@@ -75168,7 +75168,7 @@
 |**2026-02-19**|**RA-Nav: A Risk-Aware Navigation System Based on Semantic Segmentation for Aerial Robots in Unpredictable Environments**|Ziyi Zong et.al.|[2602.17515](http://arxiv.org/abs/2602.17515)|null|null|
 |**2026-02-19**|**Visual Model Checking: Graph-Based Inference of Visual Routines for Image Retrieval**|Adrià Molina et.al.|[2602.17386](http://arxiv.org/abs/2602.17386)|null|null|
 |**2026-02-19**|**Computer-Using World Model**|Yiming Guan et.al.|[2602.17365](http://arxiv.org/abs/2602.17365)|**[link](https://github.com/YurunChen/SafePred)**|null|
-|**2026-02-19**|**MIDIS: The identification of deep MIRI-red sources as candidates for extreme Balmer-break and line emitting galaxies at high-z**|I. Jermann et.al.|[2602.17329](http://arxiv.org/abs/2602.17329)|null|null|
+|**2026-02-19**|**MIDIS: The identification of deep MIRI-red sources as candidates for extreme Balmer-break and line emitting galaxies at high-z**|I. Jermann et.al.|[2602.17329](http://arxiv.org/abs/2602.17329)|**[link](https://github.com/Irissou/miris_catalog)**|null|
 |**2026-02-19**|**MedClarify: An information-seeking AI agent for medical diagnosis with case-specific follow-up questions**|Hui Min Wong et.al.|[2602.17308](http://arxiv.org/abs/2602.17308)|null|null|
 |**2026-02-19**|**Illuminating the Mass Gap Through Deep Optical Constraint on a Neutron Star Merger Candidate S250206dm**|Zhengyan Liu et.al.|[2602.17267](http://arxiv.org/abs/2602.17267)|null|null|
 |**2026-02-19**|**Web Verbs: Typed Abstractions for Reliable Task Composition on the Agentic Web**|Linxi Jiang et.al.|[2602.17245](http://arxiv.org/abs/2602.17245)|null|null|
