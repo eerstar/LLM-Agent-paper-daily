@@ -2,15 +2,15 @@
   "last_run": {
     "attempted": 40,
     "cached": 0,
-    "deferred": 431,
-    "elapsed_seconds": 94.26,
-    "finished_at": 1793970952.7694066,
-    "found": 1,
+    "deferred": 463,
+    "elapsed_seconds": 92.683,
+    "finished_at": 1794052618.2096362,
+    "found": 3,
     "invalid_rows": 0,
     "status": "max_papers",
-    "updated_rows": 1
+    "updated_rows": 4
   },
-  "next_request_at": 1793970954.8639462,
+  "next_request_at": 1794052620.303988,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -4114,6 +4114,246 @@
       "last_attempt": 1793970952.5268621,
       "result": null,
       "retry_after": 1796562952.7639437,
+      "status": "not_found"
+    },
+    "2602.17345": {
+      "last_attempt": 1794052526.687752,
+      "result": null,
+      "retry_after": 1796644527.0089648,
+      "status": "not_found"
+    },
+    "2602.17364": {
+      "last_attempt": 1794052529.10908,
+      "result": null,
+      "retry_after": 1796644529.2812572,
+      "status": "not_found"
+    },
+    "2602.17377": {
+      "last_attempt": 1794052531.3813937,
+      "result": null,
+      "retry_after": 1796644531.6277988,
+      "status": "not_found"
+    },
+    "2602.17383": {
+      "last_attempt": 1794052533.727938,
+      "result": null,
+      "retry_after": 1796644533.9033515,
+      "status": "not_found"
+    },
+    "2602.17386": {
+      "last_attempt": 1794052536.0034888,
+      "result": null,
+      "retry_after": 1794053436.3052032,
+      "status": "transient_error"
+    },
+    "2602.17387": {
+      "last_attempt": 1794052538.4053419,
+      "result": null,
+      "retry_after": 1794053438.6880767,
+      "status": "transient_error"
+    },
+    "2602.17410": {
+      "last_attempt": 1794052540.7882054,
+      "result": null,
+      "retry_after": 1794053441.0468664,
+      "status": "transient_error"
+    },
+    "2602.17415": {
+      "last_attempt": 1794052543.1469958,
+      "result": null,
+      "retry_after": 1796644543.4468114,
+      "status": "not_found"
+    },
+    "2602.17434": {
+      "last_attempt": 1794052545.546958,
+      "result": "https://github.com/lefterisvl83/MAS-STL-planning",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.17440": {
+      "last_attempt": 1794052547.9349759,
+      "result": null,
+      "retry_after": 1794053448.355259,
+      "status": "transient_error"
+    },
+    "2602.17442": {
+      "last_attempt": 1794052550.4554007,
+      "result": null,
+      "retry_after": 1796644550.7461288,
+      "status": "not_found"
+    },
+    "2602.17445": {
+      "last_attempt": 1794052552.8462687,
+      "result": null,
+      "retry_after": 1796644553.0834053,
+      "status": "not_found"
+    },
+    "2602.17447": {
+      "last_attempt": 1794052555.1835384,
+      "result": null,
+      "retry_after": 1796644555.3716831,
+      "status": "not_found"
+    },
+    "2602.17450": {
+      "last_attempt": 1794052557.4718018,
+      "result": null,
+      "retry_after": 1796644557.624256,
+      "status": "not_found"
+    },
+    "2602.17452": {
+      "last_attempt": 1794052559.724383,
+      "result": null,
+      "retry_after": 1796644560.0474973,
+      "status": "not_found"
+    },
+    "2602.17454": {
+      "last_attempt": 1794052562.1475945,
+      "result": null,
+      "retry_after": 1796644562.3107724,
+      "status": "not_found"
+    },
+    "2602.17455": {
+      "last_attempt": 1794052564.4109085,
+      "result": null,
+      "retry_after": 1794053464.7217512,
+      "status": "transient_error"
+    },
+    "2602.17466": {
+      "last_attempt": 1794052566.8218772,
+      "result": null,
+      "retry_after": 1796644567.0052383,
+      "status": "not_found"
+    },
+    "2602.17467": {
+      "last_attempt": 1794052569.1053772,
+      "result": null,
+      "retry_after": 1796644569.306718,
+      "status": "not_found"
+    },
+    "2602.17472": {
+      "last_attempt": 1794052571.4068408,
+      "result": null,
+      "retry_after": 1796644571.6609037,
+      "status": "not_found"
+    },
+    "2602.17474": {
+      "last_attempt": 1794052573.7610416,
+      "result": null,
+      "retry_after": 1796644573.9524605,
+      "status": "not_found"
+    },
+    "2602.17478": {
+      "last_attempt": 1794052576.052605,
+      "result": null,
+      "retry_after": 1794053476.3979383,
+      "status": "transient_error"
+    },
+    "2602.17483": {
+      "last_attempt": 1794052578.498077,
+      "result": null,
+      "retry_after": 1796644578.6761024,
+      "status": "not_found"
+    },
+    "2602.17486": {
+      "last_attempt": 1794052580.7762475,
+      "result": null,
+      "retry_after": 1796644580.9784067,
+      "status": "not_found"
+    },
+    "2602.17494": {
+      "last_attempt": 1794052583.0785475,
+      "result": "https://github.com/MarcRu/tvsd_pkg",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.17497": {
+      "last_attempt": 1794052585.4480987,
+      "result": null,
+      "retry_after": 1796644585.6333842,
+      "status": "not_found"
+    },
+    "2602.17498": {
+      "last_attempt": 1794052587.733515,
+      "result": null,
+      "retry_after": 1796644587.9232123,
+      "status": "not_found"
+    },
+    "2602.17502": {
+      "last_attempt": 1794052590.0233352,
+      "result": null,
+      "retry_after": 1796644590.2524512,
+      "status": "not_found"
+    },
+    "2602.17512": {
+      "last_attempt": 1794052592.3525863,
+      "result": null,
+      "retry_after": 1794053492.678447,
+      "status": "transient_error"
+    },
+    "2602.17515": {
+      "last_attempt": 1794052594.7785811,
+      "result": null,
+      "retry_after": 1796644595.0068257,
+      "status": "not_found"
+    },
+    "2602.17520": {
+      "last_attempt": 1794052597.1069674,
+      "result": null,
+      "retry_after": 1796644597.3034072,
+      "status": "not_found"
+    },
+    "2602.17529": {
+      "last_attempt": 1794052599.4035306,
+      "result": null,
+      "retry_after": 1796644599.5656092,
+      "status": "not_found"
+    },
+    "2602.17531": {
+      "last_attempt": 1794052601.66573,
+      "result": "https://github.com/zackeberger/ecg-fix",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.17535": {
+      "last_attempt": 1794052604.0025954,
+      "result": null,
+      "retry_after": 1794053504.3257234,
+      "status": "transient_error"
+    },
+    "2602.17536": {
+      "last_attempt": 1794052606.4258523,
+      "result": null,
+      "retry_after": 1794053506.6355715,
+      "status": "transient_error"
+    },
+    "2602.17537": {
+      "last_attempt": 1794052608.7356915,
+      "result": null,
+      "retry_after": 1796644608.9242663,
+      "status": "not_found"
+    },
+    "2602.17540": {
+      "last_attempt": 1794052611.0243876,
+      "result": null,
+      "retry_after": 1796644611.2258704,
+      "status": "not_found"
+    },
+    "2602.17544": {
+      "last_attempt": 1794052613.3260145,
+      "result": null,
+      "retry_after": 1794053513.575995,
+      "status": "transient_error"
+    },
+    "2602.17545": {
+      "last_attempt": 1794052615.6761248,
+      "result": null,
+      "retry_after": 1796644615.8582528,
+      "status": "not_found"
+    },
+    "2602.17546": {
+      "last_attempt": 1794052617.9583564,
+      "result": null,
+      "retry_after": 1796644618.203986,
       "status": "not_found"
     }
   },
