@@ -2,15 +2,15 @@
   "last_run": {
     "attempted": 40,
     "cached": 0,
-    "deferred": 463,
-    "elapsed_seconds": 92.683,
-    "finished_at": 1794052618.2096362,
-    "found": 3,
+    "deferred": 490,
+    "elapsed_seconds": 93.425,
+    "finished_at": 1794140010.4427078,
+    "found": 2,
     "invalid_rows": 0,
     "status": "max_papers",
-    "updated_rows": 4
+    "updated_rows": 6
   },
-  "next_request_at": 1794052620.303988,
+  "next_request_at": 1794140012.5369153,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -4354,6 +4354,246 @@
       "last_attempt": 1794052617.9583564,
       "result": null,
       "retry_after": 1796644618.203986,
+      "status": "not_found"
+    },
+    "2602.17548": {
+      "last_attempt": 1794139918.1755812,
+      "result": null,
+      "retry_after": 1796731918.494378,
+      "status": "not_found"
+    },
+    "2602.17550": {
+      "last_attempt": 1794139920.5945156,
+      "result": null,
+      "retry_after": 1796731920.9287744,
+      "status": "not_found"
+    },
+    "2602.17554": {
+      "last_attempt": 1794139923.028894,
+      "result": null,
+      "retry_after": 1794140823.3069386,
+      "status": "transient_error"
+    },
+    "2602.17555": {
+      "last_attempt": 1794139925.4070623,
+      "result": null,
+      "retry_after": 1794140825.6414008,
+      "status": "transient_error"
+    },
+    "2602.17556": {
+      "last_attempt": 1794139927.7415292,
+      "result": null,
+      "retry_after": 1796731927.9862275,
+      "status": "not_found"
+    },
+    "2602.17557": {
+      "last_attempt": 1794139930.0863569,
+      "result": null,
+      "retry_after": 1796731930.2729785,
+      "status": "not_found"
+    },
+    "2602.17559": {
+      "last_attempt": 1794139932.3730743,
+      "result": "https://github.com/yaoyz96/low-rank-cl",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.17560": {
+      "last_attempt": 1794139934.7809696,
+      "result": null,
+      "retry_after": 1796731935.0720112,
+      "status": "not_found"
+    },
+    "2602.17565": {
+      "last_attempt": 1794139937.1721323,
+      "result": null,
+      "retry_after": 1794140837.486252,
+      "status": "transient_error"
+    },
+    "2602.17571": {
+      "last_attempt": 1794139939.5863888,
+      "result": null,
+      "retry_after": 1796731939.793807,
+      "status": "not_found"
+    },
+    "2602.17573": {
+      "last_attempt": 1794139941.8939517,
+      "result": null,
+      "retry_after": 1796731942.2223911,
+      "status": "not_found"
+    },
+    "2602.17574": {
+      "last_attempt": 1794139944.3225195,
+      "result": null,
+      "retry_after": 1794140844.5686023,
+      "status": "transient_error"
+    },
+    "2602.17575": {
+      "last_attempt": 1794139946.668717,
+      "result": null,
+      "retry_after": 1794140846.896635,
+      "status": "transient_error"
+    },
+    "2602.17582": {
+      "last_attempt": 1794139948.9967709,
+      "result": null,
+      "retry_after": 1796731949.1867301,
+      "status": "not_found"
+    },
+    "2602.17584": {
+      "last_attempt": 1794139951.2868624,
+      "result": null,
+      "retry_after": 1794140851.535869,
+      "status": "transient_error"
+    },
+    "2602.17586": {
+      "last_attempt": 1794139953.6360013,
+      "result": null,
+      "retry_after": 1794140853.9512823,
+      "status": "transient_error"
+    },
+    "2602.17588": {
+      "last_attempt": 1794139956.051396,
+      "result": null,
+      "retry_after": 1794140856.2927,
+      "status": "transient_error"
+    },
+    "2602.17589": {
+      "last_attempt": 1794139958.3928363,
+      "result": null,
+      "retry_after": 1796731958.6059406,
+      "status": "not_found"
+    },
+    "2602.17590": {
+      "last_attempt": 1794139960.706074,
+      "result": null,
+      "retry_after": 1794140860.9649189,
+      "status": "transient_error"
+    },
+    "2602.17592": {
+      "last_attempt": 1794139963.0650573,
+      "result": null,
+      "retry_after": 1796731963.2503173,
+      "status": "not_found"
+    },
+    "2602.17593": {
+      "last_attempt": 1794139965.350452,
+      "result": null,
+      "retry_after": 1796731965.5456161,
+      "status": "not_found"
+    },
+    "2602.17594": {
+      "last_attempt": 1794139967.6457431,
+      "result": "https://github.com/lance-ying/aigamestore",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.17595": {
+      "last_attempt": 1794139970.0263782,
+      "result": null,
+      "retry_after": 1794140870.3659563,
+      "status": "transient_error"
+    },
+    "2602.17597": {
+      "last_attempt": 1794139972.4660575,
+      "result": null,
+      "retry_after": 1796731972.668982,
+      "status": "not_found"
+    },
+    "2602.17598": {
+      "last_attempt": 1794139974.769113,
+      "result": null,
+      "retry_after": 1796731974.9648507,
+      "status": "not_found"
+    },
+    "2602.17599": {
+      "last_attempt": 1794139977.0649924,
+      "result": null,
+      "retry_after": 1794140877.363247,
+      "status": "transient_error"
+    },
+    "2602.17601": {
+      "last_attempt": 1794139979.4633822,
+      "result": null,
+      "retry_after": 1794140879.7374482,
+      "status": "transient_error"
+    },
+    "2602.17603": {
+      "last_attempt": 1794139981.8375793,
+      "result": null,
+      "retry_after": 1794140882.1295629,
+      "status": "transient_error"
+    },
+    "2602.17605": {
+      "last_attempt": 1794139984.2296894,
+      "result": null,
+      "retry_after": 1794140884.5363548,
+      "status": "transient_error"
+    },
+    "2602.17607": {
+      "last_attempt": 1794139986.6364963,
+      "result": null,
+      "retry_after": 1796731986.9354823,
+      "status": "not_found"
+    },
+    "2602.17608": {
+      "last_attempt": 1794139989.0356238,
+      "result": null,
+      "retry_after": 1794140889.3237593,
+      "status": "transient_error"
+    },
+    "2602.17610": {
+      "last_attempt": 1794139991.4238923,
+      "result": null,
+      "retry_after": 1796731991.7324903,
+      "status": "not_found"
+    },
+    "2602.17611": {
+      "last_attempt": 1794139993.8326232,
+      "result": null,
+      "retry_after": 1794140894.0923686,
+      "status": "transient_error"
+    },
+    "2602.17612": {
+      "last_attempt": 1794139996.1924984,
+      "result": null,
+      "retry_after": 1794140896.4764755,
+      "status": "transient_error"
+    },
+    "2602.17614": {
+      "last_attempt": 1794139998.5766213,
+      "result": null,
+      "retry_after": 1796731998.8204708,
+      "status": "not_found"
+    },
+    "2602.17615": {
+      "last_attempt": 1794140000.9206078,
+      "result": null,
+      "retry_after": 1796732001.1017945,
+      "status": "not_found"
+    },
+    "2602.17617": {
+      "last_attempt": 1794140003.2019122,
+      "result": null,
+      "retry_after": 1794140903.5125465,
+      "status": "transient_error"
+    },
+    "2602.17618": {
+      "last_attempt": 1794140005.6126652,
+      "result": null,
+      "retry_after": 1796732005.8345575,
+      "status": "not_found"
+    },
+    "2602.17619": {
+      "last_attempt": 1794140007.9346788,
+      "result": null,
+      "retry_after": 1796732008.1482263,
+      "status": "not_found"
+    },
+    "2602.17621": {
+      "last_attempt": 1794140010.2483673,
+      "result": null,
+      "retry_after": 1796732010.436913,
       "status": "not_found"
     }
   },
