@@ -17204,7 +17204,7 @@ layout: default
 |**2026-02-19**|**CLEF HIPE-2026: Evaluating Accurate and Efficient Person-Place Relation Extraction from Multilingual Historical Texts**|Juri Opitz et.al.|[2602.17663](http://arxiv.org/abs/2602.17663)|null|null|
 |**2026-02-19**|**A Study of Entanglement and Ansatz Expressivity for the Transverse-Field Ising Model using Variational Quantum Eigensolver**|Ashutosh P. Tripathi et.al.|[2602.17662](http://arxiv.org/abs/2602.17662)|null|null|
 |**2026-02-19**|**Benchmarking quantum phase-space methods for near-resonant light propagation**|Mojdeh S. Najafabadi et.al.|[2602.17660](http://arxiv.org/abs/2602.17660)|null|null|
-|**2026-02-19**|**When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs**|Yu Fang et.al.|[2602.17659](http://arxiv.org/abs/2602.17659)|null|null|
+|**2026-02-19**|**When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs**|Yu Fang et.al.|[2602.17659](http://arxiv.org/abs/2602.17659)|**[link](https://github.com/yuffish/VLA-CF)**|null|
 |**2026-02-19**|**What Language is This? Ask Your Tokenizer**|Clara Meister et.al.|[2602.17655](http://arxiv.org/abs/2602.17655)|**[link](https://github.com/Sfedfcv/redesigned-pancake)**|null|
 |**2026-02-19**|**Mine and Refine: Optimizing Graded Relevance in E-commerce Search Retrieval**|Jiaqi Xi et.al.|[2602.17654](http://arxiv.org/abs/2602.17654)|null|null|
 |**2026-02-19**|**Differences in Typological Alignment in Language Models' Treatment of Differential Argument Marking**|Iskar Deng et.al.|[2602.17653](http://arxiv.org/abs/2602.17653)|null|null|
@@ -29319,7 +29319,7 @@ layout: default
 |**2026-02-20**|**Dual-Tree LLM-Enhanced Negative Sampling for Implicit Collaborative Filtering**|Jiayi Wu et.al.|[2602.18249](http://arxiv.org/abs/2602.18249)|null|null|
 |**2026-02-19**|**OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.|[2602.17665](http://arxiv.org/abs/2602.17665)|**[link](https://github.com/mbzuai-oryx/OpenEarthAgent)**|**[link](https://huggingface.co/MBZUAI/OpenEarthAgent)**|
 |**2026-02-19**|**Sink-Aware Pruning for Diffusion Language Models**|Aidar Myrzakhan et.al.|[2602.17664](http://arxiv.org/abs/2602.17664)|**[link](https://github.com/VILA-Lab/Sink-Aware-Pruning)**|null|
-|**2026-02-19**|**When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs**|Yu Fang et.al.|[2602.17659](http://arxiv.org/abs/2602.17659)|null|null|
+|**2026-02-19**|**When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs**|Yu Fang et.al.|[2602.17659](http://arxiv.org/abs/2602.17659)|**[link](https://github.com/yuffish/VLA-CF)**|null|
 |**2026-02-19**|**MARS: Margin-Aware Reward-Modeling with Self-Refinement**|Payel Bhattacharjee et.al.|[2602.17658](http://arxiv.org/abs/2602.17658)|null|null|
 |**2026-02-19**|**What Language is This? Ask Your Tokenizer**|Clara Meister et.al.|[2602.17655](http://arxiv.org/abs/2602.17655)|**[link](https://github.com/Sfedfcv/redesigned-pancake)**|null|
 |**2026-02-19**|**Mine and Refine: Optimizing Graded Relevance in E-commerce Search Retrieval**|Jiaqi Xi et.al.|[2602.17654](http://arxiv.org/abs/2602.17654)|null|null|
@@ -59097,7 +59097,7 @@ layout: default
 |**2026-02-20**|**Electrodynamics of swift-electron momentum transfer to a large spherical nanoparticle**|Jesús Castrejón-Figueroa et.al.|[2602.18222](http://arxiv.org/abs/2602.18222)|null|null|
 |**2026-02-20**|**Design and Characterization of a Dual-DOF Soft Shoulder Exosuit with Volume-Optimized Pneumatic Actuator**|Rui Chen et.al.|[2602.18212](http://arxiv.org/abs/2602.18212)|null|null|
 |**2026-02-19**|**OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents**|Akashah Shabbir et.al.|[2602.17665](http://arxiv.org/abs/2602.17665)|**[link](https://github.com/mbzuai-oryx/OpenEarthAgent)**|**[link](https://huggingface.co/MBZUAI/OpenEarthAgent)**|
-|**2026-02-19**|**When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs**|Yu Fang et.al.|[2602.17659](http://arxiv.org/abs/2602.17659)|null|null|
+|**2026-02-19**|**When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs**|Yu Fang et.al.|[2602.17659](http://arxiv.org/abs/2602.17659)|**[link](https://github.com/yuffish/VLA-CF)**|null|
 |**2026-02-19**|**Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting**|Xiaohan Zhao et.al.|[2602.17645](http://arxiv.org/abs/2602.17645)|**[link](https://github.com/VILA-Lab/M-Attack-V2)**|null|
 |**2026-02-19**|**CORAL: Correspondence Alignment for Improved Virtual Try-On**|Jiyoung Kim et.al.|[2602.17636](http://arxiv.org/abs/2602.17636)|null|null|
 |**2026-02-19**|**Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting**|Xinghong Fu et.al.|[2602.17634](http://arxiv.org/abs/2602.17634)|null|**[link](https://huggingface.co/shinfxh/reverso)**|
