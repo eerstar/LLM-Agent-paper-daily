@@ -3,8 +3,8 @@
     "failed_topics": [
       "LLM (General)"
     ],
-    "finished_at": "2026-11-10T08:27:42.191372+00:00",
-    "new_papers": 1328,
+    "finished_at": "2026-11-10T20:29:35.376782+00:00",
+    "new_papers": 0,
     "status": "partial",
     "succeeded_topics": [
       "LLM Reasoning & Planning",
@@ -32,7 +32,7 @@
     },
     "LLM (General)": {
       "covered_through": "2026-10-20",
-      "last_error": "arXiv transient response after 3 attempts: 500",
+      "last_error": "arXiv transient response after 3 attempts: 503",
       "last_success_at": "2026-10-20T13:05:49.707503+00:00",
       "papers": 602,
       "pending": {
