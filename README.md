@@ -68082,7 +68082,7 @@
 |**2026-02-20**|**Information-Theoretic Storage Cost in Sentence Comprehension**|Kohei Kajikawa et.al.|[2602.18217](http://arxiv.org/abs/2602.18217)|null|null|
 |**2026-02-20**|**A Simple yet Effective Negative Sampling Plugin for Constructing Positive Sample Pairs in Implicit Collaborative Filtering**|Jiayi Wu et.al.|[2602.18206](http://arxiv.org/abs/2602.18206)|null|null|
 |**2026-02-20**|**Stable Long-Horizon Spatiotemporal Prediction on Meshes Using Latent Multiscale Recurrent Graph Neural Networks**|Lionel Salesses et.al.|[2602.18146](http://arxiv.org/abs/2602.18146)|null|null|
-|**2026-02-20**|**Flux-Activated Resonant Control of a Bosonic Quantum Memory**|Fernando Valadares et.al.|[2602.18122](http://arxiv.org/abs/2602.18122)|null|null|
+|**2026-02-20**|**Flux-Activated Resonant Control of a Bosonic Quantum Memory**|Fernando Valadares et.al.|[2602.18122](http://arxiv.org/abs/2602.18122)|**[link](https://github.com/Qcrew/Valadares-Dorogov-FAR)**|null|
 |**2026-02-20**|**SuiteEval: Simplifying Retrieval Benchmarks**|Andrew Parry et.al.|[2602.18107](http://arxiv.org/abs/2602.18107)|null|null|
 |**2026-02-20**|**AndroWasm: an Empirical Study on Android Malware Obfuscation through WebAssembly**|Diego Soi et.al.|[2602.18082](http://arxiv.org/abs/2602.18082)|null|null|
 |**2026-02-20**|**HiAER-Spike Software-Hardware Reconfigurable Platform for Event-Driven Neuromorphic Computing at Scale**|Gwenevere Frank et.al.|[2602.18072](http://arxiv.org/abs/2602.18072)|null|null|
@@ -78587,7 +78587,7 @@
 |**2026-02-20**|**Dark Photon mediated Inelastic Dark Matter in Cosmology, Astrophysics and Colliders**|Abhishek Roy et.al.|[2602.18051](http://arxiv.org/abs/2602.18051)|null|null|
 |**2026-02-20**|**CityGuard: Graph-Aware Private Descriptors for Bias-Resilient Identity Search Across Urban Cameras**|Rong Fu et.al.|[2602.18047](http://arxiv.org/abs/2602.18047)|null|null|
 |**2026-02-20**|**PINEAPPLE: Physics-Informed Neuro-Evolution Algorithm for Prognostic Parameter Inference in Lithium-Ion Battery Electrodes**|Karkulali Pugalenthi et.al.|[2602.18042](http://arxiv.org/abs/2602.18042)|null|**[link](https://huggingface.co/Pineapple/DialoGPT-medium-Rick-Samchez)**|
-|**2026-02-20**|**Observer-robust energy condition verification for warp drive spacetimes**|An T. Le et.al.|[2602.18023](http://arxiv.org/abs/2602.18023)|null|null|
+|**2026-02-20**|**Observer-robust energy condition verification for warp drive spacetimes**|An T. Le et.al.|[2602.18023](http://arxiv.org/abs/2602.18023)|**[link](https://github.com/rolero/warpax)**|null|
 |**2026-02-20**|**In-Context Learning for Pure Exploration in Continuous Spaces**|Alessio Russo et.al.|[2602.17976](http://arxiv.org/abs/2602.17976)|null|null|
 |**2026-02-20**|**A Bayesian Exploration of the Mass of Ursa Major III: Kinematics, Rotation and their influence on the Mass to Light Ratio**|T. R. Adams et.al.|[2602.17957](http://arxiv.org/abs/2602.17957)|null|null|
 |**2026-02-20**|**Efficient photocatalytic CO2 Reduction to C2+ Products with Pt1-xPdxSn4 Dirac Nodal Arc Semimetal**|Kangwang Wang et.al.|[2602.17953](http://arxiv.org/abs/2602.17953)|null|null|
