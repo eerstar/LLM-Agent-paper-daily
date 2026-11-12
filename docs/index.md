@@ -6,7 +6,7 @@ layout: default
 
 [Pipeline operation and recovery](https://github.com/eerstar/LLM-Agent-paper-daily/blob/main/docs/operations.md)
 
-## Updated on 2026-11-11
+## Updated on 2026-11-12
 
 ## Agent
 
