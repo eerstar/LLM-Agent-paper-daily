@@ -2,15 +2,15 @@
   "last_run": {
     "attempted": 40,
     "cached": 0,
-    "deferred": 599,
-    "elapsed_seconds": 96.691,
-    "finished_at": 1794492028.5612998,
-    "found": 0,
+    "deferred": 630,
+    "elapsed_seconds": 96.875,
+    "finished_at": 1794576450.176346,
+    "found": 2,
     "invalid_rows": 0,
     "status": "max_papers",
-    "updated_rows": 0
+    "updated_rows": 8
   },
-  "next_request_at": 1794492030.6544514,
+  "next_request_at": 1794576452.268136,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -5554,6 +5554,246 @@
       "last_attempt": 1794492028.0015473,
       "result": null,
       "retry_after": 1797084028.5544493,
+      "status": "not_found"
+    },
+    "2602.18378": {
+      "last_attempt": 1794576354.7233634,
+      "result": null,
+      "retry_after": 1797168355.136352,
+      "status": "not_found"
+    },
+    "2602.18379": {
+      "last_attempt": 1794576357.2364967,
+      "result": null,
+      "retry_after": 1797168357.5026977,
+      "status": "not_found"
+    },
+    "2602.18381": {
+      "last_attempt": 1794576359.6028104,
+      "result": null,
+      "retry_after": 1797168359.9488049,
+      "status": "not_found"
+    },
+    "2602.18384": {
+      "last_attempt": 1794576362.0489686,
+      "result": null,
+      "retry_after": 1797168362.3244696,
+      "status": "not_found"
+    },
+    "2602.18385": {
+      "last_attempt": 1794576364.4246147,
+      "result": null,
+      "retry_after": 1794577264.8093781,
+      "status": "transient_error"
+    },
+    "2602.18386": {
+      "last_attempt": 1794576366.9095163,
+      "result": null,
+      "retry_after": 1794577267.3062768,
+      "status": "transient_error"
+    },
+    "2602.18389": {
+      "last_attempt": 1794576369.4064207,
+      "result": null,
+      "retry_after": 1797168369.634793,
+      "status": "not_found"
+    },
+    "2602.18392": {
+      "last_attempt": 1794576371.7349648,
+      "result": null,
+      "retry_after": 1794577272.0218542,
+      "status": "transient_error"
+    },
+    "2602.18393": {
+      "last_attempt": 1794576374.1219695,
+      "result": null,
+      "retry_after": 1797168374.3566947,
+      "status": "not_found"
+    },
+    "2602.18394": {
+      "last_attempt": 1794576376.4568357,
+      "result": null,
+      "retry_after": 1794577276.7370415,
+      "status": "transient_error"
+    },
+    "2602.18397": {
+      "last_attempt": 1794576378.8371527,
+      "result": null,
+      "retry_after": 1794577279.5444276,
+      "status": "transient_error"
+    },
+    "2602.18400": {
+      "last_attempt": 1794576381.6445448,
+      "result": null,
+      "retry_after": 1794577282.021577,
+      "status": "transient_error"
+    },
+    "2602.18401": {
+      "last_attempt": 1794576384.1217089,
+      "result": null,
+      "retry_after": 1797168384.440222,
+      "status": "not_found"
+    },
+    "2602.18403": {
+      "last_attempt": 1794576386.5403285,
+      "result": null,
+      "retry_after": 1794577286.8983753,
+      "status": "transient_error"
+    },
+    "2602.18405": {
+      "last_attempt": 1794576388.9985359,
+      "result": null,
+      "retry_after": 1797168389.2410293,
+      "status": "not_found"
+    },
+    "2602.18407": {
+      "last_attempt": 1794576391.3411608,
+      "result": null,
+      "retry_after": 1794577291.640939,
+      "status": "transient_error"
+    },
+    "2602.18408": {
+      "last_attempt": 1794576393.741107,
+      "result": null,
+      "retry_after": 1797168394.0342739,
+      "status": "not_found"
+    },
+    "2602.18410": {
+      "last_attempt": 1794576396.1344163,
+      "result": null,
+      "retry_after": 1794577296.4865637,
+      "status": "transient_error"
+    },
+    "2602.18412": {
+      "last_attempt": 1794576398.5866756,
+      "result": null,
+      "retry_after": 1797168398.8505723,
+      "status": "not_found"
+    },
+    "2602.18414": {
+      "last_attempt": 1794576400.9506884,
+      "result": null,
+      "retry_after": 1797168401.3389847,
+      "status": "not_found"
+    },
+    "2602.18415": {
+      "last_attempt": 1794576403.4391246,
+      "result": null,
+      "retry_after": 1797168403.7245002,
+      "status": "not_found"
+    },
+    "2602.18416": {
+      "last_attempt": 1794576405.8246772,
+      "result": null,
+      "retry_after": 1794577306.217598,
+      "status": "transient_error"
+    },
+    "2602.18417": {
+      "last_attempt": 1794576408.3177552,
+      "result": null,
+      "retry_after": 1797168408.5594997,
+      "status": "not_found"
+    },
+    "2602.18418": {
+      "last_attempt": 1794576410.6596348,
+      "result": null,
+      "retry_after": 1794577311.0083373,
+      "status": "transient_error"
+    },
+    "2602.18419": {
+      "last_attempt": 1794576413.108487,
+      "result": null,
+      "retry_after": 1794577313.550406,
+      "status": "transient_error"
+    },
+    "2602.18420": {
+      "last_attempt": 1794576415.6505456,
+      "result": null,
+      "retry_after": 1794577315.9776382,
+      "status": "transient_error"
+    },
+    "2602.18421": {
+      "last_attempt": 1794576418.0777895,
+      "result": null,
+      "retry_after": 1797168418.3039162,
+      "status": "not_found"
+    },
+    "2602.18422": {
+      "last_attempt": 1794576420.4040244,
+      "result": null,
+      "retry_after": 1794577320.9153306,
+      "status": "transient_error"
+    },
+    "2602.18424": {
+      "last_attempt": 1794576423.0154452,
+      "result": "https://github.com/makeabilitylab/CapNav",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.18426": {
+      "last_attempt": 1794576425.4617162,
+      "result": null,
+      "retry_after": 1794577325.8110216,
+      "status": "transient_error"
+    },
+    "2602.18427": {
+      "last_attempt": 1794576427.9111388,
+      "result": null,
+      "retry_after": 1794577328.307888,
+      "status": "transient_error"
+    },
+    "2602.18429": {
+      "last_attempt": 1794576430.408044,
+      "result": null,
+      "retry_after": 1797168430.6590374,
+      "status": "not_found"
+    },
+    "2602.18431": {
+      "last_attempt": 1794576432.7591813,
+      "result": null,
+      "retry_after": 1794577333.1512911,
+      "status": "transient_error"
+    },
+    "2602.18432": {
+      "last_attempt": 1794576435.2514384,
+      "result": null,
+      "retry_after": 1794577335.6229534,
+      "status": "transient_error"
+    },
+    "2602.18433": {
+      "last_attempt": 1794576437.7230678,
+      "result": null,
+      "retry_after": 1794577338.074787,
+      "status": "transient_error"
+    },
+    "2602.18435": {
+      "last_attempt": 1794576440.1749182,
+      "result": "https://github.com/semoglou/cake",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.18436": {
+      "last_attempt": 1794576442.6205213,
+      "result": null,
+      "retry_after": 1797168442.969958,
+      "status": "not_found"
+    },
+    "2602.18535": {
+      "last_attempt": 1794576445.070113,
+      "result": null,
+      "retry_after": 1797168445.2938447,
+      "status": "not_found"
+    },
+    "2602.18550": {
+      "last_attempt": 1794576447.3939867,
+      "result": null,
+      "retry_after": 1797168447.854872,
+      "status": "not_found"
+    },
+    "2602.18623": {
+      "last_attempt": 1794576449.9549844,
+      "result": null,
+      "retry_after": 1797168450.168133,
       "status": "not_found"
     }
   },
