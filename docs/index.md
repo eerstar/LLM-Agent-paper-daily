@@ -38782,7 +38782,7 @@ layout: default
 |**2026-02-23**|**OpenClaw, Moltbook, and ClawdLab: From Agent-Only Social Networks to Autonomous Scientific Research**|Lukas Weidener et.al.|[2602.19810](http://arxiv.org/abs/2602.19810)|null|null|
 |**2026-02-23**|**Janus-Faced Technological Progress and the Arms Race in the Education of Humans and Chatbots**|Wolfgang Kuhle et.al.|[2602.19783](http://arxiv.org/abs/2602.19783)|null|null|
 |**2026-02-23**|**Group adaptation drives opinion dynamics in higher-order networks**|Cosimo Agostinelli et.al.|[2602.19684](http://arxiv.org/abs/2602.19684)|null|null|
-|**2026-02-23**|**SkillOrchestra: Learning to Route Agents via Skill Transfer**|Jiayu Wang et.al.|[2602.19672](http://arxiv.org/abs/2602.19672)|null|null|
+|**2026-02-23**|**SkillOrchestra: Learning to Route Agents via Skill Transfer**|Jiayu Wang et.al.|[2602.19672](http://arxiv.org/abs/2602.19672)|**[link](https://github.com/jiayuww/SkillOrchestra)**|null|
 |**2026-02-23**|**Multicellular Feedback Control Strategies in Synthetic Microbial Consortia: From Embedded to Distributed Control**|Mario di Bernardo et.al.|[2602.19666](http://arxiv.org/abs/2602.19666)|null|null|
 |**2026-02-23**|**Exploration of Always $S$-Connected Temporal Graphs**|Duncan Adamson et.al.|[2602.19657](http://arxiv.org/abs/2602.19657)|null|null|
 |**2026-02-23**|**Representation Stability in a Minimal Continual Learning Agent**|Vishnu Subramanian et.al.|[2602.19655](http://arxiv.org/abs/2602.19655)|null|null|
@@ -55372,7 +55372,7 @@ layout: default
 |**2026-02-23**|**SAMAS: A Spectrum-Guided Multi-Agent System for Achieving Style Fidelity in Literary Translation**|Jingzhuo Wu et.al.|[2602.19840](http://arxiv.org/abs/2602.19840)|null|null|
 |**2026-02-23**|**OpenClaw, Moltbook, and ClawdLab: From Agent-Only Social Networks to Autonomous Scientific Research**|Lukas Weidener et.al.|[2602.19810](http://arxiv.org/abs/2602.19810)|null|null|
 |**2026-02-23**|**High-Altitude Platforms in the Low-Altitude Economy: Bridging Communication, Computing, and Regulation**|Bang Huang et.al.|[2602.19784](http://arxiv.org/abs/2602.19784)|null|null|
-|**2026-02-23**|**SkillOrchestra: Learning to Route Agents via Skill Transfer**|Jiayu Wang et.al.|[2602.19672](http://arxiv.org/abs/2602.19672)|null|null|
+|**2026-02-23**|**SkillOrchestra: Learning to Route Agents via Skill Transfer**|Jiayu Wang et.al.|[2602.19672](http://arxiv.org/abs/2602.19672)|**[link](https://github.com/jiayuww/SkillOrchestra)**|null|
 |**2026-02-23**|**Multicellular Feedback Control Strategies in Synthetic Microbial Consortia: From Embedded to Distributed Control**|Mario di Bernardo et.al.|[2602.19666](http://arxiv.org/abs/2602.19666)|null|null|
 |**2026-02-23**|**Effects of Property Recovery Incentives and Social Interaction on Self-Evacuation Decisions in Natural Disasters: An Agent-Based Modelling Approach**|Made Krisnanda et.al.|[2602.19639](http://arxiv.org/abs/2602.19639)|null|null|
 |**2026-02-23**|**Compositional Planning with Jumpy World Models**|Jesse Farebrother et.al.|[2602.19634](http://arxiv.org/abs/2602.19634)|null|null|
@@ -82301,7 +82301,7 @@ layout: default
 |**2026-02-23**|**Leptophilic scalar dark matter in U(1)$_{L_μ-L_τ}$: Evading direct detection and prospective neutron star heating**|Chengfeng Cai et.al.|[2602.19958](http://arxiv.org/abs/2602.19958)|null|null|
 |**2026-02-23**|**Parallelism and Adaptivity in Student-Teacher Witnessing**|Ondřej Ježil et.al.|[2602.19934](http://arxiv.org/abs/2602.19934)|null|null|
 |**2026-02-23**|**Extending CPU-less parallel execution of lambda calculus in digital logic with lists and arithmetic**|Harry Fitchett et.al.|[2602.19884](http://arxiv.org/abs/2602.19884)|null|null|
-|**2026-02-23**|**I Dropped a Neural Net**|Hyunwoo Park et.al.|[2602.19845](http://arxiv.org/abs/2602.19845)|null|null|
+|**2026-02-23**|**I Dropped a Neural Net**|Hyunwoo Park et.al.|[2602.19845](http://arxiv.org/abs/2602.19845)|**[link](https://github.com/toboooo/FixedNeuralNet)**|null|
 |**2026-02-23**|**Study of $e^+e^- \to π^+π^-Υ(1D)$ at Belle II**|Belle II Collaboration et.al.|[2602.19807](http://arxiv.org/abs/2602.19807)|null|null|
 |**2026-02-23**|**The Climate Change Knowledge Graph: Supporting Climate Services**|Miguel Ceriani et.al.|[2602.19786](http://arxiv.org/abs/2602.19786)|null|null|
 |**2026-02-23**|**A Three-stage Neuro-symbolic Recommendation Pipeline for Cultural Heritage Knowledge Graphs**|Krzysztof Kutt et.al.|[2602.19711](http://arxiv.org/abs/2602.19711)|null|null|

@@ -2,15 +2,15 @@
   "last_run": {
     "attempted": 40,
     "cached": 0,
-    "deferred": 649,
-    "elapsed_seconds": 92.458,
-    "finished_at": 1794659503.0442371,
+    "deferred": 682,
+    "elapsed_seconds": 94.736,
+    "finished_at": 1794747575.7944963,
     "found": 2,
     "invalid_rows": 0,
     "status": "max_papers",
-    "updated_rows": 2
+    "updated_rows": 3
   },
-  "next_request_at": 1794659505.1393955,
+  "next_request_at": 1794747577.8882818,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -6035,6 +6035,246 @@
       "result": "https://github.com/UW-Madison-Lee-Lab/TAPE",
       "retry_after": 0,
       "status": "found"
+    },
+    "2602.19634": {
+      "last_attempt": 1794747482.1742103,
+      "result": null,
+      "retry_after": 1797339482.6935177,
+      "status": "not_found"
+    },
+    "2602.19639": {
+      "last_attempt": 1794747484.7936106,
+      "result": null,
+      "retry_after": 1794748385.0445201,
+      "status": "transient_error"
+    },
+    "2602.19647": {
+      "last_attempt": 1794747487.1446285,
+      "result": null,
+      "retry_after": 1797339487.3826873,
+      "status": "not_found"
+    },
+    "2602.19655": {
+      "last_attempt": 1794747489.4827952,
+      "result": null,
+      "retry_after": 1797339489.7999742,
+      "status": "not_found"
+    },
+    "2602.19657": {
+      "last_attempt": 1794747491.9000638,
+      "result": null,
+      "retry_after": 1797339492.0953119,
+      "status": "not_found"
+    },
+    "2602.19666": {
+      "last_attempt": 1794747494.1954014,
+      "result": null,
+      "retry_after": 1797339494.3832543,
+      "status": "not_found"
+    },
+    "2602.19672": {
+      "last_attempt": 1794747496.4833722,
+      "result": "https://github.com/jiayuww/SkillOrchestra",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.19684": {
+      "last_attempt": 1794747498.8549585,
+      "result": null,
+      "retry_after": 1797339499.0782716,
+      "status": "not_found"
+    },
+    "2602.19705": {
+      "last_attempt": 1794747501.1783845,
+      "result": null,
+      "retry_after": 1797339501.3451784,
+      "status": "not_found"
+    },
+    "2602.19711": {
+      "last_attempt": 1794747503.4452674,
+      "result": null,
+      "retry_after": 1797339503.663006,
+      "status": "not_found"
+    },
+    "2602.19720": {
+      "last_attempt": 1794747505.7631307,
+      "result": null,
+      "retry_after": 1797339505.9463043,
+      "status": "not_found"
+    },
+    "2602.19731": {
+      "last_attempt": 1794747508.0464108,
+      "result": null,
+      "retry_after": 1797339508.2610943,
+      "status": "not_found"
+    },
+    "2602.19738": {
+      "last_attempt": 1794747510.3612077,
+      "result": null,
+      "retry_after": 1797339510.520696,
+      "status": "not_found"
+    },
+    "2602.19745": {
+      "last_attempt": 1794747512.620813,
+      "result": null,
+      "retry_after": 1797339513.7247522,
+      "status": "not_found"
+    },
+    "2602.19748": {
+      "last_attempt": 1794747515.8248696,
+      "result": null,
+      "retry_after": 1797339516.1683388,
+      "status": "not_found"
+    },
+    "2602.19750": {
+      "last_attempt": 1794747518.2684734,
+      "result": null,
+      "retry_after": 1794748418.5001678,
+      "status": "transient_error"
+    },
+    "2602.19761": {
+      "last_attempt": 1794747520.6002738,
+      "result": null,
+      "retry_after": 1797339522.010898,
+      "status": "not_found"
+    },
+    "2602.19770": {
+      "last_attempt": 1794747524.11101,
+      "result": null,
+      "retry_after": 1797339524.4795961,
+      "status": "not_found"
+    },
+    "2602.19780": {
+      "last_attempt": 1794747526.579693,
+      "result": null,
+      "retry_after": 1794748426.815267,
+      "status": "transient_error"
+    },
+    "2602.19783": {
+      "last_attempt": 1794747528.915376,
+      "result": null,
+      "retry_after": 1797339529.1461482,
+      "status": "not_found"
+    },
+    "2602.19784": {
+      "last_attempt": 1794747531.2462566,
+      "result": null,
+      "retry_after": 1797339531.456528,
+      "status": "not_found"
+    },
+    "2602.19786": {
+      "last_attempt": 1794747533.5566332,
+      "result": null,
+      "retry_after": 1794748433.836611,
+      "status": "transient_error"
+    },
+    "2602.19792": {
+      "last_attempt": 1794747535.9367228,
+      "result": null,
+      "retry_after": 1797339536.082417,
+      "status": "not_found"
+    },
+    "2602.19800": {
+      "last_attempt": 1794747538.1825302,
+      "result": null,
+      "retry_after": 1797339538.3809607,
+      "status": "not_found"
+    },
+    "2602.19806": {
+      "last_attempt": 1794747540.4810677,
+      "result": null,
+      "retry_after": 1797339540.6713414,
+      "status": "not_found"
+    },
+    "2602.19807": {
+      "last_attempt": 1794747542.7714624,
+      "result": null,
+      "retry_after": 1797339542.970091,
+      "status": "not_found"
+    },
+    "2602.19810": {
+      "last_attempt": 1794747545.0702314,
+      "result": null,
+      "retry_after": 1797339545.4680398,
+      "status": "not_found"
+    },
+    "2602.19811": {
+      "last_attempt": 1794747547.5681472,
+      "result": null,
+      "retry_after": 1797339547.8103657,
+      "status": "not_found"
+    },
+    "2602.19815": {
+      "last_attempt": 1794747549.9104764,
+      "result": null,
+      "retry_after": 1797339550.1449773,
+      "status": "not_found"
+    },
+    "2602.19822": {
+      "last_attempt": 1794747552.2450871,
+      "result": null,
+      "retry_after": 1794748452.5001626,
+      "status": "transient_error"
+    },
+    "2602.19831": {
+      "last_attempt": 1794747554.6002705,
+      "result": null,
+      "retry_after": 1797339554.7828588,
+      "status": "not_found"
+    },
+    "2602.19837": {
+      "last_attempt": 1794747556.8829765,
+      "result": null,
+      "retry_after": 1797339557.0580668,
+      "status": "not_found"
+    },
+    "2602.19840": {
+      "last_attempt": 1794747559.1581628,
+      "result": null,
+      "retry_after": 1797339559.3473773,
+      "status": "not_found"
+    },
+    "2602.19843": {
+      "last_attempt": 1794747561.4475026,
+      "result": null,
+      "retry_after": 1797339561.6835098,
+      "status": "not_found"
+    },
+    "2602.19845": {
+      "last_attempt": 1794747563.7836263,
+      "result": "https://github.com/toboooo/FixedNeuralNet",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.19873": {
+      "last_attempt": 1794747566.230895,
+      "result": null,
+      "retry_after": 1794748466.47352,
+      "status": "transient_error"
+    },
+    "2602.19876": {
+      "last_attempt": 1794747568.573628,
+      "result": null,
+      "retry_after": 1797339568.7724953,
+      "status": "not_found"
+    },
+    "2602.19883": {
+      "last_attempt": 1794747570.8726044,
+      "result": null,
+      "retry_after": 1794748471.1392548,
+      "status": "transient_error"
+    },
+    "2602.19884": {
+      "last_attempt": 1794747573.239367,
+      "result": null,
+      "retry_after": 1797339573.455722,
+      "status": "not_found"
+    },
+    "2602.19898": {
+      "last_attempt": 1794747575.5558379,
+      "result": null,
+      "retry_after": 1797339575.7882798,
+      "status": "not_found"
     }
   },
   "retry_after": 1793274394.2966185,
