@@ -2,15 +2,15 @@
   "last_run": {
     "attempted": 40,
     "cached": 0,
-    "deferred": 741,
-    "elapsed_seconds": 95.806,
-    "finished_at": 1794927304.1137395,
-    "found": 1,
+    "deferred": 770,
+    "elapsed_seconds": 97.427,
+    "finished_at": 1795012499.4213328,
+    "found": 2,
     "invalid_rows": 0,
     "status": "max_papers",
-    "updated_rows": 5
+    "updated_rows": 7
   },
-  "next_request_at": 1794927306.2082102,
+  "next_request_at": 1795012501.5158525,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -6754,6 +6754,246 @@
       "last_attempt": 1794927303.802124,
       "result": null,
       "retry_after": 1794928204.1082082,
+      "status": "transient_error"
+    },
+    "2602.20109": {
+      "last_attempt": 1795012402.9848135,
+      "result": null,
+      "retry_after": 1795013303.525921,
+      "status": "transient_error"
+    },
+    "2602.20110": {
+      "last_attempt": 1795012405.6260765,
+      "result": null,
+      "retry_after": 1797604405.8458304,
+      "status": "not_found"
+    },
+    "2602.20112": {
+      "last_attempt": 1795012407.9459577,
+      "result": null,
+      "retry_after": 1797604408.2014349,
+      "status": "not_found"
+    },
+    "2602.20114": {
+      "last_attempt": 1795012410.3016126,
+      "result": null,
+      "retry_after": 1795013310.7310076,
+      "status": "transient_error"
+    },
+    "2602.20116": {
+      "last_attempt": 1795012412.8311934,
+      "result": null,
+      "retry_after": 1795013313.129611,
+      "status": "transient_error"
+    },
+    "2602.20117": {
+      "last_attempt": 1795012415.229749,
+      "result": null,
+      "retry_after": 1795013315.6133037,
+      "status": "transient_error"
+    },
+    "2602.20118": {
+      "last_attempt": 1795012417.7134836,
+      "result": null,
+      "retry_after": 1797604417.970008,
+      "status": "not_found"
+    },
+    "2602.20119": {
+      "last_attempt": 1795012420.0701544,
+      "result": null,
+      "retry_after": 1795013320.5758214,
+      "status": "transient_error"
+    },
+    "2602.20120": {
+      "last_attempt": 1795012422.6760166,
+      "result": null,
+      "retry_after": 1797604422.9761956,
+      "status": "not_found"
+    },
+    "2602.20122": {
+      "last_attempt": 1795012425.0762987,
+      "result": "https://github.com/castorini/NanoKnow",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.20126": {
+      "last_attempt": 1795012427.4900103,
+      "result": null,
+      "retry_after": 1797604427.804552,
+      "status": "not_found"
+    },
+    "2602.20127": {
+      "last_attempt": 1795012429.9047313,
+      "result": null,
+      "retry_after": 1795013330.3306575,
+      "status": "transient_error"
+    },
+    "2602.20128": {
+      "last_attempt": 1795012432.4307969,
+      "result": null,
+      "retry_after": 1797604432.695812,
+      "status": "not_found"
+    },
+    "2602.20129": {
+      "last_attempt": 1795012434.795944,
+      "result": null,
+      "retry_after": 1797604435.1244643,
+      "status": "not_found"
+    },
+    "2602.20130": {
+      "last_attempt": 1795012437.2246025,
+      "result": null,
+      "retry_after": 1797604437.601469,
+      "status": "not_found"
+    },
+    "2602.20132": {
+      "last_attempt": 1795012439.7016356,
+      "result": null,
+      "retry_after": 1797604440.0309186,
+      "status": "not_found"
+    },
+    "2602.20133": {
+      "last_attempt": 1795012442.1310527,
+      "result": null,
+      "retry_after": 1795013342.6269114,
+      "status": "transient_error"
+    },
+    "2602.20134": {
+      "last_attempt": 1795012444.7270613,
+      "result": null,
+      "retry_after": 1795013345.0388978,
+      "status": "transient_error"
+    },
+    "2602.20135": {
+      "last_attempt": 1795012447.1390195,
+      "result": null,
+      "retry_after": 1795013347.423374,
+      "status": "transient_error"
+    },
+    "2602.20136": {
+      "last_attempt": 1795012449.5235288,
+      "result": null,
+      "retry_after": 1797604449.838916,
+      "status": "not_found"
+    },
+    "2602.20137": {
+      "last_attempt": 1795012451.9390538,
+      "result": null,
+      "retry_after": 1797604452.2814043,
+      "status": "not_found"
+    },
+    "2602.20139": {
+      "last_attempt": 1795012454.3815453,
+      "result": null,
+      "retry_after": 1795013354.7338386,
+      "status": "transient_error"
+    },
+    "2602.20140": {
+      "last_attempt": 1795012456.8339787,
+      "result": null,
+      "retry_after": 1795013357.1993852,
+      "status": "transient_error"
+    },
+    "2602.20141": {
+      "last_attempt": 1795012459.2995248,
+      "result": null,
+      "retry_after": 1797604459.5858576,
+      "status": "not_found"
+    },
+    "2602.20144": {
+      "last_attempt": 1795012461.6859818,
+      "result": null,
+      "retry_after": 1797604461.9804258,
+      "status": "not_found"
+    },
+    "2602.20145": {
+      "last_attempt": 1795012464.0805445,
+      "result": null,
+      "retry_after": 1797604464.4650037,
+      "status": "not_found"
+    },
+    "2602.20148": {
+      "last_attempt": 1795012466.565141,
+      "result": null,
+      "retry_after": 1795013366.883381,
+      "status": "transient_error"
+    },
+    "2602.20150": {
+      "last_attempt": 1795012468.9835248,
+      "result": null,
+      "retry_after": 1797604469.3757057,
+      "status": "not_found"
+    },
+    "2602.20153": {
+      "last_attempt": 1795012471.4758255,
+      "result": null,
+      "retry_after": 1795013371.835903,
+      "status": "transient_error"
+    },
+    "2602.20155": {
+      "last_attempt": 1795012473.936049,
+      "result": null,
+      "retry_after": 1795013374.2574065,
+      "status": "transient_error"
+    },
+    "2602.20157": {
+      "last_attempt": 1795012476.357544,
+      "result": null,
+      "retry_after": 1797604476.7337346,
+      "status": "not_found"
+    },
+    "2602.20158": {
+      "last_attempt": 1795012478.833884,
+      "result": null,
+      "retry_after": 1797604479.2791042,
+      "status": "not_found"
+    },
+    "2602.20159": {
+      "last_attempt": 1795012481.379243,
+      "result": "https://github.com/Video-Reason/VBVR-Wan2.2",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.20204": {
+      "last_attempt": 1795012484.1308117,
+      "result": null,
+      "retry_after": 1797604484.365477,
+      "status": "not_found"
+    },
+    "2602.20270": {
+      "last_attempt": 1795012486.4656622,
+      "result": null,
+      "retry_after": 1795013386.753672,
+      "status": "transient_error"
+    },
+    "2602.20282": {
+      "last_attempt": 1795012488.8538446,
+      "result": null,
+      "retry_after": 1795013389.179007,
+      "status": "transient_error"
+    },
+    "2602.20293": {
+      "last_attempt": 1795012491.2791216,
+      "result": null,
+      "retry_after": 1797604491.6288052,
+      "status": "not_found"
+    },
+    "2602.20421": {
+      "last_attempt": 1795012493.7289162,
+      "result": null,
+      "retry_after": 1797604494.1074176,
+      "status": "not_found"
+    },
+    "2602.20447": {
+      "last_attempt": 1795012496.2075562,
+      "result": null,
+      "retry_after": 1797604496.5166788,
+      "status": "not_found"
+    },
+    "2602.20478": {
+      "last_attempt": 1795012498.616806,
+      "result": null,
+      "retry_after": 1795013399.4158494,
       "status": "transient_error"
     }
   },

@@ -20727,7 +20727,7 @@ layout: default
 |**2026-02-24**|**Probing Graph Neural Network Activation Patterns Through Graph Topology**|Floriano Tori et.al.|[2602.21092](http://arxiv.org/abs/2602.21092)|null|null|
 |**2026-02-24**|**Can Interest-Bearing Positions Solve the Long-Horizon Problem in Prediction Markets?**|Caleb Maresca et.al.|[2602.21091](http://arxiv.org/abs/2602.21091)|null|null|
 |**2026-02-23**|**Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device**|Abdelrahman Shaker et.al.|[2602.20161](http://arxiv.org/abs/2602.20161)|**[link](https://github.com/Amshaker/Mobile-O)**|null|
-|**2026-02-23**|**A Very Big Video Reasoning Suite**|Maijunxian Wang et.al.|[2602.20159](http://arxiv.org/abs/2602.20159)|null|null|
+|**2026-02-23**|**A Very Big Video Reasoning Suite**|Maijunxian Wang et.al.|[2602.20159](http://arxiv.org/abs/2602.20159)|**[link](https://github.com/Video-Reason/VBVR-Wan2.2)**|null|
 |**2026-02-23**|**Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning**|Zhongxiao Cong et.al.|[2602.20157](http://arxiv.org/abs/2602.20157)|null|null|
 |**2026-02-23**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)|**[link](https://github.com/aisa-group/skill-inject)**|null|
 |**2026-02-23**|**JUCAL: Jointly Calibrating Aleatoric and Epistemic Uncertainty in Classification Tasks**|Jakob Heiss et.al.|[2602.20153](http://arxiv.org/abs/2602.20153)|null|null|
@@ -20741,7 +20741,7 @@ layout: default
 |**2026-02-23**|**Microstructural Evolution and Crystallization Behavior of Amorphous Medium-Entropy Ti-Nb-Zr-Ag Thin Films**|Anna Benediktová et.al.|[2602.20129](http://arxiv.org/abs/2602.20129)|null|null|
 |**2026-02-23**|**Experimental characterization of coherent and non-Markovian errors using tangent space decomposition**|Elia Perego et.al.|[2602.20128](http://arxiv.org/abs/2602.20128)|null|null|
 |**2026-02-23**|**Enormous Fluid Antenna Systems (E-FAS)--Part II: Channel Estimation**|Farshad Rostami Ghadi et.al.|[2602.20127](http://arxiv.org/abs/2602.20127)|null|null|
-|**2026-02-23**|**NanoKnow: How to Know What Your Language Model Knows**|Lingwei Gu et.al.|[2602.20122](http://arxiv.org/abs/2602.20122)|null|null|
+|**2026-02-23**|**NanoKnow: How to Know What Your Language Model Knows**|Lingwei Gu et.al.|[2602.20122](http://arxiv.org/abs/2602.20122)|**[link](https://github.com/castorini/NanoKnow)**|null|
 |**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119](http://arxiv.org/abs/2602.20119)|null|null|
 |**2026-02-23**|**ReSyn: Autonomously Scaling Synthetic Environments for Reasoning Models**|Andre He et.al.|[2602.20117](http://arxiv.org/abs/2602.20117)|null|null|
 |**2026-02-23**|**Benchmarking Unlearning for Vision Transformers**|Kairan Zhao et.al.|[2602.20114](http://arxiv.org/abs/2602.20114)|null|null|
@@ -33565,7 +33565,7 @@ layout: default
 |**2026-02-24**|**Validation of an analyzability model for quantum software: a family of experiments**|Ana Díaz-Muñoz et.al.|[2602.21074](http://arxiv.org/abs/2602.21074)|null|null|
 |**2026-02-24**|**Tool Building as a Path to "Superintelligence"**|David Koplow et.al.|[2602.21061](http://arxiv.org/abs/2602.21061)|**[link](https://github.com/Poggio-Lab/Tool-Building-as-a-Path-to-Superintelligence)**|null|
 |**2026-02-23**|**Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device**|Abdelrahman Shaker et.al.|[2602.20161](http://arxiv.org/abs/2602.20161)|**[link](https://github.com/Amshaker/Mobile-O)**|null|
-|**2026-02-23**|**A Very Big Video Reasoning Suite**|Maijunxian Wang et.al.|[2602.20159](http://arxiv.org/abs/2602.20159)|null|null|
+|**2026-02-23**|**A Very Big Video Reasoning Suite**|Maijunxian Wang et.al.|[2602.20159](http://arxiv.org/abs/2602.20159)|**[link](https://github.com/Video-Reason/VBVR-Wan2.2)**|null|
 |**2026-02-23**|**Skill-Inject: Measuring Agent Vulnerability to Skill File Attacks**|David Schmotz et.al.|[2602.20156](http://arxiv.org/abs/2602.20156)|**[link](https://github.com/aisa-group/skill-inject)**|null|
 |**2026-02-23**|**Topography-Induced Stationary Waves and the Onset of Nightside Warming on Rocky Planets around M-dwarf Stars**|Howard Chen et.al.|[2602.20155](http://arxiv.org/abs/2602.20155)|null|null|
 |**2026-02-23**|**Agentic AI for Scalable and Robust Optical Systems Control**|Zehao Wang et.al.|[2602.20144](http://arxiv.org/abs/2602.20144)|null|null|
@@ -33576,7 +33576,7 @@ layout: default
 |**2026-02-23**|**LAD: Learning Advantage Distribution for Reasoning**|Wendi Li et.al.|[2602.20132](http://arxiv.org/abs/2602.20132)|null|null|
 |**2026-02-23**|**To Reason or Not to: Selective Chain-of-Thought in Medical Question Answering**|Zaifu Zhan et.al.|[2602.20130](http://arxiv.org/abs/2602.20130)|null|null|
 |**2026-02-23**|**Adaptation to Intrinsic Dependence in Diffusion Language Models**|Yunxiao Zhao et.al.|[2602.20126](http://arxiv.org/abs/2602.20126)|null|null|
-|**2026-02-23**|**NanoKnow: How to Know What Your Language Model Knows**|Lingwei Gu et.al.|[2602.20122](http://arxiv.org/abs/2602.20122)|null|null|
+|**2026-02-23**|**NanoKnow: How to Know What Your Language Model Knows**|Lingwei Gu et.al.|[2602.20122](http://arxiv.org/abs/2602.20122)|**[link](https://github.com/castorini/NanoKnow)**|null|
 |**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119](http://arxiv.org/abs/2602.20119)|null|null|
 |**2026-02-23**|**ReSyn: Autonomously Scaling Synthetic Environments for Reasoning Models**|Andre He et.al.|[2602.20117](http://arxiv.org/abs/2602.20117)|null|null|
 |**2026-02-23**|**Benchmarking Unlearning for Vision Transformers**|Kairan Zhao et.al.|[2602.20114](http://arxiv.org/abs/2602.20114)|null|null|
@@ -54533,7 +54533,7 @@ layout: default
 |**2026-02-24**|**LogicGraph : Benchmarking Multi-Path Logical Reasoning via Neuro-Symbolic Generation and Verification**|Yanrui Wu et.al.|[2602.21044](http://arxiv.org/abs/2602.21044)|null|null|
 |**2026-02-24**|**On the non-uniformity of the 2026 FIFA World Cup draw**|László Csató et.al.|[2602.21029](http://arxiv.org/abs/2602.21029)|null|null|
 |**2026-02-24**|**Expregular functions**|Thomas Colcombet et.al.|[2602.21019](http://arxiv.org/abs/2602.21019)|null|null|
-|**2026-02-23**|**A Very Big Video Reasoning Suite**|Maijunxian Wang et.al.|[2602.20159](http://arxiv.org/abs/2602.20159)|null|null|
+|**2026-02-23**|**A Very Big Video Reasoning Suite**|Maijunxian Wang et.al.|[2602.20159](http://arxiv.org/abs/2602.20159)|**[link](https://github.com/Video-Reason/VBVR-Wan2.2)**|null|
 |**2026-02-23**|**Simulation-Ready Cluttered Scene Estimation via Physics-aware Joint Shape and Pose Optimization**|Wei-Cheng Huang et.al.|[2602.20150](http://arxiv.org/abs/2602.20150)|null|null|
 |**2026-02-23**|**Do Large Language Models Understand Data Visualization Rules?**|Martin Sinnona et.al.|[2602.20137](http://arxiv.org/abs/2602.20137)|null|null|
 |**2026-02-23**|**On a discrete max-plus transportation problem**|Sergio Mayorga et.al.|[2602.20136](http://arxiv.org/abs/2602.20136)|null|null|
@@ -68141,7 +68141,7 @@ layout: default
 |**2026-02-24**|**CrystaL: Spontaneous Emergence of Visual Latents in MLLMs**|Yang Zhang et.al.|[2602.20980](http://arxiv.org/abs/2602.20980)|null|null|
 |**2026-02-24**|**Toward an Agentic Infused Software Ecosystem**|Mark Marron et.al.|[2602.20979](http://arxiv.org/abs/2602.20979)|**[link](https://github.com/Ufere/Assingment_1)**|null|
 |**2026-02-23**|**Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device**|Abdelrahman Shaker et.al.|[2602.20161](http://arxiv.org/abs/2602.20161)|**[link](https://github.com/Amshaker/Mobile-O)**|null|
-|**2026-02-23**|**A Very Big Video Reasoning Suite**|Maijunxian Wang et.al.|[2602.20159](http://arxiv.org/abs/2602.20159)|null|null|
+|**2026-02-23**|**A Very Big Video Reasoning Suite**|Maijunxian Wang et.al.|[2602.20159](http://arxiv.org/abs/2602.20159)|**[link](https://github.com/Video-Reason/VBVR-Wan2.2)**|null|
 |**2026-02-23**|**Simulation-Ready Cluttered Scene Estimation via Physics-aware Joint Shape and Pose Optimization**|Wei-Cheng Huang et.al.|[2602.20150](http://arxiv.org/abs/2602.20150)|null|null|
 |**2026-02-23**|**LAD: Learning Advantage Distribution for Reasoning**|Wendi Li et.al.|[2602.20132](http://arxiv.org/abs/2602.20132)|null|null|
 |**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119](http://arxiv.org/abs/2602.20119)|null|null|
@@ -76040,7 +76040,7 @@ layout: default
 |**2026-02-24**|**Hawkes Identification with a Prescribed Causal Basis: Closed-Form Estimators and Asymptotics**|Xinhui Rong et.al.|[2602.20795](http://arxiv.org/abs/2602.20795)|null|null|
 |**2026-02-23**|**tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction**|Chen Wang et.al.|[2602.20160](http://arxiv.org/abs/2602.20160)|**[link](https://github.com/cwchenwang/tttLRM)**|**[link](https://huggingface.co/chenwang/tttLRM)**|
 |**2026-02-23**|**KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration**|Mohammad Amanlou et.al.|[2602.20135](http://arxiv.org/abs/2602.20135)|null|null|
-|**2026-02-23**|**NanoKnow: How to Know What Your Language Model Knows**|Lingwei Gu et.al.|[2602.20122](http://arxiv.org/abs/2602.20122)|null|null|
+|**2026-02-23**|**NanoKnow: How to Know What Your Language Model Knows**|Lingwei Gu et.al.|[2602.20122](http://arxiv.org/abs/2602.20122)|**[link](https://github.com/castorini/NanoKnow)**|null|
 |**2026-02-23**|**Mitigating Artifacts in Pre-quantization Based Scientific Data Compressors with Quantization-aware Interpolation**|Pu Jiao et.al.|[2602.20097](http://arxiv.org/abs/2602.20097)|null|null|
 |**2026-02-23**|**ManCAR: Manifold-Constrained Latent Reasoning with Adaptive Test-Time Computation for Sequential Recommendation**|Kun Yang et.al.|[2602.20093](http://arxiv.org/abs/2602.20093)|**[link](https://github.com/FuCongResearchSquad/ManCAR)**|null|
 |**2026-02-23**|**How Retrieved Context Shapes Internal Representations in RAG**|Samuel Yeh et.al.|[2602.20091](http://arxiv.org/abs/2602.20091)|null|null|
