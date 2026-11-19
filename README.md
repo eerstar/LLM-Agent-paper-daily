@@ -60068,7 +60068,7 @@
 |**2026-02-24**|**Maximin Share Guarantees via Limited Cost-Sensitive Sharing**|Hana Salavcova et.al.|[2602.20541](http://arxiv.org/abs/2602.20541)|null|null|
 |**2026-02-24**|**AT 2024wpp: the most luminous fast-evolving optical transient linked to the merger explosion of a black-hole binary**|Jialian Liu et.al.|[2602.20523](http://arxiv.org/abs/2602.20523)|null|null|
 |**2026-02-24**|**Conflict-Based Search for Multi-Agent Path Finding with Elevators**|Haitong He et.al.|[2602.20512](http://arxiv.org/abs/2602.20512)|null|null|
-|**2026-02-24**|**AWCP: A Workspace Delegation Protocol for Deep-Engagement Collaboration across Remote Agents**|Xiaohang Nie et.al.|[2602.20493](http://arxiv.org/abs/2602.20493)|null|null|
+|**2026-02-24**|**AWCP: A Workspace Delegation Protocol for Deep-Engagement Collaboration across Remote Agents**|Xiaohang Nie et.al.|[2602.20493](http://arxiv.org/abs/2602.20493)|**[link](https://github.com/SII-Holos/awcp)**|null|
 |**2026-02-24**|**Codified Context: Infrastructure for AI Agents in a Complex Codebase**|Aristidis Vasilopoulos et.al.|[2602.20478](http://arxiv.org/abs/2602.20478)|null|null|
 |**2026-02-24**|**Detectability of Satellite Planes in Mock Observations of Isolated L* Galaxies**|Ethan Crosby et.al.|[2602.20447](http://arxiv.org/abs/2602.20447)|null|null|
 |**2026-02-23**|**Revealing Pseudo-Fermionization and Chiral Binding of One-Dimensional Anyons using Adiabatic State Preparation**|Brice Bakkali-Hassani et.al.|[2602.20421](http://arxiv.org/abs/2602.20421)|null|null|
