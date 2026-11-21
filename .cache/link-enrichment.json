@@ -3,14 +3,14 @@
     "attempted": 40,
     "cached": 0,
     "deferred": 768,
-    "elapsed_seconds": 94.131,
-    "finished_at": 1795184600.6311436,
-    "found": 0,
+    "elapsed_seconds": 92.609,
+    "finished_at": 1795268638.5556505,
+    "found": 3,
     "invalid_rows": 0,
     "status": "max_papers",
-    "updated_rows": 0
+    "updated_rows": 6
   },
-  "next_request_at": 1795184602.722318,
+  "next_request_at": 1795268640.649979,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -7474,6 +7474,246 @@
       "last_attempt": 1795184600.3415377,
       "result": null,
       "retry_after": 1797776600.6223147,
+      "status": "not_found"
+    },
+    "2602.21041": {
+      "last_attempt": 1795268546.8269122,
+      "result": null,
+      "retry_after": 1797860547.0923123,
+      "status": "not_found"
+    },
+    "2602.21042": {
+      "last_attempt": 1795268549.1924253,
+      "result": "https://github.com/AIGeeksGroup/OmniOCR",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.21044": {
+      "last_attempt": 1795268551.5974808,
+      "result": null,
+      "retry_after": 1797860551.8750086,
+      "status": "not_found"
+    },
+    "2602.21046": {
+      "last_attempt": 1795268553.9751194,
+      "result": null,
+      "retry_after": 1795269454.2484767,
+      "status": "transient_error"
+    },
+    "2602.21054": {
+      "last_attempt": 1795268556.3485694,
+      "result": null,
+      "retry_after": 1795269456.7248516,
+      "status": "transient_error"
+    },
+    "2602.21058": {
+      "last_attempt": 1795268558.8249545,
+      "result": null,
+      "retry_after": 1797860559.073758,
+      "status": "not_found"
+    },
+    "2602.21059": {
+      "last_attempt": 1795268561.1739213,
+      "result": null,
+      "retry_after": 1797860561.3480585,
+      "status": "not_found"
+    },
+    "2602.21066": {
+      "last_attempt": 1795268563.4481497,
+      "result": null,
+      "retry_after": 1795269463.7354453,
+      "status": "transient_error"
+    },
+    "2602.21072": {
+      "last_attempt": 1795268565.835539,
+      "result": "https://github.com/panxulab/LoDADA",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.21074": {
+      "last_attempt": 1795268568.2190971,
+      "result": null,
+      "retry_after": 1797860568.4366508,
+      "status": "not_found"
+    },
+    "2602.21079": {
+      "last_attempt": 1795268570.5367615,
+      "result": null,
+      "retry_after": 1797860570.7245166,
+      "status": "not_found"
+    },
+    "2602.21080": {
+      "last_attempt": 1795268572.824629,
+      "result": null,
+      "retry_after": 1797860573.0857995,
+      "status": "not_found"
+    },
+    "2602.21081": {
+      "last_attempt": 1795268575.1859162,
+      "result": null,
+      "retry_after": 1797860575.4376798,
+      "status": "not_found"
+    },
+    "2602.21082": {
+      "last_attempt": 1795268577.5377884,
+      "result": null,
+      "retry_after": 1797860577.7348716,
+      "status": "not_found"
+    },
+    "2602.21087": {
+      "last_attempt": 1795268579.8349643,
+      "result": null,
+      "retry_after": 1797860580.0383785,
+      "status": "not_found"
+    },
+    "2602.21088": {
+      "last_attempt": 1795268582.1384919,
+      "result": null,
+      "retry_after": 1797860582.3052063,
+      "status": "not_found"
+    },
+    "2602.21089": {
+      "last_attempt": 1795268584.4053273,
+      "result": null,
+      "retry_after": 1797860584.575288,
+      "status": "not_found"
+    },
+    "2602.21091": {
+      "last_attempt": 1795268586.6754117,
+      "result": null,
+      "retry_after": 1797860586.96692,
+      "status": "not_found"
+    },
+    "2602.21092": {
+      "last_attempt": 1795268589.0670307,
+      "result": null,
+      "retry_after": 1795269489.3793252,
+      "status": "transient_error"
+    },
+    "2602.21093": {
+      "last_attempt": 1795268591.4794338,
+      "result": null,
+      "retry_after": 1795269491.7228422,
+      "status": "transient_error"
+    },
+    "2602.21094": {
+      "last_attempt": 1795268593.822954,
+      "result": null,
+      "retry_after": 1795269494.124609,
+      "status": "transient_error"
+    },
+    "2602.21099": {
+      "last_attempt": 1795268596.224712,
+      "result": null,
+      "retry_after": 1797860596.4550192,
+      "status": "not_found"
+    },
+    "2602.21100": {
+      "last_attempt": 1795268598.5551,
+      "result": null,
+      "retry_after": 1797860598.804156,
+      "status": "not_found"
+    },
+    "2602.21101": {
+      "last_attempt": 1795268600.9042656,
+      "result": null,
+      "retry_after": 1797860601.2192526,
+      "status": "not_found"
+    },
+    "2602.21102": {
+      "last_attempt": 1795268603.3193653,
+      "result": null,
+      "retry_after": 1797860603.672284,
+      "status": "not_found"
+    },
+    "2602.21103": {
+      "last_attempt": 1795268605.7724113,
+      "result": "https://github.com/shawonashraf/prompt-level-distillation",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.21107": {
+      "last_attempt": 1795268608.1814373,
+      "result": null,
+      "retry_after": 1797860608.4082615,
+      "status": "not_found"
+    },
+    "2602.21108": {
+      "last_attempt": 1795268610.508378,
+      "result": null,
+      "retry_after": 1797860610.706212,
+      "status": "not_found"
+    },
+    "2602.21111": {
+      "last_attempt": 1795268612.8063264,
+      "result": null,
+      "retry_after": 1795269513.0937314,
+      "status": "transient_error"
+    },
+    "2602.21114": {
+      "last_attempt": 1795268615.1938322,
+      "result": null,
+      "retry_after": 1797860615.3822188,
+      "status": "not_found"
+    },
+    "2602.21116": {
+      "last_attempt": 1795268617.4824228,
+      "result": null,
+      "retry_after": 1797860617.7358437,
+      "status": "not_found"
+    },
+    "2602.21119": {
+      "last_attempt": 1795268619.8359377,
+      "result": null,
+      "retry_after": 1797860620.0197284,
+      "status": "not_found"
+    },
+    "2602.21123": {
+      "last_attempt": 1795268622.1198285,
+      "result": null,
+      "retry_after": 1797860622.37701,
+      "status": "not_found"
+    },
+    "2602.21124": {
+      "last_attempt": 1795268624.477108,
+      "result": null,
+      "retry_after": 1795269524.7348678,
+      "status": "transient_error"
+    },
+    "2602.21126": {
+      "last_attempt": 1795268626.8350322,
+      "result": null,
+      "retry_after": 1797860627.039947,
+      "status": "not_found"
+    },
+    "2602.21127": {
+      "last_attempt": 1795268629.1400573,
+      "result": null,
+      "retry_after": 1797860629.3343635,
+      "status": "not_found"
+    },
+    "2602.21128": {
+      "last_attempt": 1795268631.4344695,
+      "result": null,
+      "retry_after": 1797860631.690623,
+      "status": "not_found"
+    },
+    "2602.21129": {
+      "last_attempt": 1795268633.7907364,
+      "result": null,
+      "retry_after": 1797860633.9691062,
+      "status": "not_found"
+    },
+    "2602.21130": {
+      "last_attempt": 1795268636.0692186,
+      "result": null,
+      "retry_after": 1797860636.2830646,
+      "status": "not_found"
+    },
+    "2602.21132": {
+      "last_attempt": 1795268638.3831785,
+      "result": null,
+      "retry_after": 1797860638.5499766,
       "status": "not_found"
     }
   },

@@ -21760,7 +21760,7 @@
 |**2026-02-24**|**Attention-Based SINR Estimation in User-Centric Non-Terrestrial Networks**|Bruno De Filippo et.al.|[2602.21116](http://arxiv.org/abs/2602.21116)|null|null|
 |**2026-02-24**|**Delay Alignment Modulation for Secure ISAC Systems**|Tianyu Lu et.al.|[2602.21114](http://arxiv.org/abs/2602.21114)|null|null|
 |**2026-02-24**|**Resilient Cell-Free Massive MIMO Networks**|Junbin Yu et.al.|[2602.21107](http://arxiv.org/abs/2602.21107)|null|null|
-|**2026-02-24**|**Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning**|Sanket Badhe et.al.|[2602.21103](http://arxiv.org/abs/2602.21103)|null|null|
+|**2026-02-24**|**Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning**|Sanket Badhe et.al.|[2602.21103](http://arxiv.org/abs/2602.21103)|**[link](https://github.com/shawonashraf/prompt-level-distillation)**|null|
 |**2026-02-24**|**BRISC: A Dataset of Channel Measurements at 5 GHz With a Reflective Intelligent Surface**|Mattia Piana et.al.|[2602.21102](http://arxiv.org/abs/2602.21102)|null|null|
 |**2026-02-24**|**Turning Semantics into Topology: LLM-Driven Attribute Augmentation for Collaborative Filtering**|Junjie Meng et.al.|[2602.21099](http://arxiv.org/abs/2602.21099)|null|null|
 |**2026-02-24**|**Probing Graph Neural Network Activation Patterns Through Graph Topology**|Floriano Tori et.al.|[2602.21092](http://arxiv.org/abs/2602.21092)|null|null|
@@ -34667,7 +34667,7 @@
 |**2026-02-24**|**SOM-VQ: Topology-Aware Tokenization for Interactive Generative Models**|Alessandro Londei et.al.|[2602.21133](http://arxiv.org/abs/2602.21133)|null|null|
 |**2026-02-24**|**"Are You Sure?": An Empirical Study of Human Perception Vulnerability in LLM-Driven Agentic Systems**|Xinfeng Li et.al.|[2602.21127](http://arxiv.org/abs/2602.21127)|null|null|
 |**2026-02-24**|**Delay Alignment Modulation for Secure ISAC Systems**|Tianyu Lu et.al.|[2602.21114](http://arxiv.org/abs/2602.21114)|null|null|
-|**2026-02-24**|**Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning**|Sanket Badhe et.al.|[2602.21103](http://arxiv.org/abs/2602.21103)|null|null|
+|**2026-02-24**|**Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning**|Sanket Badhe et.al.|[2602.21103](http://arxiv.org/abs/2602.21103)|**[link](https://github.com/shawonashraf/prompt-level-distillation)**|null|
 |**2026-02-24**|**Skullptor: High Fidelity 3D Head Reconstruction in Seconds with Multi-View Normal Prediction**|Noé Artru et.al.|[2602.21100](http://arxiv.org/abs/2602.21100)|null|null|
 |**2026-02-24**|**Turning Semantics into Topology: LLM-Driven Attribute Augmentation for Collaborative Filtering**|Junjie Meng et.al.|[2602.21099](http://arxiv.org/abs/2602.21099)|null|null|
 |**2026-02-24**|**Can Interest-Bearing Positions Solve the Long-Horizon Problem in Prediction Markets?**|Caleb Maresca et.al.|[2602.21091](http://arxiv.org/abs/2602.21091)|null|null|
@@ -56518,7 +56518,7 @@
 |**2026-02-24**|**Controlling inertial active Brownian motion via stochastic resetting**|Manish Patel et.al.|[2602.21134](http://arxiv.org/abs/2602.21134)|null|null|
 |**2026-02-24**|**An Enhanced Projection Pursuit Tree Classifier with Visual Methods for Assessing Algorithmic Improvements**|Natalia da Silva et.al.|[2602.21130](http://arxiv.org/abs/2602.21130)|null|null|
 |**2026-02-24**|**Density Functional Theory Predictions of Derivative Thermodynamic Properties of a Confined Fluid**|Gennady Y. Gor et.al.|[2602.21111](http://arxiv.org/abs/2602.21111)|null|null|
-|**2026-02-24**|**Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning**|Sanket Badhe et.al.|[2602.21103](http://arxiv.org/abs/2602.21103)|null|null|
+|**2026-02-24**|**Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning**|Sanket Badhe et.al.|[2602.21103](http://arxiv.org/abs/2602.21103)|**[link](https://github.com/shawonashraf/prompt-level-distillation)**|null|
 |**2026-02-24**|**BRISC: A Dataset of Channel Measurements at 5 GHz With a Reflective Intelligent Surface**|Mattia Piana et.al.|[2602.21102](http://arxiv.org/abs/2602.21102)|null|null|
 |**2026-02-24**|**Turning Semantics into Topology: LLM-Driven Attribute Augmentation for Collaborative Filtering**|Junjie Meng et.al.|[2602.21099](http://arxiv.org/abs/2602.21099)|null|null|
 |**2026-02-24**|**Accessibility of doping ranges of semiconductors by terahertz spectroscopy**|Joshua Hennig et.al.|[2602.21094](http://arxiv.org/abs/2602.21094)|null|null|
@@ -70691,10 +70691,10 @@
 |**2026-02-24**|**Cooperative-Competitive Team Play of Real-World Craft Robots**|Rui Zhao et.al.|[2602.21119](http://arxiv.org/abs/2602.21119)|null|null|
 |**2026-02-24**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101](http://arxiv.org/abs/2602.21101)|null|null|
 |**2026-02-24**|**Scaling Vision Transformers: Evaluating DeepSpeed for Image-Centric Workloads**|Huy Trinh et.al.|[2602.21081](http://arxiv.org/abs/2602.21081)|null|null|
-|**2026-02-24**|**Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning**|Zhangjie Xia et.al.|[2602.21072](http://arxiv.org/abs/2602.21072)|null|null|
+|**2026-02-24**|**Localized Dynamics-Aware Domain Adaption for Off-Dynamics Offline Reinforcement Learning**|Zhangjie Xia et.al.|[2602.21072](http://arxiv.org/abs/2602.21072)|**[link](https://github.com/panxulab/LoDADA)**|null|
 |**2026-02-24**|**VAUQ: Vision-Aware Uncertainty Quantification for LVLM Self-Evaluation**|Seongheon Park et.al.|[2602.21054](http://arxiv.org/abs/2602.21054)|null|null|
 |**2026-02-24**|**OCR-Agent: Agentic OCR with Capability and Memory Reflection**|Shimin Wen et.al.|[2602.21053](http://arxiv.org/abs/2602.21053)|**[link](https://github.com/AIGeeksGroup/OCR-Agent)**|null|
-|**2026-02-24**|**OmniOCR: Generalist OCR for Ethnic Minority Languages**|Bonan Liu et.al.|[2602.21042](http://arxiv.org/abs/2602.21042)|null|null|
+|**2026-02-24**|**OmniOCR: Generalist OCR for Ethnic Minority Languages**|Bonan Liu et.al.|[2602.21042](http://arxiv.org/abs/2602.21042)|**[link](https://github.com/AIGeeksGroup/OmniOCR)**|null|
 |**2026-02-24**|**Not Just What's There: Enabling CLIP to Comprehend Negated Visual Descriptions Without Fine-tuning**|Junhao Xiao et.al.|[2602.21035](http://arxiv.org/abs/2602.21035)|null|null|
 |**2026-02-24**|**Surface-based Manipulation Using Tunable Compliant Porous-Elastic Soft Sensing**|Gayatri Indukumar et.al.|[2602.21028](http://arxiv.org/abs/2602.21028)|null|null|
 |**2026-02-24**|**From Perception to Action: An Interactive Benchmark for Vision Reasoning**|Yuhao Wu et.al.|[2602.21015](http://arxiv.org/abs/2602.21015)|null|null|
@@ -78911,7 +78911,7 @@
 |**2026-02-24**|**Geometry- and inertia-limited chaotic growth in classical many-body systems**|Swetamber Das et.al.|[2602.21149](http://arxiv.org/abs/2602.21149)|null|null|
 |**2026-02-24**|**Scaling State-Space Models on Multiple GPUs with Tensor Parallelism**|Anurag Dutt et.al.|[2602.21144](http://arxiv.org/abs/2602.21144)|null|null|
 |**2026-02-24**|**A Benchmark for Deep Information Synthesis**|Debjit Paul et.al.|[2602.21143](http://arxiv.org/abs/2602.21143)|**[link](https://github.com/agentdeepsynthesis/deepsynth-bench)**|null|
-|**2026-02-24**|**Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning**|Sanket Badhe et.al.|[2602.21103](http://arxiv.org/abs/2602.21103)|null|null|
+|**2026-02-24**|**Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning**|Sanket Badhe et.al.|[2602.21103](http://arxiv.org/abs/2602.21103)|**[link](https://github.com/shawonashraf/prompt-level-distillation)**|null|
 |**2026-02-24**|**Turning Semantics into Topology: LLM-Driven Attribute Augmentation for Collaborative Filtering**|Junjie Meng et.al.|[2602.21099](http://arxiv.org/abs/2602.21099)|null|null|
 |**2026-02-24**|**Frontier Space-Time Algorithms Using Only Full Memory**|Petr Chmel et.al.|[2602.21089](http://arxiv.org/abs/2602.21089)|null|null|
 |**2026-02-24**|**A Space-space Trade-off for Directed st-Connectivity**|Roman Edenhofer et.al.|[2602.21088](http://arxiv.org/abs/2602.21088)|null|null|
