@@ -2,15 +2,15 @@
   "last_run": {
     "attempted": 40,
     "cached": 0,
-    "deferred": 768,
-    "elapsed_seconds": 92.609,
-    "finished_at": 1795268638.5556505,
+    "deferred": 773,
+    "elapsed_seconds": 93.26,
+    "finished_at": 1795354705.8120458,
     "found": 3,
     "invalid_rows": 0,
     "status": "max_papers",
-    "updated_rows": 6
+    "updated_rows": 7
   },
-  "next_request_at": 1795268640.649979,
+  "next_request_at": 1795354707.906329,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -7714,6 +7714,246 @@
       "last_attempt": 1795268638.3831785,
       "result": null,
       "retry_after": 1797860638.5499766,
+      "status": "not_found"
+    },
+    "2602.21133": {
+      "last_attempt": 1795354613.4420712,
+      "result": null,
+      "retry_after": 1795355513.7372162,
+      "status": "transient_error"
+    },
+    "2602.21134": {
+      "last_attempt": 1795354615.8373663,
+      "result": null,
+      "retry_after": 1797946616.0418906,
+      "status": "not_found"
+    },
+    "2602.21136": {
+      "last_attempt": 1795354618.1419976,
+      "result": "https://github.com/SALT-NLP/SparkMe",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.21137": {
+      "last_attempt": 1795354620.6888654,
+      "result": null,
+      "retry_after": 1797946620.9206982,
+      "status": "not_found"
+    },
+    "2602.21138": {
+      "last_attempt": 1795354623.0208085,
+      "result": null,
+      "retry_after": 1797946623.2751365,
+      "status": "not_found"
+    },
+    "2602.21140": {
+      "last_attempt": 1795354625.3752458,
+      "result": null,
+      "retry_after": 1797946625.575927,
+      "status": "not_found"
+    },
+    "2602.21142": {
+      "last_attempt": 1795354627.6760263,
+      "result": null,
+      "retry_after": 1797946627.9580672,
+      "status": "not_found"
+    },
+    "2602.21144": {
+      "last_attempt": 1795354630.0582228,
+      "result": null,
+      "retry_after": 1797946630.297194,
+      "status": "not_found"
+    },
+    "2602.21148": {
+      "last_attempt": 1795354632.3972886,
+      "result": null,
+      "retry_after": 1797946632.604274,
+      "status": "not_found"
+    },
+    "2602.21149": {
+      "last_attempt": 1795354634.7043848,
+      "result": null,
+      "retry_after": 1797946634.902774,
+      "status": "not_found"
+    },
+    "2602.21150": {
+      "last_attempt": 1795354637.002885,
+      "result": null,
+      "retry_after": 1797946637.2251413,
+      "status": "not_found"
+    },
+    "2602.21152": {
+      "last_attempt": 1795354639.3252523,
+      "result": null,
+      "retry_after": 1797946639.5582938,
+      "status": "not_found"
+    },
+    "2602.21154": {
+      "last_attempt": 1795354641.6584048,
+      "result": null,
+      "retry_after": 1797946641.8827074,
+      "status": "not_found"
+    },
+    "2602.21160": {
+      "last_attempt": 1795354643.98281,
+      "result": null,
+      "retry_after": 1797946644.2004244,
+      "status": "not_found"
+    },
+    "2602.21161": {
+      "last_attempt": 1795354646.3005173,
+      "result": null,
+      "retry_after": 1797946646.5450263,
+      "status": "not_found"
+    },
+    "2602.21162": {
+      "last_attempt": 1795354648.645135,
+      "result": null,
+      "retry_after": 1797946648.857526,
+      "status": "not_found"
+    },
+    "2602.21165": {
+      "last_attempt": 1795354650.9576428,
+      "result": null,
+      "retry_after": 1797946651.2411063,
+      "status": "not_found"
+    },
+    "2602.21166": {
+      "last_attempt": 1795354653.3412142,
+      "result": null,
+      "retry_after": 1797946653.6213257,
+      "status": "not_found"
+    },
+    "2602.21174": {
+      "last_attempt": 1795354655.721435,
+      "result": null,
+      "retry_after": 1797946655.9782498,
+      "status": "not_found"
+    },
+    "2602.21177": {
+      "last_attempt": 1795354658.0783565,
+      "result": null,
+      "retry_after": 1797946658.291326,
+      "status": "not_found"
+    },
+    "2602.21178": {
+      "last_attempt": 1795354660.391485,
+      "result": null,
+      "retry_after": 1795355560.6890943,
+      "status": "transient_error"
+    },
+    "2602.21179": {
+      "last_attempt": 1795354662.7892165,
+      "result": null,
+      "retry_after": 1795355563.1302834,
+      "status": "transient_error"
+    },
+    "2602.21180": {
+      "last_attempt": 1795354665.2303758,
+      "result": null,
+      "retry_after": 1797946665.4273226,
+      "status": "not_found"
+    },
+    "2602.21185": {
+      "last_attempt": 1795354667.5274293,
+      "result": null,
+      "retry_after": 1795355567.8093233,
+      "status": "transient_error"
+    },
+    "2602.21188": {
+      "last_attempt": 1795354669.9094317,
+      "result": null,
+      "retry_after": 1795355570.224858,
+      "status": "transient_error"
+    },
+    "2602.21189": {
+      "last_attempt": 1795354672.3249655,
+      "result": null,
+      "retry_after": 1797946672.4951663,
+      "status": "not_found"
+    },
+    "2602.21190": {
+      "last_attempt": 1795354674.5952778,
+      "result": null,
+      "retry_after": 1795355574.8578525,
+      "status": "transient_error"
+    },
+    "2602.21193": {
+      "last_attempt": 1795354676.957963,
+      "result": null,
+      "retry_after": 1797946677.253891,
+      "status": "not_found"
+    },
+    "2602.21195": {
+      "last_attempt": 1795354679.3540003,
+      "result": null,
+      "retry_after": 1795355579.6290443,
+      "status": "transient_error"
+    },
+    "2602.21196": {
+      "last_attempt": 1795354681.729171,
+      "result": "https://github.com/ghadiaravi13/Untied-Ulysses",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.21201": {
+      "last_attempt": 1795354684.1606047,
+      "result": null,
+      "retry_after": 1797946684.4755645,
+      "status": "not_found"
+    },
+    "2602.21202": {
+      "last_attempt": 1795354686.5756767,
+      "result": null,
+      "retry_after": 1797946686.9038813,
+      "status": "not_found"
+    },
+    "2602.21205": {
+      "last_attempt": 1795354689.00398,
+      "result": null,
+      "retry_after": 1797946689.1852098,
+      "status": "not_found"
+    },
+    "2602.21404": {
+      "last_attempt": 1795354691.2853484,
+      "result": null,
+      "retry_after": 1795355591.5534887,
+      "status": "transient_error"
+    },
+    "2602.21428": {
+      "last_attempt": 1795354693.6535938,
+      "result": "https://github.com/UNHSAILLab/psf-med",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.21432": {
+      "last_attempt": 1795354696.200456,
+      "result": null,
+      "retry_after": 1797946696.444803,
+      "status": "not_found"
+    },
+    "2602.21447": {
+      "last_attempt": 1795354698.5449216,
+      "result": null,
+      "retry_after": 1797946698.7379396,
+      "status": "not_found"
+    },
+    "2602.21449": {
+      "last_attempt": 1795354700.8380802,
+      "result": null,
+      "retry_after": 1797946701.0315273,
+      "status": "not_found"
+    },
+    "2602.21468": {
+      "last_attempt": 1795354703.1316526,
+      "result": null,
+      "retry_after": 1797946703.3399081,
+      "status": "not_found"
+    },
+    "2602.21477": {
+      "last_attempt": 1795354705.4400084,
+      "result": null,
+      "retry_after": 1797946705.806327,
       "status": "not_found"
     }
   },
