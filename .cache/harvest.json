@@ -1,10 +1,9 @@
 {
   "last_run": {
     "failed_topics": [
-      "LLM (General)",
-      "Evaluation / Benchmarks (Agents)"
+      "LLM (General)"
     ],
-    "finished_at": "2026-11-22T08:06:33.834215+00:00",
+    "finished_at": "2026-11-22T20:21:51.767779+00:00",
     "new_papers": 0,
     "status": "partial",
     "succeeded_topics": [
@@ -15,22 +14,16 @@
       "Multi-Agent / Collaboration",
       "Web / Search / Browsing Agents",
       "GUI / Computer Use Agents",
-      "Multimodal Agents (VLM)"
+      "Multimodal Agents (VLM)",
+      "Evaluation / Benchmarks (Agents)"
     ]
   },
   "last_success_at": "2026-10-20T13:16:49.327991+00:00",
   "topics": {
     "Evaluation / Benchmarks (Agents)": {
-      "covered_through": "2026-11-21",
-      "last_error": "arXiv transient response after 3 attempts: 429",
-      "last_success_at": "2026-11-21T08:19:53.884631+00:00",
-      "papers": 940,
-      "pending": {
-        "end": "2026-11-22",
-        "offset": 0,
-        "query": "(Benchmark OR Evaluation OR Evals OR \"Agent Benchmark\" OR \"Tool Benchmark\" OR WebArena OR MiniWoB OR AgentBench OR SWE-bench OR SWE-Bench)",
-        "start": "2026-11-19"
-      }
+      "covered_through": "2026-11-22",
+      "last_success_at": "2026-11-22T20:21:50.499715+00:00",
+      "papers": 431
     },
     "GUI / Computer Use Agents": {
       "covered_through": "2026-11-22",
@@ -39,7 +32,7 @@
     },
     "LLM (General)": {
       "covered_through": "2026-10-20",
-      "last_error": "arXiv transient response after 3 attempts: 503",
+      "last_error": "arXiv transient response after 3 attempts: 500",
       "last_success_at": "2026-10-20T13:05:49.707503+00:00",
       "papers": 602,
       "pending": {
