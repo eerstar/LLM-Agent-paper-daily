@@ -3,8 +3,8 @@
     "failed_topics": [
       "LLM (General)"
     ],
-    "finished_at": "2026-11-22T20:21:51.767779+00:00",
-    "new_papers": 0,
+    "finished_at": "2026-11-23T09:02:19.129547+00:00",
+    "new_papers": 574,
     "status": "partial",
     "succeeded_topics": [
       "LLM Reasoning & Planning",
@@ -21,14 +21,14 @@
   "last_success_at": "2026-10-20T13:16:49.327991+00:00",
   "topics": {
     "Evaluation / Benchmarks (Agents)": {
-      "covered_through": "2026-11-22",
-      "last_success_at": "2026-11-22T20:21:50.499715+00:00",
-      "papers": 431
+      "covered_through": "2026-11-23",
+      "last_success_at": "2026-11-23T09:02:18.009356+00:00",
+      "papers": 332
     },
     "GUI / Computer Use Agents": {
-      "covered_through": "2026-11-22",
-      "last_success_at": "2026-11-22T08:03:48.278162+00:00",
-      "papers": 26
+      "covered_through": "2026-11-23",
+      "last_success_at": "2026-11-23T09:01:57.874271+00:00",
+      "papers": 30
     },
     "LLM (General)": {
       "covered_through": "2026-10-20",
@@ -43,39 +43,39 @@
       }
     },
     "LLM Agents (Core)": {
-      "covered_through": "2026-11-22",
-      "last_success_at": "2026-11-22T08:01:42.755169+00:00",
-      "papers": 138
+      "covered_through": "2026-11-23",
+      "last_success_at": "2026-11-23T09:01:23.470145+00:00",
+      "papers": 102
     },
     "LLM Reasoning & Planning": {
-      "covered_through": "2026-11-22",
-      "last_success_at": "2026-11-22T08:01:09.106273+00:00",
-      "papers": 232
+      "covered_through": "2026-11-23",
+      "last_success_at": "2026-11-23T09:01:13.556570+00:00",
+      "papers": 199
     },
     "Multi-Agent / Collaboration": {
-      "covered_through": "2026-11-22",
-      "last_success_at": "2026-11-22T08:03:13.775368+00:00",
-      "papers": 42
+      "covered_through": "2026-11-23",
+      "last_success_at": "2026-11-23T09:01:45.585479+00:00",
+      "papers": 43
     },
     "Multimodal Agents (VLM)": {
-      "covered_through": "2026-11-22",
-      "last_success_at": "2026-11-22T08:04:07.871216+00:00",
-      "papers": 188
+      "covered_through": "2026-11-23",
+      "last_success_at": "2026-11-23T09:02:06.628928+00:00",
+      "papers": 156
     },
     "RAG / Memory / Long Context for Agents": {
-      "covered_through": "2026-11-22",
-      "last_success_at": "2026-11-22T08:03:02.261038+00:00",
-      "papers": 147
+      "covered_through": "2026-11-23",
+      "last_success_at": "2026-11-23T09:01:39.492747+00:00",
+      "papers": 93
     },
     "Tool Use & Function Calling": {
-      "covered_through": "2026-11-22",
-      "last_success_at": "2026-11-22T08:02:16.372489+00:00",
-      "papers": 81
+      "covered_through": "2026-11-23",
+      "last_success_at": "2026-11-23T09:01:31.984796+00:00",
+      "papers": 73
     },
     "Web / Search / Browsing Agents": {
-      "covered_through": "2026-11-22",
-      "last_success_at": "2026-11-22T08:03:28.524162+00:00",
-      "papers": 88
+      "covered_through": "2026-11-23",
+      "last_success_at": "2026-11-23T09:01:51.582093+00:00",
+      "papers": 49
     }
   }
 }
