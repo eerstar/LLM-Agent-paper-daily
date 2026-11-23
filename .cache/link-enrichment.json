@@ -2,15 +2,15 @@
   "last_run": {
     "attempted": 40,
     "cached": 0,
-    "deferred": 773,
-    "elapsed_seconds": 93.26,
-    "finished_at": 1795354705.8120458,
-    "found": 3,
+    "deferred": 777,
+    "elapsed_seconds": 98.006,
+    "finished_at": 1795451456.2655797,
+    "found": 2,
     "invalid_rows": 0,
     "status": "max_papers",
-    "updated_rows": 7
+    "updated_rows": 3
   },
-  "next_request_at": 1795354707.906329,
+  "next_request_at": 1795451458.3595798,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -7954,6 +7954,246 @@
       "last_attempt": 1795354705.4400084,
       "result": null,
       "retry_after": 1797946705.806327,
+      "status": "not_found"
+    },
+    "2602.21497": {
+      "last_attempt": 1795451359.2397897,
+      "result": null,
+      "retry_after": 1798043359.5946505,
+      "status": "not_found"
+    },
+    "2602.21500": {
+      "last_attempt": 1795451361.6947827,
+      "result": null,
+      "retry_after": 1798043362.164073,
+      "status": "not_found"
+    },
+    "2602.21514": {
+      "last_attempt": 1795451364.2642481,
+      "result": null,
+      "retry_after": 1798043364.5236828,
+      "status": "not_found"
+    },
+    "2602.21515": {
+      "last_attempt": 1795451366.6237915,
+      "result": null,
+      "retry_after": 1795452266.989563,
+      "status": "transient_error"
+    },
+    "2602.21517": {
+      "last_attempt": 1795451369.089684,
+      "result": null,
+      "retry_after": 1798043369.3262644,
+      "status": "not_found"
+    },
+    "2602.21533": {
+      "last_attempt": 1795451371.4263718,
+      "result": null,
+      "retry_after": 1798043371.7865753,
+      "status": "not_found"
+    },
+    "2602.21534": {
+      "last_attempt": 1795451373.8866866,
+      "result": "https://github.com/WillDreamer/ARL-Arena",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.21542": {
+      "last_attempt": 1795451376.3008175,
+      "result": null,
+      "retry_after": 1798043376.669019,
+      "status": "not_found"
+    },
+    "2602.21548": {
+      "last_attempt": 1795451378.7691355,
+      "result": null,
+      "retry_after": 1798043379.4806602,
+      "status": "not_found"
+    },
+    "2602.21556": {
+      "last_attempt": 1795451381.5807705,
+      "result": null,
+      "retry_after": 1798043381.8813984,
+      "status": "not_found"
+    },
+    "2602.21569": {
+      "last_attempt": 1795451383.9815204,
+      "result": null,
+      "retry_after": 1798043384.3133972,
+      "status": "not_found"
+    },
+    "2602.21570": {
+      "last_attempt": 1795451386.4134893,
+      "result": null,
+      "retry_after": 1798043386.726469,
+      "status": "not_found"
+    },
+    "2602.21585": {
+      "last_attempt": 1795451388.8265803,
+      "result": null,
+      "retry_after": 1798043389.0989246,
+      "status": "not_found"
+    },
+    "2602.21588": {
+      "last_attempt": 1795451391.1990411,
+      "result": null,
+      "retry_after": 1795452291.689506,
+      "status": "transient_error"
+    },
+    "2602.21600": {
+      "last_attempt": 1795451393.7896397,
+      "result": null,
+      "retry_after": 1798043394.1363084,
+      "status": "not_found"
+    },
+    "2602.21604": {
+      "last_attempt": 1795451396.2364233,
+      "result": "https://github.com/iDC-NEU/YiGraph",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.21611": {
+      "last_attempt": 1795451398.767826,
+      "result": null,
+      "retry_after": 1798043399.004864,
+      "status": "not_found"
+    },
+    "2602.21614": {
+      "last_attempt": 1795451401.1049638,
+      "result": null,
+      "retry_after": 1798043401.3288345,
+      "status": "not_found"
+    },
+    "2602.21622": {
+      "last_attempt": 1795451403.4289267,
+      "result": null,
+      "retry_after": 1798043403.7743952,
+      "status": "not_found"
+    },
+    "2602.21633": {
+      "last_attempt": 1795451405.8744938,
+      "result": null,
+      "retry_after": 1795452306.3458676,
+      "status": "transient_error"
+    },
+    "2602.21634": {
+      "last_attempt": 1795451408.445978,
+      "result": null,
+      "retry_after": 1798043408.7928524,
+      "status": "not_found"
+    },
+    "2602.21653": {
+      "last_attempt": 1795451410.892997,
+      "result": null,
+      "retry_after": 1798043411.2476034,
+      "status": "not_found"
+    },
+    "2602.21657": {
+      "last_attempt": 1795451413.3477325,
+      "result": null,
+      "retry_after": 1798043413.6311588,
+      "status": "not_found"
+    },
+    "2602.21664": {
+      "last_attempt": 1795451415.7312799,
+      "result": null,
+      "retry_after": 1795452316.037687,
+      "status": "transient_error"
+    },
+    "2602.21670": {
+      "last_attempt": 1795451418.1378014,
+      "result": null,
+      "retry_after": 1798043418.5228405,
+      "status": "not_found"
+    },
+    "2602.21680": {
+      "last_attempt": 1795451420.6229973,
+      "result": null,
+      "retry_after": 1795452320.977558,
+      "status": "transient_error"
+    },
+    "2602.21681": {
+      "last_attempt": 1795451423.0776749,
+      "result": null,
+      "retry_after": 1798043423.4018567,
+      "status": "not_found"
+    },
+    "2602.21704": {
+      "last_attempt": 1795451425.5019891,
+      "result": null,
+      "retry_after": 1798043425.8753557,
+      "status": "not_found"
+    },
+    "2602.21714": {
+      "last_attempt": 1795451427.9754689,
+      "result": null,
+      "retry_after": 1798043428.2415552,
+      "status": "not_found"
+    },
+    "2602.21715": {
+      "last_attempt": 1795451430.3417058,
+      "result": null,
+      "retry_after": 1798043430.6118753,
+      "status": "not_found"
+    },
+    "2602.21717": {
+      "last_attempt": 1795451432.7119765,
+      "result": null,
+      "retry_after": 1798043433.254112,
+      "status": "not_found"
+    },
+    "2602.21732": {
+      "last_attempt": 1795451435.354245,
+      "result": null,
+      "retry_after": 1798043435.5936027,
+      "status": "not_found"
+    },
+    "2602.21735": {
+      "last_attempt": 1795451437.6937144,
+      "result": null,
+      "retry_after": 1795452338.7496376,
+      "status": "transient_error"
+    },
+    "2602.21738": {
+      "last_attempt": 1795451440.8498056,
+      "result": null,
+      "retry_after": 1798043441.1356678,
+      "status": "not_found"
+    },
+    "2602.21739": {
+      "last_attempt": 1795451443.2357993,
+      "result": null,
+      "retry_after": 1798043443.4964106,
+      "status": "not_found"
+    },
+    "2602.21756": {
+      "last_attempt": 1795451445.5965438,
+      "result": null,
+      "retry_after": 1798043445.9281824,
+      "status": "not_found"
+    },
+    "2602.21768": {
+      "last_attempt": 1795451448.0283077,
+      "result": null,
+      "retry_after": 1798043448.327952,
+      "status": "not_found"
+    },
+    "2602.21780": {
+      "last_attempt": 1795451450.4280682,
+      "result": null,
+      "retry_after": 1798043450.655346,
+      "status": "not_found"
+    },
+    "2602.21784": {
+      "last_attempt": 1795451452.7554686,
+      "result": null,
+      "retry_after": 1795452353.7401571,
+      "status": "transient_error"
+    },
+    "2602.21788": {
+      "last_attempt": 1795451455.8402946,
+      "result": null,
+      "retry_after": 1798043456.2595778,
       "status": "not_found"
     }
   },
