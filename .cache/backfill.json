@@ -2,7 +2,7 @@
   "complete": false,
   "day": "2026-06-02",
   "end_date": "2026-10-20",
-  "last_error": "arXiv transient response after 3 attempts: 500",
+  "last_error": "arXiv transient response after 3 attempts: 429",
   "offset": 0,
   "published": false,
   "queries": {
@@ -31,5 +31,5 @@
     "Multimodal Agents (VLM)",
     "Evaluation / Benchmarks (Agents)"
   ],
-  "updated_at": "2026-11-22T15:44:30.554358+00:00"
+  "updated_at": "2026-11-23T00:32:49.346150+00:00"
 }
