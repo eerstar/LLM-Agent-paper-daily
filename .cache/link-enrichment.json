@@ -2,15 +2,15 @@
   "last_run": {
     "attempted": 40,
     "cached": 0,
-    "deferred": 777,
-    "elapsed_seconds": 98.006,
-    "finished_at": 1795451456.2655797,
+    "deferred": 781,
+    "elapsed_seconds": 97.861,
+    "finished_at": 1795537602.8137262,
     "found": 2,
     "invalid_rows": 0,
     "status": "max_papers",
-    "updated_rows": 3
+    "updated_rows": 4
   },
-  "next_request_at": 1795451458.3595798,
+  "next_request_at": 1795537604.9040692,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -8194,6 +8194,246 @@
       "last_attempt": 1795451455.8402946,
       "result": null,
       "retry_after": 1798043456.2595778,
+      "status": "not_found"
+    },
+    "2602.21794": {
+      "last_attempt": 1795537506.5145133,
+      "result": null,
+      "retry_after": 1798129506.8647432,
+      "status": "not_found"
+    },
+    "2602.21797": {
+      "last_attempt": 1795537508.9648652,
+      "result": null,
+      "retry_after": 1795538409.5018647,
+      "status": "transient_error"
+    },
+    "2602.21798": {
+      "last_attempt": 1795537511.6020021,
+      "result": null,
+      "retry_after": 1798129512.4531007,
+      "status": "not_found"
+    },
+    "2602.21800": {
+      "last_attempt": 1795537514.5532303,
+      "result": null,
+      "retry_after": 1798129514.9971414,
+      "status": "not_found"
+    },
+    "2602.21808": {
+      "last_attempt": 1795537517.097237,
+      "result": null,
+      "retry_after": 1795538417.4848933,
+      "status": "transient_error"
+    },
+    "2602.21812": {
+      "last_attempt": 1795537519.5850418,
+      "result": null,
+      "retry_after": 1798129519.9888575,
+      "status": "not_found"
+    },
+    "2602.21814": {
+      "last_attempt": 1795537522.089034,
+      "result": null,
+      "retry_after": 1798129522.4428933,
+      "status": "not_found"
+    },
+    "2602.21822": {
+      "last_attempt": 1795537524.5430276,
+      "result": null,
+      "retry_after": 1795538424.900928,
+      "status": "transient_error"
+    },
+    "2602.21829": {
+      "last_attempt": 1795537527.0010278,
+      "result": null,
+      "retry_after": 1798129527.2573197,
+      "status": "not_found"
+    },
+    "2602.21831": {
+      "last_attempt": 1795537529.3574808,
+      "result": null,
+      "retry_after": 1795538429.661977,
+      "status": "transient_error"
+    },
+    "2602.21835": {
+      "last_attempt": 1795537531.7621431,
+      "result": "https://github.com/JianhuiWei7/UniVBench",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.21837": {
+      "last_attempt": 1795537534.2743645,
+      "result": null,
+      "retry_after": 1798129534.5972962,
+      "status": "not_found"
+    },
+    "2602.21838": {
+      "last_attempt": 1795537536.6974669,
+      "result": null,
+      "retry_after": 1798129536.9525332,
+      "status": "not_found"
+    },
+    "2602.21854": {
+      "last_attempt": 1795537539.0526884,
+      "result": null,
+      "retry_after": 1798129539.2655134,
+      "status": "not_found"
+    },
+    "2602.21855": {
+      "last_attempt": 1795537541.36564,
+      "result": null,
+      "retry_after": 1798129541.6387272,
+      "status": "not_found"
+    },
+    "2602.21858": {
+      "last_attempt": 1795537543.7388744,
+      "result": "https://github.com/xiaomi-research/proactive-mobile",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.21862": {
+      "last_attempt": 1795537546.2303388,
+      "result": null,
+      "retry_after": 1798129546.441497,
+      "status": "not_found"
+    },
+    "2602.21889": {
+      "last_attempt": 1795537548.541646,
+      "result": null,
+      "retry_after": 1798129548.7855392,
+      "status": "not_found"
+    },
+    "2602.21892": {
+      "last_attempt": 1795537550.8856876,
+      "result": null,
+      "retry_after": 1798129551.1550975,
+      "status": "not_found"
+    },
+    "2602.21898": {
+      "last_attempt": 1795537553.2552369,
+      "result": null,
+      "retry_after": 1798129553.5242658,
+      "status": "not_found"
+    },
+    "2602.21899": {
+      "last_attempt": 1795537555.624433,
+      "result": null,
+      "retry_after": 1798129555.879671,
+      "status": "not_found"
+    },
+    "2602.21909": {
+      "last_attempt": 1795537557.9798422,
+      "result": null,
+      "retry_after": 1798129558.1980364,
+      "status": "not_found"
+    },
+    "2602.21923": {
+      "last_attempt": 1795537560.2981622,
+      "result": null,
+      "retry_after": 1798129560.5910413,
+      "status": "not_found"
+    },
+    "2602.21926": {
+      "last_attempt": 1795537562.6912096,
+      "result": null,
+      "retry_after": 1798129563.0053964,
+      "status": "not_found"
+    },
+    "2602.21929": {
+      "last_attempt": 1795537565.1055493,
+      "result": null,
+      "retry_after": 1795538465.5088916,
+      "status": "transient_error"
+    },
+    "2602.21935": {
+      "last_attempt": 1795537567.609032,
+      "result": null,
+      "retry_after": 1795538467.9750683,
+      "status": "transient_error"
+    },
+    "2602.21938": {
+      "last_attempt": 1795537570.075225,
+      "result": null,
+      "retry_after": 1798129570.3691962,
+      "status": "not_found"
+    },
+    "2602.21943": {
+      "last_attempt": 1795537572.469358,
+      "result": null,
+      "retry_after": 1798129572.7348087,
+      "status": "not_found"
+    },
+    "2602.21954": {
+      "last_attempt": 1795537574.8349628,
+      "result": null,
+      "retry_after": 1798129575.1174448,
+      "status": "not_found"
+    },
+    "2602.21955": {
+      "last_attempt": 1795537577.2175703,
+      "result": null,
+      "retry_after": 1798129578.2782822,
+      "status": "not_found"
+    },
+    "2602.21957": {
+      "last_attempt": 1795537580.3783724,
+      "result": null,
+      "retry_after": 1798129580.7696826,
+      "status": "not_found"
+    },
+    "2602.21958": {
+      "last_attempt": 1795537582.8698046,
+      "result": null,
+      "retry_after": 1798129583.1302404,
+      "status": "not_found"
+    },
+    "2602.21963": {
+      "last_attempt": 1795537585.2303834,
+      "result": null,
+      "retry_after": 1795538485.7697587,
+      "status": "transient_error"
+    },
+    "2602.21965": {
+      "last_attempt": 1795537587.86989,
+      "result": null,
+      "retry_after": 1798129588.132019,
+      "status": "not_found"
+    },
+    "2602.21966": {
+      "last_attempt": 1795537590.2321591,
+      "result": null,
+      "retry_after": 1798129590.583435,
+      "status": "not_found"
+    },
+    "2602.21973": {
+      "last_attempt": 1795537592.6835968,
+      "result": null,
+      "retry_after": 1798129592.9704452,
+      "status": "not_found"
+    },
+    "2602.21974": {
+      "last_attempt": 1795537595.0705988,
+      "result": null,
+      "retry_after": 1795538495.5152335,
+      "status": "transient_error"
+    },
+    "2602.21986": {
+      "last_attempt": 1795537597.6153808,
+      "result": null,
+      "retry_after": 1795538497.9779058,
+      "status": "transient_error"
+    },
+    "2602.21993": {
+      "last_attempt": 1795537600.0780454,
+      "result": null,
+      "retry_after": 1795538500.438104,
+      "status": "transient_error"
+    },
+    "2602.21995": {
+      "last_attempt": 1795537602.5382442,
+      "result": null,
+      "retry_after": 1798129602.8040671,
       "status": "not_found"
     }
   },
