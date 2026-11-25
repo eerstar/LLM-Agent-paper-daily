@@ -1,16 +1,16 @@
 {
   "last_run": {
-    "attempted": 40,
+    "attempted": 25,
     "cached": 0,
     "deferred": 781,
-    "elapsed_seconds": 97.861,
-    "finished_at": 1795537602.8137262,
+    "elapsed_seconds": 65.988,
+    "finished_at": 1795622691.142583,
     "found": 2,
     "invalid_rows": 0,
-    "status": "max_papers",
+    "status": "rate_limited",
     "updated_rows": 4
   },
-  "next_request_at": 1795537604.9040692,
+  "next_request_at": 1795622693.2326484,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -8435,8 +8435,158 @@
       "result": null,
       "retry_after": 1798129602.8040671,
       "status": "not_found"
+    },
+    "2602.21997": {
+      "last_attempt": 1795622626.5865774,
+      "result": null,
+      "retry_after": 1798214626.960658,
+      "status": "not_found"
+    },
+    "2602.22001": {
+      "last_attempt": 1795622629.060804,
+      "result": null,
+      "retry_after": 1798214629.887848,
+      "status": "not_found"
+    },
+    "2602.22017": {
+      "last_attempt": 1795622631.98794,
+      "result": null,
+      "retry_after": 1798214632.7237191,
+      "status": "not_found"
+    },
+    "2602.22018": {
+      "last_attempt": 1795622634.8238451,
+      "result": null,
+      "retry_after": 1798214635.5542357,
+      "status": "not_found"
+    },
+    "2602.22020": {
+      "last_attempt": 1795622637.6544223,
+      "result": null,
+      "retry_after": 1798214637.9527805,
+      "status": "not_found"
+    },
+    "2602.22026": {
+      "last_attempt": 1795622640.0529842,
+      "result": null,
+      "retry_after": 1798214640.9815006,
+      "status": "not_found"
+    },
+    "2602.22030": {
+      "last_attempt": 1795622643.0816512,
+      "result": null,
+      "retry_after": 1798214643.4625876,
+      "status": "not_found"
+    },
+    "2602.22033": {
+      "last_attempt": 1795622645.5628483,
+      "result": "https://github.com/yan-qiu-yu/RT-RMOT",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.22035": {
+      "last_attempt": 1795622647.9612703,
+      "result": null,
+      "retry_after": 1798214648.32078,
+      "status": "not_found"
+    },
+    "2602.22036": {
+      "last_attempt": 1795622650.4208832,
+      "result": null,
+      "retry_after": 1798214651.3443282,
+      "status": "not_found"
+    },
+    "2602.22037": {
+      "last_attempt": 1795622653.4445398,
+      "result": null,
+      "retry_after": 1798214653.7919426,
+      "status": "not_found"
+    },
+    "2602.22039": {
+      "last_attempt": 1795622655.892085,
+      "result": "https://github.com/jerryyang1231/TG-ASR",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.22041": {
+      "last_attempt": 1795622658.4036896,
+      "result": null,
+      "retry_after": 1798214659.467018,
+      "status": "not_found"
+    },
+    "2602.22043": {
+      "last_attempt": 1795622661.5671856,
+      "result": null,
+      "retry_after": 1798214661.9048538,
+      "status": "not_found"
+    },
+    "2602.22045": {
+      "last_attempt": 1795622664.0049515,
+      "result": null,
+      "retry_after": 1798214664.421892,
+      "status": "not_found"
+    },
+    "2602.22049": {
+      "last_attempt": 1795622666.5220165,
+      "result": null,
+      "retry_after": 1798214667.2270937,
+      "status": "not_found"
+    },
+    "2602.22050": {
+      "last_attempt": 1795622669.3272574,
+      "result": null,
+      "retry_after": 1798214670.3632085,
+      "status": "not_found"
+    },
+    "2602.22051": {
+      "last_attempt": 1795622672.4633217,
+      "result": null,
+      "retry_after": 1798214673.002491,
+      "status": "not_found"
+    },
+    "2602.22052": {
+      "last_attempt": 1795622675.1025822,
+      "result": null,
+      "retry_after": 1798214675.6430922,
+      "status": "not_found"
+    },
+    "2602.22055": {
+      "last_attempt": 1795622677.7431972,
+      "result": null,
+      "retry_after": 1798214678.306517,
+      "status": "not_found"
+    },
+    "2602.22056": {
+      "last_attempt": 1795622680.406694,
+      "result": null,
+      "retry_after": 1798214680.815668,
+      "status": "not_found"
+    },
+    "2602.22063": {
+      "last_attempt": 1795622682.9158137,
+      "result": null,
+      "retry_after": 1798214683.3012795,
+      "status": "not_found"
+    },
+    "2602.22064": {
+      "last_attempt": 1795622685.4013968,
+      "result": null,
+      "retry_after": 1798214686.2537467,
+      "status": "not_found"
+    },
+    "2602.22066": {
+      "last_attempt": 1795622688.353842,
+      "result": null,
+      "retry_after": 1798214688.7525284,
+      "status": "not_found"
+    },
+    "2602.22067": {
+      "last_attempt": 1795622690.8526409,
+      "result": null,
+      "retry_after": 1798214691.1326466,
+      "status": "not_found"
     }
   },
-  "retry_after": 1793274394.2966185,
+  "retry_after": 1795622751.1325839,
   "version": 1
 }
