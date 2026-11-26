@@ -1,36 +1,29 @@
 {
   "last_run": {
     "failed_topics": [
-      "LLM (General)",
-      "LLM Agents (Core)",
-      "Evaluation / Benchmarks (Agents)"
+      "LLM (General)"
     ],
-    "finished_at": "2026-11-26T09:35:57.307365+00:00",
-    "new_papers": 852,
+    "finished_at": "2026-11-26T22:22:06.812535+00:00",
+    "new_papers": 67,
     "status": "partial",
     "succeeded_topics": [
       "LLM Reasoning & Planning",
+      "LLM Agents (Core)",
       "Tool Use & Function Calling",
       "RAG / Memory / Long Context for Agents",
       "Multi-Agent / Collaboration",
       "Web / Search / Browsing Agents",
       "GUI / Computer Use Agents",
-      "Multimodal Agents (VLM)"
+      "Multimodal Agents (VLM)",
+      "Evaluation / Benchmarks (Agents)"
     ]
   },
   "last_success_at": "2026-10-20T13:16:49.327991+00:00",
   "topics": {
     "Evaluation / Benchmarks (Agents)": {
-      "covered_through": "2026-11-25",
-      "last_error": "Evaluation / Benchmarks (Agents): per-topic cap reached; next run resumes saved offset",
-      "last_success_at": "2026-11-25T09:54:36.186004+00:00",
-      "papers": 1272,
-      "pending": {
-        "end": "2026-11-26",
-        "offset": 1500,
-        "query": "(Benchmark OR Evaluation OR Evals OR \"Agent Benchmark\" OR \"Tool Benchmark\" OR WebArena OR MiniWoB OR AgentBench OR SWE-bench OR SWE-Bench)",
-        "start": "2026-11-23"
-      }
+      "covered_through": "2026-11-26",
+      "last_success_at": "2026-11-26T22:22:05.078264+00:00",
+      "papers": 119
     },
     "GUI / Computer Use Agents": {
       "covered_through": "2026-11-26",
@@ -50,16 +43,9 @@
       }
     },
     "LLM Agents (Core)": {
-      "covered_through": "2026-11-25",
-      "last_error": "arXiv transient response after 3 attempts: 500",
-      "last_success_at": "2026-11-25T09:52:56.832228+00:00",
-      "papers": 425,
-      "pending": {
-        "end": "2026-11-26",
-        "offset": 0,
-        "query": "(\"LLM Agent\" OR LLM-Agent OR \"Language Agent\" OR \"Language Agents\" OR Agentic OR Agent OR \"Agent Framework\" OR \"Agent System\" OR \"Agent Systems\" OR \"Autonomous Agent\" OR \"Autonomous Agents\")",
-        "start": "2026-11-23"
-      }
+      "covered_through": "2026-11-26",
+      "last_success_at": "2026-11-26T22:21:58.357904+00:00",
+      "papers": 517
     },
     "LLM Reasoning & Planning": {
       "covered_through": "2026-11-26",
