@@ -1,16 +1,16 @@
 {
   "last_run": {
-    "attempted": 25,
+    "attempted": 40,
     "cached": 0,
-    "deferred": 781,
-    "elapsed_seconds": 65.988,
-    "finished_at": 1795622691.142583,
-    "found": 2,
+    "deferred": 790,
+    "elapsed_seconds": 99.043,
+    "finished_at": 1795708119.661547,
+    "found": 5,
     "invalid_rows": 0,
-    "status": "rate_limited",
-    "updated_rows": 4
+    "status": "max_papers",
+    "updated_rows": 10
   },
-  "next_request_at": 1795622693.2326484,
+  "next_request_at": 1795708121.7547402,
   "papers": {
     "2602.01257": {
       "last_attempt": 1792500427.413485,
@@ -8584,6 +8584,246 @@
       "last_attempt": 1795622690.8526409,
       "result": null,
       "retry_after": 1798214691.1326466,
+      "status": "not_found"
+    },
+    "2602.22070": {
+      "last_attempt": 1795708021.6749845,
+      "result": null,
+      "retry_after": 1798300021.9989576,
+      "status": "not_found"
+    },
+    "2602.22071": {
+      "last_attempt": 1795708024.0990586,
+      "result": null,
+      "retry_after": 1798300024.302101,
+      "status": "not_found"
+    },
+    "2602.22072": {
+      "last_attempt": 1795708026.4022233,
+      "result": null,
+      "retry_after": 1798300026.7787578,
+      "status": "not_found"
+    },
+    "2602.22076": {
+      "last_attempt": 1795708028.8789268,
+      "result": null,
+      "retry_after": 1798300029.1423717,
+      "status": "not_found"
+    },
+    "2602.22077": {
+      "last_attempt": 1795708031.2425365,
+      "result": null,
+      "retry_after": 1798300031.6471536,
+      "status": "not_found"
+    },
+    "2602.22082": {
+      "last_attempt": 1795708033.7473469,
+      "result": null,
+      "retry_after": 1798300034.1507192,
+      "status": "not_found"
+    },
+    "2602.22083": {
+      "last_attempt": 1795708036.250846,
+      "result": null,
+      "retry_after": 1798300036.6448934,
+      "status": "not_found"
+    },
+    "2602.22085": {
+      "last_attempt": 1795708038.745016,
+      "result": null,
+      "retry_after": 1798300039.0988712,
+      "status": "not_found"
+    },
+    "2602.22086": {
+      "last_attempt": 1795708041.1989803,
+      "result": null,
+      "retry_after": 1798300041.8004313,
+      "status": "not_found"
+    },
+    "2602.22088": {
+      "last_attempt": 1795708043.9005518,
+      "result": null,
+      "retry_after": 1798300044.6991367,
+      "status": "not_found"
+    },
+    "2602.22091": {
+      "last_attempt": 1795708046.79924,
+      "result": "https://github.com/peasant98/LFG",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.22092": {
+      "last_attempt": 1795708049.4767816,
+      "result": null,
+      "retry_after": 1798300049.921106,
+      "status": "not_found"
+    },
+    "2602.22093": {
+      "last_attempt": 1795708052.0212028,
+      "result": null,
+      "retry_after": 1798300052.2624426,
+      "status": "not_found"
+    },
+    "2602.22094": {
+      "last_attempt": 1795708054.362601,
+      "result": null,
+      "retry_after": 1798300054.601096,
+      "status": "not_found"
+    },
+    "2602.22095": {
+      "last_attempt": 1795708056.7012677,
+      "result": null,
+      "retry_after": 1798300057.0372844,
+      "status": "not_found"
+    },
+    "2602.22096": {
+      "last_attempt": 1795708059.137447,
+      "result": "https://github.com/IRMVLab/WeatherCity",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.22098": {
+      "last_attempt": 1795708061.7148488,
+      "result": null,
+      "retry_after": 1798300062.043221,
+      "status": "not_found"
+    },
+    "2602.22099": {
+      "last_attempt": 1795708064.1433327,
+      "result": null,
+      "retry_after": 1798300064.4476175,
+      "status": "not_found"
+    },
+    "2602.22100": {
+      "last_attempt": 1795708066.5477118,
+      "result": null,
+      "retry_after": 1798300066.8921385,
+      "status": "not_found"
+    },
+    "2602.22103": {
+      "last_attempt": 1795708068.9922338,
+      "result": null,
+      "retry_after": 1798300069.2092533,
+      "status": "not_found"
+    },
+    "2602.22105": {
+      "last_attempt": 1795708071.3093932,
+      "result": null,
+      "retry_after": 1798300071.565402,
+      "status": "not_found"
+    },
+    "2602.22107": {
+      "last_attempt": 1795708073.6656163,
+      "result": null,
+      "retry_after": 1798300073.850294,
+      "status": "not_found"
+    },
+    "2602.22112": {
+      "last_attempt": 1795708075.9504142,
+      "result": null,
+      "retry_after": 1798300076.2235053,
+      "status": "not_found"
+    },
+    "2602.22113": {
+      "last_attempt": 1795708078.3236334,
+      "result": null,
+      "retry_after": 1798300079.636227,
+      "status": "not_found"
+    },
+    "2602.22117": {
+      "last_attempt": 1795708081.7363622,
+      "result": null,
+      "retry_after": 1798300082.0248141,
+      "status": "not_found"
+    },
+    "2602.22118": {
+      "last_attempt": 1795708084.1249664,
+      "result": null,
+      "retry_after": 1798300084.4000509,
+      "status": "not_found"
+    },
+    "2602.22119": {
+      "last_attempt": 1795708086.500166,
+      "result": null,
+      "retry_after": 1798300087.0500867,
+      "status": "not_found"
+    },
+    "2602.22121": {
+      "last_attempt": 1795708089.1502137,
+      "result": null,
+      "retry_after": 1798300089.4636576,
+      "status": "not_found"
+    },
+    "2602.22122": {
+      "last_attempt": 1795708091.5638015,
+      "result": null,
+      "retry_after": 1798300092.8744087,
+      "status": "not_found"
+    },
+    "2602.22124": {
+      "last_attempt": 1795708094.9745271,
+      "result": null,
+      "retry_after": 1798300095.2676086,
+      "status": "not_found"
+    },
+    "2602.22125": {
+      "last_attempt": 1795708097.3677611,
+      "result": "https://github.com/AI4Bharat/IndicIFEval",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.22132": {
+      "last_attempt": 1795708100.0002756,
+      "result": null,
+      "retry_after": 1798300100.3310802,
+      "status": "not_found"
+    },
+    "2602.22134": {
+      "last_attempt": 1795708102.4312024,
+      "result": null,
+      "retry_after": 1798300102.6750352,
+      "status": "not_found"
+    },
+    "2602.22135": {
+      "last_attempt": 1795708104.7751498,
+      "result": null,
+      "retry_after": 1798300105.0490909,
+      "status": "not_found"
+    },
+    "2602.22136": {
+      "last_attempt": 1795708107.1492286,
+      "result": null,
+      "retry_after": 1798300107.3871226,
+      "status": "not_found"
+    },
+    "2602.22137": {
+      "last_attempt": 1795708109.4873369,
+      "result": null,
+      "retry_after": 1798300109.7147348,
+      "status": "not_found"
+    },
+    "2602.22143": {
+      "last_attempt": 1795708111.814855,
+      "result": "https://github.com/Arturia-Pendragon-Iris/MedTri",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.22144": {
+      "last_attempt": 1795708114.3862994,
+      "result": "https://github.com/lingfengren/NoLan",
+      "retry_after": 0,
+      "status": "found"
+    },
+    "2602.22145": {
+      "last_attempt": 1795708116.9643242,
+      "result": null,
+      "retry_after": 1798300117.3486123,
+      "status": "not_found"
+    },
+    "2602.22146": {
+      "last_attempt": 1795708119.448748,
+      "result": null,
+      "retry_after": 1798300119.6547377,
       "status": "not_found"
     }
   },
