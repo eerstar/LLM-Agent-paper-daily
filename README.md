@@ -26575,7 +26575,7 @@
 |**2026-02-25**|**Interface Framework for Human-AI Collaboration within Intelligent User Interface Ecosystems**|Shruthi Andru et.al.|[2602.22343](http://arxiv.org/abs/2602.22343)|null|null|
 |**2026-02-25**|**A 1/R Law for Kurtosis Contrast in Balanced Mixtures**|Yuda Bi et.al.|[2602.22334](http://arxiv.org/abs/2602.22334)|null|null|
 |**2026-02-25**|**What Topological and Geometric Structure Do Biological Foundation Models Learn? Evidence from 141 Hypotheses**|Ihor Kendiukhov et.al.|[2602.22289](http://arxiv.org/abs/2602.22289)|null|null|
-|**2026-02-25**|**AutoQRA: Joint Optimization of Mixed-Precision Quantization and Low-rank Adapters for Efficient LLM Fine-Tuning**|Changhai Zhou et.al.|[2602.22268](http://arxiv.org/abs/2602.22268)|null|null|
+|**2026-02-25**|**AutoQRA: Joint Optimization of Mixed-Precision Quantization and Low-rank Adapters for Efficient LLM Fine-Tuning**|Changhai Zhou et.al.|[2602.22268](http://arxiv.org/abs/2602.22268)|**[link](https://github.com/harrysyz99/autoqra)**|null|
 |**2026-02-24**|**A Lightweight Defense Mechanism against Next Generation of Phishing Emails using Distilled Attention-Augmented BiLSTM**|Morteza Eskandarian et.al.|[2602.22250](http://arxiv.org/abs/2602.22250)|null|null|
 |**2026-02-24**|**Multi-Dimensional Spectral Geometry of Biological Knowledge in Single-Cell Transformer Representations**|Ihor Kendiukhov et.al.|[2602.22247](http://arxiv.org/abs/2602.22247)|null|null|
 |**2026-02-25**|**Recovering 3D Magnetic Turbulence from Single-Frequency Faraday Screens**|Aliaksandr Melnichenka et.al.|[2602.22204](http://arxiv.org/abs/2602.22204)|null|null|
